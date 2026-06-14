@@ -597,7 +597,7 @@ async function fetchLiveMarketData() {
       indices: results.spx?.freshness || baseData.freshness.indices,
       commodities: results.wti?.freshness || baseData.freshness.commodities,
       bonds: results.tnx?.freshness || baseData.freshness.bonds,
-      news: newsItems.length ? 'live rss' : 'sample',
+      news: newsItems.length ? 'live rss' : baseData.freshness.news,
     },
     signals: [
       {
@@ -699,7 +699,11 @@ async function loadData() {
   if (!SAMPLE_DATA) {
     throw new Error('Missing embedded sample data');
   }
-  return fetchLiveMarketData();
+  try {
+    return await fetchLiveMarketData();
+  } catch {
+    return fallbackData();
+  }
 }
 
 async function refresh() {
