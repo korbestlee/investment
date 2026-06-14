@@ -1,0 +1,332 @@
+{
+  "date": "2026-06-14",
+  "collectedAt": "2026-06-14T13:47:15Z",
+  "source": {
+    "provider": "Yahoo Finance",
+    "mode": "live snapshot",
+    "note": "Generated from live Yahoo Finance data for GitHub Pages."
+  },
+  "freshness": {
+    "fx": "intraday chart",
+    "indices": "intraday chart",
+    "commodities": "intraday chart",
+    "bonds": "intraday chart",
+    "news": "live rss"
+  },
+  "signals": [
+    {
+      "label": "시장 상태",
+      "value": "Neutral",
+      "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
+    },
+    {
+      "label": "신뢰도",
+      "value": "높음",
+      "sub": "실시간 차트 스냅샷 기반"
+    },
+    {
+      "label": "핵심 드라이버",
+      "value": "금리 + 달러",
+      "sub": "미국 금리와 달러 강세가 핵심 축입니다."
+    }
+  ],
+  "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
+  "issues": [
+    {
+      "title": "No Iran Deal Yet; Five Stocks In Buy",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
+      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures%3A-no-iran.html?.tsrc=rss"
+    },
+    {
+      "title": "IonQ Stock Ended This Week in the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "IonQ bounced back from being down double digits and ended the week in positive territory.",
+      "link": "https://www.fool.com/investing/2026/06/14/why-ionq-stock-ended-this-week-in-the-green-despit/?.tsrc=rss"
+    },
+    {
+      "title": "VGLT vs. TLT",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vglt-vs-tlt-which-treasury-bond-etf-is-the-better-buy/?.tsrc=rss"
+    },
+    {
+      "title": "Dave Ramsey says most millionaires",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000321.html?.tsrc=rss"
+    }
+  ],
+  "newsItems": [
+    {
+      "title": "No Iran Deal Yet; Five Stocks In Buy",
+      "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures%3A-no-iran.html?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 13:16:00 +0000"
+    },
+    {
+      "title": "IonQ Stock Ended This Week in the",
+      "summary": "IonQ bounced back from being down double digits and ended the week in positive territory.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/14/why-ionq-stock-ended-this-week-in-the-green-despit/?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 12:45:00 +0000"
+    },
+    {
+      "title": "VGLT vs. TLT",
+      "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vglt-vs-tlt-which-treasury-bond-etf-is-the-better-buy/?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 12:31:21 +0000"
+    },
+    {
+      "title": "Dave Ramsey says most millionaires",
+      "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000321.html?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 12:30:00 +0000"
+    }
+  ],
+  "criteria": [
+    {
+      "title": "변화의 크기",
+      "description": "전일 대비, 1주 대비, 1개월 대비로 의미 있는 움직임인지 확인합니다."
+    },
+    {
+      "title": "방향의 일관성",
+      "description": "금리, 달러, 주식, 원자재가 같은 레짐을 가리키는지 확인합니다."
+    },
+    {
+      "title": "이벤트 충격",
+      "description": "지표 서프라이즈, 중앙은행 발언, 지정학 이벤트의 즉시 반응을 봅니다."
+    },
+    {
+      "title": "상호작용",
+      "description": "유가와 인플레 기대, 금리와 성장주, 달러와 신흥국 통화의 연결을 봅니다."
+    }
+  ],
+  "assetGroups": [
+    {
+      "id": "commodities",
+      "label": "원자재",
+      "title": "원자재",
+      "summary": "Yahoo intraday chart 데이터로 원자재 변화를 읽습니다.",
+      "items": [
+        {
+          "name": "WTI",
+          "value": "84.88",
+          "change": "-3.23%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "87.33",
+          "change": "-3.37%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4238.80",
+          "change": "+3.03%",
+          "direction": "up"
+        },
+        {
+          "name": "Copper",
+          "value": "6.45",
+          "change": "+2.71%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        42,
+        48,
+        45,
+        52,
+        58,
+        61,
+        66,
+        72,
+        78,
+        74,
+        79
+      ],
+      "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
+      "status": "약세",
+      "freshness": "2026-06-13 05:59 KST"
+    },
+    {
+      "id": "bonds",
+      "label": "채권",
+      "title": "채권",
+      "summary": "미국 국채 수익률과 커브 변화를 확인합니다.",
+      "items": [
+        {
+          "name": "UST 13W",
+          "value": "3.618%",
+          "change": "-0.14%",
+          "direction": "down"
+        },
+        {
+          "name": "UST 5Y",
+          "value": "4.213%",
+          "change": "+0.55%",
+          "direction": "up"
+        },
+        {
+          "name": "UST 10Y",
+          "value": "4.487%",
+          "change": "+0.54%",
+          "direction": "up"
+        },
+        {
+          "name": "UST 30Y",
+          "value": "4.975%",
+          "change": "+0.48%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.479000091552734,
+        4.479000091552734,
+        4.479000091552734,
+        4.479000091552734,
+        4.4770002365112305,
+        4.479000091552734,
+        4.4770002365112305,
+        4.486999988555908
+      ],
+      "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
+      "status": "압박",
+      "freshness": "2026-06-13 03:59 KST"
+    },
+    {
+      "id": "indices",
+      "label": "지수",
+      "title": "지수",
+      "summary": "실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.",
+      "items": [
+        {
+          "name": "S&P 500",
+          "value": "7431.46",
+          "change": "+0.50%",
+          "direction": "up"
+        },
+        {
+          "name": "Nasdaq",
+          "value": "25888.84",
+          "change": "+0.31%",
+          "direction": "up"
+        },
+        {
+          "name": "KOSPI",
+          "value": "8123.62",
+          "change": "+4.63%",
+          "direction": "up"
+        },
+        {
+          "name": "Euro Stoxx",
+          "value": "6187.63",
+          "change": "+2.16%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        7422.43994140625,
+        7421.2001953125,
+        7422.52978515625,
+        7423.75,
+        7425.02978515625,
+        7430.64990234375,
+        7428.41015625,
+        7427.08984375,
+        7430.56982421875,
+        7430.85986328125,
+        7431.4599609375
+      ],
+      "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
+      "status": "강세",
+      "freshness": "2026-06-13 05:54 KST"
+    },
+    {
+      "id": "fx",
+      "label": "환율",
+      "title": "환율",
+      "summary": "intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.",
+      "items": [
+        {
+          "name": "DXY",
+          "value": "99.81",
+          "change": "+0.06%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1517.89",
+          "change": "+0.13%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "160.19",
+          "change": "+0.17%",
+          "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7621",
+          "change": "-0.19%",
+          "direction": "down"
+        }
+      ],
+      "trend": [
+        1517.550048828125,
+        1518.1400146484375,
+        1517.5699462890625,
+        1517.5400390625,
+        1517.9599609375,
+        1517.31005859375,
+        1517.9599609375,
+        1517.8199462890625,
+        1517.8900146484375,
+        1517.8900146484375,
+        1517.8900146484375
+      ],
+      "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
+      "status": "강세",
+      "freshness": "2026-06-13 06:27 KST"
+    }
+  ],
+  "actions": [
+    {
+      "state": "Risk-off",
+      "rule": "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다."
+    },
+    {
+      "state": "Inflation shock",
+      "rule": "장기채 듀레이션을 줄이고 원자재 노출을 검토합니다.",
+      "detail": "유가 상승이 물가 기대를 자극하는지 확인합니다."
+    },
+    {
+      "state": "Growth shock",
+      "rule": "경기민감 자산을 축소하고 방어주 비중을 점검합니다.",
+      "detail": "실적 방어력이 높은 섹터를 우선 확인합니다."
+    },
+    {
+      "state": "Policy shock",
+      "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+      "detail": "발언 직후 방향 추종보다 리스크 제한이 중요합니다."
+    }
+  ]
+}

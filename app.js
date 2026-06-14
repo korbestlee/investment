@@ -1,6 +1,8 @@
 const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
+const IS_GITHUB_PAGES = window.location.hostname.includes('github.io');
+const LOCAL_LIVE_URL = '/api/market-data';
+const LIVE_SNAPSHOT_URL = './data/live-market-data.json';
 const SAMPLE_DATA_URL = './data/market-data.sample.json';
-const JINA_PROXY_PREFIX = 'https://r.jina.ai/http://';
 
 const state = {
   activeAssetGroupId: null,
@@ -23,6 +25,46 @@ function clampText(value, maxLength) {
   const text = String(value || '');
   if (text.length <= maxLength) return text;
   return `${text.slice(0, Math.max(0, maxLength - 1)).trimEnd()}…`;
+}
+
+function compactHeadline(title, summary = '') {
+  const rawTitle = String(title || '').replace(/\s+/g, ' ').trim();
+  if (!rawTitle) return 'Untitled headline';
+  const cleaned = rawTitle
+    .replace(/^(Dow Jones Futures|Stock Market Today|Market Watch|Opinion|Analysis|Breaking):\s*/i, '')
+    .replace(/^Why\s+/i, '')
+    .replace(/\s+\|\s+.*$/, '')
+    .replace(/\s+-\s+.*$/, '');
+  const primary = cleaned.split(/[:–—]/).map((part) => part.trim()).filter(Boolean)[0] || cleaned;
+  if (primary.length <= 48) return primary;
+  const words = primary.split(/\s+/);
+  if (words.length > 1) {
+    let text = '';
+    for (const word of words) {
+      const next = text ? `${text} ${word}` : word;
+      if (next.length > 48) break;
+      text = next;
+    }
+    if (text) return text;
+  }
+  const summaryText = String(summary || '').replace(/\s+/g, ' ').trim();
+  if (summaryText) {
+    return clampText(summaryText, 48);
+  }
+  return clampText(primary, 48);
+}
+
+function formatSnapshotAge(collectedAt) {
+  if (!collectedAt) return { text: '스냅샷 경과: N/A', stale: false };
+  const collected = new Date(collectedAt);
+  if (Number.isNaN(collected.getTime())) return { text: '스냅샷 경과: N/A', stale: false };
+  const diffMs = Date.now() - collected.getTime();
+  if (diffMs < 0) return { text: '스냅샷 경과: 방금 생성', stale: false };
+  const totalMinutes = Math.floor(diffMs / 60000);
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+  const text = hours > 0 ? `스냅샷 경과: ${hours}시간 ${minutes}분` : `스냅샷 경과: ${minutes}분`;
+  return { text, stale: diffMs >= 12 * 60 * 60 * 1000 };
 }
 
 function formatDateLabel(dateValue) {
@@ -195,7 +237,7 @@ function renderIssues(items) {
       (item) => `
         <article class="issue-card ${escapeHtml(item.importance || 'mid')}">
           <div class="issue-head">
-            <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(item.title, 64))}</h3>
+            <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(compactHeadline(item.title, item.summary), 40))}</h3>
             <span class="importance-badge">${escapeHtml(item.importance || 'mid')}</span>
           </div>
           <p class="issue-impact">${escapeHtml(item.impact || '')}</p>
@@ -221,7 +263,7 @@ function renderNews(items) {
             <span class="news-impact">${escapeHtml(item.impact || '')}</span>
             <span class="news-published">${escapeHtml(item.published || '')}</span>
           </div>
-          <h3 class="card-title"><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" title="${escapeHtml(item.title || '')}">${escapeHtml(clampText(item.title || '', 72))}</a></h3>
+          <h3 class="card-title"><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" title="${escapeHtml(item.title || '')}">${escapeHtml(clampText(compactHeadline(item.title, item.summary), 36))}</a></h3>
           <p>${escapeHtml(item.summary || '')}</p>
         </article>
       `,
@@ -234,7 +276,7 @@ function buildCalendarItems(data) {
   const topNews = newsItems.slice(0, 2);
   const regime = data?.signals?.[0]?.value || 'N/A';
   const focusLine = topNews.length
-    ? topNews.map((item) => clampText(item.title, 28)).join(' · ')
+    ? topNews.map((item) => clampText(compactHeadline(item.title, item.summary), 20)).join(' · ')
     : '최신 뉴스 헤드라인 점검';
 
   return [
@@ -465,6 +507,14 @@ function renderVerifyPanel(data) {
   `;
 }
 
+function renderSnapshotAge(data) {
+  const node = $('snapshot-age');
+  if (!node) return;
+  const info = formatSnapshotAge(data?.collectedAt);
+  node.textContent = info.stale ? `${info.text} · 갱신 권장` : info.text;
+  node.classList.toggle('is-stale', info.stale);
+}
+
 function renderHeader(data) {
   $('market-state').textContent = data?.signals?.[0]?.value || 'N/A';
   $('brief-date').textContent = formatDateLabel(data?.date || data?.collectedAt);
@@ -478,6 +528,7 @@ function renderAll(data) {
   renderHeader(data);
   renderSignalGrid(data?.signals);
   renderFreshness(data);
+  renderSnapshotAge(data);
   renderVerifyPanel(data);
   renderIssues(data?.issues);
   renderNews(data?.newsItems);
@@ -966,11 +1017,21 @@ async function fetchLiveMarketData() {
 }
 
 async function loadData() {
-  try {
-    return await fetchLiveMarketData();
-  } catch {
-    throw new Error('Unable to load live market data');
+  const sources = IS_FILE_PROTOCOL
+    ? [SAMPLE_DATA_URL]
+    : IS_GITHUB_PAGES
+      ? [LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL]
+      : [LOCAL_LIVE_URL, LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL];
+
+  let lastError = null;
+  for (const source of sources) {
+    try {
+      return await fetchJson(source);
+    } catch (error) {
+      lastError = error;
+    }
   }
+  throw new Error(lastError?.message || 'Unable to load market data');
 }
 
 async function refresh() {
