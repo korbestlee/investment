@@ -343,6 +343,14 @@ function buildSeriesPayload(payload, symbol) {
   const freshness = marketTime
     ? new Date(marketTime * 1000).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', hour12: false })
     : 'intraday chart';
+  const latestTradingDay = meta.regularMarketTime
+    ? new Date(meta.regularMarketTime * 1000).toLocaleDateString('ko-KR', {
+        timeZone: 'Asia/Seoul',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      })
+    : 'N/A';
 
   return {
     symbol,
@@ -351,6 +359,7 @@ function buildSeriesPayload(payload, symbol) {
     change_pct: changePct,
     points: points.slice(-60),
     freshness,
+    latestTradingDay,
     meta,
   };
 }
@@ -666,7 +675,9 @@ async function fetchLiveMarketData() {
         trend: results.spx?.points?.length ? results.spx.points.slice(-11) : baseData.assetGroups[2].trend,
         conclusion: '위험선호와 방어 회전의 강도를 확인합니다.',
         status: statusFromChange(results.spx?.change_pct ?? null, '강세', '약세'),
-        freshness: results.spx?.freshness || baseData.assetGroups[2].freshness || baseData.freshness.indices,
+        freshness: results.spx?.latestTradingDay
+          ? `latest trading day: ${results.spx.latestTradingDay}`
+          : results.spx?.freshness || baseData.assetGroups[2].freshness || baseData.freshness.indices,
       },
       {
         id: 'fx',
