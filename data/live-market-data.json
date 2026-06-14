@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "collectedAt": "2026-06-14T13:47:15Z",
+  "collectedAt": "2026-06-14T14:37:04Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -33,6 +33,20 @@
   "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
   "issues": [
     {
+      "title": "SpaceX IPO afterglow, Kevin Warsh's",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on SpaceX.",
+      "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html?.tsrc=rss"
+    },
+    {
+      "title": "VGSH or VCSH",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Expense ratios match, but credit quality and payout profiles set these funds apart. Explore how each ETF fits different portfolio goals and risk tolerances.",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vgsh-or-vcsh-which-vanguard-short-term-bond-etf-is-a-better-bet-for-investors/?.tsrc=rss"
+    },
+    {
       "title": "No Iran Deal Yet; Five Stocks In Buy",
       "impact": "지수, 위험선호",
       "importance": "mid",
@@ -45,23 +59,25 @@
       "importance": "mid",
       "summary": "IonQ bounced back from being down double digits and ended the week in positive territory.",
       "link": "https://www.fool.com/investing/2026/06/14/why-ionq-stock-ended-this-week-in-the-green-despit/?.tsrc=rss"
-    },
-    {
-      "title": "VGLT vs. TLT",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vglt-vs-tlt-which-treasury-bond-etf-is-the-better-buy/?.tsrc=rss"
-    },
-    {
-      "title": "Dave Ramsey says most millionaires",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000321.html?.tsrc=rss"
     }
   ],
   "newsItems": [
+    {
+      "title": "SpaceX IPO afterglow, Kevin Warsh's",
+      "summary": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on SpaceX.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 14:25:00 +0000"
+    },
+    {
+      "title": "VGSH or VCSH",
+      "summary": "Expense ratios match, but credit quality and payout profiles set these funds apart. Explore how each ETF fits different portfolio goals and risk tolerances.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vgsh-or-vcsh-which-vanguard-short-term-bond-etf-is-a-better-bet-for-investors/?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 14:19:28 +0000"
+    },
     {
       "title": "No Iran Deal Yet; Five Stocks In Buy",
       "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
@@ -77,22 +93,6 @@
       "importance": "mid",
       "link": "https://www.fool.com/investing/2026/06/14/why-ionq-stock-ended-this-week-in-the-green-despit/?.tsrc=rss",
       "published": "Sun, 14 Jun 2026 12:45:00 +0000"
-    },
-    {
-      "title": "VGLT vs. TLT",
-      "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/14/vglt-vs-tlt-which-treasury-bond-etf-is-the-better-buy/?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 12:31:21 +0000"
-    },
-    {
-      "title": "Dave Ramsey says most millionaires",
-      "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000321.html?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 12:30:00 +0000"
     }
   ],
   "criteria": [
