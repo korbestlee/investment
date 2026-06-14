@@ -401,118 +401,133 @@ async function fetchLiveMarketData() {
   const batchSize = 4;
   for (let index = 0; index < entries.length; index += batchSize) {
     const batch = entries.slice(index, index + batchSize);
-    await Promise.all(
+    const settled = await Promise.allSettled(
       batch.map(async ([key, symbol]) => {
-        results[key] = buildSeriesPayload(await fetchYahooChart(symbol), symbol);
+        const payload = await fetchYahooChart(symbol);
+        return [key, buildSeriesPayload(payload, symbol)];
       }),
     );
+    for (const item of settled) {
+      if (item.status === 'fulfilled') {
+        const [key, series] = item.value;
+        results[key] = series;
+      }
+    }
   }
+
+  const liveOrSample = (key, field, formatter, fallback) => {
+    const live = results[key]?.[field];
+    if (live === null || live === undefined) {
+      return fallback;
+    }
+    return formatter(live);
+  };
 
   const commodityItems = [
     {
       name: 'WTI',
-      value: results.wti.latest !== null ? results.wti.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.wti.change_pct),
-      direction: directionFromChange(results.wti.change_pct),
+      value: liveOrSample('wti', 'latest', (value) => value.toFixed(2), baseData.assetGroups[0].items[0].value),
+      change: liveOrSample('wti', 'change_pct', formatPct, baseData.assetGroups[0].items[0].change),
+      direction: directionFromChange(results.wti?.change_pct ?? null),
     },
     {
       name: 'Brent',
-      value: results.brent.latest !== null ? results.brent.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.brent.change_pct),
-      direction: directionFromChange(results.brent.change_pct),
+      value: liveOrSample('brent', 'latest', (value) => value.toFixed(2), baseData.assetGroups[0].items[1].value),
+      change: liveOrSample('brent', 'change_pct', formatPct, baseData.assetGroups[0].items[1].change),
+      direction: directionFromChange(results.brent?.change_pct ?? null),
     },
     {
       name: 'Gold',
-      value: results.gold.latest !== null ? results.gold.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.gold.change_pct),
-      direction: directionFromChange(results.gold.change_pct),
+      value: liveOrSample('gold', 'latest', (value) => value.toFixed(2), baseData.assetGroups[0].items[2].value),
+      change: liveOrSample('gold', 'change_pct', formatPct, baseData.assetGroups[0].items[2].change),
+      direction: directionFromChange(results.gold?.change_pct ?? null),
     },
     {
       name: 'Copper',
-      value: results.copper.latest !== null ? results.copper.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.copper.change_pct),
-      direction: directionFromChange(results.copper.change_pct),
+      value: liveOrSample('copper', 'latest', (value) => value.toFixed(2), baseData.assetGroups[0].items[3].value),
+      change: liveOrSample('copper', 'change_pct', formatPct, baseData.assetGroups[0].items[3].change),
+      direction: directionFromChange(results.copper?.change_pct ?? null),
     },
   ];
 
   const treasuryItems = [
     {
       name: 'UST 13W',
-      value: results.irx.latest !== null ? `${results.irx.latest.toFixed(3)}%` : 'N/A',
-      change: formatPct(results.irx.change_pct),
-      direction: directionFromChange(results.irx.change_pct),
+      value: liveOrSample('irx', 'latest', (value) => `${value.toFixed(3)}%`, baseData.assetGroups[1].items[0].value),
+      change: liveOrSample('irx', 'change_pct', formatPct, baseData.assetGroups[1].items[0].change),
+      direction: directionFromChange(results.irx?.change_pct ?? null),
     },
     {
       name: 'UST 5Y',
-      value: results.fvx.latest !== null ? `${results.fvx.latest.toFixed(3)}%` : 'N/A',
-      change: formatPct(results.fvx.change_pct),
-      direction: directionFromChange(results.fvx.change_pct),
+      value: liveOrSample('fvx', 'latest', (value) => `${value.toFixed(3)}%`, baseData.assetGroups[1].items[1].value),
+      change: liveOrSample('fvx', 'change_pct', formatPct, baseData.assetGroups[1].items[1].change),
+      direction: directionFromChange(results.fvx?.change_pct ?? null),
     },
     {
       name: 'UST 10Y',
-      value: results.tnx.latest !== null ? `${results.tnx.latest.toFixed(3)}%` : 'N/A',
-      change: formatPct(results.tnx.change_pct),
-      direction: directionFromChange(results.tnx.change_pct),
+      value: liveOrSample('tnx', 'latest', (value) => `${value.toFixed(3)}%`, baseData.assetGroups[1].items[2].value),
+      change: liveOrSample('tnx', 'change_pct', formatPct, baseData.assetGroups[1].items[2].change),
+      direction: directionFromChange(results.tnx?.change_pct ?? null),
     },
     {
       name: 'UST 30Y',
-      value: results.tyx.latest !== null ? `${results.tyx.latest.toFixed(3)}%` : 'N/A',
-      change: formatPct(results.tyx.change_pct),
-      direction: directionFromChange(results.tyx.change_pct),
+      value: liveOrSample('tyx', 'latest', (value) => `${value.toFixed(3)}%`, baseData.assetGroups[1].items[3].value),
+      change: liveOrSample('tyx', 'change_pct', formatPct, baseData.assetGroups[1].items[3].change),
+      direction: directionFromChange(results.tyx?.change_pct ?? null),
     },
   ];
 
   const fxItems = [
     {
       name: 'DXY',
-      value: results.dxy.latest !== null ? results.dxy.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.dxy.change_pct),
-      direction: directionFromChange(results.dxy.change_pct),
+      value: liveOrSample('dxy', 'latest', (value) => value.toFixed(2), baseData.assetGroups[3].items[0].value),
+      change: liveOrSample('dxy', 'change_pct', formatPct, baseData.assetGroups[3].items[0].change),
+      direction: directionFromChange(results.dxy?.change_pct ?? null),
     },
     {
       name: 'USDKRW',
-      value: results.usdkrw.latest !== null ? results.usdkrw.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.usdkrw.change_pct),
-      direction: directionFromChange(results.usdkrw.change_pct),
+      value: liveOrSample('usdkrw', 'latest', (value) => value.toFixed(2), baseData.assetGroups[3].items[1].value),
+      change: liveOrSample('usdkrw', 'change_pct', formatPct, baseData.assetGroups[3].items[1].change),
+      direction: directionFromChange(results.usdkrw?.change_pct ?? null),
     },
     {
       name: 'USDJPY',
-      value: results.usdjpy.latest !== null ? results.usdjpy.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.usdjpy.change_pct),
-      direction: directionFromChange(results.usdjpy.change_pct),
+      value: liveOrSample('usdjpy', 'latest', (value) => value.toFixed(2), baseData.assetGroups[3].items[2].value),
+      change: liveOrSample('usdjpy', 'change_pct', formatPct, baseData.assetGroups[3].items[2].change),
+      direction: directionFromChange(results.usdjpy?.change_pct ?? null),
     },
     {
       name: 'USDCNY',
-      value: results.usdcny.latest !== null ? results.usdcny.latest.toFixed(4) : 'N/A',
-      change: formatPct(results.usdcny.change_pct),
-      direction: directionFromChange(results.usdcny.change_pct),
+      value: liveOrSample('usdcny', 'latest', (value) => value.toFixed(4), baseData.assetGroups[3].items[3].value),
+      change: liveOrSample('usdcny', 'change_pct', formatPct, baseData.assetGroups[3].items[3].change),
+      direction: directionFromChange(results.usdcny?.change_pct ?? null),
     },
   ];
 
   const indexItems = [
     {
       name: 'S&P 500',
-      value: results.spx.latest !== null ? results.spx.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.spx.change_pct),
-      direction: directionFromChange(results.spx.change_pct),
+      value: liveOrSample('spx', 'latest', (value) => value.toFixed(2), baseData.assetGroups[2].items[0].value),
+      change: liveOrSample('spx', 'change_pct', formatPct, baseData.assetGroups[2].items[0].change),
+      direction: directionFromChange(results.spx?.change_pct ?? null),
     },
     {
       name: 'Nasdaq',
-      value: results.ixic.latest !== null ? results.ixic.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.ixic.change_pct),
-      direction: directionFromChange(results.ixic.change_pct),
+      value: liveOrSample('ixic', 'latest', (value) => value.toFixed(2), baseData.assetGroups[2].items[1].value),
+      change: liveOrSample('ixic', 'change_pct', formatPct, baseData.assetGroups[2].items[1].change),
+      direction: directionFromChange(results.ixic?.change_pct ?? null),
     },
     {
       name: 'KOSPI',
-      value: results.ks11.latest !== null ? results.ks11.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.ks11.change_pct),
-      direction: directionFromChange(results.ks11.change_pct),
+      value: liveOrSample('ks11', 'latest', (value) => value.toFixed(2), baseData.assetGroups[2].items[2].value),
+      change: liveOrSample('ks11', 'change_pct', formatPct, baseData.assetGroups[2].items[2].change),
+      direction: directionFromChange(results.ks11?.change_pct ?? null),
     },
     {
       name: 'Euro Stoxx',
-      value: results.stoxx.latest !== null ? results.stoxx.latest.toFixed(2) : 'N/A',
-      change: formatPct(results.stoxx.change_pct),
-      direction: directionFromChange(results.stoxx.change_pct),
+      value: liveOrSample('stoxx', 'latest', (value) => value.toFixed(2), baseData.assetGroups[2].items[3].value),
+      change: liveOrSample('stoxx', 'change_pct', formatPct, baseData.assetGroups[2].items[3].change),
+      direction: directionFromChange(results.stoxx?.change_pct ?? null),
     },
   ];
 
@@ -569,16 +584,16 @@ async function fetchLiveMarketData() {
       note: 'Fetched through allorigins from browser',
     },
     freshness: {
-      fx: results.usdkrw.freshness,
-      indices: results.spx.freshness,
-      commodities: results.wti.freshness,
-      bonds: results.tnx.freshness,
+      fx: results.usdkrw?.freshness || baseData.freshness.fx,
+      indices: results.spx?.freshness || baseData.freshness.indices,
+      commodities: results.wti?.freshness || baseData.freshness.commodities,
+      bonds: results.tnx?.freshness || baseData.freshness.bonds,
       news: newsItems.length ? 'live rss' : 'sample',
     },
     signals: [
       {
         label: '시장 상태',
-        value: (results.spx.change_pct || 0) < 0 ? 'Risk-off' : 'Neutral',
+        value: (results.spx?.change_pct || 0) < 0 ? 'Risk-off' : 'Neutral',
         sub: '자산군 신호를 합쳐 레짐을 계산했습니다.',
       },
       {
@@ -593,26 +608,26 @@ async function fetchLiveMarketData() {
       },
     ],
     topLine:
-      (results.spx.change_pct || 0) < 0 && (results.tnx.change_pct || 0) > 0
+      (results.spx?.change_pct || 0) < 0 && (results.tnx?.change_pct || 0) > 0
         ? '금리 상승과 주식 약세가 함께 보여 위험자산 압박이 커지고 있습니다.'
-        : (results.spx.change_pct || 0) > 0 && (results.tnx.change_pct || 0) <= 0
+        : (results.spx?.change_pct || 0) > 0 && (results.tnx?.change_pct || 0) <= 0
           ? '주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.'
           : '실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.',
     issues: [
       {
-        title: `미 10년물 금리 ${formatPct(results.tnx.change_pct)}`,
+        title: `미 10년물 금리 ${formatPct(results.tnx?.change_pct ?? null)}`,
         impact: '채권, 주식',
         importance: 'high',
         summary: '장기금리 변화가 성장주 밸류에이션과 위험선호를 동시에 건드립니다.',
       },
       {
-        title: results.dxy.latest !== null ? `DXY ${results.dxy.latest.toFixed(2)}` : 'DXY N/A',
+        title: results.dxy?.latest !== null && results.dxy?.latest !== undefined ? `DXY ${results.dxy.latest.toFixed(2)}` : baseData.issues[1].title,
         impact: '환율, 신흥국 자산',
         importance: 'high',
         summary: '달러 강세가 원화와 아시아 통화에 압력을 줍니다.',
       },
       {
-        title: `WTI ${formatPct(results.wti.change_pct)}`,
+        title: `WTI ${formatPct(results.wti?.change_pct ?? null)}`,
         impact: '원자재, 인플레 기대',
         importance: 'mid',
         summary: '유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다.',
@@ -626,10 +641,10 @@ async function fetchLiveMarketData() {
         title: '원자재',
         summary: '브라우저 직접 수집한 실시간 차트로 원자재 변화를 읽습니다.',
         items: commodityItems,
-        trend: results.wti.points.length ? results.wti.points.slice(-11) : baseData.assetGroups[0].trend,
+        trend: results.wti?.points?.length ? results.wti.points.slice(-11) : baseData.assetGroups[0].trend,
         conclusion: '에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.',
-        status: statusFromChange(results.wti.change_pct, '강세', '약세'),
-        freshness: results.wti.freshness,
+        status: statusFromChange(results.wti?.change_pct ?? null, '강세', '약세'),
+        freshness: results.wti?.freshness || baseData.assetGroups[0].freshness || baseData.freshness.commodities,
       },
       {
         id: 'bonds',
@@ -637,10 +652,10 @@ async function fetchLiveMarketData() {
         title: '채권',
         summary: '미국 국채 수익률과 커브 변화를 확인합니다.',
         items: treasuryItems,
-        trend: results.tnx.points.length ? results.tnx.points.slice(-11) : baseData.assetGroups[1].trend,
+        trend: results.tnx?.points?.length ? results.tnx.points.slice(-11) : baseData.assetGroups[1].trend,
         conclusion: '금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.',
-        status: statusFromChange(results.tnx.change_pct, '압박', '완화'),
-        freshness: results.tnx.freshness,
+        status: statusFromChange(results.tnx?.change_pct ?? null, '압박', '완화'),
+        freshness: results.tnx?.freshness || baseData.assetGroups[1].freshness || baseData.freshness.bonds,
       },
       {
         id: 'indices',
@@ -648,10 +663,10 @@ async function fetchLiveMarketData() {
         title: '지수',
         summary: '실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.',
         items: indexItems,
-        trend: results.spx.points.length ? results.spx.points.slice(-11) : baseData.assetGroups[2].trend,
+        trend: results.spx?.points?.length ? results.spx.points.slice(-11) : baseData.assetGroups[2].trend,
         conclusion: '위험선호와 방어 회전의 강도를 확인합니다.',
-        status: statusFromChange(results.spx.change_pct, '강세', '약세'),
-        freshness: results.spx.freshness,
+        status: statusFromChange(results.spx?.change_pct ?? null, '강세', '약세'),
+        freshness: results.spx?.freshness || baseData.assetGroups[2].freshness || baseData.freshness.indices,
       },
       {
         id: 'fx',
@@ -659,10 +674,10 @@ async function fetchLiveMarketData() {
         title: '환율',
         summary: 'intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.',
         items: fxItems,
-        trend: results.usdkrw.points.length ? results.usdkrw.points.slice(-11) : baseData.assetGroups[3].trend,
+        trend: results.usdkrw?.points?.length ? results.usdkrw.points.slice(-11) : baseData.assetGroups[3].trend,
         conclusion: '달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.',
-        status: results.dxy.change_pct > 0 ? '강세' : '완화',
-        freshness: results.usdkrw.freshness,
+        status: (results.dxy?.change_pct ?? 0) > 0 ? '강세' : '완화',
+        freshness: results.usdkrw?.freshness || baseData.assetGroups[3].freshness || baseData.freshness.fx,
       },
     ],
     actions: baseData.actions.map((action) => ({ ...action })),
@@ -673,12 +688,7 @@ async function loadData() {
   if (!SAMPLE_DATA) {
     throw new Error('Missing embedded sample data');
   }
-
-  try {
-    return await fetchLiveMarketData();
-  } catch {
-    return fallbackData();
-  }
+  return fetchLiveMarketData();
 }
 
 async function refresh() {
