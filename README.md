@@ -1,1 +1,73 @@
-# investment
+# Global Macro Daily Briefing
+
+국제금융시장 이슈, 뉴스 헤드라인, 오늘의 일정, 자산군 분석, 당일 대응을 한 화면에서 보는 단일 페이지 웹앱입니다.
+
+## What it does
+
+- 오늘의 핵심 이슈를 리스트업합니다.
+- 최신 뉴스 헤드라인을 보여줍니다.
+- 오늘의 집중 시간대를 캘린더처럼 보여줍니다.
+- 원자재, 채권, 지수, 환율을 같은 기준으로 해석합니다.
+- 상태별 대응방법을 보여줍니다.
+- 자산군 신호를 합쳐 시장 레짐과 대응 우선순위를 자동 계산합니다.
+
+## Run
+
+샘플 데이터만 보려면 정적 서버로 열 수 있습니다.
+
+```bash
+python3 -m http.server 8000
+```
+
+실시간 데이터와 확인 패널까지 보려면 live 서버를 실행합니다.
+
+```bash
+python3 server.py
+```
+
+터미널에서 live 상태를 한 번에 확인하려면:
+
+```bash
+./verify_live.sh
+```
+
+실행만 하려면:
+
+```bash
+./run_live.sh
+```
+
+## Screen flow
+
+1. 상단에서 시장 상태와 오늘의 한 줄 결론을 봅니다.
+2. 뉴스 브리핑에서 최신 헤드라인을 확인합니다.
+3. 오늘의 일정에서 집중할 시간대를 확인합니다.
+4. 자산군 분석에서 원자재, 채권, 지수, 환율을 비교합니다.
+5. 판정 엔진에서 레짐과 대응 우선순위를 확인합니다.
+6. Verify Live 패널로 live/fallback 여부와 freshness를 확인합니다.
+
+## Structure
+
+- `index.html`: 화면 구조
+- `styles.css`: 전체 스타일
+- `app.js`: 데이터 수집, 분석, 렌더링 로직
+- `server.py`: Yahoo Finance live API 및 데이터 조립 서버
+- `data/market-data.sample.json`: fallback 샘플 데이터
+- `verify_live.sh`: live 소스, 날짜, freshness 확인 스크립트
+- `run_live.sh`: live 서버 실행 스크립트
+
+## Data flow
+
+1. `app.js`가 live 데이터를 먼저 수집합니다.
+2. live 수집이 실패하면 샘플 데이터로 fallback합니다.
+3. `server.py`는 Yahoo Finance chart 응답과 뉴스 RSS를 조합합니다.
+4. `Verify Live` 버튼과 `./verify_live.sh`로 최신성 상태를 확인할 수 있습니다.
+5. 판정 엔진은 `assetGroups` 상태를 기준으로 레짐을 계산합니다.
+6. freshness 카드와 verify 패널이 최신성 상태를 보여줍니다.
+7. 뉴스 헤드라인과 오늘의 일정은 브리핑 결론을 보조합니다.
+
+## Notes
+
+- 외부 네트워크가 막힌 환경에서는 뉴스 RSS가 비어 있을 수 있습니다.
+- 그 경우에도 가격, 지수, 환율 live 수집이 가능한 한 화면은 계속 동작합니다.
+- `file://`보다 로컬 서버로 여는 쪽이 안정적입니다.

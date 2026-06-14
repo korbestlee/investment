@@ -222,6 +222,59 @@ function renderNews(items) {
     .join('');
 }
 
+function buildCalendarItems(data) {
+  const newsItems = (data?.newsItems || []).filter(Boolean);
+  const topNews = newsItems.slice(0, 2);
+  const regime = data?.signals?.[0]?.value || 'N/A';
+  const focusLine = topNews.length
+    ? topNews.map((item) => item.title).join(' · ')
+    : '최신 뉴스 헤드라인 점검';
+
+  return [
+    {
+      time: '09:00 KST',
+      title: '아시아장 오픈',
+      focus: 'USDKRW, DXY, 원자재',
+      note: data?.freshness?.fx || '장 시작 전 확인',
+    },
+    {
+      time: '16:00 KST',
+      title: '유럽장 체크',
+      focus: 'Euro Stoxx, 금리, 달러',
+      note: `시장 상태 ${regime}`,
+    },
+    {
+      time: '21:30 KST',
+      title: '미국장 / 지표 확인',
+      focus: 'UST, S&P 500, Nasdaq',
+      note: data?.freshness?.bonds || '장중 변동성 점검',
+    },
+    {
+      time: '장중',
+      title: '뉴스 속보 재확인',
+      focus: focusLine,
+      note: newsItems.length ? `${newsItems.length}건의 RSS 헤드라인` : '뉴스 미수집',
+    },
+  ];
+}
+
+function renderCalendar(data) {
+  const list = $('calendar-list');
+  const items = buildCalendarItems(data);
+  list.innerHTML = items
+    .map(
+      (item) => `
+        <article class="calendar-card">
+          <div class="calendar-time">${escapeHtml(item.time)}</div>
+          <h3>${escapeHtml(item.title)}</h3>
+          <p class="calendar-focus">${escapeHtml(item.focus)}</p>
+          <div class="calendar-note">${escapeHtml(item.note || '')}</div>
+        </article>
+      `,
+    )
+    .join('');
+}
+
 function renderCriteria(items) {
   const list = $('criteria-list');
   list.innerHTML = (items || [])
@@ -421,6 +474,7 @@ function renderAll(data) {
   renderVerifyPanel(data);
   renderIssues(data?.issues);
   renderNews(data?.newsItems);
+  renderCalendar(data);
   renderCriteria(data?.criteria);
   renderDecisionGrid(data);
   renderActions(data?.actions);

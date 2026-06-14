@@ -301,6 +301,7 @@ a {
 
 .issue-list,
 .news-list,
+.calendar-list,
 .criteria-list,
 .action-stack {
   display: grid;
@@ -309,6 +310,7 @@ a {
 
 .issue-card,
 .news-card,
+.calendar-card,
 .criteria-card,
 .action-card {
   padding: 18px;
@@ -347,6 +349,47 @@ a {
   gap: 12px;
   font-size: 0.84rem;
   margin-bottom: 10px;
+}
+
+.calendar-list {
+  grid-template-columns: 1fr;
+}
+
+.calendar-card {
+  border: 1px solid var(--border);
+  background: var(--panel-strong);
+  border-radius: 20px;
+  padding: 18px;
+}
+
+.calendar-time {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  margin-bottom: 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(125, 211, 252, 0.18);
+  color: var(--accent);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+}
+
+.calendar-card h3 {
+  margin: 0;
+  font-size: 1.03rem;
+}
+
+.calendar-focus {
+  margin: 10px 0 8px;
+  color: var(--muted-strong);
+  line-height: 1.6;
+}
+
+.calendar-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 .news-card a {
