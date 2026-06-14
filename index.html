@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Global Macro Daily Briefing</title>
+    <meta
+      name="description"
+      content="국제금융시장 이슈, 자산별 분석, 그리고 당일 대응방법을 한 화면에서 확인하는 데일리 브리핑 앱"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Daily Global Macro Briefing</p>
+          <h1>국제금융시장의 흐름을<br />오늘의 대응으로 바꾸는 화면</h1>
+          <p class="lead">
+            이 앱은 오늘의 이슈를 모으고, 자산별 신호를 같은 기준으로 해석한 뒤,
+            당일 포지션 대응까지 바로 연결하도록 설계되었습니다.
+          </p>
+        </div>
+
+        <div class="hero-panel">
+          <div class="panel-topline">
+            <span class="status-pill" id="market-state">Loading</span>
+            <div class="panel-actions">
+              <span class="muted" id="brief-date"></span>
+              <button class="refresh-btn" id="refresh-btn" type="button">Refresh</button>
+              <button class="verify-btn" id="verify-btn" type="button">Verify Live</button>
+            </div>
+          </div>
+          <div class="hero-metric">
+            <div>
+              <div class="metric-label">오늘의 한 줄 결론</div>
+              <div class="metric-value" id="top-line">데이터를 읽는 중</div>
+            </div>
+          </div>
+          <div class="signal-grid" id="signal-grid"></div>
+          <p class="fetch-note" id="fetch-note"></p>
+          <div class="freshness-grid" id="freshness-grid"></div>
+          <div class="verify-panel" id="verify-panel"></div>
+        </div>
+      </header>
+
+      <main class="content-grid">
+        <section class="card span-2">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">오늘의 이슈</p>
+              <h2>시장에 영향을 준 핵심 이벤트</h2>
+            </div>
+            <p class="section-note">이슈를 뉴스가 아니라 자산 영향 기준으로 정리합니다.</p>
+          </div>
+          <div class="issue-list" id="issue-list"></div>
+        </section>
+
+        <section class="card span-2">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">뉴스 브리핑</p>
+              <h2>최신 헤드라인</h2>
+            </div>
+            <p class="section-note">Yahoo Finance RSS에서 가져온 최신 헤드라인을 보여줍니다.</p>
+          </div>
+          <div class="news-list" id="news-list"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-head compact">
+            <div>
+              <p class="section-kicker">분석 기준</p>
+              <h2>판단 프레임</h2>
+            </div>
+          </div>
+          <div class="criteria-list" id="criteria-list"></div>
+        </section>
+
+        <section class="card span-2">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">자산군별 분석</p>
+              <h2>원자재, 채권, 지수, 환율</h2>
+            </div>
+            <p class="section-note">각 자산은 현재값, 방향, 해석, 경보를 함께 보여줍니다.</p>
+          </div>
+          <div class="asset-tabs" id="asset-tabs"></div>
+          <div class="asset-panel" id="asset-panel"></div>
+        </section>
+
+        <section class="card span-2">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">판정 엔진</p>
+              <h2>시장 레짐과 대응 우선순위</h2>
+            </div>
+            <p class="section-note">자산별 신호를 합쳐 오늘의 상태와 실행 순서를 계산합니다.</p>
+          </div>
+          <div class="decision-grid" id="decision-grid"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-head compact">
+            <div>
+              <p class="section-kicker">대응방법</p>
+              <h2>상태별 액션</h2>
+            </div>
+          </div>
+          <div class="action-stack" id="action-stack"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-head compact">
+            <div>
+              <p class="section-kicker">운영 방식</p>
+              <h2>수집 -> 분석 -> 대응</h2>
+            </div>
+          </div>
+          <ol class="flow-list">
+            <li>
+              <strong>수집</strong>
+              <span>가격, 뉴스, 이벤트, 포지셔닝을 가져온다.</span>
+            </li>
+            <li>
+              <strong>분석</strong>
+              <span>변화의 크기, 추세, 상호작용, 이벤트 충격으로 판정한다.</span>
+            </li>
+            <li>
+              <strong>대응</strong>
+              <span>상태별 템플릿으로 오늘의 행동을 제시한다.</span>
+            </li>
+          </ol>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
