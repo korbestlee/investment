@@ -25,6 +25,9 @@ python3 -m http.server 8000
 python3 server.py
 ```
 
+GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 읽습니다.
+로컬 live 서버를 먼저 실행한 뒤 스냅샷 파일을 갱신하고 푸시하면 Pages에서도 같은 형식으로 표시됩니다.
+
 터미널에서 live 상태를 한 번에 확인하려면:
 
 ```bash
@@ -53,18 +56,21 @@ python3 server.py
 - `app.js`: 데이터 수집, 분석, 렌더링 로직
 - `server.py`: Yahoo Finance live API 및 데이터 조립 서버
 - `data/market-data.sample.json`: fallback 샘플 데이터
+- `data/live-market-data.json`: GitHub Pages용 live snapshot
+- `update_live_snapshot.py`: live snapshot 생성 스크립트
 - `verify_live.sh`: live 소스, 날짜, freshness 확인 스크립트
 - `run_live.sh`: live 서버 실행 스크립트
 
 ## Data flow
 
-1. `app.js`가 live 데이터를 먼저 수집합니다.
-2. live 수집이 실패하면 샘플 데이터로 fallback합니다.
-3. `server.py`는 Yahoo Finance chart 응답과 뉴스 RSS를 조합합니다.
-4. `Verify Live` 버튼과 `./verify_live.sh`로 최신성 상태를 확인할 수 있습니다.
-5. 판정 엔진은 `assetGroups` 상태를 기준으로 레짐을 계산합니다.
-6. freshness 카드와 verify 패널이 최신성 상태를 보여줍니다.
-7. 뉴스 헤드라인과 오늘의 일정은 브리핑 결론을 보조합니다.
+1. 로컬에서는 `server.py`의 `/api/market-data`를 먼저 읽습니다.
+2. GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 먼저 읽습니다.
+3. live 경로가 없거나 실패하면 `data/market-data.sample.json`으로 fallback합니다.
+4. `server.py`는 Yahoo Finance chart 응답과 뉴스 RSS를 조합합니다.
+5. `Verify Live` 버튼과 `./verify_live.sh`로 최신성 상태를 확인할 수 있습니다.
+6. 판정 엔진은 `assetGroups` 상태를 기준으로 레짐을 계산합니다.
+7. freshness 카드와 verify 패널이 최신성 상태를 보여줍니다.
+8. 뉴스 헤드라인과 오늘의 일정은 브리핑 결론을 보조합니다.
 
 ## Notes
 

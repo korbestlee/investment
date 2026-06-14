@@ -1,6 +1,8 @@
 const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
+const IS_GITHUB_PAGES = window.location.hostname.includes('github.io');
+const LOCAL_LIVE_URL = '/api/market-data';
+const LIVE_SNAPSHOT_URL = './data/live-market-data.json';
 const SAMPLE_DATA_URL = './data/market-data.sample.json';
-const JINA_PROXY_PREFIX = 'https://r.jina.ai/http://';
 
 const state = {
   activeAssetGroupId: null,
@@ -195,7 +197,7 @@ function renderIssues(items) {
       (item) => `
         <article class="issue-card ${escapeHtml(item.importance || 'mid')}">
           <div class="issue-head">
-            <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(item.title, 64))}</h3>
+            <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(item.title, 52))}</h3>
             <span class="importance-badge">${escapeHtml(item.importance || 'mid')}</span>
           </div>
           <p class="issue-impact">${escapeHtml(item.impact || '')}</p>
@@ -221,7 +223,7 @@ function renderNews(items) {
             <span class="news-impact">${escapeHtml(item.impact || '')}</span>
             <span class="news-published">${escapeHtml(item.published || '')}</span>
           </div>
-          <h3 class="card-title"><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" title="${escapeHtml(item.title || '')}">${escapeHtml(clampText(item.title || '', 72))}</a></h3>
+          <h3 class="card-title"><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" title="${escapeHtml(item.title || '')}">${escapeHtml(clampText(item.title || '', 56))}</a></h3>
           <p>${escapeHtml(item.summary || '')}</p>
         </article>
       `,
@@ -966,11 +968,21 @@ async function fetchLiveMarketData() {
 }
 
 async function loadData() {
-  try {
-    return await fetchLiveMarketData();
-  } catch {
-    throw new Error('Unable to load live market data');
+  const sources = IS_FILE_PROTOCOL
+    ? [SAMPLE_DATA_URL]
+    : IS_GITHUB_PAGES
+      ? [LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL]
+      : [LOCAL_LIVE_URL, LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL];
+
+  let lastError = null;
+  for (const source of sources) {
+    try {
+      return await fetchJson(source);
+    } catch (error) {
+      lastError = error;
+    }
   }
+  throw new Error(lastError?.message || 'Unable to load market data');
 }
 
 async function refresh() {
