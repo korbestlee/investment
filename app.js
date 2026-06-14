@@ -1,5 +1,6 @@
 const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
-const ALL_ORIGINS_GET = 'https://api.allorigins.win/get';
+const SAMPLE_DATA_URL = './data/market-data.sample.json';
+const JINA_PROXY_PREFIX = 'https://r.jina.ai/http://';
 
 const state = {
   activeAssetGroupId: null,
@@ -18,6 +19,12 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
+function clampText(value, maxLength) {
+  const text = String(value || '');
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, Math.max(0, maxLength - 1)).trimEnd()}…`;
+}
+
 function formatDateLabel(dateValue) {
   if (!dateValue) return '';
   const date = new Date(dateValue);
@@ -34,8 +41,8 @@ function emptyMarketData() {
     collectedAt: '',
     source: {
       provider: 'Yahoo Finance',
-      mode: 'live via chart + quote through CORS proxy',
-      note: 'Fetched through allorigins from browser',
+      mode: 'live via chart + quote through Jina mirror',
+      note: 'Fetched through r.jina.ai from browser',
     },
     freshness: {
       fx: 'N/A',
@@ -188,7 +195,7 @@ function renderIssues(items) {
       (item) => `
         <article class="issue-card ${escapeHtml(item.importance || 'mid')}">
           <div class="issue-head">
-            <h3>${escapeHtml(item.title)}</h3>
+            <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(item.title, 64))}</h3>
             <span class="importance-badge">${escapeHtml(item.importance || 'mid')}</span>
           </div>
           <p class="issue-impact">${escapeHtml(item.impact || '')}</p>
@@ -214,7 +221,7 @@ function renderNews(items) {
             <span class="news-impact">${escapeHtml(item.impact || '')}</span>
             <span class="news-published">${escapeHtml(item.published || '')}</span>
           </div>
-          <h3><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer">${escapeHtml(item.title || '')}</a></h3>
+          <h3 class="card-title"><a href="${escapeHtml(item.link || '#')}" target="_blank" rel="noreferrer" title="${escapeHtml(item.title || '')}">${escapeHtml(clampText(item.title || '', 72))}</a></h3>
           <p>${escapeHtml(item.summary || '')}</p>
         </article>
       `,
@@ -227,7 +234,7 @@ function buildCalendarItems(data) {
   const topNews = newsItems.slice(0, 2);
   const regime = data?.signals?.[0]?.value || 'N/A';
   const focusLine = topNews.length
-    ? topNews.map((item) => item.title).join(' · ')
+    ? topNews.map((item) => clampText(item.title, 28)).join(' · ')
     : '최신 뉴스 헤드라인 점검';
 
   return [
@@ -266,7 +273,7 @@ function renderCalendar(data) {
       (item) => `
         <article class="calendar-card">
           <div class="calendar-time">${escapeHtml(item.time)}</div>
-          <h3>${escapeHtml(item.title)}</h3>
+          <h3 class="card-title" title="${escapeHtml(item.title)}">${escapeHtml(clampText(item.title, 32))}</h3>
           <p class="calendar-focus">${escapeHtml(item.focus)}</p>
           <div class="calendar-note">${escapeHtml(item.note || '')}</div>
         </article>
@@ -491,24 +498,32 @@ async function fetchJson(url) {
 }
 
 async function fetchProxy(targetUrl) {
-  const proxyUrl = new URL(ALL_ORIGINS_GET);
-  proxyUrl.searchParams.set('url', targetUrl.toString());
-  const response = await fetch(proxyUrl.toString(), { cache: 'no-store' });
+  const proxyUrl = `${JINA_PROXY_PREFIX}${targetUrl.toString()}`;
+  const response = await fetch(proxyUrl, { cache: 'no-store' });
   if (!response.ok) {
     throw new Error(`Proxy returned ${response.status}`);
   }
-  const payload = await response.json();
-  if (payload?.error) {
-    throw new Error(payload.error);
+  return response.text();
+}
+
+function extractJinaContent(text) {
+  const marker = 'Markdown Content:';
+  const markerIndex = text.indexOf(marker);
+  if (markerIndex !== -1) {
+    return text.slice(markerIndex + marker.length).trim();
   }
-  return payload.contents || '';
+  const firstBrace = text.indexOf('{');
+  if (firstBrace !== -1) {
+    return text.slice(firstBrace).trim();
+  }
+  return text.trim();
 }
 
 async function fetchYahooChart(symbol, interval = '1m', range = '1d') {
   const url = new URL(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}`);
   url.searchParams.set('interval', interval);
   url.searchParams.set('range', range);
-  const contents = await fetchProxy(url);
+  const contents = extractJinaContent(await fetchProxy(url));
   const chart = JSON.parse(contents)?.chart || {};
   if (chart.error) {
     throw new Error(chart.error.description || `Yahoo error for ${symbol}`);
@@ -523,7 +538,7 @@ async function fetchYahooChart(symbol, interval = '1m', range = '1d') {
 async function fetchYahooQuote(symbol) {
   const url = new URL('https://query1.finance.yahoo.com/v7/finance/quote');
   url.searchParams.set('symbols', symbol);
-  const contents = await fetchProxy(url);
+  const contents = extractJinaContent(await fetchProxy(url));
   const payload = JSON.parse(contents)?.quoteResponse || {};
   const result = payload.result?.[0];
   if (!result) {
@@ -591,7 +606,7 @@ function statusFromChange(changePct, positiveLabel, negativeLabel, neutralLabel 
 }
 
 async function fetchLiveMarketData() {
-  const baseData = emptyMarketData();
+  const baseData = await fetchJson(SAMPLE_DATA_URL).catch(() => emptyMarketData());
   const symbols = {
     wti: 'CL=F',
     brent: 'BZ=F',
@@ -638,9 +653,7 @@ async function fetchLiveMarketData() {
   }
 
   const hasAnyLiveSeries = Object.values(results).some((series) => series && series.latest !== null && series.latest !== undefined);
-  if (!hasAnyLiveSeries) {
-    throw new Error('Unable to load live market data');
-  }
+  const hasLive = hasAnyLiveSeries;
 
   const liveOrSample = (key, field, formatter, fallback) => {
     const live = results[key]?.[field];
@@ -765,14 +778,20 @@ async function fetchLiveMarketData() {
 
   let newsItems = [];
   try {
-    const rss = await fetchProxy(newsUrl);
-    const xml = new DOMParser().parseFromString(rss, 'text/xml');
-    const items = [...xml.querySelectorAll('channel > item')].slice(0, 4);
-    newsItems = items.map((item) => {
-      const title = item.querySelector('title')?.textContent?.trim() || 'Untitled headline';
-      const summary = item.querySelector('description')?.textContent?.trim() || 'Yahoo Finance headline';
-      const link = item.querySelector('link')?.textContent?.trim() || 'https://finance.yahoo.com/';
-      const pubDate = item.querySelector('pubDate')?.textContent?.trim() || '';
+    const rss = extractJinaContent(await fetchProxy(newsUrl));
+    const blocks = rss.split(/\n### \[/).slice(1);
+    newsItems = blocks.slice(0, 4).map((block) => {
+      const match = block.match(/^(.*?)\]\((.*?)\)\n([\s\S]*)$/);
+      const title = match?.[1]?.replace(/^\[/, '').trim() || 'Untitled headline';
+      const link = match?.[2]?.trim() || 'https://finance.yahoo.com/';
+      const body = match?.[3] || '';
+      const bodyLines = body
+        .split('\n')
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .filter((line) => !line.startsWith('[') && !line.startsWith('Title:') && !line.startsWith('URL Source:'));
+      const summary = bodyLines[0] || 'Yahoo Finance headline';
+      const pubDate = bodyLines.find((line) => /\b\d{4}\b/.test(line)) || '';
       const text = `${title} ${summary}`.toLowerCase();
       let impact = '시장 전반';
       let importance = 'mid';
@@ -789,8 +808,8 @@ async function fetchLiveMarketData() {
         impact = '지수, 위험선호';
       }
       return {
-        title: title.slice(0, 120),
-        summary: summary.slice(0, 180),
+        title: clampText(title, 90),
+        summary: clampText(summary, 160),
         impact,
         importance,
         link,
@@ -805,24 +824,30 @@ async function fetchLiveMarketData() {
     ...baseData,
     date: new Date().toISOString().slice(0, 10),
     collectedAt: new Date().toISOString(),
-    source: {
-      provider: 'Yahoo Finance',
-      mode: 'live via chart + quote through CORS proxy',
-      note: 'Fetched through allorigins from browser',
-    },
+    source: hasLive
+      ? {
+          provider: 'Yahoo Finance',
+          mode: 'live via chart + quote through Jina mirror',
+          note: 'Fetched through r.jina.ai from browser',
+        }
+      : {
+          provider: baseData.source?.provider || 'Sample data',
+          mode: baseData.source?.mode || 'fallback',
+          note: 'Live market fetch unavailable, using sample snapshot',
+        },
     freshness: {
-      fx: results.usdkrw?.freshness || baseData.freshness.fx,
-      indices: results.spx?.freshness || baseData.freshness.indices,
-      commodities: results.wti?.freshness || baseData.freshness.commodities,
-      bonds: results.tnx?.freshness || baseData.freshness.bonds,
-      news: newsItems.length ? 'live rss' : 'N/A',
+      fx: results.usdkrw?.freshness || baseData.freshness?.fx || 'N/A',
+      indices: results.spx?.freshness || baseData.freshness?.indices || 'N/A',
+      commodities: results.wti?.freshness || baseData.freshness?.commodities || 'N/A',
+      bonds: results.tnx?.freshness || baseData.freshness?.bonds || 'N/A',
+      news: newsItems.length ? 'live rss' : baseData.freshness?.news || 'N/A',
     },
     signals: [
       {
         label: '시장 상태',
         value:
           results.spx?.change_pct === null || results.spx?.change_pct === undefined
-            ? 'N/A'
+            ? baseData.signals?.[0]?.value || 'N/A'
             : results.spx.change_pct < 0
               ? 'Risk-off'
               : 'Neutral',
@@ -838,7 +863,7 @@ async function fetchLiveMarketData() {
         value:
           results.tnx?.latest !== null && results.tnx?.latest !== undefined && results.dxy?.latest !== null && results.dxy?.latest !== undefined
             ? '금리 + 달러'
-            : 'N/A',
+            : baseData.signals?.[2]?.value || 'N/A',
         sub: '미국 금리와 달러 데이터를 함께 봅니다.',
       },
     ],
@@ -857,81 +882,86 @@ async function fetchLiveMarketData() {
           results.spx.change_pct > 0 &&
           results.tnx.change_pct <= 0
           ? '주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.'
-          : '실시간 데이터를 일부 수집했습니다. 수집된 값만 기준으로 보여줍니다.',
-    issues: [
-      results.tnx?.change_pct !== null && results.tnx?.change_pct !== undefined
-        ? {
-            title: `미 10년물 금리 ${formatPct(results.tnx.change_pct)}`,
-            impact: '채권, 주식',
-            importance: 'high',
-            summary: '장기금리 변화가 성장주 밸류에이션과 위험선호를 동시에 건드립니다.',
-          }
-        : null,
-      results.dxy?.latest !== null && results.dxy?.latest !== undefined
-        ? {
-            title: `DXY ${results.dxy.latest.toFixed(2)}`,
-            impact: '환율, 신흥국 자산',
-            importance: 'high',
-            summary: '달러 강세가 원화와 아시아 통화에 압력을 줍니다.',
-          }
-        : null,
-      results.wti?.change_pct !== null && results.wti?.change_pct !== undefined
-        ? {
-            title: `WTI ${formatPct(results.wti.change_pct)}`,
-            impact: '원자재, 인플레 기대',
-            importance: 'mid',
-            summary: '유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다.',
-          }
-        : null,
-    ].filter(Boolean),
-    newsItems,
+          : hasLive
+            ? '실시간 데이터를 일부 수집했습니다. 수집된 값만 기준으로 보여줍니다.'
+            : baseData.topLine || '데이터를 불러오는 중입니다.',
+    issues: (() => {
+      const liveIssues = [
+        results.tnx?.change_pct !== null && results.tnx?.change_pct !== undefined
+          ? {
+              title: `미 10년물 금리 ${formatPct(results.tnx.change_pct)}`,
+              impact: '채권, 주식',
+              importance: 'high',
+              summary: '장기금리 변화가 성장주 밸류에이션과 위험선호를 동시에 건드립니다.',
+            }
+          : null,
+        results.dxy?.latest !== null && results.dxy?.latest !== undefined
+          ? {
+              title: `DXY ${results.dxy.latest.toFixed(2)}`,
+              impact: '환율, 신흥국 자산',
+              importance: 'high',
+              summary: '달러 강세가 원화와 아시아 통화에 압력을 줍니다.',
+            }
+          : null,
+        results.wti?.change_pct !== null && results.wti?.change_pct !== undefined
+          ? {
+              title: `WTI ${formatPct(results.wti.change_pct)}`,
+              impact: '원자재, 인플레 기대',
+              importance: 'mid',
+              summary: '유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다.',
+            }
+          : null,
+      ].filter(Boolean);
+      return liveIssues.length ? liveIssues : (baseData.issues || []);
+    })(),
+    newsItems: newsItems.length ? newsItems : (baseData.newsItems || []),
     assetGroups: [
       {
         id: 'commodities',
         label: '원자재',
         title: '원자재',
-        summary: '브라우저 직접 수집한 실시간 차트로 원자재 변화를 읽습니다.',
+        summary: hasLive ? '브라우저 직접 수집한 실시간 차트로 원자재 변화를 읽습니다.' : (baseData.assetGroups?.[0]?.summary || ''),
         items: commodityItems,
-        trend: results.wti?.points?.length ? results.wti.points.slice(-11) : [],
-        conclusion: '에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.',
+        trend: results.wti?.points?.length ? results.wti.points.slice(-11) : (baseData.assetGroups?.[0]?.trend || []),
+        conclusion: hasLive ? '에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.' : (baseData.assetGroups?.[0]?.conclusion || ''),
         status: statusFromChange(results.wti?.change_pct ?? null, '강세', '약세', 'N/A'),
-        freshness: results.wti?.freshness || 'N/A',
+        freshness: results.wti?.freshness || baseData.assetGroups?.[0]?.freshness || 'N/A',
       },
       {
         id: 'bonds',
         label: '채권',
         title: '채권',
-        summary: '미국 국채 수익률과 커브 변화를 확인합니다.',
+        summary: hasLive ? '미국 국채 수익률과 커브 변화를 확인합니다.' : (baseData.assetGroups?.[1]?.summary || ''),
         items: treasuryItems,
-        trend: results.tnx?.points?.length ? results.tnx.points.slice(-11) : [],
-        conclusion: '금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.',
+        trend: results.tnx?.points?.length ? results.tnx.points.slice(-11) : (baseData.assetGroups?.[1]?.trend || []),
+        conclusion: hasLive ? '금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.' : (baseData.assetGroups?.[1]?.conclusion || ''),
         status: statusFromChange(results.tnx?.change_pct ?? null, '압박', '완화', 'N/A'),
-        freshness: results.tnx?.freshness || 'N/A',
+        freshness: results.tnx?.freshness || baseData.assetGroups?.[1]?.freshness || 'N/A',
       },
       {
         id: 'indices',
         label: '지수',
         title: '지수',
-        summary: '실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.',
+        summary: hasLive ? '실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.' : (baseData.assetGroups?.[2]?.summary || ''),
         items: indexItems,
-        trend: results.spx?.points?.length ? results.spx.points.slice(-11) : [],
-        conclusion: '위험선호와 방어 회전의 강도를 확인합니다.',
+        trend: results.spx?.points?.length ? results.spx.points.slice(-11) : (baseData.assetGroups?.[2]?.trend || []),
+        conclusion: hasLive ? '위험선호와 방어 회전의 강도를 확인합니다.' : (baseData.assetGroups?.[2]?.conclusion || ''),
         status: statusFromChange(results.spx?.change_pct ?? null, '강세', '약세', 'N/A'),
-        freshness: results.spx?.latestTradingDay ? `latest trading day: ${results.spx.latestTradingDay}` : 'N/A',
+        freshness: results.spx?.latestTradingDay ? `latest trading day: ${results.spx.latestTradingDay}` : (baseData.assetGroups?.[2]?.freshness || 'N/A'),
       },
       {
         id: 'fx',
         label: '환율',
         title: '환율',
-        summary: 'intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.',
+        summary: hasLive ? 'intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.' : (baseData.assetGroups?.[3]?.summary || ''),
         items: fxItems,
-        trend: results.usdkrw?.points?.length ? results.usdkrw.points.slice(-11) : [],
-        conclusion: '달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.',
+        trend: results.usdkrw?.points?.length ? results.usdkrw.points.slice(-11) : (baseData.assetGroups?.[3]?.trend || []),
+        conclusion: hasLive ? '달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.' : (baseData.assetGroups?.[3]?.conclusion || ''),
         status: statusFromChange(results.dxy?.change_pct ?? null, '강세', '완화', 'N/A'),
-        freshness: results.usdkrw?.freshness || 'N/A',
+        freshness: results.usdkrw?.freshness || baseData.assetGroups?.[3]?.freshness || 'N/A',
       },
     ],
-    actions: baseData.actions.map((action) => ({ ...action })),
+    actions: (baseData.actions || []).map((action) => ({ ...action })),
   };
 }
 
