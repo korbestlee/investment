@@ -1,5 +1,6 @@
 const SAMPLE_DATA = window.MARKET_DATA_SAMPLE || null;
 const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
+const ALL_ORIGINS_GET = 'https://api.allorigins.win/get';
 
 const state = {
   activeAssetGroupId: null,
@@ -300,16 +301,26 @@ async function fetchJson(url) {
   return response.json();
 }
 
+async function fetchProxy(targetUrl) {
+  const proxyUrl = new URL(ALL_ORIGINS_GET);
+  proxyUrl.searchParams.set('url', targetUrl.toString());
+  const response = await fetch(proxyUrl.toString(), { cache: 'no-store' });
+  if (!response.ok) {
+    throw new Error(`Proxy returned ${response.status}`);
+  }
+  const payload = await response.json();
+  if (payload?.error) {
+    throw new Error(payload.error);
+  }
+  return payload.contents || '';
+}
+
 async function fetchYahooChart(symbol, interval = '1m', range = '1d') {
   const url = new URL(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}`);
   url.searchParams.set('interval', interval);
   url.searchParams.set('range', range);
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Yahoo chart ${symbol} returned ${response.status}`);
-  }
-  const payload = await response.json();
-  const chart = payload?.chart || {};
+  const contents = await fetchProxy(url);
+  const chart = JSON.parse(contents)?.chart || {};
   if (chart.error) {
     throw new Error(chart.error.description || `Yahoo error for ${symbol}`);
   }
@@ -386,11 +397,16 @@ async function fetchLiveMarketData() {
   };
 
   const results = {};
-  await Promise.all(
-    Object.entries(symbols).map(async ([key, symbol]) => {
-      results[key] = buildSeriesPayload(await fetchYahooChart(symbol), symbol);
-    }),
-  );
+  const entries = Object.entries(symbols);
+  const batchSize = 4;
+  for (let index = 0; index < entries.length; index += batchSize) {
+    const batch = entries.slice(index, index + batchSize);
+    await Promise.all(
+      batch.map(async ([key, symbol]) => {
+        results[key] = buildSeriesPayload(await fetchYahooChart(symbol), symbol);
+      }),
+    );
+  }
 
   const commodityItems = [
     {
@@ -500,21 +516,64 @@ async function fetchLiveMarketData() {
     },
   ];
 
+  const newsUrl = new URL('https://feeds.finance.yahoo.com/rss/2.0/headline');
+  newsUrl.searchParams.set('s', '^GSPC,^IXIC,CL=F,GC=F,^TNX,USDKRW=X');
+  newsUrl.searchParams.set('region', 'US');
+  newsUrl.searchParams.set('lang', 'en-US');
+
+  let newsItems = baseData.newsItems;
+  try {
+    const rss = await fetchProxy(newsUrl);
+    const xml = new DOMParser().parseFromString(rss, 'text/xml');
+    const items = [...xml.querySelectorAll('channel > item')].slice(0, 4);
+    newsItems = items.map((item) => {
+      const title = item.querySelector('title')?.textContent?.trim() || 'Untitled headline';
+      const summary = item.querySelector('description')?.textContent?.trim() || 'Yahoo Finance headline';
+      const link = item.querySelector('link')?.textContent?.trim() || 'https://finance.yahoo.com/';
+      const pubDate = item.querySelector('pubDate')?.textContent?.trim() || '';
+      const text = `${title} ${summary}`.toLowerCase();
+      let impact = '시장 전반';
+      let importance = 'mid';
+      if (text.includes('fed') || text.includes('rate') || text.includes('yield') || text.includes('bond') || text.includes('treasury')) {
+        impact = '채권, 금리';
+        importance = 'high';
+      } else if (text.includes('oil') || text.includes('wti') || text.includes('brent') || text.includes('copper') || text.includes('gold') || text.includes('commodity')) {
+        impact = '원자재, 인플레 기대';
+        importance = 'high';
+      } else if (text.includes('dollar') || text.includes('fx') || text.includes('krw') || text.includes('yen') || text.includes('yuan')) {
+        impact = '환율, 신흥국 자산';
+        importance = 'high';
+      } else if (text.includes('stock') || text.includes('index') || text.includes('equity') || text.includes('nasdaq') || text.includes('sp500') || text.includes('s&p')) {
+        impact = '지수, 위험선호';
+      }
+      return {
+        title: title.slice(0, 120),
+        summary: summary.slice(0, 180),
+        impact,
+        importance,
+        link,
+        published: pubDate,
+      };
+    });
+  } catch {
+    newsItems = baseData.newsItems;
+  }
+
   return {
     ...baseData,
     date: new Date().toISOString().slice(0, 10),
     collectedAt: new Date().toISOString(),
     source: {
       provider: 'Yahoo Finance',
-      mode: 'live',
-      note: 'Fetched directly from browser',
+      mode: 'live via CORS proxy',
+      note: 'Fetched through allorigins from browser',
     },
     freshness: {
       fx: results.usdkrw.freshness,
       indices: results.spx.freshness,
       commodities: results.wti.freshness,
       bonds: results.tnx.freshness,
-      news: 'sample',
+      news: newsItems.length ? 'live rss' : 'sample',
     },
     signals: [
       {
@@ -559,7 +618,7 @@ async function fetchLiveMarketData() {
         summary: '유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다.',
       },
     ],
-    newsItems: baseData.newsItems,
+    newsItems,
     assetGroups: [
       {
         id: 'commodities',
