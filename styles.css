@@ -242,6 +242,23 @@ a {
   font-size: 0.92rem;
 }
 
+.snapshot-age {
+  margin: -4px 0 0;
+  padding: 12px 14px;
+  border-radius: 16px;
+  border: 1px solid rgba(245, 158, 11, 0.22);
+  background: rgba(245, 158, 11, 0.08);
+  color: #fbbf24;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.snapshot-age.is-stale {
+  border-color: rgba(251, 113, 133, 0.3);
+  background: rgba(251, 113, 133, 0.09);
+  color: #fda4af;
+}
+
 .verify-panel {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

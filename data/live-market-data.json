@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "collectedAt": "2026-06-14T13:32:33Z",
+  "collectedAt": "2026-06-14T13:47:15Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -33,28 +33,28 @@
   "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
   "issues": [
     {
-      "title": "Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Area",
+      "title": "No Iran Deal Yet; Five Stocks In Buy",
       "impact": "지수, 위험선호",
       "importance": "mid",
       "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
       "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures%3A-no-iran.html?.tsrc=rss"
     },
     {
-      "title": "Why IonQ Stock Ended This Week in the Green Despite Early Se",
+      "title": "IonQ Stock Ended This Week in the",
       "impact": "지수, 위험선호",
       "importance": "mid",
       "summary": "IonQ bounced back from being down double digits and ended the week in positive territory.",
       "link": "https://www.fool.com/investing/2026/06/14/why-ionq-stock-ended-this-week-in-the-green-despit/?.tsrc=rss"
     },
     {
-      "title": "VGLT vs. TLT: Which Treasury Bond ETF Is the Better Buy?",
+      "title": "VGLT vs. TLT",
       "impact": "채권, 금리",
       "importance": "high",
       "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
       "link": "https://www.fool.com/coverage/etfs/2026/06/14/vglt-vs-tlt-which-treasury-bond-etf-is-the-better-buy/?.tsrc=rss"
     },
     {
-      "title": "Dave Ramsey says most millionaires just copied the guy in th",
+      "title": "Dave Ramsey says most millionaires",
       "impact": "시장 전반",
       "importance": "mid",
       "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
@@ -63,7 +63,7 @@
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures: No Iran Deal Yet; Five Stocks In Buy Areas, SpaceX's Next Test",
+      "title": "No Iran Deal Yet; Five Stocks In Buy",
       "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
       "impact": "지수, 위험선호",
       "importance": "mid",
@@ -71,7 +71,7 @@
       "published": "Sun, 14 Jun 2026 13:16:00 +0000"
     },
     {
-      "title": "Why IonQ Stock Ended This Week in the Green Despite Early Sell-Offs",
+      "title": "IonQ Stock Ended This Week in the",
       "summary": "IonQ bounced back from being down double digits and ended the week in positive territory.",
       "impact": "지수, 위험선호",
       "importance": "mid",
@@ -79,7 +79,7 @@
       "published": "Sun, 14 Jun 2026 12:45:00 +0000"
     },
     {
-      "title": "VGLT vs. TLT: Which Treasury Bond ETF Is the Better Buy?",
+      "title": "VGLT vs. TLT",
       "summary": "Expense-conscious investors may find one fund's risk profile and historical growth especially compelling compared to its larger rival.",
       "impact": "채권, 금리",
       "importance": "high",
@@ -87,7 +87,7 @@
       "published": "Sun, 14 Jun 2026 12:31:21 +0000"
     },
     {
-      "title": "Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio",
+      "title": "Dave Ramsey says most millionaires",
       "summary": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make.",
       "impact": "시장 전반",
       "importance": "mid",

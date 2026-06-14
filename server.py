@@ -35,6 +35,38 @@ def format_pct(value: float | None) -> str:
     return f"{sign}{value:.2f}%"
 
 
+def compact_headline(title: str, summary: str = "") -> str:
+    raw_title = " ".join((title or "").split()).strip()
+    if not raw_title:
+        return "Untitled headline"
+    cleaned = raw_title
+    for prefix in ("Dow Jones Futures", "Stock Market Today", "Market Watch", "Opinion", "Analysis", "Breaking"):
+        if cleaned.lower().startswith(prefix.lower() + ":"):
+            cleaned = cleaned[len(prefix) + 1 :].strip()
+            break
+    if cleaned.lower().startswith("why "):
+        cleaned = cleaned[4:].strip()
+    cleaned = cleaned.split("|", 1)[0].strip()
+    cleaned = cleaned.split(" - ", 1)[0].strip()
+    primary = cleaned.split(":", 1)[0].split("—", 1)[0].split("–", 1)[0].strip()
+    if len(primary) <= 36:
+        return primary
+    words = primary.split()
+    if len(words) > 1:
+        text = ""
+        for word in words:
+            next_text = f"{text} {word}".strip()
+            if len(next_text) > 36:
+                break
+            text = next_text
+        if text:
+            return text
+    summary_text = " ".join((summary or "").split()).strip()
+    if summary_text:
+        return summary_text[:36].rstrip()
+    return primary[:36].rstrip()
+
+
 def fetch_yahoo_chart(symbol: str, interval: str = "1m", range_: str = "1d") -> dict:
     response = requests.get(
         f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}",
@@ -119,7 +151,7 @@ def fetch_yahoo_news() -> list[dict]:
             importance = "mid"
         items.append(
             {
-                "title": title or "Untitled headline",
+                "title": compact_headline(title, summary),
                 "summary": summary[:180] if summary else "Yahoo Finance RSS headline",
                 "impact": impact,
                 "importance": importance,

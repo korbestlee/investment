@@ -58,6 +58,7 @@ GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 읽습니다.
 - `data/market-data.sample.json`: fallback 샘플 데이터
 - `data/live-market-data.json`: GitHub Pages용 live snapshot
 - `update_live_snapshot.py`: live snapshot 생성 스크립트
+- `.github/workflows/refresh-live-snapshot.yml`: daily snapshot refresh workflow
 - `verify_live.sh`: live 소스, 날짜, freshness 확인 스크립트
 - `run_live.sh`: live 서버 실행 스크립트
 
@@ -70,7 +71,8 @@ GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 읽습니다.
 5. `Verify Live` 버튼과 `./verify_live.sh`로 최신성 상태를 확인할 수 있습니다.
 6. 판정 엔진은 `assetGroups` 상태를 기준으로 레짐을 계산합니다.
 7. freshness 카드와 verify 패널이 최신성 상태를 보여줍니다.
-8. 뉴스 헤드라인과 오늘의 일정은 브리핑 결론을 보조합니다.
+8. 스냅샷 경과 시간이 오래되면 상단에 경고가 표시됩니다.
+9. 뉴스 헤드라인과 오늘의 일정은 브리핑 결론을 보조합니다.
 
 ## Notes
 
