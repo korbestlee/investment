@@ -13,6 +13,12 @@
 
 ## Run
 
+Published GitHub Pages URL:
+
+```text
+https://korbestlee.github.io/investment/
+```
+
 샘플 데이터만 보려면 정적 서버로 열 수 있습니다.
 
 ```bash
