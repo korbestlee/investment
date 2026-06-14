@@ -1,5 +1,6 @@
 const SAMPLE_URL = './data/market-data.sample.json';
 const API_URL = '/api/market-data';
+const IS_LOCAL_HOST = ['localhost', '127.0.0.1'].includes(window.location.hostname);
 
 const state = {
   activeAssetGroupId: null,
@@ -293,20 +294,35 @@ async function fetchJson(url) {
 }
 
 async function loadData() {
+  const sampleData = await fetchJson(SAMPLE_URL);
+
+  if (!IS_LOCAL_HOST) {
+    return {
+      ...sampleData,
+      source: {
+        ...sampleData.source,
+        provider: 'GitHub Pages sample',
+        mode: 'static',
+        note: `${sampleData.source?.note || ''} Live API is disabled on GitHub Pages.`,
+      },
+    };
+  }
+
   try {
-    return await fetchJson(API_URL);
-  } catch (apiError) {
-    try {
-      return await fetchJson(SAMPLE_URL);
-    } catch (sampleError) {
-      throw new Error(`Failed to load both live and sample data: ${apiError.message}; ${sampleError.message}`);
-    }
+    const liveData = await fetchJson(API_URL);
+    return {
+      ...sampleData,
+      ...liveData,
+      source: liveData.source || sampleData.source,
+    };
+  } catch {
+    return sampleData;
   }
 }
 
 async function refresh() {
   const note = $('fetch-note');
-  note.textContent = '데이터를 불러오는 중...';
+  note.textContent = IS_LOCAL_HOST ? '데이터를 불러오는 중...' : '샘플 데이터를 불러오는 중...';
   try {
     const data = await loadData();
     renderAll(data);
@@ -319,10 +335,15 @@ async function refresh() {
 
 function attachActions() {
   $('refresh-btn')?.addEventListener('click', refresh);
-  $('verify-btn')?.addEventListener('click', async () => {
-    await refresh();
-    document.getElementById('verify-panel')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  });
+  const verifyButton = $('verify-btn');
+  if (verifyButton) {
+    verifyButton.textContent = IS_LOCAL_HOST ? 'Verify Live' : 'Static Mode';
+    verifyButton.disabled = !IS_LOCAL_HOST;
+    verifyButton.addEventListener('click', async () => {
+      await refresh();
+      document.getElementById('verify-panel')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
