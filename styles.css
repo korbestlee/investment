@@ -350,6 +350,20 @@ a {
   padding: 18px;
 }
 
+.action-kicker,
+.action-other-title {
+  color: var(--accent);
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.action-card.current {
+  border-color: rgba(125, 211, 252, 0.34);
+  background: linear-gradient(135deg, rgba(14, 30, 54, 0.98), rgba(8, 20, 38, 0.98));
+  box-shadow: inset 0 0 0 1px rgba(125, 211, 252, 0.14);
+}
+
 .issue-head {
   display: flex;
   gap: 12px;

@@ -182,6 +182,101 @@ def status_from_change(change_pct: float | None, positive_label: str, negative_l
     return neutral_label
 
 
+def action_catalog() -> list[dict]:
+    return [
+        {
+            "state": "Neutral",
+            "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+            "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+        },
+        {
+            "state": "Risk-on",
+            "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+            "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+        },
+        {
+            "state": "Risk-off",
+            "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+            "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+        },
+        {
+            "state": "Inflation shock",
+            "rule": "장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.",
+            "detail": "유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.",
+        },
+        {
+            "state": "Growth shock",
+            "rule": "경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.",
+            "detail": "구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.",
+        },
+        {
+            "state": "Policy shock",
+            "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+            "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+        },
+    ]
+
+
+def build_regime(results: dict) -> tuple[str, str, str]:
+    spx_change = results["spx"]["change_pct"] or 0
+    tnx_change = results["tnx"]["change_pct"] or 0
+    dxy_change = results["dxy"]["change_pct"] or 0
+    wti_change = results["wti"]["change_pct"] or 0
+    copper_change = results["copper"]["change_pct"] or 0
+
+    if abs(tnx_change) >= 0.35 and abs(spx_change) >= 0.6:
+        return (
+            "Policy shock",
+            "금리 변동성",
+            "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+        )
+    if wti_change >= 1.2 and tnx_change >= 0.15:
+        return (
+            "Inflation shock",
+            "유가 + 금리",
+            "유가와 금리의 동반 상승으로 인플레이션 재가열 경계가 높아졌습니다.",
+        )
+    if spx_change <= -0.6 and copper_change <= -0.5 and tnx_change <= 0:
+        return (
+            "Growth shock",
+            "성장 둔화",
+            "주식과 산업금속 약세가 겹치며 성장 둔화 우려가 커지고 있습니다.",
+        )
+    if spx_change <= -0.35 and (dxy_change >= 0.1 or tnx_change >= 0.1):
+        return (
+            "Risk-off",
+            "달러 + 금리",
+            "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
+        )
+    if spx_change >= 0.35 and tnx_change <= 0.05 and dxy_change <= 0.05:
+        return (
+            "Risk-on",
+            "주식 + 달러 완화",
+            "주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.",
+        )
+    return (
+        "Neutral",
+        "혼조 신호",
+        "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+    )
+
+
+def build_actions(current_state: str, results: dict) -> tuple[dict, list[dict]]:
+    actions = copy.deepcopy(action_catalog())
+    for action in actions:
+        action["isCurrent"] = action["state"] == current_state
+    if (results["wti"]["change_pct"] or 0) > 1:
+        for action in actions:
+            if action["state"] == "Inflation shock":
+                action["detail"] = "유가 급등이 기대 인플레이션과 장기금리 상방을 다시 자극하는지 확인합니다."
+    if (results["spx"]["change_pct"] or 0) < 0:
+        for action in actions:
+            if action["state"] == "Risk-off":
+                action["detail"] = "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다."
+    current_action = next((action for action in actions if action["state"] == current_state), actions[0])
+    return current_action, actions
+
+
 def build_market_data() -> dict:
     sample = load_sample()
     try:
@@ -416,17 +511,8 @@ def build_market_data() -> dict:
         },
     ]
 
-    actions = copy.deepcopy(sample["actions"])
-    if (results["wti"]["change_pct"] or 0) > 1:
-        actions[1]["detail"] = "유가 반등이 물가 기대를 자극하는지 확인합니다."
-    if (results["spx"]["change_pct"] or 0) < 0:
-        actions[0]["detail"] = "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다."
-
-    top_line = "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다."
-    if (results["spx"]["change_pct"] or 0) < 0 and (results["tnx"]["change_pct"] or 0) > 0:
-        top_line = "금리 상승과 주식 약세가 함께 보여 위험자산 압박이 커지고 있습니다."
-    elif (results["spx"]["change_pct"] or 0) > 0 and (results["tnx"]["change_pct"] or 0) <= 0:
-        top_line = "주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다."
+    market_state, driver_label, top_line = build_regime(results)
+    current_action, actions = build_actions(market_state, results)
 
     return {
         "date": datetime.now(SEOUL_TZ).strftime("%Y-%m-%d"),
@@ -446,7 +532,7 @@ def build_market_data() -> dict:
         "signals": [
             {
                 "label": "시장 상태",
-                "value": "Risk-off" if (results["spx"]["change_pct"] or 0) < 0 else "Neutral",
+                "value": market_state,
                 "sub": "자산군 신호를 합쳐 레짐을 계산했습니다.",
             },
             {
@@ -456,8 +542,8 @@ def build_market_data() -> dict:
             },
             {
                 "label": "핵심 드라이버",
-                "value": "금리 + 달러",
-                "sub": "미국 금리와 달러 강세가 핵심 축입니다.",
+                "value": driver_label,
+                "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다.",
             },
         ],
         "topLine": top_line,
@@ -465,6 +551,7 @@ def build_market_data() -> dict:
         "newsItems": news_items,
         "criteria": sample["criteria"],
         "assetGroups": asset_groups,
+        "currentAction": current_action,
         "actions": actions,
     }
 
