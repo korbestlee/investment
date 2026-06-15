@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "collectedAt": "2026-06-15T21:40:54Z",
+  "collectedAt": "2026-06-15T22:26:31Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.07%",
+      "value": "-0.09%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-4.38%",
+      "value": "+0.48%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.70%",
+      "value": "-0.17%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Energy Market Assessment",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Oil & Gas 360) – The Fracking Revolution Working Here & Freedom Growing Over There Have UP The Direction We Head With […]",
-      "link": "https://finance.yahoo.com/energy/articles/energy-market-assessment-fracking-revolution-213054034.html?.tsrc=rss"
-    },
-    {
-      "title": "3 Reasons to Avoid AGO and 1 Stock",
+      "title": "Stock Market Today, June 15",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Over the last six months, Assured Guaranty’s shares have sunk to $76.52, producing a disappointing 16.5% loss - a stark contrast to the S&P 500’s 8.4% gain. This might have investo",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ago-1-212407808.html?.tsrc=rss"
+      "summary": "Today, June 15, 2026, investors analyze a $2.75 billion cash buyout for Payoneer from Nuvei.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-payoneer-global-jumps-after-nuvei-agrees-to-acquire-company-for-275-billion/?.tsrc=rss"
     },
     {
-      "title": "3 Reasons to Sell GTES and 1 Stock",
+      "title": "2 Reasons to Like SSB and 1 to Stay",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Gates Industrial Corporation’s 23.4% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $26.91 per share. This run-up might have ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-gtes-1-211607987.html?.tsrc=rss"
+      "summary": "Since December 2025, SouthState has been in a holding pattern, posting a small return of 1.9% while floating around $98.95. The stock also fell short of the S&P 500’s 8.4% gain dur",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ssb-1-stay-215607973.html?.tsrc=rss"
     },
     {
-      "title": "Petrolympic Announces Results From",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "TORONTO, ON / ACCESS Newswire / June 15, 2026 / Petrolympic Ltd. (TSX-V:PCQ)(OTC:PCQRF) (the \"Company\") is pleased to provide an update on its 2026 winter exploration program in th",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/petrolympic-announces-results-2026-winter-211500614.html?.tsrc=rss"
+      "title": "Jazz Pharmaceuticals (JAZZ)",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Jazz Pharmaceuticals has had an impressive run over the past six months as its shares have beaten the S&P 500 by 28.7%. The stock now trades at $232.44, marking a 37.1% gain. This ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jazz-pharmaceuticals-jazz-buy-sell-214807898.html?.tsrc=rss"
+    },
+    {
+      "title": "3 Reasons FBNC is Risky and 1 Stock",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Over the past six months, First Bancorp has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $61.79, representing a healthy 15.6% increase. This was ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fbnc-risky-1-214007930.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Energy Market Assessment",
-      "summary": "(Oil & Gas 360) – The Fracking Revolution Working Here & Freedom Growing Over There Have UP The Direction We Head With […]",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/energy-market-assessment-fracking-revolution-213054034.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:30:54 +0000"
-    },
-    {
-      "title": "3 Reasons to Avoid AGO and 1 Stock",
-      "summary": "Over the last six months, Assured Guaranty’s shares have sunk to $76.52, producing a disappointing 16.5% loss - a stark contrast to the S&P 500’s 8.4% gain. This might have investo",
+      "title": "Stock Market Today, June 15",
+      "summary": "Today, June 15, 2026, investors analyze a $2.75 billion cash buyout for Payoneer from Nuvei.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ago-1-212407808.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:24:07 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-payoneer-global-jumps-after-nuvei-agrees-to-acquire-company-for-275-billion/?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:59:05 +0000"
     },
     {
-      "title": "3 Reasons to Sell GTES and 1 Stock",
-      "summary": "Gates Industrial Corporation’s 23.4% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $26.91 per share. This run-up might have ",
+      "title": "2 Reasons to Like SSB and 1 to Stay",
+      "summary": "Since December 2025, SouthState has been in a holding pattern, posting a small return of 1.9% while floating around $98.95. The stock also fell short of the S&P 500’s 8.4% gain dur",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-gtes-1-211607987.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:16:07 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ssb-1-stay-215607973.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:56:07 +0000"
     },
     {
-      "title": "Petrolympic Announces Results From",
-      "summary": "TORONTO, ON / ACCESS Newswire / June 15, 2026 / Petrolympic Ltd. (TSX-V:PCQ)(OTC:PCQRF) (the \"Company\") is pleased to provide an update on its 2026 winter exploration program in th",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/petrolympic-announces-results-2026-winter-211500614.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:15:00 +0000"
+      "title": "Jazz Pharmaceuticals (JAZZ)",
+      "summary": "Jazz Pharmaceuticals has had an impressive run over the past six months as its shares have beaten the S&P 500 by 28.7%. The stock now trades at $232.44, marking a 37.1% gain. This ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jazz-pharmaceuticals-jazz-buy-sell-214807898.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:48:07 +0000"
+    },
+    {
+      "title": "3 Reasons FBNC is Risky and 1 Stock",
+      "summary": "Over the past six months, First Bancorp has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $61.79, representing a healthy 15.6% increase. This was ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fbnc-risky-1-214007930.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:40:07 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.16",
-          "change": "-4.38%",
-          "direction": "down"
+          "value": "81.14",
+          "change": "+0.48%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "83.51",
-          "change": "-4.37%",
-          "direction": "down"
+          "value": "83.45",
+          "change": "+0.34%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4331.00",
-          "change": "+2.18%",
-          "direction": "up"
+          "value": "4328.40",
+          "change": "-0.53%",
+          "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.49",
-          "change": "+0.70%",
-          "direction": "up"
+          "change": "-0.17%",
+          "direction": "down"
         }
       ],
       "trend": [
-        81.12000274658203,
-        81.12000274658203,
-        81.1500015258789,
-        81.13999938964844,
-        81.16000366210938,
-        81.13999938964844,
-        81.16000366210938,
+        81.02999877929688,
+        81.02999877929688,
+        81.05000305175781,
+        81.05999755859375,
+        81.04000091552734,
+        81.08000183105469,
         81.12999725341797,
-        81.13999938964844,
-        81.16000366210938,
-        81.16000366210938
+        81.12000274658203,
+        81.12999725341797,
+        81.12000274658203,
+        81.13999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-16 05:59 KST"
+      "status": "강세",
+      "freshness": "2026-06-16 07:16 KST"
     },
     {
       "id": "bonds",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
-          "change": "-0.07%",
+          "value": "99.66",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1516.13",
-          "change": "-0.12%",
+          "value": "1514.42",
+          "change": "-0.23%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.32",
-          "change": "+0.08%",
+          "value": "160.33",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7570",
+          "value": "6.7565",
           "change": "-0.08%",
           "direction": "down"
         }
       ],
       "trend": [
-        1513.8800048828125,
-        1516.81005859375,
-        1516.3199462890625,
-        1514.6400146484375,
-        1514.239990234375,
-        1514.0799560546875,
-        1513.97998046875,
-        1514.0999755859375,
-        1514.02001953125,
-        1517.31005859375,
-        1516.1300048828125
+        1515.780029296875,
+        1515.0999755859375,
+        1514.75,
+        1514.199951171875,
+        1514.5699462890625,
+        1514.3399658203125,
+        1514.260009765625,
+        1515.75,
+        1514.5999755859375,
+        1514.510009765625,
+        1514.4200439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-16 06:40 KST"
+      "freshness": "2026-06-16 07:26 KST"
     }
   ],
   "currentAction": {
