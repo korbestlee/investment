@@ -27,6 +27,7 @@ python3 server.py
 
 GitHub Pages에서는 `main` 브랜치의 `data/live-market-data.json`을 원격으로 읽습니다.
 로컬 live 서버를 먼저 실행한 뒤 스냅샷 파일을 갱신하고 푸시하면 Pages에서도 같은 형식으로 표시됩니다.
+GitHub Actions는 30분마다 스냅샷을 갱신합니다. 휴장 중인 자산은 최근 거래 시각을 유지합니다.
 
 터미널에서 live 상태를 한 번에 확인하려면:
 

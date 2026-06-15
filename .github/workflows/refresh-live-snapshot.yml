@@ -2,15 +2,20 @@ name: Refresh live snapshot
 
 on:
   schedule:
-    - cron: '10 15 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-live-snapshot
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
