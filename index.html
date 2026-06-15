@@ -14,26 +14,28 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260615b" />
-    <script defer src="./app.js?v=20260615b"></script>
+    <link rel="stylesheet" href="./styles.css?v=20260616a" />
+    <script defer src="./app.js?v=20260616a"></script>
   </head>
   <body>
     <div class="app-shell">
       <header class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">Daily Global Macro Briefing</p>
-          <h1>글로벌 금융 브리핑</h1>
-          <p class="lead">
-            이 앱은 오늘의 이슈를 모으고, 자산별 신호를 같은 기준으로 해석한 뒤,
-            당일 포지션 대응까지 바로 연결하도록 설계되었습니다.
-          </p>
-        </div>
-
         <div class="hero-panel">
-          <div class="panel-topline">
-            <span class="status-pill" id="market-state">Loading</span>
-            <div class="panel-actions">
+          <div class="hero-head">
+            <div class="hero-copy">
+              <p class="eyebrow">Daily Global Macro Briefing</p>
+              <h1>글로벌 금융 브리핑</h1>
+              <p class="lead">
+                오늘 시장 상태와 대응만 먼저 읽고, 필요할 때만 세부 자산과 뉴스를 확인하도록 정리했습니다.
+              </p>
+            </div>
+            <div class="panel-topline">
+              <span class="status-pill" id="market-state">Loading</span>
               <span class="muted" id="brief-date"></span>
+            </div>
+          </div>
+          <div class="panel-actions">
+            <div class="panel-actions-group">
               <button class="refresh-btn" id="refresh-btn" type="button">Refresh</button>
               <button class="verify-btn" id="verify-btn" type="button">Verify Live</button>
             </div>
@@ -45,11 +47,14 @@
             </div>
           </div>
           <div class="signal-grid" id="signal-grid"></div>
-          <p class="fetch-note" id="fetch-note"></p>
-          <p class="snapshot-age" id="snapshot-age"></p>
-          <div class="freshness-grid" id="freshness-grid"></div>
-          <div class="verify-panel" id="verify-panel"></div>
-          <div class="ops-note" id="ops-note"></div>
+          <details class="ops-details">
+            <summary>데이터 상태 보기</summary>
+            <p class="fetch-note" id="fetch-note"></p>
+            <p class="snapshot-age" id="snapshot-age"></p>
+            <div class="freshness-grid" id="freshness-grid"></div>
+            <div class="verify-panel" id="verify-panel"></div>
+            <div class="ops-note" id="ops-note"></div>
+          </details>
         </div>
       </header>
 
