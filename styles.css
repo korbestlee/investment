@@ -192,7 +192,8 @@ a {
 
 .signal-grid,
 .freshness-grid,
-.decision-grid {
+.decision-grid,
+.regime-factors {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 14px;
@@ -200,6 +201,7 @@ a {
 
 .signal-card,
 .decision-card,
+.regime-factor,
 .freshness-item,
 .issue-card,
 .news-card,
@@ -215,6 +217,27 @@ a {
 .signal-card,
 .decision-card {
   padding: 18px;
+}
+
+.regime-factors {
+  margin-top: 14px;
+}
+
+.regime-factor {
+  padding: 16px 18px;
+}
+
+.regime-factor-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.regime-factor p {
+  margin: 10px 0 0;
+  color: var(--muted-strong);
+  line-height: 1.6;
 }
 
 .signal-value,

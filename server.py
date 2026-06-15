@@ -217,47 +217,85 @@ def action_catalog() -> list[dict]:
     ]
 
 
-def build_regime(results: dict) -> tuple[str, str, str]:
+def build_regime(results: dict) -> tuple[str, str, str, list[dict]]:
     spx_change = results["spx"]["change_pct"] or 0
     tnx_change = results["tnx"]["change_pct"] or 0
     dxy_change = results["dxy"]["change_pct"] or 0
     wti_change = results["wti"]["change_pct"] or 0
     copper_change = results["copper"]["change_pct"] or 0
+    factors = [
+        {
+            "label": "S&P 500",
+            "value": format_pct(spx_change),
+            "signal": "risk",
+            "note": "주식 방향으로 위험선호 강도를 확인합니다.",
+        },
+        {
+            "label": "미 10년물",
+            "value": format_pct(tnx_change),
+            "signal": "rates",
+            "note": "장기금리 변화가 밸류에이션 부담을 결정합니다.",
+        },
+        {
+            "label": "DXY",
+            "value": format_pct(dxy_change),
+            "signal": "dollar",
+            "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다.",
+        },
+        {
+            "label": "WTI",
+            "value": format_pct(wti_change),
+            "signal": "inflation",
+            "note": "유가 상승은 인플레 재가열 경계로 이어집니다.",
+        },
+        {
+            "label": "Copper",
+            "value": format_pct(copper_change),
+            "signal": "growth",
+            "note": "산업금속 약세는 성장 둔화 우려를 반영합니다.",
+        },
+    ]
 
     if abs(tnx_change) >= 0.35 and abs(spx_change) >= 0.6:
         return (
             "Policy shock",
             "금리 변동성",
             "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+            factors,
         )
     if wti_change >= 1.2 and tnx_change >= 0.15:
         return (
             "Inflation shock",
             "유가 + 금리",
             "유가와 금리의 동반 상승으로 인플레이션 재가열 경계가 높아졌습니다.",
+            factors,
         )
     if spx_change <= -0.6 and copper_change <= -0.5 and tnx_change <= 0:
         return (
             "Growth shock",
             "성장 둔화",
             "주식과 산업금속 약세가 겹치며 성장 둔화 우려가 커지고 있습니다.",
+            factors,
         )
     if spx_change <= -0.35 and (dxy_change >= 0.1 or tnx_change >= 0.1):
         return (
             "Risk-off",
             "달러 + 금리",
             "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
+            factors,
         )
     if spx_change >= 0.35 and tnx_change <= 0.05 and dxy_change <= 0.05:
         return (
             "Risk-on",
             "주식 + 달러 완화",
             "주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.",
+            factors,
         )
     return (
         "Neutral",
         "혼조 신호",
         "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+        factors,
     )
 
 
@@ -511,7 +549,7 @@ def build_market_data() -> dict:
         },
     ]
 
-    market_state, driver_label, top_line = build_regime(results)
+    market_state, driver_label, top_line, regime_factors = build_regime(results)
     current_action, actions = build_actions(market_state, results)
 
     return {
@@ -547,6 +585,7 @@ def build_market_data() -> dict:
             },
         ],
         "topLine": top_line,
+        "regimeFactors": regime_factors,
         "issues": issues,
         "newsItems": news_items,
         "criteria": sample["criteria"],
