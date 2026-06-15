@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "collectedAt": "2026-06-14T16:45:55Z",
+  "collectedAt": "2026-06-15T01:14:34Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -33,66 +33,66 @@
   "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
   "issues": [
     {
-      "title": "Dow Jones Futures Due With Market At",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
-      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-due-with.html?.tsrc=rss"
-    },
-    {
-      "title": "3 Stocks to Load Up On Right Now",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The market is trading near all-time highs, but there are still attractive values to be had in dividend stocks.",
-      "link": "https://www.fool.com/investing/2026/06/14/3-stocks-to-load-up-on-right-now/?.tsrc=rss"
-    },
-    {
-      "title": "Newmont’s LunR Stake Adds New Angle",
+      "title": "Dow Jones Futures Rise, Oil Prices",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Newmont (NYSE:NEM) received a significant stake in LunR through a dividend in kind from Lundin Gold. The position represents more than 13% of LunR's issued shares, giving Newmont a",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-lunr-stake-adds-angle-151006244.html?.tsrc=rss"
+      "summary": "Futures rose and oil dived as President Trump announced an Iran deal. The stock market still must do this. What's next for SpaceX?",
+      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
     },
     {
-      "title": "The Most Dangerous Dividend ETF",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The JPMorgan Equity Premium Income ETF has been a below-average covered call ETF since 2023. Yet investors keep pouring money into it.",
-      "link": "https://www.fool.com/investing/2026/06/14/most-dangerous-dividend-etf-investors-buying-jepi/?.tsrc=rss"
+      "title": "Deal on ending the Iran war sends",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Share prices soared Monday in Asia after a deal was announced on ending the Iran war and reopening the Strait of Hormuz. Benchmarks in Tokyo and Seoul gained more than 5% Monday. O",
+      "link": "https://finance.yahoo.com/politics/articles/deal-ending-iran-war-sends-010029568.html?.tsrc=rss"
+    },
+    {
+      "title": "Deal on ending the Iran war sends",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Deal on ending the Iran war sends stock prices in Asian soaring, while oil prices slip more than $3.",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/deal-ending-iran-war-sends-005238684.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices fall on US-Iran agreement",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices dropped on Sunday after President Donald Trump said an agreement with Iran had been reached and the United States would end its naval blockade on the country.",
+      "link": "https://www.cnn.com/2026/06/14/business/oil-prices-iran-peace-agreement?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Due With Market At",
-      "summary": "President Trump posted Saturday than an Iran deal would \"get signed\" Sunday. The stock market still must do this. What's next for SpaceX?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-due-with.html?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 16:05:57 +0000"
-    },
-    {
-      "title": "3 Stocks to Load Up On Right Now",
-      "summary": "The market is trading near all-time highs, but there are still attractive values to be had in dividend stocks.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/14/3-stocks-to-load-up-on-right-now/?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 15:35:00 +0000"
-    },
-    {
-      "title": "Newmont’s LunR Stake Adds New Angle",
-      "summary": "Newmont (NYSE:NEM) received a significant stake in LunR through a dividend in kind from Lundin Gold. The position represents more than 13% of LunR's issued shares, giving Newmont a",
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "summary": "Futures rose and oil dived as President Trump announced an Iran deal. The stock market still must do this. What's next for SpaceX?",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-lunr-stake-adds-angle-151006244.html?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 15:10:06 +0000"
+      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 01:08:39 +0000"
     },
     {
-      "title": "The Most Dangerous Dividend ETF",
-      "summary": "The JPMorgan Equity Premium Income ETF has been a below-average covered call ETF since 2023. Yet investors keep pouring money into it.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/14/most-dangerous-dividend-etf-investors-buying-jepi/?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 14:36:00 +0000"
+      "title": "Deal on ending the Iran war sends",
+      "summary": "Share prices soared Monday in Asia after a deal was announced on ending the Iran war and reopening the Strait of Hormuz. Benchmarks in Tokyo and Seoul gained more than 5% Monday. O",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/politics/articles/deal-ending-iran-war-sends-010029568.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 01:00:29 +0000"
+    },
+    {
+      "title": "Deal on ending the Iran war sends",
+      "summary": "Deal on ending the Iran war sends stock prices in Asian soaring, while oil prices slip more than $3.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/deal-ending-iran-war-sends-005238684.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 00:52:38 +0000"
+    },
+    {
+      "title": "Oil prices fall on US-Iran agreement",
+      "summary": "Oil prices dropped on Sunday after President Donald Trump said an agreement with Iran had been reached and the United States would end its naval blockade on the country.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.cnn.com/2026/06/14/business/oil-prices-iran-peace-agreement?.tsrc=rss",
+      "published": "Sun, 14 Jun 2026 23:50:59 +0000"
     }
   ],
   "criteria": [
@@ -122,45 +122,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.88",
-          "change": "-3.23%",
+          "value": "80.77",
+          "change": "-4.84%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.33",
-          "change": "-3.37%",
+          "value": "83.78",
+          "change": "-4.07%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4238.80",
-          "change": "+3.03%",
+          "value": "4318.30",
+          "change": "+1.88%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.45",
-          "change": "+2.71%",
+          "value": "6.52",
+          "change": "+1.15%",
           "direction": "up"
         }
       ],
       "trend": [
-        42,
-        48,
-        45,
-        52,
-        58,
-        61,
-        66,
-        72,
-        78,
-        74,
-        79
+        81.0199966430664,
+        80.94000244140625,
+        80.9800033569336,
+        81.05000305175781,
+        80.97000122070312,
+        81.12000274658203,
+        80.94999694824219,
+        80.95999908447266,
+        80.88999938964844,
+        80.83999633789062,
+        80.7699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-13 05:59 KST"
+      "freshness": "2026-06-15 10:04 KST"
     },
     {
       "id": "bonds",
@@ -230,8 +230,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8123.62",
-          "change": "+4.63%",
+          "value": "8572.37",
+          "change": "+5.52%",
           "direction": "up"
         },
         {
@@ -266,45 +266,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.81",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "99.56",
+          "change": "-0.19%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1517.89",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "1510.78",
+          "change": "-0.47%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.19",
-          "change": "+0.17%",
-          "direction": "up"
+          "value": "160.11",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
           "value": "6.7621",
-          "change": "-0.19%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1517.550048828125,
-        1518.1400146484375,
-        1517.5699462890625,
-        1517.5400390625,
-        1517.9599609375,
-        1517.31005859375,
-        1517.9599609375,
-        1517.8199462890625,
-        1517.8900146484375,
-        1517.8900146484375,
-        1517.8900146484375
+        1508.0799560546875,
+        1508.5799560546875,
+        1509.47998046875,
+        1509.8800048828125,
+        1510.6800537109375,
+        1510.52001953125,
+        1510.47998046875,
+        1511.0799560546875,
+        1510.780029296875,
+        1510.8800048828125,
+        1510.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-15 01:34 KST"
+      "status": "완화",
+      "freshness": "2026-06-15 10:14 KST"
     }
   ],
   "actions": [
