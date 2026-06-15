@@ -14,8 +14,8 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Serif:wght@600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260616b" />
-    <script defer src="./app.js?v=20260616b"></script>
+    <link rel="stylesheet" href="./styles.css?v=20260616c" />
+    <script defer src="./app.js?v=20260616c"></script>
   </head>
   <body>
     <div class="app-shell">
@@ -115,43 +115,25 @@
         <section class="card">
           <div class="section-head compact">
             <div>
-              <p class="section-kicker">오늘의 일정</p>
-              <h2>집중할 시간대</h2>
+              <p class="section-kicker">브리핑 가이드</p>
+              <h2>언제 보고 어떻게 판단할지</h2>
             </div>
+          </div>
+          <div class="stack-head">
+            <h3>집중할 시간대</h3>
           </div>
           <div class="calendar-list" id="calendar-list"></div>
-        </section>
-
-        <section class="card">
-          <div class="section-head compact">
-            <div>
-              <p class="section-kicker">분석 기준</p>
-              <h2>판단 프레임</h2>
-            </div>
+          <div class="stack-head split">
+            <h3>판단 프레임</h3>
           </div>
           <div class="criteria-list" id="criteria-list"></div>
-        </section>
-
-        <section class="card">
-          <div class="section-head compact">
-            <div>
-              <p class="section-kicker">운영 방식</p>
-              <h2>수집 -> 분석 -> 대응</h2>
-            </div>
+          <div class="stack-head split">
+            <h3>운영 순서</h3>
           </div>
-          <ol class="flow-list">
-            <li>
-              <strong>수집</strong>
-              <span>가격, 뉴스, 이벤트, 포지셔닝을 가져온다.</span>
-            </li>
-            <li>
-              <strong>분석</strong>
-              <span>변화의 크기, 추세, 상호작용, 이벤트 충격으로 판정한다.</span>
-            </li>
-            <li>
-              <strong>대응</strong>
-              <span>상태별 템플릿으로 오늘의 행동을 제시한다.</span>
-            </li>
+          <ol class="flow-list compact">
+            <li><strong>수집</strong><span>가격과 뉴스를 먼저 확인합니다.</span></li>
+            <li><strong>분석</strong><span>금리, 달러, 주식, 원자재를 같은 기준으로 봅니다.</span></li>
+            <li><strong>대응</strong><span>현재 상태에 맞는 액션 한 가지만 우선 실행합니다.</span></li>
           </ol>
         </section>
       </main>
