@@ -122,11 +122,44 @@ function deriveRegime(results, fallbackState = 'N/A') {
   const dxyChange = results.dxy?.change_pct ?? null;
   const wtiChange = results.wti?.change_pct ?? null;
   const copperChange = results.copper?.change_pct ?? null;
+  const factors = [
+    {
+      label: 'S&P 500',
+      value: spxChange === null || spxChange === undefined ? 'N/A' : formatPct(spxChange),
+      signal: 'risk',
+      note: '주식 방향으로 위험선호 강도를 확인합니다.',
+    },
+    {
+      label: '미 10년물',
+      value: tnxChange === null || tnxChange === undefined ? 'N/A' : formatPct(tnxChange),
+      signal: 'rates',
+      note: '장기금리 변화가 밸류에이션 부담을 결정합니다.',
+    },
+    {
+      label: 'DXY',
+      value: dxyChange === null || dxyChange === undefined ? 'N/A' : formatPct(dxyChange),
+      signal: 'dollar',
+      note: '달러 강세는 신흥국과 위험자산에 역풍이 됩니다.',
+    },
+    {
+      label: 'WTI',
+      value: wtiChange === null || wtiChange === undefined ? 'N/A' : formatPct(wtiChange),
+      signal: 'inflation',
+      note: '유가 상승은 인플레 재가열 경계로 이어집니다.',
+    },
+    {
+      label: 'Copper',
+      value: copperChange === null || copperChange === undefined ? 'N/A' : formatPct(copperChange),
+      signal: 'growth',
+      note: '산업금속 약세는 성장 둔화 우려를 반영합니다.',
+    },
+  ];
   if ([spxChange, tnxChange, dxyChange, wtiChange, copperChange].some((value) => value === null || value === undefined)) {
     return {
       state: fallbackState,
       driver: 'N/A',
       topLine: '수집된 라이브 데이터가 충분하지 않아 기존 스냅샷 기준을 유지합니다.',
+      factors,
     };
   }
   if (Math.abs(tnxChange) >= 0.35 && Math.abs(spxChange) >= 0.6) {
@@ -134,6 +167,7 @@ function deriveRegime(results, fallbackState = 'N/A') {
       state: 'Policy shock',
       driver: '금리 변동성',
       topLine: '정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.',
+      factors,
     };
   }
   if (wtiChange >= 1.2 && tnxChange >= 0.15) {
@@ -141,6 +175,7 @@ function deriveRegime(results, fallbackState = 'N/A') {
       state: 'Inflation shock',
       driver: '유가 + 금리',
       topLine: '유가와 금리의 동반 상승으로 인플레이션 재가열 경계가 높아졌습니다.',
+      factors,
     };
   }
   if (spxChange <= -0.6 && copperChange <= -0.5 && tnxChange <= 0) {
@@ -148,6 +183,7 @@ function deriveRegime(results, fallbackState = 'N/A') {
       state: 'Growth shock',
       driver: '성장 둔화',
       topLine: '주식과 산업금속 약세가 겹치며 성장 둔화 우려가 커지고 있습니다.',
+      factors,
     };
   }
   if (spxChange <= -0.35 && (dxyChange >= 0.1 || tnxChange >= 0.1)) {
@@ -155,6 +191,7 @@ function deriveRegime(results, fallbackState = 'N/A') {
       state: 'Risk-off',
       driver: '달러 + 금리',
       topLine: '달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.',
+      factors,
     };
   }
   if (spxChange >= 0.35 && tnxChange <= 0.05 && dxyChange <= 0.05) {
@@ -162,12 +199,14 @@ function deriveRegime(results, fallbackState = 'N/A') {
       state: 'Risk-on',
       driver: '주식 + 달러 완화',
       topLine: '주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.',
+      factors,
     };
   }
   return {
     state: 'Neutral',
     driver: '혼조 신호',
     topLine: '자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.',
+    factors,
   };
 }
 
@@ -537,6 +576,29 @@ function renderDecisionGrid(data) {
     .join('');
 }
 
+function renderRegimeFactors(items) {
+  const list = $('regime-factors');
+  if (!list) return;
+  const factors = (items || []).filter(Boolean);
+  if (!factors.length) {
+    list.innerHTML = '';
+    return;
+  }
+  list.innerHTML = factors
+    .map(
+      (item) => `
+        <article class="regime-factor ${escapeHtml(item.signal || 'neutral')}">
+          <div class="regime-factor-head">
+            <span>${escapeHtml(item.label || '')}</span>
+            <strong>${escapeHtml(item.value || '')}</strong>
+          </div>
+          <p>${escapeHtml(item.note || '')}</p>
+        </article>
+      `,
+    )
+    .join('');
+}
+
 function renderFreshness(data) {
   const grid = $('freshness-grid');
   const freshness = data?.freshness || {};
@@ -705,6 +767,7 @@ function renderAll(data, workflowStatus) {
   renderCalendar(data);
   renderCriteria(data?.criteria);
   renderDecisionGrid(data);
+  renderRegimeFactors(data?.regimeFactors);
   renderActions(data);
   renderAssetTabs(data?.assetGroups || []);
   renderAssetPanel(data?.assetGroups || []);
@@ -1101,6 +1164,7 @@ async function fetchLiveMarketData() {
       },
     ],
     topLine: regime.state === 'N/A' ? (hasLive ? '실시간 데이터를 일부 수집했습니다. 수집된 값만 기준으로 보여줍니다.' : (baseData.topLine || '데이터를 불러오는 중입니다.')) : regime.topLine,
+    regimeFactors: regime.factors || baseData.regimeFactors || [],
     issues: (() => {
       const liveIssues = [
         results.tnx?.change_pct !== null && results.tnx?.change_pct !== undefined

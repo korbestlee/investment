@@ -31,6 +31,38 @@
     }
   ],
   "topLine": "미국 금리 상승과 달러 강세가 위험자산 전반을 압박하고 있습니다.",
+  "regimeFactors": [
+    {
+      "label": "S&P 500",
+      "value": "-1.10%",
+      "signal": "risk",
+      "note": "주식 방향으로 위험선호 강도를 확인합니다."
+    },
+    {
+      "label": "미 10년물",
+      "value": "+0.27%",
+      "signal": "rates",
+      "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
+    },
+    {
+      "label": "DXY",
+      "value": "+0.80%",
+      "signal": "dollar",
+      "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
+    },
+    {
+      "label": "WTI",
+      "value": "+3.10%",
+      "signal": "inflation",
+      "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
+    },
+    {
+      "label": "Copper",
+      "value": "-1.20%",
+      "signal": "growth",
+      "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
+    }
+  ],
   "issues": [
     {
       "title": "미 10년물 금리 상승",
