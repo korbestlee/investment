@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "collectedAt": "2026-06-15T09:17:28Z",
+  "collectedAt": "2026-06-15T13:27:39Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -30,69 +30,69 @@
       "sub": "미국 금리와 달러 강세가 핵심 축입니다."
     }
   ],
-  "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
+  "topLine": "주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.",
   "issues": [
     {
-      "title": "RBC Capital Markets named Precious",
+      "title": "Singapore Lines Up JPMorgan,",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Singapore's SGX plans a gold-clearing system by end-2026 as banks join its bullion market expansion.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/singapore-lines-jpmorgan-deutsche-bank-132417069.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices retreat to $80 after",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "President Trump has signaled that a legitimate peace deal between the US and Iran \"is now complete.\" This agreement would end all military hostilities between the nations and reope",
+      "link": "https://finance.yahoo.com/video/oil-prices-retreat-to-80-after-trump-announces-us-iran-peace-deal-132320370.html?.tsrc=rss"
+    },
+    {
+      "title": "Gold Sharply Higher As the U.S. and",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "RBC Capital Markets today announced it has been named Precious Metals House of the Year at the Energy Risk Awards 2026. The bank is recognised for its performance, strategic invest",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/rbc-capital-markets-named-precious-090000412.html?.tsrc=rss"
+      "summary": "Gold rose for a second day early Monday as the U.S. dollar and yields fell after Iran and the United",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-sharply-higher-u-iran-131127718.html?.tsrc=rss"
     },
     {
-      "title": "Market Chatter",
+      "title": "Oil prices sink, stocks set to soar",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The United States and Iran reached a framework agreement to end their conflict and reopen the Strait",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-deal-085012799.html?.tsrc=rss"
-    },
-    {
-      "title": "1 Semiconductor Stock Worth Your",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Semiconductors are the picks and shovels of modern technology. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it’s no wonder the indus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-attention-084407588.html?.tsrc=rss"
-    },
-    {
-      "title": "Crude prices plunge, stocks surge on",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices tumbled and stocks soared Monday after the United States and Iran said they had reached a deal to end their war that will reopen the Strait of Hormuz, sending a wave of ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss"
+      "summary": "Markets rally on expectations that the agreement will ease global energy supply concerns, though analysts warn gas prices may remain elevated for some time.",
+      "link": "https://www.cbsnews.com/news/oil-prices-today-stocks-trump-us-iran-deal/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "RBC Capital Markets named Precious",
-      "summary": "RBC Capital Markets today announced it has been named Precious Metals House of the Year at the Energy Risk Awards 2026. The bank is recognised for its performance, strategic invest",
+      "title": "Singapore Lines Up JPMorgan,",
+      "summary": "Singapore's SGX plans a gold-clearing system by end-2026 as banks join its bullion market expansion.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/singapore-lines-jpmorgan-deutsche-bank-132417069.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 13:24:17 +0000"
+    },
+    {
+      "title": "Oil prices retreat to $80 after",
+      "summary": "President Trump has signaled that a legitimate peace deal between the US and Iran \"is now complete.\" This agreement would end all military hostilities between the nations and reope",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/oil-prices-retreat-to-80-after-trump-announces-us-iran-peace-deal-132320370.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 13:23:20 +0000"
+    },
+    {
+      "title": "Gold Sharply Higher As the U.S. and",
+      "summary": "Gold rose for a second day early Monday as the U.S. dollar and yields fell after Iran and the United",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/rbc-capital-markets-named-precious-090000412.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 09:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-sharply-higher-u-iran-131127718.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 13:11:27 +0000"
     },
     {
-      "title": "Market Chatter",
-      "summary": "The United States and Iran reached a framework agreement to end their conflict and reopen the Strait",
+      "title": "Oil prices sink, stocks set to soar",
+      "summary": "Markets rally on expectations that the agreement will ease global energy supply concerns, though analysts warn gas prices may remain elevated for some time.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-deal-085012799.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 08:50:12 +0000"
-    },
-    {
-      "title": "1 Semiconductor Stock Worth Your",
-      "summary": "Semiconductors are the picks and shovels of modern technology. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it’s no wonder the indus",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-attention-084407588.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 08:44:07 +0000"
-    },
-    {
-      "title": "Crude prices plunge, stocks surge on",
-      "summary": "Oil prices tumbled and stocks soared Monday after the United States and Iran said they had reached a deal to end their war that will reopen the Strait of Hormuz, sending a wave of ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 08:36:21 +0000"
+      "link": "https://www.cbsnews.com/news/oil-prices-today-stocks-trump-us-iran-deal/?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 13:08:29 +0000"
     }
   ],
   "criteria": [
@@ -122,45 +122,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.11",
-          "change": "-5.62%",
+          "value": "80.50",
+          "change": "-5.16%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "82.75",
-          "change": "-5.24%",
+          "value": "83.26",
+          "change": "-4.66%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4360.80",
-          "change": "+2.88%",
+          "value": "4371.80",
+          "change": "+3.14%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.51",
-          "change": "+0.95%",
+          "change": "+1.06%",
           "direction": "up"
         }
       ],
       "trend": [
+        80.29000091552734,
+        80.30000305175781,
+        80.33000183105469,
         80.3499984741211,
-        80.41999816894531,
-        80.16999816894531,
-        80.13999938964844,
-        80.04000091552734,
-        80.13999938964844,
-        80.12999725341797,
-        80.02999877929688,
-        80.11000061035156,
-        80.12000274658203,
-        80.11000061035156
+        80.33000183105469,
+        80.38999938964844,
+        80.44000244140625,
+        80.43000030517578,
+        80.45999908447266,
+        80.51000213623047,
+        80.5
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-15 18:07 KST"
+      "freshness": "2026-06-15 22:17 KST"
     },
     {
       "id": "bonds",
@@ -170,45 +170,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.618%",
-          "change": "-0.14%",
+          "value": "3.615%",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "UST 5Y",
-          "value": "4.213%",
-          "change": "+0.55%",
-          "direction": "up"
+          "value": "4.170%",
+          "change": "-1.02%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.487%",
-          "change": "+0.54%",
-          "direction": "up"
+          "value": "4.453%",
+          "change": "-0.76%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.975%",
-          "change": "+0.48%",
-          "direction": "up"
+          "value": "4.955%",
+          "change": "-0.40%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.479000091552734,
-        4.479000091552734,
-        4.479000091552734,
-        4.479000091552734,
-        4.4770002365112305,
-        4.479000091552734,
-        4.4770002365112305,
-        4.486999988555908
+        4.453000068664551,
+        4.450999736785889,
+        4.450999736785889,
+        4.453000068664551,
+        4.453000068664551,
+        4.450999736785889,
+        4.450999736785889,
+        4.450999736785889,
+        4.450999736785889,
+        4.453000068664551,
+        4.453000068664551
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-06-13 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-06-15 22:12 KST"
     },
     {
       "id": "indices",
@@ -236,8 +236,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6255.62",
-          "change": "+1.10%",
+          "value": "6257.99",
+          "change": "+1.14%",
           "direction": "up"
         }
       ],
@@ -266,45 +266,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.50",
-          "change": "-0.25%",
+          "value": "99.47",
+          "change": "-0.27%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1513.97",
-          "change": "-0.26%",
+          "value": "1511.31",
+          "change": "-0.43%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
           "value": "160.11",
-          "change": "-0.04%",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7563",
-          "change": "-0.09%",
+          "value": "6.7572",
+          "change": "-0.07%",
           "direction": "down"
         }
       ],
       "trend": [
-        1513.0799560546875,
-        1512.5999755859375,
-        1512.6600341796875,
-        1512.4599609375,
-        1512.489990234375,
-        1513.0799560546875,
-        1513.1800537109375,
-        1513.5699462890625,
-        1513.949951171875,
-        1514.260009765625,
-        1513.969970703125
+        1511.6600341796875,
+        1511.7900390625,
+        1511.3699951171875,
+        1511.2099609375,
+        1511.5799560546875,
+        1511.1199951171875,
+        1511.1099853515625,
+        1511.47998046875,
+        1511.1199951171875,
+        1511.1700439453125,
+        1511.31005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-15 18:17 KST"
+      "freshness": "2026-06-15 22:27 KST"
     }
   ],
   "actions": [
