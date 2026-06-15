@@ -620,6 +620,10 @@ a {
   gap: 14px;
 }
 
+.flow-list.compact {
+  gap: 10px;
+}
+
 .ops-details {
   border-top: 1px solid var(--border);
   padding-top: 14px;
