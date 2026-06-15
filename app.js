@@ -81,6 +81,117 @@ function formatDateLabel(dateValue) {
   }).format(date);
 }
 
+function actionCatalog() {
+  return [
+    {
+      state: 'Neutral',
+      rule: '기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.',
+      detail: '금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.',
+    },
+    {
+      state: 'Risk-on',
+      rule: '지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.',
+      detail: '금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.',
+    },
+    {
+      state: 'Risk-off',
+      rule: '주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.',
+      detail: '신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.',
+    },
+    {
+      state: 'Inflation shock',
+      rule: '장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.',
+      detail: '유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.',
+    },
+    {
+      state: 'Growth shock',
+      rule: '경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.',
+      detail: '구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.',
+    },
+    {
+      state: 'Policy shock',
+      rule: '이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.',
+      detail: '발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.',
+    },
+  ];
+}
+
+function deriveRegime(results, fallbackState = 'N/A') {
+  const spxChange = results.spx?.change_pct ?? null;
+  const tnxChange = results.tnx?.change_pct ?? null;
+  const dxyChange = results.dxy?.change_pct ?? null;
+  const wtiChange = results.wti?.change_pct ?? null;
+  const copperChange = results.copper?.change_pct ?? null;
+  if ([spxChange, tnxChange, dxyChange, wtiChange, copperChange].some((value) => value === null || value === undefined)) {
+    return {
+      state: fallbackState,
+      driver: 'N/A',
+      topLine: '수집된 라이브 데이터가 충분하지 않아 기존 스냅샷 기준을 유지합니다.',
+    };
+  }
+  if (Math.abs(tnxChange) >= 0.35 && Math.abs(spxChange) >= 0.6) {
+    return {
+      state: 'Policy shock',
+      driver: '금리 변동성',
+      topLine: '정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.',
+    };
+  }
+  if (wtiChange >= 1.2 && tnxChange >= 0.15) {
+    return {
+      state: 'Inflation shock',
+      driver: '유가 + 금리',
+      topLine: '유가와 금리의 동반 상승으로 인플레이션 재가열 경계가 높아졌습니다.',
+    };
+  }
+  if (spxChange <= -0.6 && copperChange <= -0.5 && tnxChange <= 0) {
+    return {
+      state: 'Growth shock',
+      driver: '성장 둔화',
+      topLine: '주식과 산업금속 약세가 겹치며 성장 둔화 우려가 커지고 있습니다.',
+    };
+  }
+  if (spxChange <= -0.35 && (dxyChange >= 0.1 || tnxChange >= 0.1)) {
+    return {
+      state: 'Risk-off',
+      driver: '달러 + 금리',
+      topLine: '달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.',
+    };
+  }
+  if (spxChange >= 0.35 && tnxChange <= 0.05 && dxyChange <= 0.05) {
+    return {
+      state: 'Risk-on',
+      driver: '주식 + 달러 완화',
+      topLine: '주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.',
+    };
+  }
+  return {
+    state: 'Neutral',
+    driver: '혼조 신호',
+    topLine: '자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.',
+  };
+}
+
+function buildActionsForState(stateName, results, baseActions = []) {
+  const catalog = actionCatalog().map((action) => ({ ...action, isCurrent: action.state === stateName }));
+  if ((results.wti?.change_pct ?? 0) > 1) {
+    const inflation = catalog.find((action) => action.state === 'Inflation shock');
+    if (inflation) {
+      inflation.detail = '유가 급등이 기대 인플레이션과 장기금리 상방을 다시 자극하는지 확인합니다.';
+    }
+  }
+  if ((results.spx?.change_pct ?? 0) < 0) {
+    const riskOff = catalog.find((action) => action.state === 'Risk-off');
+    if (riskOff) {
+      riskOff.detail = '주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.';
+    }
+  }
+  const currentAction = catalog.find((action) => action.state === stateName)
+    || baseActions.find((action) => action.state === stateName)
+    || catalog[0]
+    || null;
+  return { currentAction, actions: catalog.length ? catalog : baseActions };
+}
+
 function formatStatusLabel(status) {
   if (status === 'success') return '정상';
   if (status === 'failure') return '실패';
@@ -206,28 +317,13 @@ function emptyMarketData() {
         freshness: 'N/A',
       },
     ],
-    actions: [
-      {
-        state: 'Risk-off',
-        rule: '주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다.',
-        detail: '신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.',
-      },
-      {
-        state: 'Inflation shock',
-        rule: '장기채 듀레이션을 줄이고 원자재 노출을 검토합니다.',
-        detail: '유가 상승이 물가 기대를 자극하는지 확인합니다.',
-      },
-      {
-        state: 'Growth shock',
-        rule: '경기민감 자산을 축소하고 방어주 비중을 점검합니다.',
-        detail: '실적 방어력이 높은 섹터를 우선 확인합니다.',
-      },
-      {
-        state: 'Policy shock',
-        rule: '이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.',
-        detail: '발언 직후 방향 추종보다 리스크 제한이 중요합니다.',
-      },
-    ],
+    currentAction: {
+      state: 'Neutral',
+      rule: '기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.',
+      detail: '금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.',
+      isCurrent: true,
+    },
+    actions: actionCatalog().map((action, index) => ({ ...action, isCurrent: index === 0 })),
   };
 }
 
@@ -359,19 +455,48 @@ function renderCriteria(items) {
     .join('');
 }
 
-function renderActions(items) {
+function renderActions(data) {
   const list = $('action-stack');
-  list.innerHTML = (items || [])
-    .map(
-      (item) => `
-        <article class="action-card">
-          <div class="action-state">${escapeHtml(item.state || '')}</div>
-          <p class="action-rule">${escapeHtml(item.rule || '')}</p>
-          <p class="action-detail">${escapeHtml(item.detail || '')}</p>
-        </article>
-      `,
-    )
-    .join('');
+  const marketState = data?.signals?.[0]?.value || 'N/A';
+  const sourceActions = Array.isArray(data?.actions) && data.actions.length ? data.actions : actionCatalog();
+  const enrichedActions = actionCatalog().map((action) => {
+    const existing = sourceActions.find((item) => item?.state === action.state);
+    return { ...action, ...existing };
+  });
+  const currentAction = data?.currentAction
+    || enrichedActions.find((item) => item?.state === marketState)
+    || null;
+  const otherActions = enrichedActions.filter((item) => item?.state && item.state !== currentAction?.state);
+  const currentMarkup = currentAction
+    ? `
+      <article class="action-card current">
+        <div class="action-kicker">현재 대응</div>
+        <div class="action-state">${escapeHtml(currentAction.state || '')}</div>
+        <p class="action-rule">${escapeHtml(currentAction.rule || '')}</p>
+        <p class="action-detail">${escapeHtml(currentAction.detail || '')}</p>
+      </article>
+    `
+    : '';
+  const otherMarkup = otherActions.length
+    ? `
+      <div class="action-other-title">다른 시나리오</div>
+      ${otherActions
+        .map(
+          (item) => `
+            <article class="action-card">
+              <div class="action-state">${escapeHtml(item.state || '')}</div>
+              <p class="action-rule">${escapeHtml(item.rule || '')}</p>
+              <p class="action-detail">${escapeHtml(item.detail || '')}</p>
+            </article>
+          `,
+        )
+        .join('')}
+    `
+    : '';
+  list.innerHTML = currentMarkup || otherMarkup || '<div class="empty-state">대응 시나리오를 계산하지 못했습니다.</div>';
+  if (currentMarkup && otherMarkup) {
+    list.innerHTML = currentMarkup + otherMarkup;
+  }
 }
 
 function renderDecisionGrid(data) {
@@ -580,7 +705,7 @@ function renderAll(data, workflowStatus) {
   renderCalendar(data);
   renderCriteria(data?.criteria);
   renderDecisionGrid(data);
-  renderActions(data?.actions);
+  renderActions(data);
   renderAssetTabs(data?.assetGroups || []);
   renderAssetPanel(data?.assetGroups || []);
 }
@@ -934,6 +1059,8 @@ async function fetchLiveMarketData() {
     newsItems = baseData.newsItems;
   }
 
+  const regime = deriveRegime(results, baseData.signals?.[0]?.value || 'N/A');
+  const actionPayload = buildActionsForState(regime.state, results, baseData.actions || []);
   return {
     ...baseData,
     date: new Date().toISOString().slice(0, 10),
@@ -959,12 +1086,7 @@ async function fetchLiveMarketData() {
     signals: [
       {
         label: '시장 상태',
-        value:
-          results.spx?.change_pct === null || results.spx?.change_pct === undefined
-            ? baseData.signals?.[0]?.value || 'N/A'
-            : results.spx.change_pct < 0
-              ? 'Risk-off'
-              : 'Neutral',
+        value: regime.state,
         sub: '실시간 지수 데이터를 기준으로 계산했습니다.',
       },
       {
@@ -974,31 +1096,11 @@ async function fetchLiveMarketData() {
       },
       {
         label: '핵심 드라이버',
-        value:
-          results.tnx?.latest !== null && results.tnx?.latest !== undefined && results.dxy?.latest !== null && results.dxy?.latest !== undefined
-            ? '금리 + 달러'
-            : baseData.signals?.[2]?.value || 'N/A',
+        value: regime.driver,
         sub: '미국 금리와 달러 데이터를 함께 봅니다.',
       },
     ],
-    topLine:
-      results.spx?.change_pct !== null &&
-      results.spx?.change_pct !== undefined &&
-      results.tnx?.change_pct !== null &&
-      results.tnx?.change_pct !== undefined &&
-      results.spx.change_pct < 0 &&
-      results.tnx.change_pct > 0
-        ? '금리 상승과 주식 약세가 함께 보여 위험자산 압박이 커지고 있습니다.'
-        : results.spx?.change_pct !== null &&
-          results.spx?.change_pct !== undefined &&
-          results.tnx?.change_pct !== null &&
-          results.tnx?.change_pct !== undefined &&
-          results.spx.change_pct > 0 &&
-          results.tnx.change_pct <= 0
-          ? '주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.'
-          : hasLive
-            ? '실시간 데이터를 일부 수집했습니다. 수집된 값만 기준으로 보여줍니다.'
-            : baseData.topLine || '데이터를 불러오는 중입니다.',
+    topLine: regime.state === 'N/A' ? (hasLive ? '실시간 데이터를 일부 수집했습니다. 수집된 값만 기준으로 보여줍니다.' : (baseData.topLine || '데이터를 불러오는 중입니다.')) : regime.topLine,
     issues: (() => {
       const liveIssues = [
         results.tnx?.change_pct !== null && results.tnx?.change_pct !== undefined
@@ -1075,7 +1177,8 @@ async function fetchLiveMarketData() {
         freshness: results.usdkrw?.freshness || baseData.assetGroups?.[3]?.freshness || 'N/A',
       },
     ],
-    actions: (baseData.actions || []).map((action) => ({ ...action })),
+    currentAction: actionPayload.currentAction || baseData.currentAction || null,
+    actions: actionPayload.actions,
   };
 }
 

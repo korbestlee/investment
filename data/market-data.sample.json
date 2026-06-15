@@ -217,26 +217,48 @@
       "status": "강세"
     }
   ],
+  "currentAction": {
+    "state": "Risk-off",
+    "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+    "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+    "isCurrent": true
+  },
   "actions": [
+    {
+      "state": "Neutral",
+      "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+      "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Risk-on",
+      "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+      "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+      "isCurrent": false
+    },
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다."
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "isCurrent": true
     },
     {
       "state": "Inflation shock",
       "rule": "장기채 듀레이션을 줄이고 원자재 노출을 검토합니다.",
-      "detail": "유가 상승이 물가 기대를 자극하는지 확인합니다."
+      "detail": "유가 상승이 물가 기대를 자극하는지 확인합니다.",
+      "isCurrent": false
     },
     {
       "state": "Growth shock",
       "rule": "경기민감 자산을 축소하고 방어주 비중을 점검합니다.",
-      "detail": "실적 방어력이 높은 섹터를 우선 확인합니다."
+      "detail": "실적 방어력이 높은 섹터를 우선 확인합니다.",
+      "isCurrent": false
     },
     {
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
-      "detail": "발언 직후 방향 추종보다 리스크 제한이 중요합니다."
+      "detail": "발언 직후 방향 추종보다 리스크 제한이 중요합니다.",
+      "isCurrent": false
     }
   ]
 }
