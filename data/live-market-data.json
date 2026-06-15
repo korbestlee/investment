@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "collectedAt": "2026-06-15T01:14:34Z",
+  "collectedAt": "2026-06-15T09:17:28Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -33,66 +33,66 @@
   "topLine": "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다.",
   "issues": [
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "impact": "원자재, 인플레 기대",
+      "title": "RBC Capital Markets named Precious",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Futures rose and oil dived as President Trump announced an Iran deal. The stock market still must do this. What's next for SpaceX?",
-      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
+      "summary": "RBC Capital Markets today announced it has been named Precious Metals House of the Year at the Energy Risk Awards 2026. The bank is recognised for its performance, strategic invest",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/rbc-capital-markets-named-precious-090000412.html?.tsrc=rss"
     },
     {
-      "title": "Deal on ending the Iran war sends",
+      "title": "Market Chatter",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Share prices soared Monday in Asia after a deal was announced on ending the Iran war and reopening the Strait of Hormuz. Benchmarks in Tokyo and Seoul gained more than 5% Monday. O",
-      "link": "https://finance.yahoo.com/politics/articles/deal-ending-iran-war-sends-010029568.html?.tsrc=rss"
+      "summary": "The United States and Iran reached a framework agreement to end their conflict and reopen the Strait",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-deal-085012799.html?.tsrc=rss"
     },
     {
-      "title": "Deal on ending the Iran war sends",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Deal on ending the Iran war sends stock prices in Asian soaring, while oil prices slip more than $3.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/deal-ending-iran-war-sends-005238684.html?.tsrc=rss"
+      "title": "1 Semiconductor Stock Worth Your",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Semiconductors are the picks and shovels of modern technology. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it’s no wonder the indus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-attention-084407588.html?.tsrc=rss"
     },
     {
-      "title": "Oil prices fall on US-Iran agreement",
+      "title": "Crude prices plunge, stocks surge on",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices dropped on Sunday after President Donald Trump said an agreement with Iran had been reached and the United States would end its naval blockade on the country.",
-      "link": "https://www.cnn.com/2026/06/14/business/oil-prices-iran-peace-agreement?.tsrc=rss"
+      "summary": "Oil prices tumbled and stocks soared Monday after the United States and Iran said they had reached a deal to end their war that will reopen the Strait of Hormuz, sending a wave of ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "summary": "Futures rose and oil dived as President Trump announced an Iran deal. The stock market still must do this. What's next for SpaceX?",
-      "impact": "원자재, 인플레 기대",
+      "title": "RBC Capital Markets named Precious",
+      "summary": "RBC Capital Markets today announced it has been named Precious Metals House of the Year at the Energy Risk Awards 2026. The bank is recognised for its performance, strategic invest",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/41879e00-88f3-34d4-8429-39e5c21c3e38/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 01:08:39 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/rbc-capital-markets-named-precious-090000412.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 09:00:00 +0000"
     },
     {
-      "title": "Deal on ending the Iran war sends",
-      "summary": "Share prices soared Monday in Asia after a deal was announced on ending the Iran war and reopening the Strait of Hormuz. Benchmarks in Tokyo and Seoul gained more than 5% Monday. O",
+      "title": "Market Chatter",
+      "summary": "The United States and Iran reached a framework agreement to end their conflict and reopen the Strait",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/politics/articles/deal-ending-iran-war-sends-010029568.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 01:00:29 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-deal-085012799.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 08:50:12 +0000"
     },
     {
-      "title": "Deal on ending the Iran war sends",
-      "summary": "Deal on ending the Iran war sends stock prices in Asian soaring, while oil prices slip more than $3.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/deal-ending-iran-war-sends-005238684.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 00:52:38 +0000"
+      "title": "1 Semiconductor Stock Worth Your",
+      "summary": "Semiconductors are the picks and shovels of modern technology. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it’s no wonder the indus",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-worth-attention-084407588.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 08:44:07 +0000"
     },
     {
-      "title": "Oil prices fall on US-Iran agreement",
-      "summary": "Oil prices dropped on Sunday after President Donald Trump said an agreement with Iran had been reached and the United States would end its naval blockade on the country.",
+      "title": "Crude prices plunge, stocks surge on",
+      "summary": "Oil prices tumbled and stocks soared Monday after the United States and Iran said they had reached a deal to end their war that will reopen the Strait of Hormuz, sending a wave of ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.cnn.com/2026/06/14/business/oil-prices-iran-peace-agreement?.tsrc=rss",
-      "published": "Sun, 14 Jun 2026 23:50:59 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 08:36:21 +0000"
     }
   ],
   "criteria": [
@@ -122,45 +122,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.77",
-          "change": "-4.84%",
+          "value": "80.11",
+          "change": "-5.62%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "83.78",
-          "change": "-4.07%",
+          "value": "82.75",
+          "change": "-5.24%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4318.30",
-          "change": "+1.88%",
+          "value": "4360.80",
+          "change": "+2.88%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.52",
-          "change": "+1.15%",
+          "value": "6.51",
+          "change": "+0.95%",
           "direction": "up"
         }
       ],
       "trend": [
-        81.0199966430664,
-        80.94000244140625,
-        80.9800033569336,
-        81.05000305175781,
-        80.97000122070312,
-        81.12000274658203,
-        80.94999694824219,
-        80.95999908447266,
-        80.88999938964844,
-        80.83999633789062,
-        80.7699966430664
+        80.3499984741211,
+        80.41999816894531,
+        80.16999816894531,
+        80.13999938964844,
+        80.04000091552734,
+        80.13999938964844,
+        80.12999725341797,
+        80.02999877929688,
+        80.11000061035156,
+        80.12000274658203,
+        80.11000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-15 10:04 KST"
+      "freshness": "2026-06-15 18:07 KST"
     },
     {
       "id": "bonds",
@@ -230,14 +230,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "8572.37",
-          "change": "+5.52%",
+          "value": "8545.98",
+          "change": "+5.20%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6187.63",
-          "change": "+2.16%",
+          "value": "6255.62",
+          "change": "+1.10%",
           "direction": "up"
         }
       ],
@@ -266,45 +266,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.56",
-          "change": "-0.19%",
+          "value": "99.50",
+          "change": "-0.25%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1510.78",
-          "change": "-0.47%",
+          "value": "1513.97",
+          "change": "-0.26%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
           "value": "160.11",
-          "change": "-0.05%",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7621",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7563",
+          "change": "-0.09%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1508.0799560546875,
-        1508.5799560546875,
-        1509.47998046875,
-        1509.8800048828125,
-        1510.6800537109375,
-        1510.52001953125,
-        1510.47998046875,
-        1511.0799560546875,
-        1510.780029296875,
-        1510.8800048828125,
-        1510.780029296875
+        1513.0799560546875,
+        1512.5999755859375,
+        1512.6600341796875,
+        1512.4599609375,
+        1512.489990234375,
+        1513.0799560546875,
+        1513.1800537109375,
+        1513.5699462890625,
+        1513.949951171875,
+        1514.260009765625,
+        1513.969970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-15 10:14 KST"
+      "freshness": "2026-06-15 18:17 KST"
     }
   ],
   "actions": [
