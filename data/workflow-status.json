@@ -1,0 +1,32 @@
+{
+  "workflow": "refresh-live-snapshot",
+  "status": "success",
+  "message": "Snapshot refresh succeeded.",
+  "updatedAt": "2026-06-15T14:05:04Z",
+  "runId": "",
+  "runNumber": "",
+  "runAttempt": "",
+  "branch": "main",
+  "commitSha": "",
+  "snapshotCollectedAt": "2026-06-15T13:27:39Z",
+  "schedule": [
+    {
+      "label": "한국장 중간",
+      "timezone": "Asia/Seoul",
+      "time": "12:00",
+      "days": "1-5"
+    },
+    {
+      "label": "한국장 종료 후",
+      "timezone": "Asia/Seoul",
+      "time": "15:40",
+      "days": "1-5"
+    },
+    {
+      "label": "미국장 종료 후",
+      "timezone": "America/New_York",
+      "time": "16:10",
+      "days": "1-5"
+    }
+  ]
+}
