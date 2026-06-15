@@ -25,8 +25,9 @@ python3 -m http.server 8000
 python3 server.py
 ```
 
-GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 읽습니다.
+GitHub Pages에서는 `main` 브랜치의 `data/live-market-data.json`을 원격으로 읽습니다.
 로컬 live 서버를 먼저 실행한 뒤 스냅샷 파일을 갱신하고 푸시하면 Pages에서도 같은 형식으로 표시됩니다.
+GitHub Actions는 30분마다 스냅샷을 갱신합니다. 휴장 중인 자산은 최근 거래 시각을 유지합니다.
 
 터미널에서 live 상태를 한 번에 확인하려면:
 
@@ -65,7 +66,7 @@ GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 읽습니다.
 ## Data flow
 
 1. 로컬에서는 `server.py`의 `/api/market-data`를 먼저 읽습니다.
-2. GitHub Pages에서는 `./data/live-market-data.json` 스냅샷을 먼저 읽습니다.
+2. GitHub Pages에서는 `main` 브랜치의 `data/live-market-data.json`을 먼저 읽습니다.
 3. live 경로가 없거나 실패하면 `data/market-data.sample.json`으로 fallback합니다.
 4. `server.py`는 Yahoo Finance chart 응답과 뉴스 RSS를 조합합니다.
 5. `Verify Live` 버튼과 `./verify_live.sh`로 최신성 상태를 확인할 수 있습니다.

@@ -1,6 +1,7 @@
 const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
 const IS_GITHUB_PAGES = window.location.hostname.includes('github.io');
 const LOCAL_LIVE_URL = '/api/market-data';
+const REMOTE_LIVE_SNAPSHOT_URL = 'https://raw.githubusercontent.com/korbestlee/investment/main/data/live-market-data.json';
 const LIVE_SNAPSHOT_URL = './data/live-market-data.json';
 const SAMPLE_DATA_URL = './data/market-data.sample.json';
 
@@ -1017,10 +1018,11 @@ async function fetchLiveMarketData() {
 }
 
 async function loadData() {
+  const remoteSnapshotUrl = `${REMOTE_LIVE_SNAPSHOT_URL}?v=${Math.floor(Date.now() / 300000)}`;
   const sources = IS_FILE_PROTOCOL
     ? [SAMPLE_DATA_URL]
     : IS_GITHUB_PAGES
-      ? [LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL]
+      ? [remoteSnapshotUrl, LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL]
       : [LOCAL_LIVE_URL, LIVE_SNAPSHOT_URL, SAMPLE_DATA_URL];
 
   let lastError = null;
