@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-15",
-  "collectedAt": "2026-06-15T14:16:02Z",
+  "date": "2026-06-16",
+  "collectedAt": "2026-06-15T21:40:54Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
+      "value": "Policy shock",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,73 +26,105 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "금리 + 달러",
-      "sub": "미국 금리와 달러 강세가 핵심 축입니다."
+      "value": "금리 변동성",
+      "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.",
+  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+  "regimeFactors": [
+    {
+      "label": "S&P 500",
+      "value": "+1.65%",
+      "signal": "risk",
+      "note": "주식 방향으로 위험선호 강도를 확인합니다."
+    },
+    {
+      "label": "미 10년물",
+      "value": "-0.40%",
+      "signal": "rates",
+      "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
+    },
+    {
+      "label": "DXY",
+      "value": "-0.07%",
+      "signal": "dollar",
+      "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
+    },
+    {
+      "label": "WTI",
+      "value": "-4.38%",
+      "signal": "inflation",
+      "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
+    },
+    {
+      "label": "Copper",
+      "value": "+0.70%",
+      "signal": "growth",
+      "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
+    }
+  ],
   "issues": [
     {
-      "title": "United, Delta and Southwest Rally as",
+      "title": "Energy Market Assessment",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Stocks Soar on U.S.-Iran Breakthrough and Oil Price Drop",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/airline-stocks-soar-u-iran-141527515.html?.tsrc=rss"
+      "summary": "(Oil & Gas 360) – The Fracking Revolution Working Here & Freedom Growing Over There Have UP The Direction We Head With […]",
+      "link": "https://finance.yahoo.com/energy/articles/energy-market-assessment-fracking-revolution-213054034.html?.tsrc=rss"
     },
     {
-      "title": "Nvidia, Micron, Intel Lead Chip",
+      "title": "3 Reasons to Avoid AGO and 1 Stock",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Nvidia, Micron and AMD Gain as Markets Embrace U.S.-Iran Truce",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-micron-intel-lead-chip-141246902.html?.tsrc=rss"
+      "summary": "Over the last six months, Assured Guaranty’s shares have sunk to $76.52, producing a disappointing 16.5% loss - a stark contrast to the S&P 500’s 8.4% gain. This might have investo",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ago-1-212407808.html?.tsrc=rss"
     },
     {
-      "title": "Oil plunges, stocks jump on US-Iran",
+      "title": "3 Reasons to Sell GTES and 1 Stock",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Gates Industrial Corporation’s 23.4% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $26.91 per share. This run-up might have ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-gtes-1-211607987.html?.tsrc=rss"
+    },
+    {
+      "title": "Petrolympic Announces Results From",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices dropped towards $80 a barrel and stocks rallied on Monday after Washington and Iran reached a deal to end the Middle East war and reopen the Strait of Hormuz, sending a ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss"
-    },
-    {
-      "title": "Canada's Economy Walks A",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Bank of Canada took center stage last week, holding its policy rate at 2.25%, said TD. It re",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-economy-walks-tightrope-140519062.html?.tsrc=rss"
+      "summary": "TORONTO, ON / ACCESS Newswire / June 15, 2026 / Petrolympic Ltd. (TSX-V:PCQ)(OTC:PCQRF) (the \"Company\") is pleased to provide an update on its 2026 winter exploration program in th",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/petrolympic-announces-results-2026-winter-211500614.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "United, Delta and Southwest Rally as",
-      "summary": "Stocks Soar on U.S.-Iran Breakthrough and Oil Price Drop",
+      "title": "Energy Market Assessment",
+      "summary": "(Oil & Gas 360) – The Fracking Revolution Working Here & Freedom Growing Over There Have UP The Direction We Head With […]",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/airline-stocks-soar-u-iran-141527515.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 14:15:27 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/energy-market-assessment-fracking-revolution-213054034.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:30:54 +0000"
     },
     {
-      "title": "Nvidia, Micron, Intel Lead Chip",
-      "summary": "Nvidia, Micron and AMD Gain as Markets Embrace U.S.-Iran Truce",
+      "title": "3 Reasons to Avoid AGO and 1 Stock",
+      "summary": "Over the last six months, Assured Guaranty’s shares have sunk to $76.52, producing a disappointing 16.5% loss - a stark contrast to the S&P 500’s 8.4% gain. This might have investo",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-micron-intel-lead-chip-141246902.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 14:12:46 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ago-1-212407808.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:24:07 +0000"
     },
     {
-      "title": "Oil plunges, stocks jump on US-Iran",
-      "summary": "Oil prices dropped towards $80 a barrel and stocks rallied on Monday after Washington and Iran reached a deal to end the Middle East war and reopen the Strait of Hormuz, sending a ",
+      "title": "3 Reasons to Sell GTES and 1 Stock",
+      "summary": "Gates Industrial Corporation’s 23.4% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $26.91 per share. This run-up might have ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-gtes-1-211607987.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:16:07 +0000"
+    },
+    {
+      "title": "Petrolympic Announces Results From",
+      "summary": "TORONTO, ON / ACCESS Newswire / June 15, 2026 / Petrolympic Ltd. (TSX-V:PCQ)(OTC:PCQRF) (the \"Company\") is pleased to provide an update on its 2026 winter exploration program in th",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 14:07:20 +0000"
-    },
-    {
-      "title": "Canada's Economy Walks A",
-      "summary": "The Bank of Canada took center stage last week, holding its policy rate at 2.25%, said TD. It re",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-economy-walks-tightrope-140519062.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 14:05:19 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/petrolympic-announces-results-2026-winter-211500614.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 21:15:00 +0000"
     }
   ],
   "criteria": [
@@ -122,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.17",
-          "change": "-5.55%",
+          "value": "81.16",
+          "change": "-4.38%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "82.82",
-          "change": "-5.16%",
+          "value": "83.51",
+          "change": "-4.37%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4385.80",
-          "change": "+3.47%",
+          "value": "4331.00",
+          "change": "+2.18%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.50",
-          "change": "+0.88%",
+          "value": "6.49",
+          "change": "+0.70%",
           "direction": "up"
         }
       ],
       "trend": [
-        80.4000015258789,
-        80.22000122070312,
-        80.25,
-        80.23999786376953,
-        80.22000122070312,
-        80.26000213623047,
-        80.26000213623047,
-        80.25,
-        80.25,
-        80.16999816894531,
-        80.16999816894531
+        81.12000274658203,
+        81.12000274658203,
+        81.1500015258789,
+        81.13999938964844,
+        81.16000366210938,
+        81.13999938964844,
+        81.16000366210938,
+        81.12999725341797,
+        81.13999938964844,
+        81.16000366210938,
+        81.16000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-15 23:05 KST"
+      "freshness": "2026-06-16 05:59 KST"
     },
     {
       "id": "bonds",
@@ -170,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.612%",
-          "change": "-0.17%",
-          "direction": "down"
+          "value": "3.618%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.162%",
-          "change": "-1.21%",
+          "value": "4.188%",
+          "change": "-0.59%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.447%",
-          "change": "-0.89%",
+          "value": "4.469%",
+          "change": "-0.40%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.950%",
-          "change": "-0.50%",
+          "value": "4.971%",
+          "change": "-0.08%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.450999736785889,
-        4.449000358581543,
-        4.450999736785889,
-        4.449000358581543,
-        4.449000358581543,
-        4.449000358581543,
-        4.449000358581543,
-        4.447000026702881,
-        4.449000358581543,
-        4.447000026702881,
-        4.447000026702881
+        4.468999862670898,
+        4.468999862670898,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.470999717712402,
+        4.468999862670898
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-06-15 23:00 KST"
+      "freshness": "2026-06-16 03:59 KST"
     },
     {
       "id": "indices",
@@ -218,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7539.62",
-          "change": "+1.46%",
+          "value": "7554.29",
+          "change": "+1.65%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26501.58",
-          "change": "+2.37%",
+          "value": "26683.94",
+          "change": "+3.07%",
           "direction": "up"
         },
         {
@@ -236,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6230.09",
-          "change": "+0.69%",
+          "value": "6229.43",
+          "change": "+0.68%",
           "direction": "up"
         }
       ],
       "trend": [
-        7547.35009765625,
-        7548.06005859375,
-        7544.52978515625,
-        7543.509765625,
-        7543.27978515625,
-        7540.6201171875,
-        7541.31982421875,
-        7540.2998046875,
-        7540.10986328125,
-        7541.16015625,
-        7539.6201171875
+        7551.419921875,
+        7550.10986328125,
+        7549.89990234375,
+        7550.2001953125,
+        7549.89990234375,
+        7549.0400390625,
+        7546.58984375,
+        7545.9599609375,
+        7548.60009765625,
+        7555.259765625,
+        7554.2900390625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-06-15 23:15 KST"
+      "freshness": "2026-06-16 05:40 KST"
     },
     {
       "id": "fx",
@@ -266,67 +298,89 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.47",
-          "change": "-0.28%",
+          "value": "99.68",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1512.88",
-          "change": "-0.33%",
+          "value": "1516.13",
+          "change": "-0.12%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.05",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "160.32",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7565",
+          "value": "6.7570",
           "change": "-0.08%",
           "direction": "down"
         }
       ],
       "trend": [
-        1512.2099609375,
-        1512.1199951171875,
-        1511.6700439453125,
-        1512.1400146484375,
-        1511.9200439453125,
-        1512.050048828125,
-        1511.9000244140625,
-        1512.1400146484375,
-        1512.97998046875,
-        1512.949951171875,
-        1512.8800048828125
+        1513.8800048828125,
+        1516.81005859375,
+        1516.3199462890625,
+        1514.6400146484375,
+        1514.239990234375,
+        1514.0799560546875,
+        1513.97998046875,
+        1514.0999755859375,
+        1514.02001953125,
+        1517.31005859375,
+        1516.1300048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-15 23:15 KST"
+      "freshness": "2026-06-16 06:40 KST"
     }
   ],
+  "currentAction": {
+    "state": "Policy shock",
+    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+    "isCurrent": true
+  },
   "actions": [
     {
+      "state": "Neutral",
+      "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+      "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Risk-on",
+      "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+      "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+      "isCurrent": false
+    },
+    {
       "state": "Risk-off",
-      "rule": "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다."
+      "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "isCurrent": false
     },
     {
       "state": "Inflation shock",
-      "rule": "장기채 듀레이션을 줄이고 원자재 노출을 검토합니다.",
-      "detail": "유가 상승이 물가 기대를 자극하는지 확인합니다."
+      "rule": "장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.",
+      "detail": "유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.",
+      "isCurrent": false
     },
     {
       "state": "Growth shock",
-      "rule": "경기민감 자산을 축소하고 방어주 비중을 점검합니다.",
-      "detail": "실적 방어력이 높은 섹터를 우선 확인합니다."
+      "rule": "경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.",
+      "detail": "구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.",
+      "isCurrent": false
     },
     {
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
-      "detail": "발언 직후 방향 추종보다 리스크 제한이 중요합니다."
+      "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+      "isCurrent": true
     }
   ]
 }
