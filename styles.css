@@ -314,24 +314,11 @@ a {
 .card {
   border-radius: 18px;
   padding: 20px;
+  grid-column: 2;
 }
 
 .span-2 {
   grid-column: 1;
-}
-
-.content-grid > .card:nth-child(1),
-.content-grid > .card:nth-child(3),
-.content-grid > .card:nth-child(4),
-.content-grid > .card:nth-child(5) {
-  grid-column: 1;
-}
-
-.content-grid > .card:nth-child(2),
-.content-grid > .card:nth-child(6),
-.content-grid > .card:nth-child(7),
-.content-grid > .card:nth-child(8) {
-  grid-column: 2;
 }
 
 .section-head {
@@ -367,6 +354,30 @@ a {
 .action-stack {
   display: grid;
   gap: 14px;
+}
+
+.stack-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  margin: 18px 0 12px;
+}
+
+.stack-head h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.stack-head p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.stack-head.split {
+  padding-top: 4px;
+  border-top: 1px solid var(--border);
 }
 
 .issue-card,
@@ -696,14 +707,8 @@ a {
     grid-template-columns: 1fr;
   }
 
-  .content-grid > .card:nth-child(1),
-  .content-grid > .card:nth-child(2),
-  .content-grid > .card:nth-child(3),
-  .content-grid > .card:nth-child(4),
-  .content-grid > .card:nth-child(5),
-  .content-grid > .card:nth-child(6),
-  .content-grid > .card:nth-child(7),
-  .content-grid > .card:nth-child(8) {
+  .card,
+  .span-2 {
     grid-column: auto;
   }
 
