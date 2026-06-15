@@ -2,13 +2,16 @@ const IS_FILE_PROTOCOL = window.location.protocol === 'file:';
 const IS_GITHUB_PAGES = window.location.hostname.includes('github.io');
 const LOCAL_LIVE_URL = '/api/market-data';
 const REMOTE_LIVE_SNAPSHOT_URL = 'https://raw.githubusercontent.com/korbestlee/investment/main/data/live-market-data.json';
+const REMOTE_WORKFLOW_STATUS_URL = 'https://raw.githubusercontent.com/korbestlee/investment/main/data/workflow-status.json';
 const LIVE_SNAPSHOT_URL = './data/live-market-data.json';
+const WORKFLOW_STATUS_URL = './data/workflow-status.json';
 const SAMPLE_DATA_URL = './data/market-data.sample.json';
 
 const state = {
   activeAssetGroupId: null,
   data: null,
   refreshing: false,
+  workflowStatus: null,
 };
 
 const $ = (id) => document.getElementById(id);
@@ -76,6 +79,23 @@ function formatDateLabel(dateValue) {
     dateStyle: 'full',
     timeStyle: 'short',
   }).format(date);
+}
+
+function formatStatusLabel(status) {
+  if (status === 'success') return '정상';
+  if (status === 'failure') return '실패';
+  if (status === 'cancelled') return '중단';
+  return 'N/A';
+}
+
+function buildScheduleSummary(workflowStatus) {
+  const schedule = Array.isArray(workflowStatus?.schedule) ? workflowStatus.schedule : [];
+  if (!schedule.length) {
+    return '평일 12:00 KST · 15:40 KST · 16:10 New York';
+  }
+  return schedule
+    .map((item) => `${item.label} ${item.time} ${item.timezone === 'Asia/Seoul' ? 'KST' : 'New York'}`)
+    .join(' · ');
 }
 
 function emptyMarketData() {
@@ -490,7 +510,7 @@ function renderAssetPanel(groups) {
   `;
 }
 
-function renderVerifyPanel(data) {
+function renderVerifyPanel(data, workflowStatus) {
   const panel = $('verify-panel');
   panel.innerHTML = `
     <div class="verify-item">
@@ -505,7 +525,29 @@ function renderVerifyPanel(data) {
       <span>Collected</span>
       <strong>${escapeHtml(formatDateLabel(data?.collectedAt) || data?.collectedAt || 'N/A')}</strong>
     </div>
+    <div class="verify-item">
+      <span>Action</span>
+      <strong>${escapeHtml(formatStatusLabel(workflowStatus?.status))}</strong>
+    </div>
+    <div class="verify-item">
+      <span>Action updated</span>
+      <strong>${escapeHtml(formatDateLabel(workflowStatus?.updatedAt) || workflowStatus?.updatedAt || 'N/A')}</strong>
+    </div>
+    <div class="verify-item">
+      <span>Schedule</span>
+      <strong>${escapeHtml(buildScheduleSummary(workflowStatus))}</strong>
+    </div>
   `;
+}
+
+function renderOpsNote(data, workflowStatus) {
+  const node = $('ops-note');
+  if (!node) return;
+  const actionState = workflowStatus?.status === 'failure' ? '최근 자동 갱신 실패' : '자동 갱신 정상';
+  const snapshotTime = formatDateLabel(data?.collectedAt) || data?.collectedAt || 'N/A';
+  const workflowTime = formatDateLabel(workflowStatus?.updatedAt) || workflowStatus?.updatedAt || 'N/A';
+  node.textContent = `${actionState} · 스냅샷 ${snapshotTime} · 액션 기록 ${workflowTime}`;
+  node.classList.toggle('is-error', workflowStatus?.status === 'failure');
 }
 
 function renderSnapshotAge(data) {
@@ -523,14 +565,16 @@ function renderHeader(data) {
   $('fetch-note').textContent = `${data?.source?.provider || 'Unknown'} · ${data?.source?.mode || 'unknown'} · ${data?.source?.note || ''}`;
 }
 
-function renderAll(data) {
+function renderAll(data, workflowStatus) {
   state.data = data;
+  state.workflowStatus = workflowStatus;
   state.activeAssetGroupId = data?.assetGroups?.[0]?.id || null;
   renderHeader(data);
   renderSignalGrid(data?.signals);
   renderFreshness(data);
   renderSnapshotAge(data);
-  renderVerifyPanel(data);
+  renderVerifyPanel(data, workflowStatus);
+  renderOpsNote(data, workflowStatus);
   renderIssues(data?.issues);
   renderNews(data?.newsItems);
   renderCalendar(data);
@@ -547,6 +591,24 @@ async function fetchJson(url) {
     throw new Error(`${url} returned ${response.status}`);
   }
   return response.json();
+}
+
+async function loadWorkflowStatus() {
+  const remoteStatusUrl = `${REMOTE_WORKFLOW_STATUS_URL}?v=${Math.floor(Date.now() / 300000)}`;
+  const sources = IS_FILE_PROTOCOL
+    ? []
+    : IS_GITHUB_PAGES
+      ? [remoteStatusUrl, WORKFLOW_STATUS_URL]
+      : [WORKFLOW_STATUS_URL];
+
+  for (const source of sources) {
+    try {
+      return await fetchJson(source);
+    } catch (_error) {
+      continue;
+    }
+  }
+  return null;
 }
 
 async function fetchProxy(targetUrl) {
@@ -1044,8 +1106,8 @@ async function refresh() {
   const note = $('fetch-note');
   note.textContent = IS_FILE_PROTOCOL ? '브라우저에서 데이터를 불러오는 중...' : '데이터를 불러오는 중...';
   try {
-    const data = await loadData();
-    renderAll(data);
+    const [data, workflowStatus] = await Promise.all([loadData(), loadWorkflowStatus()]);
+    renderAll(data, workflowStatus);
   } catch (error) {
     note.textContent = error.message;
     $('top-line').textContent = '데이터를 불러오지 못했습니다.';
