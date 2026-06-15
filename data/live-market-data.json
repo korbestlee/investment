@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "collectedAt": "2026-06-15T13:27:39Z",
+  "collectedAt": "2026-06-15T14:16:02Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -33,66 +33,66 @@
   "topLine": "주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다.",
   "issues": [
     {
-      "title": "Singapore Lines Up JPMorgan,",
+      "title": "United, Delta and Southwest Rally as",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Singapore's SGX plans a gold-clearing system by end-2026 as banks join its bullion market expansion.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/singapore-lines-jpmorgan-deutsche-bank-132417069.html?.tsrc=rss"
+      "summary": "Stocks Soar on U.S.-Iran Breakthrough and Oil Price Drop",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airline-stocks-soar-u-iran-141527515.html?.tsrc=rss"
     },
     {
-      "title": "Oil prices retreat to $80 after",
+      "title": "Nvidia, Micron, Intel Lead Chip",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Nvidia, Micron and AMD Gain as Markets Embrace U.S.-Iran Truce",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-micron-intel-lead-chip-141246902.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil plunges, stocks jump on US-Iran",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "President Trump has signaled that a legitimate peace deal between the US and Iran \"is now complete.\" This agreement would end all military hostilities between the nations and reope",
-      "link": "https://finance.yahoo.com/video/oil-prices-retreat-to-80-after-trump-announces-us-iran-peace-deal-132320370.html?.tsrc=rss"
+      "summary": "Oil prices dropped towards $80 a barrel and stocks rallied on Monday after Washington and Iran reached a deal to end the Middle East war and reopen the Strait of Hormuz, sending a ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss"
     },
     {
-      "title": "Gold Sharply Higher As the U.S. and",
+      "title": "Canada's Economy Walks A",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold rose for a second day early Monday as the U.S. dollar and yields fell after Iran and the United",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-sharply-higher-u-iran-131127718.html?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices sink, stocks set to soar",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Markets rally on expectations that the agreement will ease global energy supply concerns, though analysts warn gas prices may remain elevated for some time.",
-      "link": "https://www.cbsnews.com/news/oil-prices-today-stocks-trump-us-iran-deal/?.tsrc=rss"
+      "summary": "The Bank of Canada took center stage last week, holding its policy rate at 2.25%, said TD. It re",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-economy-walks-tightrope-140519062.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Singapore Lines Up JPMorgan,",
-      "summary": "Singapore's SGX plans a gold-clearing system by end-2026 as banks join its bullion market expansion.",
+      "title": "United, Delta and Southwest Rally as",
+      "summary": "Stocks Soar on U.S.-Iran Breakthrough and Oil Price Drop",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/singapore-lines-jpmorgan-deutsche-bank-132417069.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 13:24:17 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/airline-stocks-soar-u-iran-141527515.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 14:15:27 +0000"
     },
     {
-      "title": "Oil prices retreat to $80 after",
-      "summary": "President Trump has signaled that a legitimate peace deal between the US and Iran \"is now complete.\" This agreement would end all military hostilities between the nations and reope",
+      "title": "Nvidia, Micron, Intel Lead Chip",
+      "summary": "Nvidia, Micron and AMD Gain as Markets Embrace U.S.-Iran Truce",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-micron-intel-lead-chip-141246902.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 14:12:46 +0000"
+    },
+    {
+      "title": "Oil plunges, stocks jump on US-Iran",
+      "summary": "Oil prices dropped towards $80 a barrel and stocks rallied on Monday after Washington and Iran reached a deal to end the Middle East war and reopen the Strait of Hormuz, sending a ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/oil-prices-retreat-to-80-after-trump-announces-us-iran-peace-deal-132320370.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 13:23:20 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/crude-prices-plunge-stocks-surge-032038660.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 14:07:20 +0000"
     },
     {
-      "title": "Gold Sharply Higher As the U.S. and",
-      "summary": "Gold rose for a second day early Monday as the U.S. dollar and yields fell after Iran and the United",
+      "title": "Canada's Economy Walks A",
+      "summary": "The Bank of Canada took center stage last week, holding its policy rate at 2.25%, said TD. It re",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-sharply-higher-u-iran-131127718.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 13:11:27 +0000"
-    },
-    {
-      "title": "Oil prices sink, stocks set to soar",
-      "summary": "Markets rally on expectations that the agreement will ease global energy supply concerns, though analysts warn gas prices may remain elevated for some time.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.cbsnews.com/news/oil-prices-today-stocks-trump-us-iran-deal/?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 13:08:29 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-apos-economy-walks-tightrope-140519062.html?.tsrc=rss",
+      "published": "Mon, 15 Jun 2026 14:05:19 +0000"
     }
   ],
   "criteria": [
@@ -122,45 +122,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.50",
-          "change": "-5.16%",
+          "value": "80.17",
+          "change": "-5.55%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "83.26",
-          "change": "-4.66%",
+          "value": "82.82",
+          "change": "-5.16%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4371.80",
-          "change": "+3.14%",
+          "value": "4385.80",
+          "change": "+3.47%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.51",
-          "change": "+1.06%",
+          "value": "6.50",
+          "change": "+0.88%",
           "direction": "up"
         }
       ],
       "trend": [
-        80.29000091552734,
-        80.30000305175781,
-        80.33000183105469,
-        80.3499984741211,
-        80.33000183105469,
-        80.38999938964844,
-        80.44000244140625,
-        80.43000030517578,
-        80.45999908447266,
-        80.51000213623047,
-        80.5
+        80.4000015258789,
+        80.22000122070312,
+        80.25,
+        80.23999786376953,
+        80.22000122070312,
+        80.26000213623047,
+        80.26000213623047,
+        80.25,
+        80.25,
+        80.16999816894531,
+        80.16999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-15 22:17 KST"
+      "freshness": "2026-06-15 23:05 KST"
     },
     {
       "id": "bonds",
@@ -170,45 +170,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.615%",
-          "change": "-0.08%",
+          "value": "3.612%",
+          "change": "-0.17%",
           "direction": "down"
         },
         {
           "name": "UST 5Y",
-          "value": "4.170%",
-          "change": "-1.02%",
+          "value": "4.162%",
+          "change": "-1.21%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.453%",
-          "change": "-0.76%",
+          "value": "4.447%",
+          "change": "-0.89%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.955%",
-          "change": "-0.40%",
+          "value": "4.950%",
+          "change": "-0.50%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.453000068664551,
         4.450999736785889,
+        4.449000358581543,
         4.450999736785889,
-        4.453000068664551,
-        4.453000068664551,
-        4.450999736785889,
-        4.450999736785889,
-        4.450999736785889,
-        4.450999736785889,
-        4.453000068664551,
-        4.453000068664551
+        4.449000358581543,
+        4.449000358581543,
+        4.449000358581543,
+        4.449000358581543,
+        4.447000026702881,
+        4.449000358581543,
+        4.447000026702881,
+        4.447000026702881
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-06-15 22:12 KST"
+      "freshness": "2026-06-15 23:00 KST"
     },
     {
       "id": "indices",
@@ -218,14 +218,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7431.46",
-          "change": "+0.50%",
+          "value": "7539.62",
+          "change": "+1.46%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25888.84",
-          "change": "+0.31%",
+          "value": "26501.58",
+          "change": "+2.37%",
           "direction": "up"
         },
         {
@@ -236,27 +236,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6257.99",
-          "change": "+1.14%",
+          "value": "6230.09",
+          "change": "+0.69%",
           "direction": "up"
         }
       ],
       "trend": [
-        7422.43994140625,
-        7421.2001953125,
-        7422.52978515625,
-        7423.75,
-        7425.02978515625,
-        7430.64990234375,
-        7428.41015625,
-        7427.08984375,
-        7430.56982421875,
-        7430.85986328125,
-        7431.4599609375
+        7547.35009765625,
+        7548.06005859375,
+        7544.52978515625,
+        7543.509765625,
+        7543.27978515625,
+        7540.6201171875,
+        7541.31982421875,
+        7540.2998046875,
+        7540.10986328125,
+        7541.16015625,
+        7539.6201171875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-06-13 05:54 KST"
+      "freshness": "2026-06-15 23:15 KST"
     },
     {
       "id": "fx",
@@ -267,44 +267,44 @@
         {
           "name": "DXY",
           "value": "99.47",
-          "change": "-0.27%",
+          "change": "-0.28%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1511.31",
-          "change": "-0.43%",
+          "value": "1512.88",
+          "change": "-0.33%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.11",
-          "change": "-0.05%",
+          "value": "160.05",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7572",
-          "change": "-0.07%",
+          "value": "6.7565",
+          "change": "-0.08%",
           "direction": "down"
         }
       ],
       "trend": [
-        1511.6600341796875,
-        1511.7900390625,
-        1511.3699951171875,
-        1511.2099609375,
-        1511.5799560546875,
-        1511.1199951171875,
-        1511.1099853515625,
-        1511.47998046875,
-        1511.1199951171875,
-        1511.1700439453125,
-        1511.31005859375
+        1512.2099609375,
+        1512.1199951171875,
+        1511.6700439453125,
+        1512.1400146484375,
+        1511.9200439453125,
+        1512.050048828125,
+        1511.9000244140625,
+        1512.1400146484375,
+        1512.97998046875,
+        1512.949951171875,
+        1512.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-15 22:27 KST"
+      "freshness": "2026-06-15 23:15 KST"
     }
   ],
   "actions": [
