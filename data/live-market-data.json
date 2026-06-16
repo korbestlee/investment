@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "collectedAt": "2026-06-15T22:26:31Z",
+  "collectedAt": "2026-06-16T03:51:28Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.09%",
+      "value": "+0.06%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.48%",
+      "value": "-0.10%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.17%",
+      "value": "-0.46%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, June 15",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Today, June 15, 2026, investors analyze a $2.75 billion cash buyout for Payoneer from Nuvei.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-payoneer-global-jumps-after-nuvei-agrees-to-acquire-company-for-275-billion/?.tsrc=rss"
+      "title": "Another veteran analyst doubles down",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "A year ago, a price target of 7,700 for the S&P 500 by the end of 2026 would have sounded aggressive to most strategists. By May, the index had already rallied 8% for the year, and",
+      "link": "https://www.thestreet.com/investing/stocks/another-veteran-analyst-doubles-down-on-stock-market-message-ed-yardeni?.tsrc=rss"
     },
     {
-      "title": "2 Reasons to Like SSB and 1 to Stay",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Since December 2025, SouthState has been in a holding pattern, posting a small return of 1.9% while floating around $98.95. The stock also fell short of the S&P 500’s 8.4% gain dur",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ssb-1-stay-215607973.html?.tsrc=rss"
+      "title": "Most stocks rise, oil flat following",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Equities mostly rose Tuesday and oil prices held losses following the previous day's euphoric rally sparked by the US-Iran peace deal that will reopen the crucial Strait of Hormuz.",
+      "link": "https://finance.yahoo.com/markets/articles/most-stocks-rise-oil-flat-025317614.html?.tsrc=rss"
     },
     {
-      "title": "Jazz Pharmaceuticals (JAZZ)",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Jazz Pharmaceuticals has had an impressive run over the past six months as its shares have beaten the S&P 500 by 28.7%. The stock now trades at $232.44, marking a 37.1% gain. This ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jazz-pharmaceuticals-jazz-buy-sell-214807898.html?.tsrc=rss"
+      "title": "APA Corporation Acquires Savant",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "APA Corporation (NASDAQ:APA) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. APA Corporation (NASDAQ:APA) is an independent energy company that explo",
+      "link": "https://finance.yahoo.com/energy/articles/apa-corporation-acquires-savant-alaska-020839773.html?.tsrc=rss"
     },
     {
-      "title": "3 Reasons FBNC is Risky and 1 Stock",
+      "title": "Walmart (WMT)",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Over the past six months, First Bancorp has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $61.79, representing a healthy 15.6% increase. This was ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fbnc-risky-1-214007930.html?.tsrc=rss"
+      "summary": "Walmart Inc. (NASDAQ:WMT) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. Walmart Inc. (NASDAQ:WMT) engages in the operation of retail and wholesale ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-14-best-020738279.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, June 15",
-      "summary": "Today, June 15, 2026, investors analyze a $2.75 billion cash buyout for Payoneer from Nuvei.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/15/stock-market-today-june-15-payoneer-global-jumps-after-nuvei-agrees-to-acquire-company-for-275-billion/?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:59:05 +0000"
+      "title": "Another veteran analyst doubles down",
+      "summary": "A year ago, a price target of 7,700 for the S&P 500 by the end of 2026 would have sounded aggressive to most strategists. By May, the index had already rallied 8% for the year, and",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.thestreet.com/investing/stocks/another-veteran-analyst-doubles-down-on-stock-market-message-ed-yardeni?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 03:07:00 +0000"
     },
     {
-      "title": "2 Reasons to Like SSB and 1 to Stay",
-      "summary": "Since December 2025, SouthState has been in a holding pattern, posting a small return of 1.9% while floating around $98.95. The stock also fell short of the S&P 500’s 8.4% gain dur",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-ssb-1-stay-215607973.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:56:07 +0000"
+      "title": "Most stocks rise, oil flat following",
+      "summary": "Equities mostly rose Tuesday and oil prices held losses following the previous day's euphoric rally sparked by the US-Iran peace deal that will reopen the crucial Strait of Hormuz.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/most-stocks-rise-oil-flat-025317614.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 02:53:17 +0000"
     },
     {
-      "title": "Jazz Pharmaceuticals (JAZZ)",
-      "summary": "Jazz Pharmaceuticals has had an impressive run over the past six months as its shares have beaten the S&P 500 by 28.7%. The stock now trades at $232.44, marking a 37.1% gain. This ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jazz-pharmaceuticals-jazz-buy-sell-214807898.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:48:07 +0000"
+      "title": "APA Corporation Acquires Savant",
+      "summary": "APA Corporation (NASDAQ:APA) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. APA Corporation (NASDAQ:APA) is an independent energy company that explo",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/apa-corporation-acquires-savant-alaska-020839773.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 02:08:39 +0000"
     },
     {
-      "title": "3 Reasons FBNC is Risky and 1 Stock",
-      "summary": "Over the past six months, First Bancorp has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $61.79, representing a healthy 15.6% increase. This was ",
+      "title": "Walmart (WMT)",
+      "summary": "Walmart Inc. (NASDAQ:WMT) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. Walmart Inc. (NASDAQ:WMT) engages in the operation of retail and wholesale ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-fbnc-risky-1-214007930.html?.tsrc=rss",
-      "published": "Mon, 15 Jun 2026 21:40:07 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-14-best-020738279.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 02:07:38 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.14",
-          "change": "+0.48%",
-          "direction": "up"
+          "value": "80.67",
+          "change": "-0.10%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "83.45",
-          "change": "+0.34%",
-          "direction": "up"
+          "value": "82.92",
+          "change": "-0.30%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4328.40",
-          "change": "-0.53%",
+          "value": "4348.50",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.49",
-          "change": "-0.17%",
+          "value": "6.47",
+          "change": "-0.46%",
           "direction": "down"
         }
       ],
       "trend": [
-        81.02999877929688,
-        81.02999877929688,
-        81.05000305175781,
-        81.05999755859375,
-        81.04000091552734,
-        81.08000183105469,
-        81.12999725341797,
-        81.12000274658203,
-        81.12999725341797,
-        81.12000274658203,
-        81.13999938964844
+        80.69000244140625,
+        80.68000030517578,
+        80.66000366210938,
+        80.68000030517578,
+        80.68000030517578,
+        80.62999725341797,
+        80.6500015258789,
+        80.63999938964844,
+        80.66000366210938,
+        80.66999816894531,
+        80.66999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-16 07:16 KST"
+      "status": "약세",
+      "freshness": "2026-06-16 12:41 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8545.98",
-          "change": "+5.20%",
+          "value": "8718.83",
+          "change": "+2.02%",
           "direction": "up"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.66",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "99.69",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1514.42",
-          "change": "-0.23%",
+          "value": "1513.07",
+          "change": "-0.18%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.33",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "160.22",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7565",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "6.7596",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1515.780029296875,
-        1515.0999755859375,
-        1514.75,
-        1514.199951171875,
-        1514.5699462890625,
-        1514.3399658203125,
-        1514.260009765625,
-        1515.75,
-        1514.5999755859375,
-        1514.510009765625,
-        1514.4200439453125
+        1512.8399658203125,
+        1512.1800537109375,
+        1512.0799560546875,
+        1512.0799560546875,
+        1512.0799560546875,
+        1512.5899658203125,
+        1512.52001953125,
+        1512.7900390625,
+        1512.47998046875,
+        1512.97998046875,
+        1513.0699462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-16 07:26 KST"
+      "status": "강세",
+      "freshness": "2026-06-16 12:51 KST"
     }
   ],
   "currentAction": {
