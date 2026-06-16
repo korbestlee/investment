@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "collectedAt": "2026-06-16T03:51:28Z",
+  "collectedAt": "2026-06-16T08:36:52Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.06%",
+      "value": "-0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.10%",
+      "value": "-2.42%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.46%",
+      "value": "-0.40%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Another veteran analyst doubles down",
+      "title": "Bank of Japan hikes interest rate to",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "A year ago, a price target of 7,700 for the S&P 500 by the end of 2026 would have sounded aggressive to most strategists. By May, the index had already rallied 8% for the year, and",
-      "link": "https://www.thestreet.com/investing/stocks/another-veteran-analyst-doubles-down-on-stock-market-message-ed-yardeni?.tsrc=rss"
+      "summary": "The Bank of Japan hiked interest rates to a 31-year high on Tuesday as it battles inflation caused by the Middle East war -- even after Washington and Tehran agreed a peace deal.Ja",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hikes-rate-31-042833208.html?.tsrc=rss"
     },
     {
-      "title": "Most stocks rise, oil flat following",
+      "title": "US Stock Market Today",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The Morning Bull - US Market Morning Update Tuesday, Jun, 16 2026 US stock futures are pointing higher this morning, with E-mini S&P 500 contracts up about 2.1% and Nasdaq-100 futu",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081116223.html?.tsrc=rss"
+    },
+    {
+      "title": "XRP Rallies as Former Goldman",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Equities mostly rose Tuesday and oil prices held losses following the previous day's euphoric rally sparked by the US-Iran peace deal that will reopen the crucial Strait of Hormuz.",
-      "link": "https://finance.yahoo.com/markets/articles/most-stocks-rise-oil-flat-025317614.html?.tsrc=rss"
+      "summary": "XRP rebounds as large wallets accumulate supply and EasyA co-founder Dom Kwok restates his $1,000 price target by 2030.",
+      "link": "https://beincrypto.com/xrp-rebound-1000-price-prediction-2030/?.tsrc=rss"
     },
     {
-      "title": "APA Corporation Acquires Savant",
+      "title": "Regency Silver Corp. Intercepts High",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "APA Corporation (NASDAQ:APA) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. APA Corporation (NASDAQ:APA) is an independent energy company that explo",
-      "link": "https://finance.yahoo.com/energy/articles/apa-corporation-acquires-savant-alaska-020839773.html?.tsrc=rss"
-    },
-    {
-      "title": "Walmart (WMT)",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Walmart Inc. (NASDAQ:WMT) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. Walmart Inc. (NASDAQ:WMT) engages in the operation of retail and wholesale ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-14-best-020738279.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 16, 2026) - Regency Silver Corp. (TSXV: RSMX) (OTCQB: RSMXF) (FSE: ZJ90) (\"Regency Silver\" or the \"Company\") reports complete re",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/regency-silver-corp-intercepts-high-080000754.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Another veteran analyst doubles down",
-      "summary": "A year ago, a price target of 7,700 for the S&P 500 by the end of 2026 would have sounded aggressive to most strategists. By May, the index had already rallied 8% for the year, and",
+      "title": "Bank of Japan hikes interest rate to",
+      "summary": "The Bank of Japan hiked interest rates to a 31-year high on Tuesday as it battles inflation caused by the Middle East war -- even after Washington and Tehran agreed a peace deal.Ja",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.thestreet.com/investing/stocks/another-veteran-analyst-doubles-down-on-stock-market-message-ed-yardeni?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 03:07:00 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hikes-rate-31-042833208.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 08:26:35 +0000"
     },
     {
-      "title": "Most stocks rise, oil flat following",
-      "summary": "Equities mostly rose Tuesday and oil prices held losses following the previous day's euphoric rally sparked by the US-Iran peace deal that will reopen the crucial Strait of Hormuz.",
+      "title": "US Stock Market Today",
+      "summary": "The Morning Bull - US Market Morning Update Tuesday, Jun, 16 2026 US stock futures are pointing higher this morning, with E-mini S&P 500 contracts up about 2.1% and Nasdaq-100 futu",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081116223.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 08:11:16 +0000"
+    },
+    {
+      "title": "XRP Rallies as Former Goldman",
+      "summary": "XRP rebounds as large wallets accumulate supply and EasyA co-founder Dom Kwok restates his $1,000 price target by 2030.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/most-stocks-rise-oil-flat-025317614.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 02:53:17 +0000"
+      "link": "https://beincrypto.com/xrp-rebound-1000-price-prediction-2030/?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 08:09:24 +0000"
     },
     {
-      "title": "APA Corporation Acquires Savant",
-      "summary": "APA Corporation (NASDAQ:APA) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. APA Corporation (NASDAQ:APA) is an independent energy company that explo",
+      "title": "Regency Silver Corp. Intercepts High",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 16, 2026) - Regency Silver Corp. (TSXV: RSMX) (OTCQB: RSMXF) (FSE: ZJ90) (\"Regency Silver\" or the \"Company\") reports complete re",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/apa-corporation-acquires-savant-alaska-020839773.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 02:08:39 +0000"
-    },
-    {
-      "title": "Walmart (WMT)",
-      "summary": "Walmart Inc. (NASDAQ:WMT) is included among the 14 Best S&P 500 Stocks to Buy Now According to Analysts. Walmart Inc. (NASDAQ:WMT) engages in the operation of retail and wholesale ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-14-best-020738279.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 02:07:38 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/regency-silver-corp-intercepts-high-080000754.html?.tsrc=rss",
+      "published": "Tue, 16 Jun 2026 08:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.67",
-          "change": "-0.10%",
+          "value": "77.52",
+          "change": "-2.42%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "82.92",
-          "change": "-0.30%",
+          "value": "81.34",
+          "change": "-2.20%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4348.50",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "4364.80",
+          "change": "+0.30%",
+          "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.47",
-          "change": "-0.46%",
+          "change": "-0.40%",
           "direction": "down"
         }
       ],
       "trend": [
-        80.69000244140625,
-        80.68000030517578,
-        80.66000366210938,
-        80.68000030517578,
-        80.68000030517578,
-        80.62999725341797,
-        80.6500015258789,
-        80.63999938964844,
-        80.66000366210938,
-        80.66999816894531,
-        80.66999816894531
+        77.68000030517578,
+        77.69999694824219,
+        77.61000061035156,
+        77.55999755859375,
+        77.47000122070312,
+        77.37999725341797,
+        77.41000366210938,
+        77.4800033569336,
+        77.4800033569336,
+        77.5,
+        77.5199966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-16 12:41 KST"
+      "freshness": "2026-06-16 17:26 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "8718.83",
-          "change": "+2.02%",
+          "value": "8726.60",
+          "change": "+2.11%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6229.43",
-          "change": "+0.68%",
+          "value": "6273.84",
+          "change": "+0.71%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.69",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "99.61",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1513.07",
-          "change": "-0.18%",
+          "value": "1506.37",
+          "change": "-0.63%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.22",
-          "change": "-0.07%",
+          "value": "160.31",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7596",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6.7564",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1512.8399658203125,
-        1512.1800537109375,
-        1512.0799560546875,
-        1512.0799560546875,
-        1512.0799560546875,
-        1512.5899658203125,
-        1512.52001953125,
-        1512.7900390625,
-        1512.47998046875,
-        1512.97998046875,
-        1513.0699462890625
+        1508.300048828125,
+        1508.469970703125,
+        1508.47998046875,
+        1508.0799560546875,
+        1506.6199951171875,
+        1506.5999755859375,
+        1506.81005859375,
+        1507.0,
+        1506.800048828125,
+        1506.300048828125,
+        1506.3699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-16 12:51 KST"
+      "status": "완화",
+      "freshness": "2026-06-16 17:36 KST"
     }
   ],
   "currentAction": {
