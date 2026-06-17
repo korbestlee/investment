@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "collectedAt": "2026-06-17T11:22:52Z",
+  "date": "2026-06-18",
+  "collectedAt": "2026-06-17T22:09:26Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Risk-off",
+      "value": "Policy shock",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,105 +26,105 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "달러 + 금리",
+      "value": "금리 변동성",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
+  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.57%",
+      "value": "-1.21%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.92%",
+      "value": "+0.79%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.12%",
+      "value": "+0.84%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.74%",
+      "value": "-1.32%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.35%",
+      "value": "-2.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Silver prices today, Wednesday, June",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "This is today's silver price, Wednesday, June 17, 2026. Silver July futures opened at $70.14, flat compared to Tuesday's opening price, but up nearly 10% since last Wednesday’s ope",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-june-17-2026-up-99-since-last-week-112116012.html?.tsrc=rss"
-    },
-    {
-      "title": "World facing a glut of oil after",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Donald Trump’s peace deal with Iran could leave the world with more oil than it needs, the International Energy Agency (IEA) has forecast.",
-      "link": "https://uk.finance.yahoo.com/news/world-facing-glut-oil-iran-111808429.html?.tsrc=rss"
-    },
-    {
-      "title": "Oil, Fed, Middle East Views Lift",
+      "title": "Dow Jones Futures Rise After Fed",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Wednesday, as oil prices steadied well under",
-      "link": "https://finance.yahoo.com/economy/policy/articles/oil-fed-middle-east-views-111221925.html?.tsrc=rss"
+      "summary": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
+      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss"
     },
     {
-      "title": "Aurelia Metals completes PFS for New",
-      "impact": "원자재, 인플레 기대",
+      "title": "Wilco 63 Corporation Announces",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "New York, NY, June 17, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (the “Company”) announced today the pricing of its initial public offering of 20,000,000 units at a price of $1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wilco-63-corporation-announces-pricing-214700023.html?.tsrc=rss"
+    },
+    {
+      "title": "International Recap, June 17",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The project aims to reprocess two gold-bearing, dry-stacked tailings stockpiles located around 3km from the Peak processing plant.",
-      "link": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/?.tsrc=rss"
+      "summary": "Today, June 17, 2026, global equities found support as investors welcomed calmer energy markets and stable policy signals.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/international-recap-june-17-easing-oil-prices-and-steady-rate-outlook-help-lift-international-markets/?.tsrc=rss"
+    },
+    {
+      "title": "Stock Market Today, June 17",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investors weighed hawkish central bank messaging and rising Treasury yields, today, June 17, 2026.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-stocks-slide-on-fed-rate-hike-fears/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Silver prices today, Wednesday, June",
-      "summary": "This is today's silver price, Wednesday, June 17, 2026. Silver July futures opened at $70.14, flat compared to Tuesday's opening price, but up nearly 10% since last Wednesday’s ope",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-june-17-2026-up-99-since-last-week-112116012.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 11:21:16 +0000"
-    },
-    {
-      "title": "World facing a glut of oil after",
-      "summary": "Donald Trump’s peace deal with Iran could leave the world with more oil than it needs, the International Energy Agency (IEA) has forecast.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/world-facing-glut-oil-iran-111808429.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 11:18:08 +0000"
-    },
-    {
-      "title": "Oil, Fed, Middle East Views Lift",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Wednesday, as oil prices steadied well under",
+      "title": "Dow Jones Futures Rise After Fed",
+      "summary": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/oil-fed-middle-east-views-111221925.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 11:12:21 +0000"
+      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 21:57:17 +0000"
     },
     {
-      "title": "Aurelia Metals completes PFS for New",
-      "summary": "The project aims to reprocess two gold-bearing, dry-stacked tailings stockpiles located around 3km from the Peak processing plant.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Wilco 63 Corporation Announces",
+      "summary": "New York, NY, June 17, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (the “Company”) announced today the pricing of its initial public offering of 20,000,000 units at a price of $1",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wilco-63-corporation-announces-pricing-214700023.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 21:47:00 +0000"
+    },
+    {
+      "title": "International Recap, June 17",
+      "summary": "Today, June 17, 2026, global equities found support as investors welcomed calmer energy markets and stable policy signals.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 11:08:57 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/international-recap-june-17-easing-oil-prices-and-steady-rate-outlook-help-lift-international-markets/?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 21:42:02 +0000"
+    },
+    {
+      "title": "Stock Market Today, June 17",
+      "summary": "Investors weighed hawkish central bank messaging and rising Treasury yields, today, June 17, 2026.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-stocks-slide-on-fed-rate-hike-fears/?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 21:29:51 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.83",
-          "change": "+0.74%",
-          "direction": "up"
+          "value": "75.01",
+          "change": "-1.32%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "79.45",
-          "change": "+0.62%",
-          "direction": "up"
+          "value": "78.69",
+          "change": "-1.08%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4348.40",
-          "change": "-0.14%",
+          "value": "4276.30",
+          "change": "-2.40%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.53",
-          "change": "+0.35%",
-          "direction": "up"
+          "value": "6.36",
+          "change": "-2.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        75.62000274658203,
-        75.66999816894531,
-        75.77999877929688,
-        75.6500015258789,
-        75.6500015258789,
-        75.69000244140625,
-        75.73999786376953,
-        75.69999694824219,
-        75.70999908447266,
-        75.83000183105469,
-        75.83000183105469
+        75.04000091552734,
+        75.0,
+        75.05999755859375,
+        75.02999877929688,
+        75.05999755859375,
+        74.98999786376953,
+        75.0,
+        74.97000122070312,
+        74.9800033569336,
+        74.9800033569336,
+        75.01000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-17 20:12 KST"
+      "status": "약세",
+      "freshness": "2026-06-18 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.630%",
-          "change": "+0.33%",
+          "value": "3.647%",
+          "change": "+0.47%",
           "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "4.151%",
-          "change": "-0.88%",
-          "direction": "down"
+          "value": "4.229%",
+          "change": "+1.88%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.428%",
-          "change": "-0.92%",
-          "direction": "down"
+          "value": "4.463%",
+          "change": "+0.79%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "4.928%",
-          "change": "-0.87%",
+          "value": "4.926%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.425999641418457,
-        4.425999641418457,
-        4.425999641418457,
-        4.425999641418457,
-        4.425999641418457,
-        4.425999641418457,
-        4.424000263214111,
-        4.424000263214111,
-        4.425999641418457,
-        4.425999641418457,
-        4.427999973297119
+        4.439000129699707,
+        4.440999984741211,
+        4.439000129699707,
+        4.439000129699707,
+        4.440999984741211,
+        4.442999839782715,
+        4.456999778747559,
+        4.454999923706055,
+        4.459000110626221,
+        4.465000152587891,
+        4.463000297546387
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-06-17 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-06-18 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7511.35",
-          "change": "-0.57%",
+          "value": "7420.10",
+          "change": "-1.21%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26376.34",
-          "change": "-1.15%",
+          "value": "26021.66",
+          "change": "-1.34%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6294.20",
-          "change": "+0.59%",
+          "value": "6300.07",
+          "change": "+0.68%",
           "direction": "up"
         }
       ],
       "trend": [
-        7519.740234375,
-        7520.6298828125,
-        7515.7099609375,
-        7514.91015625,
-        7521.009765625,
-        7519.85986328125,
-        7517.5498046875,
-        7514.4599609375,
-        7516.3798828125,
-        7512.990234375,
-        7511.35009765625
+        7411.759765625,
+        7409.830078125,
+        7406.919921875,
+        7409.10009765625,
+        7409.75,
+        7423.830078125,
+        7420.56005859375,
+        7418.080078125,
+        7417.2998046875,
+        7421.759765625,
+        7420.10009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-06-17 05:56 KST"
+      "freshness": "2026-06-18 05:50 KST"
     },
     {
       "id": "fx",
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.66",
-          "change": "+0.12%",
+          "value": "100.37",
+          "change": "+0.84%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1516.62",
-          "change": "+0.55%",
+          "value": "1528.10",
+          "change": "+1.31%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.26",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "160.60",
+          "change": "+0.12%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7577",
-          "change": "+0.03%",
+          "value": "6.7572",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        1516.8499755859375,
-        1516.550048828125,
-        1516.75,
-        1516.3699951171875,
-        1516.3199462890625,
-        1516.3800048828125,
-        1516.3399658203125,
-        1515.3800048828125,
-        1516.47998046875,
-        1515.5799560546875,
-        1516.6199951171875
+        1527.47998046875,
+        1525.6400146484375,
+        1523.68994140625,
+        1523.72998046875,
+        1523.6500244140625,
+        1525.719970703125,
+        1526.52001953125,
+        1526.97998046875,
+        1527.8399658203125,
+        1528.030029296875,
+        1528.0999755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-17 20:22 KST"
+      "freshness": "2026-06-18 07:09 KST"
     }
   ],
   "currentAction": {
-    "state": "Risk-off",
-    "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-    "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+    "state": "Policy shock",
+    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
     "isCurrent": true
   },
   "actions": [
@@ -362,7 +362,7 @@
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
       "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Inflation shock",
@@ -380,7 +380,7 @@
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
       "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
-      "isCurrent": false
+      "isCurrent": true
     }
   ]
 }
