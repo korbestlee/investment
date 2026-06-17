@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "collectedAt": "2026-06-17T08:18:30Z",
+  "collectedAt": "2026-06-17T11:22:52Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
+      "value": "Risk-off",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,11 +26,11 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "혼조 신호",
+      "value": "달러 + 금리",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "topLine": "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.12%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.31%",
+      "value": "+0.74%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.42%",
+      "value": "+0.35%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Trump Made 38 Iran Peace Deal",
+      "title": "Silver prices today, Wednesday, June",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "The 39th time could be the charm. But it's not a foregone conclusion.",
-      "link": "https://www.fool.com/investing/2026/06/17/trump-made-38-iran-peace-deal-promises-the-39th-ma/?.tsrc=rss"
+      "summary": "This is today's silver price, Wednesday, June 17, 2026. Silver July futures opened at $70.14, flat compared to Tuesday's opening price, but up nearly 10% since last Wednesday’s ope",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-june-17-2026-up-99-since-last-week-112116012.html?.tsrc=rss"
     },
     {
-      "title": "This Small-Cap Stock Has Quietly",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Shares of M-Tron Industries are riding high thanks to a set of major growth opportunities.",
-      "link": "https://www.fool.com/investing/2026/06/17/this-small-cap-stock-has-quietly-crushed-the-sp-50/?.tsrc=rss"
-    },
-    {
-      "title": "Barclays Upgrades Noble Corporation",
+      "title": "World facing a glut of oil after",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Noble Corporation plc (NYSE:NE) ranks among the best oil and gas drilling stocks to buy now. On May 7, Barclays analyst J. David Anderson upgraded a number of energy companies, inc",
-      "link": "https://finance.yahoo.com/energy/articles/barclays-upgrades-noble-corporation-plc-080034546.html?.tsrc=rss"
+      "summary": "Donald Trump’s peace deal with Iran could leave the world with more oil than it needs, the International Energy Agency (IEA) has forecast.",
+      "link": "https://uk.finance.yahoo.com/news/world-facing-glut-oil-iran-111808429.html?.tsrc=rss"
     },
     {
-      "title": "Dollar General (DG) Stock Could Be",
+      "title": "Oil, Fed, Middle East Views Lift",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Wall Street futures pointed moderately higher pre-bell Wednesday, as oil prices steadied well under",
+      "link": "https://finance.yahoo.com/economy/policy/articles/oil-fed-middle-east-views-111221925.html?.tsrc=rss"
+    },
+    {
+      "title": "Aurelia Metals completes PFS for New",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Why Dollar General Stock Is Back in Focus The latest move in Dollar General (DG) stock stems from a retail rally linked to sharply lower oil prices after an Iran peace deal, a shif",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-stock-could-071534576.html?.tsrc=rss"
+      "summary": "The project aims to reprocess two gold-bearing, dry-stacked tailings stockpiles located around 3km from the Peak processing plant.",
+      "link": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Trump Made 38 Iran Peace Deal",
-      "summary": "The 39th time could be the charm. But it's not a foregone conclusion.",
+      "title": "Silver prices today, Wednesday, June",
+      "summary": "This is today's silver price, Wednesday, June 17, 2026. Silver July futures opened at $70.14, flat compared to Tuesday's opening price, but up nearly 10% since last Wednesday’s ope",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/17/trump-made-38-iran-peace-deal-promises-the-39th-ma/?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 08:12:00 +0000"
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-june-17-2026-up-99-since-last-week-112116012.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 11:21:16 +0000"
     },
     {
-      "title": "This Small-Cap Stock Has Quietly",
-      "summary": "Shares of M-Tron Industries are riding high thanks to a set of major growth opportunities.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/17/this-small-cap-stock-has-quietly-crushed-the-sp-50/?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 08:04:00 +0000"
-    },
-    {
-      "title": "Barclays Upgrades Noble Corporation",
-      "summary": "Noble Corporation plc (NYSE:NE) ranks among the best oil and gas drilling stocks to buy now. On May 7, Barclays analyst J. David Anderson upgraded a number of energy companies, inc",
+      "title": "World facing a glut of oil after",
+      "summary": "Donald Trump’s peace deal with Iran could leave the world with more oil than it needs, the International Energy Agency (IEA) has forecast.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/barclays-upgrades-noble-corporation-plc-080034546.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 08:00:34 +0000"
+      "link": "https://uk.finance.yahoo.com/news/world-facing-glut-oil-iran-111808429.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 11:18:08 +0000"
     },
     {
-      "title": "Dollar General (DG) Stock Could Be",
-      "summary": "Why Dollar General Stock Is Back in Focus The latest move in Dollar General (DG) stock stems from a retail rally linked to sharply lower oil prices after an Iran peace deal, a shif",
+      "title": "Oil, Fed, Middle East Views Lift",
+      "summary": "Wall Street futures pointed moderately higher pre-bell Wednesday, as oil prices steadied well under",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/oil-fed-middle-east-views-111221925.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 11:12:21 +0000"
+    },
+    {
+      "title": "Aurelia Metals completes PFS for New",
+      "summary": "The project aims to reprocess two gold-bearing, dry-stacked tailings stockpiles located around 3km from the Peak processing plant.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-stock-could-071534576.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 07:15:34 +0000"
+      "link": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 11:08:57 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.04",
-          "change": "-0.31%",
-          "direction": "down"
+          "value": "75.83",
+          "change": "+0.74%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "78.63",
-          "change": "-0.42%",
-          "direction": "down"
+          "value": "79.45",
+          "change": "+0.62%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4346.60",
-          "change": "-0.18%",
+          "value": "4348.40",
+          "change": "-0.14%",
           "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.53",
-          "change": "+0.42%",
+          "change": "+0.35%",
           "direction": "up"
         }
       ],
       "trend": [
-        74.98999786376953,
-        75.01000213623047,
-        74.94000244140625,
-        74.9000015258789,
-        74.87000274658203,
-        75.01000213623047,
-        74.98999786376953,
-        75.0199966430664,
-        75.04000091552734,
-        74.94000244140625,
-        75.04000091552734
+        75.62000274658203,
+        75.66999816894531,
+        75.77999877929688,
+        75.6500015258789,
+        75.6500015258789,
+        75.69000244140625,
+        75.73999786376953,
+        75.69999694824219,
+        75.70999908447266,
+        75.83000183105469,
+        75.83000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-17 17:08 KST"
+      "status": "강세",
+      "freshness": "2026-06-17 20:12 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6275.03",
-          "change": "+0.28%",
+          "value": "6294.20",
+          "change": "+0.59%",
           "direction": "up"
         }
       ],
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.55",
-          "change": "+0.01%",
+          "value": "99.66",
+          "change": "+0.12%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1514.46",
-          "change": "+0.41%",
+          "value": "1516.62",
+          "change": "+0.55%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.24",
-          "change": "-0.10%",
+          "value": "160.26",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7566",
-          "change": "+0.01%",
+          "value": "6.7577",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        1512.0,
-        1511.9300537109375,
-        1512.280029296875,
-        1512.97998046875,
-        1512.68994140625,
-        1512.77001953125,
-        1513.3800048828125,
-        1513.6800537109375,
-        1514.2900390625,
-        1514.8800048828125,
-        1514.4599609375
+        1516.8499755859375,
+        1516.550048828125,
+        1516.75,
+        1516.3699951171875,
+        1516.3199462890625,
+        1516.3800048828125,
+        1516.3399658203125,
+        1515.3800048828125,
+        1516.47998046875,
+        1515.5799560546875,
+        1516.6199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-17 17:18 KST"
+      "freshness": "2026-06-17 20:22 KST"
     }
   ],
   "currentAction": {
-    "state": "Neutral",
-    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
-    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "state": "Risk-off",
+    "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+    "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,7 +350,7 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-on",
@@ -362,7 +362,7 @@
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
       "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "state": "Inflation shock",
