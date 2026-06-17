@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "collectedAt": "2026-06-16T22:22:15Z",
+  "collectedAt": "2026-06-17T08:18:30Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.09%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.66%",
+      "value": "-0.31%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.21%",
+      "value": "+0.42%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Hits High, SpaceX Keeps",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Dow Jones hit a new high and SpaceX kept rising. But chips and most AI stocks fell. Fed chief Kevin Warsh's comments will be in focus Wednesday.",
-      "link": "https://finance.yahoo.com/m/8db20d3f-802e-3d8a-9772-1c97be3d346b/dow-jones-hits-high%2C-spacex.html?.tsrc=rss"
-    },
-    {
-      "title": "In 6 Words, Fed Governor Lisa Cook",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Inflation continues to hit new highs, potentially with far-reaching effects on the market.",
-      "link": "https://www.fool.com/investing/2026/06/16/in-6-words-fed-governor-lisa-cook-issued-a-stark-w/?.tsrc=rss"
-    },
-    {
-      "title": "JPMorgan Chase Topped the Market on",
+      "title": "Trump Made 38 Iran Peace Deal",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "According to a media report, the bank wants to expand its digital services into at least three new European countries.",
-      "link": "https://www.fool.com/investing/2026/06/16/why-jpmorgan-chase-topped-the-market-on-tuesday/?.tsrc=rss"
+      "summary": "The 39th time could be the charm. But it's not a foregone conclusion.",
+      "link": "https://www.fool.com/investing/2026/06/17/trump-made-38-iran-peace-deal-promises-the-39th-ma/?.tsrc=rss"
     },
     {
-      "title": "Boeing (BA)",
+      "title": "This Small-Cap Stock Has Quietly",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Boeing has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 10.6% to $228.58 per share while the index",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-buy-sell-hold-214504752.html?.tsrc=rss"
+      "summary": "Shares of M-Tron Industries are riding high thanks to a set of major growth opportunities.",
+      "link": "https://www.fool.com/investing/2026/06/17/this-small-cap-stock-has-quietly-crushed-the-sp-50/?.tsrc=rss"
+    },
+    {
+      "title": "Barclays Upgrades Noble Corporation",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Noble Corporation plc (NYSE:NE) ranks among the best oil and gas drilling stocks to buy now. On May 7, Barclays analyst J. David Anderson upgraded a number of energy companies, inc",
+      "link": "https://finance.yahoo.com/energy/articles/barclays-upgrades-noble-corporation-plc-080034546.html?.tsrc=rss"
+    },
+    {
+      "title": "Dollar General (DG) Stock Could Be",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Why Dollar General Stock Is Back in Focus The latest move in Dollar General (DG) stock stems from a retail rally linked to sharply lower oil prices after an Iran peace deal, a shif",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-stock-could-071534576.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Hits High, SpaceX Keeps",
-      "summary": "The Dow Jones hit a new high and SpaceX kept rising. But chips and most AI stocks fell. Fed chief Kevin Warsh's comments will be in focus Wednesday.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/8db20d3f-802e-3d8a-9772-1c97be3d346b/dow-jones-hits-high%2C-spacex.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 22:03:05 +0000"
-    },
-    {
-      "title": "In 6 Words, Fed Governor Lisa Cook",
-      "summary": "Inflation continues to hit new highs, potentially with far-reaching effects on the market.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/06/16/in-6-words-fed-governor-lisa-cook-issued-a-stark-w/?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 21:50:00 +0000"
-    },
-    {
-      "title": "JPMorgan Chase Topped the Market on",
-      "summary": "According to a media report, the bank wants to expand its digital services into at least three new European countries.",
+      "title": "Trump Made 38 Iran Peace Deal",
+      "summary": "The 39th time could be the charm. But it's not a foregone conclusion.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/16/why-jpmorgan-chase-topped-the-market-on-tuesday/?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 21:48:38 +0000"
+      "link": "https://www.fool.com/investing/2026/06/17/trump-made-38-iran-peace-deal-promises-the-39th-ma/?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 08:12:00 +0000"
     },
     {
-      "title": "Boeing (BA)",
-      "summary": "Boeing has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 10.6% to $228.58 per share while the index",
+      "title": "This Small-Cap Stock Has Quietly",
+      "summary": "Shares of M-Tron Industries are riding high thanks to a set of major growth opportunities.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-buy-sell-hold-214504752.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 21:45:04 +0000"
+      "link": "https://www.fool.com/investing/2026/06/17/this-small-cap-stock-has-quietly-crushed-the-sp-50/?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 08:04:00 +0000"
+    },
+    {
+      "title": "Barclays Upgrades Noble Corporation",
+      "summary": "Noble Corporation plc (NYSE:NE) ranks among the best oil and gas drilling stocks to buy now. On May 7, Barclays analyst J. David Anderson upgraded a number of energy companies, inc",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/barclays-upgrades-noble-corporation-plc-080034546.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 08:00:34 +0000"
+    },
+    {
+      "title": "Dollar General (DG) Stock Could Be",
+      "summary": "Why Dollar General Stock Is Back in Focus The latest move in Dollar General (DG) stock stems from a retail rally linked to sharply lower oil prices after an Iran peace deal, a shif",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-stock-could-071534576.html?.tsrc=rss",
+      "published": "Wed, 17 Jun 2026 07:15:34 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.77",
-          "change": "+0.66%",
-          "direction": "up"
+          "value": "75.04",
+          "change": "-0.31%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "79.40",
-          "change": "+0.56%",
-          "direction": "up"
+          "value": "78.63",
+          "change": "-0.42%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4352.80",
-          "change": "-0.04%",
+          "value": "4346.60",
+          "change": "-0.18%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.49",
-          "change": "-0.21%",
-          "direction": "down"
+          "value": "6.53",
+          "change": "+0.42%",
+          "direction": "up"
         }
       ],
       "trend": [
-        75.6500015258789,
-        75.68000030517578,
-        75.79000091552734,
-        75.79000091552734,
-        75.7300033569336,
-        75.70999908447266,
-        75.7300033569336,
-        75.83000183105469,
-        75.80999755859375,
-        75.83999633789062,
-        75.7699966430664
+        74.98999786376953,
+        75.01000213623047,
+        74.94000244140625,
+        74.9000015258789,
+        74.87000274658203,
+        75.01000213623047,
+        74.98999786376953,
+        75.0199966430664,
+        75.04000091552734,
+        74.94000244140625,
+        75.04000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-17 07:12 KST"
+      "status": "약세",
+      "freshness": "2026-06-17 17:08 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "8726.60",
-          "change": "+2.11%",
+          "value": "8864.24",
+          "change": "+1.58%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6257.42",
-          "change": "+0.45%",
+          "value": "6275.03",
+          "change": "+0.28%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.54",
-          "change": "-0.09%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1512.90",
-          "change": "-0.20%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "160.42",
-          "change": "+0.05%",
+          "value": "99.55",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7557",
-          "change": "-0.01%",
+          "name": "USDKRW",
+          "value": "1514.46",
+          "change": "+0.41%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "160.24",
+          "change": "-0.10%",
           "direction": "down"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7566",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1508.3199462890625,
-        1508.3199462890625,
-        1508.3199462890625,
-        1508.4599609375,
-        1508.4599609375,
-        1511.469970703125,
-        1511.469970703125,
-        1512.9599609375,
-        1512.9000244140625,
-        1513.02001953125,
-        1512.9000244140625
+        1512.0,
+        1511.9300537109375,
+        1512.280029296875,
+        1512.97998046875,
+        1512.68994140625,
+        1512.77001953125,
+        1513.3800048828125,
+        1513.6800537109375,
+        1514.2900390625,
+        1514.8800048828125,
+        1514.4599609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-17 07:20 KST"
+      "status": "강세",
+      "freshness": "2026-06-17 17:18 KST"
     }
   ],
   "currentAction": {
