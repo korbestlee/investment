@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "collectedAt": "2026-06-17T22:09:26Z",
+  "collectedAt": "2026-06-18T07:22:33Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.84%",
+      "value": "+0.22%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-1.32%",
+      "value": "-2.42%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-2.01%",
+      "value": "-1.35%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Rise After Fed",
+      "title": "FTSE 100 Live",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
-      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss"
+      "summary": "7.58am: Fed shock but Iran deal signed News overnight that US and Iranian leaders signed an MoU to end the war has helped lower oil prices, but a portentous debut of the US Federal",
+      "link": "https://www.proactiveinvestors.com/companies/news/1094089/ftse-100-live-london-stocks-called-lower-after-us-fed-meeting-surprise-1094089.html?.tsrc=rss"
     },
     {
-      "title": "Wilco 63 Corporation Announces",
+      "title": "Zacks Earnings Trends Highlights",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "New York, NY, June 17, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (the “Company”) announced today the pricing of its initial public offering of 20,000,000 units at a price of $1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wilco-63-corporation-announces-pricing-214700023.html?.tsrc=rss"
+      "summary": "NVDA and MU are key drivers of Tech sector earnings growth as S&P 500 Q2 profits are forecast to rise 22.3% on 11.0% higher revenues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-060600877.html?.tsrc=rss"
     },
     {
-      "title": "International Recap, June 17",
-      "impact": "채권, 금리",
+      "title": "Oil Prices Slide After U.S. and Iran",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Today, June 17, 2026, global equities found support as investors welcomed calmer energy markets and stable policy signals.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/international-recap-june-17-easing-oil-prices-and-steady-rate-outlook-help-lift-international-markets/?.tsrc=rss"
+      "summary": "Oil prices fell after the U.S. and Iranian presidents signed an interim agreement aimed at reopening the Strait of Hormuz, increasing expectations of additional crude supplies and ",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-u-iran-055139191.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market Today, June 17",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investors weighed hawkish central bank messaging and rising Treasury yields, today, June 17, 2026.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-stocks-slide-on-fed-rate-hike-fears/?.tsrc=rss"
+      "title": "These 3 Stocks Have Crushed the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "They haven't peaked yet.",
+      "link": "https://www.fool.com/investing/2026/06/18/these-3-stocks-have-crushed-the-market-this-year-h/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise After Fed",
-      "summary": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
+      "title": "FTSE 100 Live",
+      "summary": "7.58am: Fed shock but Iran deal signed News overnight that US and Iranian leaders signed an MoU to end the war has helped lower oil prices, but a portentous debut of the US Federal",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 21:57:17 +0000"
+      "link": "https://www.proactiveinvestors.com/companies/news/1094089/ftse-100-live-london-stocks-called-lower-after-us-fed-meeting-surprise-1094089.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 06:19:00 +0000"
     },
     {
-      "title": "Wilco 63 Corporation Announces",
-      "summary": "New York, NY, June 17, 2026 (GLOBE NEWSWIRE) -- Wilco 63 Corporation (the “Company”) announced today the pricing of its initial public offering of 20,000,000 units at a price of $1",
+      "title": "Zacks Earnings Trends Highlights",
+      "summary": "NVDA and MU are key drivers of Tech sector earnings growth as S&P 500 Q2 profits are forecast to rise 22.3% on 11.0% higher revenues.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wilco-63-corporation-announces-pricing-214700023.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 21:47:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-nvidia-060600877.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 06:06:00 +0000"
     },
     {
-      "title": "International Recap, June 17",
-      "summary": "Today, June 17, 2026, global equities found support as investors welcomed calmer energy markets and stable policy signals.",
-      "impact": "채권, 금리",
+      "title": "Oil Prices Slide After U.S. and Iran",
+      "summary": "Oil prices fell after the U.S. and Iranian presidents signed an interim agreement aimed at reopening the Strait of Hormuz, increasing expectations of additional crude supplies and ",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/international-recap-june-17-easing-oil-prices-and-steady-rate-outlook-help-lift-international-markets/?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 21:42:02 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-u-iran-055139191.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 05:51:39 +0000"
     },
     {
-      "title": "Stock Market Today, June 17",
-      "summary": "Investors weighed hawkish central bank messaging and rising Treasury yields, today, June 17, 2026.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/17/stock-market-today-june-17-stocks-slide-on-fed-rate-hike-fears/?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 21:29:51 +0000"
+      "title": "These 3 Stocks Have Crushed the",
+      "summary": "They haven't peaked yet.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/18/these-3-stocks-have-crushed-the-market-this-year-h/?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 05:50:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.01",
-          "change": "-1.32%",
+          "value": "74.17",
+          "change": "-2.42%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "78.69",
-          "change": "-1.08%",
+          "value": "77.77",
+          "change": "-2.24%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4276.30",
-          "change": "-2.40%",
+          "value": "4328.20",
+          "change": "-1.21%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.36",
-          "change": "-2.01%",
+          "value": "6.41",
+          "change": "-1.35%",
           "direction": "down"
         }
       ],
       "trend": [
-        75.04000091552734,
-        75.0,
-        75.05999755859375,
-        75.02999877929688,
-        75.05999755859375,
-        74.98999786376953,
-        75.0,
-        74.97000122070312,
-        74.9800033569336,
-        74.9800033569336,
-        75.01000213623047
+        74.01000213623047,
+        73.98999786376953,
+        74.12000274658203,
+        74.05000305175781,
+        74.12999725341797,
+        74.11000061035156,
+        74.05000305175781,
+        74.19999694824219,
+        74.12999725341797,
+        74.18000030517578,
+        74.16999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-18 05:59 KST"
+      "freshness": "2026-06-18 16:12 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "8864.24",
-          "change": "+1.58%",
+          "value": "9063.84",
+          "change": "+2.25%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6300.07",
-          "change": "+0.68%",
+          "value": "6316.71",
+          "change": "+0.26%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.37",
-          "change": "+0.84%",
+          "value": "100.31",
+          "change": "+0.22%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1528.10",
-          "change": "+1.31%",
+          "value": "1529.21",
+          "change": "+0.23%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.60",
-          "change": "+0.12%",
+          "value": "160.61",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7572",
-          "change": "+0.02%",
+          "value": "6.7612",
+          "change": "+0.06%",
           "direction": "up"
         }
       ],
       "trend": [
-        1527.47998046875,
-        1525.6400146484375,
-        1523.68994140625,
-        1523.72998046875,
-        1523.6500244140625,
-        1525.719970703125,
-        1526.52001953125,
-        1526.97998046875,
-        1527.8399658203125,
-        1528.030029296875,
-        1528.0999755859375
+        1529.3800048828125,
+        1529.5799560546875,
+        1529.8599853515625,
+        1530.280029296875,
+        1530.510009765625,
+        1530.1800537109375,
+        1529.3800048828125,
+        1529.0799560546875,
+        1529.6199951171875,
+        1529.3800048828125,
+        1529.2099609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-18 07:09 KST"
+      "freshness": "2026-06-18 16:22 KST"
     }
   ],
   "currentAction": {
