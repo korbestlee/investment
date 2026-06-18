@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-18",
-  "collectedAt": "2026-06-18T10:59:08Z",
+  "date": "2026-06-19",
+  "collectedAt": "2026-06-18T22:23:47Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Policy shock",
+      "value": "Neutral",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,105 +26,105 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "금리 변동성",
+      "value": "혼조 신호",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-1.21%",
+      "value": "+1.08%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.79%",
+      "value": "-0.27%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.63%",
+      "value": "+0.72%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-1.41%",
+      "value": "-0.63%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-1.42%",
+      "value": "-0.09%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Rise After Warsh's",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Futures rose after stocks tumbled Wednesday on Fed rate-hike bets. SpaceX fell while Robinhood and several AI stocks made bullish moves.",
-      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss"
+      "title": "Stock Market Today, June 18",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Netflix remains one of streaming’s strongest businesses, with investors looking for signs that ad growth and cash flow can add more upside beyond future price hikes.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/?.tsrc=rss"
     },
     {
-      "title": "Endeavour Silver Intersects",
+      "title": "Popular gold holder shuts down",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "VANCOUVER, British Columbia, June 18, 2026 (GLOBE NEWSWIRE) -- Endeavour Silver Corp. (“Endeavour” or the “Company”) (TSX: EDR, NYSE: EXK) is pleased to announce positive drill res",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/endeavour-silver-intersects-high-grade-105000249.html?.tsrc=rss"
+      "summary": "One of the industry's biggest private holders of gold is pulling the plug on one of its smaller experiments. Tether said on June 17 that it will begin winding down Alloy by Tether ",
+      "link": "https://www.thestreet.com/crypto/markets/popular-gold-holder-shuts-down-dollar-experiment?.tsrc=rss"
     },
     {
-      "title": "Commerzbank on Overnight News",
+      "title": "VOO vs. SCHD",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment.",
+      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss"
+    },
+    {
+      "title": "Apple’s Unsustainable Memory Costs",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Commerzbank in its \"European Sunrise\" note of Thursday highlighted: Markets: United States Treasu",
-      "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-overnight-news-104231016.html?.tsrc=rss"
-    },
-    {
-      "title": "Vanguard (VHT) vs VanEck (PPH)",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Broader diversification or higher yield? Explore how these two healthcare ETFs stack up for different investor goals.",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/18/vanguard-vht-vs-vaneck-pph-which-healthcare-etf-is-the-better-buy/?.tsrc=rss"
+      "summary": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker.",
+      "link": "https://finance.yahoo.com/m/bfd3ae6b-568f-388f-815e-4fff5bae1c46/apple%E2%80%99s-unsustainable-memory.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise After Warsh's",
-      "summary": "Futures rose after stocks tumbled Wednesday on Fed rate-hike bets. SpaceX fell while Robinhood and several AI stocks made bullish moves.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 10:56:18 +0000"
+      "title": "Stock Market Today, June 18",
+      "summary": "Netflix remains one of streaming’s strongest businesses, with investors looking for signs that ad growth and cash flow can add more upside beyond future price hikes.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 22:03:36 +0000"
     },
     {
-      "title": "Endeavour Silver Intersects",
-      "summary": "VANCOUVER, British Columbia, June 18, 2026 (GLOBE NEWSWIRE) -- Endeavour Silver Corp. (“Endeavour” or the “Company”) (TSX: EDR, NYSE: EXK) is pleased to announce positive drill res",
+      "title": "Popular gold holder shuts down",
+      "summary": "One of the industry's biggest private holders of gold is pulling the plug on one of its smaller experiments. Tether said on June 17 that it will begin winding down Alloy by Tether ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/endeavour-silver-intersects-high-grade-105000249.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 10:50:00 +0000"
+      "link": "https://www.thestreet.com/crypto/markets/popular-gold-holder-shuts-down-dollar-experiment?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 21:58:02 +0000"
     },
     {
-      "title": "Commerzbank on Overnight News",
-      "summary": "Commerzbank in its \"European Sunrise\" note of Thursday highlighted: Markets: United States Treasu",
+      "title": "VOO vs. SCHD",
+      "summary": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 21:51:00 +0000"
+    },
+    {
+      "title": "Apple’s Unsustainable Memory Costs",
+      "summary": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-overnight-news-104231016.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 10:42:31 +0000"
-    },
-    {
-      "title": "Vanguard (VHT) vs VanEck (PPH)",
-      "summary": "Broader diversification or higher yield? Explore how these two healthcare ETFs stack up for different investor goals.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/06/18/vanguard-vht-vs-vaneck-pph-which-healthcare-etf-is-the-better-buy/?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 10:41:01 +0000"
+      "link": "https://finance.yahoo.com/m/bfd3ae6b-568f-388f-815e-4fff5bae1c46/apple%E2%80%99s-unsustainable-memory.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 21:49:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "74.94",
-          "change": "-1.41%",
+          "value": "75.37",
+          "change": "-0.63%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "78.90",
-          "change": "-0.82%",
+          "value": "79.28",
+          "change": "-0.71%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4283.60",
-          "change": "-2.23%",
+          "value": "4226.90",
+          "change": "-0.45%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.40",
-          "change": "-1.42%",
+          "value": "6.38",
+          "change": "-0.09%",
           "direction": "down"
         }
       ],
       "trend": [
-        74.62000274658203,
-        74.66000366210938,
-        74.68000030517578,
-        74.70999908447266,
-        74.8499984741211,
-        74.81999969482422,
-        74.93000030517578,
-        74.83000183105469,
-        74.94999694824219,
-        75.0,
-        74.94000244140625
+        75.44999694824219,
+        75.47000122070312,
+        75.45999908447266,
+        75.44000244140625,
+        75.47000122070312,
+        75.41999816894531,
+        75.45999908447266,
+        75.38999938964844,
+        75.36000061035156,
+        75.37000274658203,
+        75.37000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-18 19:49 KST"
+      "freshness": "2026-06-19 07:13 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.647%",
-          "change": "+0.47%",
+          "value": "3.658%",
+          "change": "+0.30%",
           "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "4.229%",
-          "change": "+1.88%",
-          "direction": "up"
+          "value": "4.225%",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.463%",
-          "change": "+0.79%",
-          "direction": "up"
+          "value": "4.451%",
+          "change": "-0.27%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.926%",
-          "change": "-0.04%",
+          "value": "4.901%",
+          "change": "-0.51%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.439000129699707,
-        4.440999984741211,
-        4.439000129699707,
-        4.439000129699707,
-        4.440999984741211,
-        4.442999839782715,
-        4.456999778747559,
-        4.454999923706055,
-        4.459000110626221,
-        4.465000152587891,
-        4.463000297546387
+        4.445000171661377,
+        4.445000171661377,
+        4.445000171661377,
+        4.447000026702881,
+        4.447000026702881,
+        4.447000026702881,
+        4.445000171661377,
+        4.445000171661377,
+        4.445000171661377,
+        4.447000026702881,
+        4.450999736785889
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-06-18 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-06-19 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7420.10",
-          "change": "-1.21%",
-          "direction": "down"
+          "value": "7500.58",
+          "change": "+1.08%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26021.66",
-          "change": "-1.34%",
-          "direction": "down"
+          "value": "26517.93",
+          "change": "+1.91%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6306.16",
-          "change": "+0.10%",
+          "value": "6323.27",
+          "change": "+0.37%",
           "direction": "up"
         }
       ],
       "trend": [
-        7411.759765625,
-        7409.830078125,
-        7406.919921875,
-        7409.10009765625,
-        7409.75,
-        7423.830078125,
-        7420.56005859375,
-        7418.080078125,
-        7417.2998046875,
-        7421.759765625,
-        7420.10009765625
+        7503.85986328125,
+        7506.14013671875,
+        7504.22021484375,
+        7504.18994140625,
+        7503.5400390625,
+        7506.89990234375,
+        7506.8798828125,
+        7509.259765625,
+        7508.580078125,
+        7497.85986328125,
+        7500.580078125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-06-18 05:50 KST"
+      "status": "강세",
+      "freshness": "2026-06-19 05:42 KST"
     },
     {
       "id": "fx",
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.72",
-          "change": "+0.63%",
+          "value": "100.81",
+          "change": "+0.72%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1539.77",
-          "change": "+0.93%",
+          "value": "1537.13",
+          "change": "+0.75%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.93",
-          "change": "+0.25%",
+          "value": "161.36",
+          "change": "+0.52%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7690",
-          "change": "+0.17%",
+          "value": "6.7681",
+          "change": "+0.16%",
           "direction": "up"
         }
       ],
       "trend": [
-        1538.5699462890625,
-        1538.5400390625,
-        1538.3800048828125,
-        1538.6400146484375,
-        1537.8900146484375,
-        1538.8399658203125,
-        1539.3199462890625,
-        1539.239990234375,
-        1537.280029296875,
-        1539.739990234375,
-        1539.77001953125
+        1536.9200439453125,
+        1537.760009765625,
+        1538.5,
+        1538.6800537109375,
+        1538.780029296875,
+        1536.4599609375,
+        1536.8599853515625,
+        1537.9100341796875,
+        1538.489990234375,
+        1536.260009765625,
+        1537.1300048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-18 19:59 KST"
+      "freshness": "2026-06-19 07:23 KST"
     }
   ],
   "currentAction": {
-    "state": "Policy shock",
-    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
-    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+    "state": "Neutral",
+    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,7 +350,7 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "state": "Risk-on",
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
@@ -380,7 +380,7 @@
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
       "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
-      "isCurrent": true
+      "isCurrent": false
     }
   ]
 }
