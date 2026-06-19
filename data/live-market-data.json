@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "collectedAt": "2026-06-19T11:06:08Z",
+  "date": "2026-06-20",
+  "collectedAt": "2026-06-19T21:19:05Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -40,91 +40,91 @@
     },
     {
       "label": "미 10년물",
-      "value": "-0.27%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.06%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.91%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.53%",
+      "value": "-0.76%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "'Elevator up and the stairs down'",
+      "title": "Dow Jones Futures Fall; Nvidia Leads",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Fed rate hike expectations complicate mortgage rates' path back toward 6%.",
-      "link": "https://finance.yahoo.com/markets/article/elevator-up-and-the-stairs-down-why-mortgage-rates-wont-immediately-go-back-to-6-after-the-iran-us-deal-110000620.html?.tsrc=rss"
+      "summary": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI",
+      "link": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss"
     },
     {
-      "title": "3 Reasons to Sell PEP and 1 Stock to",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Since December 2025, PepsiCo has been in a holding pattern, posting a small loss of 4.1% while floating around $142.12. The stock also fell short of the S&P 500’s 8.9% gain during ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pep-1-105258793.html?.tsrc=rss"
-    },
-    {
-      "title": "Will the Collapse of the U.S.-Iran",
+      "title": "If You’re 50+ and Tired of Watching",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The market spent much of the week celebrating what appeared to be a major geopolitical breakthrough. The memorandum of understanding (MOU) signed between the U.S. and Iran helped c",
-      "link": "https://247wallst.com/investing/2026/06/19/will-the-collapse-of-the-u-s-iran-truce-force-the-fed-to-raise-rates-again/?.tsrc=rss"
+      "summary": "You are in your fifties, the 401(k) is finally a real number, and you have noticed something uncomfortable: the market keeps ripping higher on a handful of AI names you don’t under",
+      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/?.tsrc=rss"
     },
     {
-      "title": "Primerica (PRI)",
+      "title": "TSX Closer",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-gold-202427051.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks Stall as Iran Nuclear Talks",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Primerica trades at $281.69 per share and has stayed right on track with the overall market, gaining 8.8% over the last six months. At the same time, the S&P 500 has returned 8.9%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-buy-sell-hold-102858954.html?.tsrc=rss"
+      "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of secur",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "'Elevator up and the stairs down'",
-      "summary": "Fed rate hike expectations complicate mortgage rates' path back toward 6%.",
+      "title": "Dow Jones Futures Fall; Nvidia Leads",
+      "summary": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/elevator-up-and-the-stairs-down-why-mortgage-rates-wont-immediately-go-back-to-6-after-the-iran-us-deal-110000620.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 11:00:00 +0000"
+      "link": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 21:00:05 +0000"
     },
     {
-      "title": "3 Reasons to Sell PEP and 1 Stock to",
-      "summary": "Since December 2025, PepsiCo has been in a holding pattern, posting a small loss of 4.1% while floating around $142.12. The stock also fell short of the S&P 500’s 8.9% gain during ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pep-1-105258793.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 10:52:58 +0000"
-    },
-    {
-      "title": "Will the Collapse of the U.S.-Iran",
-      "summary": "The market spent much of the week celebrating what appeared to be a major geopolitical breakthrough. The memorandum of understanding (MOU) signed between the U.S. and Iran helped c",
+      "title": "If You’re 50+ and Tired of Watching",
+      "summary": "You are in your fifties, the 401(k) is finally a real number, and you have noticed something uncomfortable: the market keeps ripping higher on a handful of AI names you don’t under",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://247wallst.com/investing/2026/06/19/will-the-collapse-of-the-u-s-iran-truce-force-the-fed-to-raise-rates-again/?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 10:40:16 +0000"
+      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 20:51:02 +0000"
     },
     {
-      "title": "Primerica (PRI)",
-      "summary": "Primerica trades at $281.69 per share and has stayed right on track with the overall market, gaining 8.8% over the last six months. At the same time, the S&P 500 has returned 8.9%.",
+      "title": "TSX Closer",
+      "summary": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-gold-202427051.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 20:24:27 +0000"
+    },
+    {
+      "title": "Stocks Stall as Iran Nuclear Talks",
+      "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of secur",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-buy-sell-hold-102858954.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 10:28:58 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 20:09:15 +0000"
     }
   ],
   "criteria": [
@@ -154,26 +154,26 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.81",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "76.54",
+          "change": "+0.91%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "79.45",
-          "change": "-0.50%",
-          "direction": "down"
+          "value": "80.59",
+          "change": "+0.93%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4169.10",
-          "change": "-1.81%",
+          "value": "4172.90",
+          "change": "-1.72%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.35",
-          "change": "-0.53%",
+          "value": "6.34",
+          "change": "-0.76%",
           "direction": "down"
         }
       ],
@@ -191,8 +191,8 @@
         75.26000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-19 19:56 KST"
+      "status": "강세",
+      "freshness": "2026-06-20 01:59 KST"
     },
     {
       "id": "bonds",
@@ -203,43 +203,43 @@
         {
           "name": "UST 13W",
           "value": "3.658%",
-          "change": "+0.30%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
           "value": "4.225%",
-          "change": "-0.09%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
           "value": "4.451%",
-          "change": "-0.27%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
           "value": "4.901%",
-          "change": "-0.51%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.445000171661377,
-        4.445000171661377,
-        4.445000171661377,
-        4.447000026702881,
-        4.447000026702881,
-        4.447000026702881,
-        4.445000171661377,
-        4.445000171661377,
-        4.445000171661377,
-        4.447000026702881,
-        4.450999736785889
+        58,
+        57,
+        60,
+        63,
+        67,
+        70,
+        73,
+        79,
+        83,
+        86,
+        88
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
+      "status": "중립",
       "freshness": "2026-06-19 03:59 KST"
     },
     {
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6315.80",
-          "change": "-0.12%",
+          "value": "6293.13",
+          "change": "-0.48%",
           "direction": "down"
         }
       ],
@@ -298,14 +298,14 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.79",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "100.85",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1528.34",
-          "change": "-0.69%",
+          "value": "1527.71",
+          "change": "-0.73%",
           "direction": "down"
         },
         {
@@ -316,27 +316,27 @@
         },
         {
           "name": "USDCNY",
-          "value": "6.7675",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.7681",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1529.800048828125,
-        1529.780029296875,
-        1529.81005859375,
-        1529.989990234375,
-        1529.93994140625,
-        1529.7900390625,
-        1530.1400146484375,
-        1529.97998046875,
-        1529.97998046875,
-        1529.989990234375,
-        1528.3399658203125
+        1527.72998046875,
+        1531.6199951171875,
+        1529.75,
+        1530.3399658203125,
+        1530.3599853515625,
+        1529.25,
+        1531.97998046875,
+        1527.800048828125,
+        1530.699951171875,
+        1527.7099609375,
+        1527.7099609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-19 20:06 KST"
+      "status": "중립",
+      "freshness": "2026-06-20 06:15 KST"
     }
   ],
   "currentAction": {
