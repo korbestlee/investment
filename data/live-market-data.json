@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "collectedAt": "2026-06-18T22:23:47Z",
+  "collectedAt": "2026-06-19T08:23:14Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
+      "value": "Risk-on",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,11 +26,11 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "혼조 신호",
+      "value": "주식 + 달러 완화",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "topLine": "주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.72%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.63%",
+      "value": "+0.20%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.09%",
+      "value": "-0.49%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, June 18",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Netflix remains one of streaming’s strongest businesses, with investors looking for signs that ad growth and cash flow can add more upside beyond future price hikes.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/?.tsrc=rss"
+      "title": "Gilt yields climb after Burnham",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The 10-year yield on UK gilts – Government bonds – rose by 0.05 percentage points to 4.81% shortly after the market opened.",
+      "link": "https://uk.finance.yahoo.com/news/gilt-yields-climb-burnham-election-075159720.html?.tsrc=rss"
     },
     {
-      "title": "Popular gold holder shuts down",
+      "title": "Stocks rally falters, oil rises as",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "One of the industry's biggest private holders of gold is pulling the plug on one of its smaller experiments. Tether said on June 17 that it will begin winding down Alloy by Tether ",
-      "link": "https://www.thestreet.com/crypto/markets/popular-gold-holder-shuts-down-dollar-experiment?.tsrc=rss"
+      "summary": "Stock markets were mixed on Friday and oil prices rose after Switzerland said planned talks following up on the US-Iran agreement had been postponed, dealing a blow to the week-lon",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-record-leads-most-asian-031508279.html?.tsrc=rss"
     },
     {
-      "title": "VOO vs. SCHD",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment.",
-      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss"
+      "title": "Bitcoin Didn’t Care about the Oil",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Brent oil sank 9% this week, but the Bitcoin oil link barely exists. Positioning and the Fed, not crude, are driving BTC now.",
+      "link": "https://beincrypto.com/bitcoin-oil-link-weaker-than-expected-story/?.tsrc=rss"
     },
     {
-      "title": "Apple’s Unsustainable Memory Costs",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker.",
-      "link": "https://finance.yahoo.com/m/bfd3ae6b-568f-388f-815e-4fff5bae1c46/apple%E2%80%99s-unsustainable-memory.html?.tsrc=rss"
+      "title": "U.S.-Iran talks cancelled; oil on",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Investing.com - U.S. stock futures edge lower after a strong rally on Wall Street driven by hopes that a U.S.-Iran peace deal could hold. Oil prices continue to retreat as traders ",
+      "link": "https://finance.yahoo.com/energy/articles/u-iran-talks-cancelled-oil-073402854.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, June 18",
-      "summary": "Netflix remains one of streaming’s strongest businesses, with investors looking for signs that ad growth and cash flow can add more upside beyond future price hikes.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-netflix-edges-higher-as-investors-weigh-pricing-upside-before-earnings/?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 22:03:36 +0000"
+      "title": "Gilt yields climb after Burnham",
+      "summary": "The 10-year yield on UK gilts – Government bonds – rose by 0.05 percentage points to 4.81% shortly after the market opened.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://uk.finance.yahoo.com/news/gilt-yields-climb-burnham-election-075159720.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 07:51:59 +0000"
     },
     {
-      "title": "Popular gold holder shuts down",
-      "summary": "One of the industry's biggest private holders of gold is pulling the plug on one of its smaller experiments. Tether said on June 17 that it will begin winding down Alloy by Tether ",
+      "title": "Stocks rally falters, oil rises as",
+      "summary": "Stock markets were mixed on Friday and oil prices rose after Switzerland said planned talks following up on the US-Iran agreement had been postponed, dealing a blow to the week-lon",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.thestreet.com/crypto/markets/popular-gold-holder-shuts-down-dollar-experiment?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 21:58:02 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-record-leads-most-asian-031508279.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 07:48:33 +0000"
     },
     {
-      "title": "VOO vs. SCHD",
-      "summary": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 21:51:00 +0000"
+      "title": "Bitcoin Didn’t Care about the Oil",
+      "summary": "Brent oil sank 9% this week, but the Bitcoin oil link barely exists. Positioning and the Fed, not crude, are driving BTC now.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://beincrypto.com/bitcoin-oil-link-weaker-than-expected-story/?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 07:35:38 +0000"
     },
     {
-      "title": "Apple’s Unsustainable Memory Costs",
-      "summary": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/bfd3ae6b-568f-388f-815e-4fff5bae1c46/apple%E2%80%99s-unsustainable-memory.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 21:49:00 +0000"
+      "title": "U.S.-Iran talks cancelled; oil on",
+      "summary": "Investing.com - U.S. stock futures edge lower after a strong rally on Wall Street driven by hopes that a U.S.-Iran peace deal could hold. Oil prices continue to retreat as traders ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/u-iran-talks-cancelled-oil-073402854.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 07:34:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.37",
-          "change": "-0.63%",
-          "direction": "down"
+          "value": "76.00",
+          "change": "+0.20%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "79.28",
-          "change": "-0.71%",
+          "value": "79.83",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4226.90",
-          "change": "-0.45%",
+          "value": "4184.80",
+          "change": "-1.44%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.38",
-          "change": "-0.09%",
+          "value": "6.35",
+          "change": "-0.49%",
           "direction": "down"
         }
       ],
       "trend": [
-        75.44999694824219,
-        75.47000122070312,
-        75.45999908447266,
-        75.44000244140625,
-        75.47000122070312,
-        75.41999816894531,
-        75.45999908447266,
-        75.38999938964844,
-        75.36000061035156,
-        75.37000274658203,
-        75.37000274658203
+        75.22000122070312,
+        75.2300033569336,
+        75.22000122070312,
+        75.26000213623047,
+        75.23999786376953,
+        75.26000213623047,
+        75.2300033569336,
+        75.27999877929688,
+        75.29000091552734,
+        75.25,
+        75.26000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-19 07:13 KST"
+      "status": "강세",
+      "freshness": "2026-06-19 17:13 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "9063.84",
-          "change": "+2.25%",
-          "direction": "up"
+          "value": "9052.42",
+          "change": "-0.13%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6323.27",
-          "change": "+0.37%",
+          "value": "6335.17",
+          "change": "+0.19%",
           "direction": "up"
         }
       ],
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.81",
-          "change": "+0.72%",
+          "value": "100.86",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1537.13",
-          "change": "+0.75%",
-          "direction": "up"
+          "value": "1527.91",
+          "change": "-0.71%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "161.36",
-          "change": "+0.52%",
-          "direction": "up"
+          "value": "161.29",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7681",
-          "change": "+0.16%",
-          "direction": "up"
+          "value": "6.7675",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1536.9200439453125,
-        1537.760009765625,
-        1538.5,
-        1538.6800537109375,
-        1538.780029296875,
-        1536.4599609375,
-        1536.8599853515625,
-        1537.9100341796875,
-        1538.489990234375,
-        1536.260009765625,
-        1537.1300048828125
+        1528.280029296875,
+        1528.93994140625,
+        1529.7900390625,
+        1528.3800048828125,
+        1527.97998046875,
+        1528.6800537109375,
+        1528.1500244140625,
+        1527.280029296875,
+        1527.1800537109375,
+        1527.9300537109375,
+        1527.9100341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-19 07:23 KST"
+      "freshness": "2026-06-19 17:23 KST"
     }
   ],
   "currentAction": {
-    "state": "Neutral",
-    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
-    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "state": "Risk-on",
+    "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+    "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,13 +350,13 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-on",
       "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
       "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "state": "Risk-off",
