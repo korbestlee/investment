@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "collectedAt": "2026-06-19T08:23:14Z",
+  "collectedAt": "2026-06-19T11:06:08Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.06%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.20%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.49%",
+      "value": "-0.53%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Gilt yields climb after Burnham",
+      "title": "'Elevator up and the stairs down'",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The 10-year yield on UK gilts – Government bonds – rose by 0.05 percentage points to 4.81% shortly after the market opened.",
-      "link": "https://uk.finance.yahoo.com/news/gilt-yields-climb-burnham-election-075159720.html?.tsrc=rss"
+      "summary": "Fed rate hike expectations complicate mortgage rates' path back toward 6%.",
+      "link": "https://finance.yahoo.com/markets/article/elevator-up-and-the-stairs-down-why-mortgage-rates-wont-immediately-go-back-to-6-after-the-iran-us-deal-110000620.html?.tsrc=rss"
     },
     {
-      "title": "Stocks rally falters, oil rises as",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Stock markets were mixed on Friday and oil prices rose after Switzerland said planned talks following up on the US-Iran agreement had been postponed, dealing a blow to the week-lon",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-record-leads-most-asian-031508279.html?.tsrc=rss"
+      "title": "3 Reasons to Sell PEP and 1 Stock to",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Since December 2025, PepsiCo has been in a holding pattern, posting a small loss of 4.1% while floating around $142.12. The stock also fell short of the S&P 500’s 8.9% gain during ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pep-1-105258793.html?.tsrc=rss"
     },
     {
-      "title": "Bitcoin Didn’t Care about the Oil",
+      "title": "Will the Collapse of the U.S.-Iran",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Brent oil sank 9% this week, but the Bitcoin oil link barely exists. Positioning and the Fed, not crude, are driving BTC now.",
-      "link": "https://beincrypto.com/bitcoin-oil-link-weaker-than-expected-story/?.tsrc=rss"
+      "summary": "The market spent much of the week celebrating what appeared to be a major geopolitical breakthrough. The memorandum of understanding (MOU) signed between the U.S. and Iran helped c",
+      "link": "https://247wallst.com/investing/2026/06/19/will-the-collapse-of-the-u-s-iran-truce-force-the-fed-to-raise-rates-again/?.tsrc=rss"
     },
     {
-      "title": "U.S.-Iran talks cancelled; oil on",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com - U.S. stock futures edge lower after a strong rally on Wall Street driven by hopes that a U.S.-Iran peace deal could hold. Oil prices continue to retreat as traders ",
-      "link": "https://finance.yahoo.com/energy/articles/u-iran-talks-cancelled-oil-073402854.html?.tsrc=rss"
+      "title": "Primerica (PRI)",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Primerica trades at $281.69 per share and has stayed right on track with the overall market, gaining 8.8% over the last six months. At the same time, the S&P 500 has returned 8.9%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-buy-sell-hold-102858954.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Gilt yields climb after Burnham",
-      "summary": "The 10-year yield on UK gilts – Government bonds – rose by 0.05 percentage points to 4.81% shortly after the market opened.",
+      "title": "'Elevator up and the stairs down'",
+      "summary": "Fed rate hike expectations complicate mortgage rates' path back toward 6%.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/gilt-yields-climb-burnham-election-075159720.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 07:51:59 +0000"
+      "link": "https://finance.yahoo.com/markets/article/elevator-up-and-the-stairs-down-why-mortgage-rates-wont-immediately-go-back-to-6-after-the-iran-us-deal-110000620.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 11:00:00 +0000"
     },
     {
-      "title": "Stocks rally falters, oil rises as",
-      "summary": "Stock markets were mixed on Friday and oil prices rose after Switzerland said planned talks following up on the US-Iran agreement had been postponed, dealing a blow to the week-lon",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-record-leads-most-asian-031508279.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 07:48:33 +0000"
+      "title": "3 Reasons to Sell PEP and 1 Stock to",
+      "summary": "Since December 2025, PepsiCo has been in a holding pattern, posting a small loss of 4.1% while floating around $142.12. The stock also fell short of the S&P 500’s 8.9% gain during ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pep-1-105258793.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 10:52:58 +0000"
     },
     {
-      "title": "Bitcoin Didn’t Care about the Oil",
-      "summary": "Brent oil sank 9% this week, but the Bitcoin oil link barely exists. Positioning and the Fed, not crude, are driving BTC now.",
+      "title": "Will the Collapse of the U.S.-Iran",
+      "summary": "The market spent much of the week celebrating what appeared to be a major geopolitical breakthrough. The memorandum of understanding (MOU) signed between the U.S. and Iran helped c",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://beincrypto.com/bitcoin-oil-link-weaker-than-expected-story/?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 07:35:38 +0000"
+      "link": "https://247wallst.com/investing/2026/06/19/will-the-collapse-of-the-u-s-iran-truce-force-the-fed-to-raise-rates-again/?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 10:40:16 +0000"
     },
     {
-      "title": "U.S.-Iran talks cancelled; oil on",
-      "summary": "Investing.com - U.S. stock futures edge lower after a strong rally on Wall Street driven by hopes that a U.S.-Iran peace deal could hold. Oil prices continue to retreat as traders ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/u-iran-talks-cancelled-oil-073402854.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 07:34:02 +0000"
+      "title": "Primerica (PRI)",
+      "summary": "Primerica trades at $281.69 per share and has stayed right on track with the overall market, gaining 8.8% over the last six months. At the same time, the S&P 500 has returned 8.9%.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-buy-sell-hold-102858954.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 10:28:58 +0000"
     }
   ],
   "criteria": [
@@ -154,26 +154,26 @@
       "items": [
         {
           "name": "WTI",
-          "value": "76.00",
-          "change": "+0.20%",
-          "direction": "up"
+          "value": "75.81",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "79.83",
-          "change": "-0.03%",
+          "value": "79.45",
+          "change": "-0.50%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4184.80",
-          "change": "-1.44%",
+          "value": "4169.10",
+          "change": "-1.81%",
           "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.35",
-          "change": "-0.49%",
+          "change": "-0.53%",
           "direction": "down"
         }
       ],
@@ -191,8 +191,8 @@
         75.26000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-19 17:13 KST"
+      "status": "약세",
+      "freshness": "2026-06-19 19:56 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6335.17",
-          "change": "+0.19%",
-          "direction": "up"
+          "value": "6315.80",
+          "change": "-0.12%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,20 +298,20 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.86",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "100.79",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1527.91",
-          "change": "-0.71%",
+          "value": "1528.34",
+          "change": "-0.69%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "161.29",
-          "change": "-0.04%",
+          "value": "161.28",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1528.280029296875,
-        1528.93994140625,
+        1529.800048828125,
+        1529.780029296875,
+        1529.81005859375,
+        1529.989990234375,
+        1529.93994140625,
         1529.7900390625,
-        1528.3800048828125,
-        1527.97998046875,
-        1528.6800537109375,
-        1528.1500244140625,
-        1527.280029296875,
-        1527.1800537109375,
-        1527.9300537109375,
-        1527.9100341796875
+        1530.1400146484375,
+        1529.97998046875,
+        1529.97998046875,
+        1529.989990234375,
+        1528.3399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-19 17:23 KST"
+      "status": "완화",
+      "freshness": "2026-06-19 20:06 KST"
     }
   ],
   "currentAction": {
