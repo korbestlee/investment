@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-22",
-  "collectedAt": "2026-06-22T12:36:46Z",
+  "date": "2026-06-23",
+  "collectedAt": "2026-06-22T22:14:56Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Policy shock",
+      "value": "Risk-off",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,105 +26,105 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "금리 변동성",
+      "value": "달러 + 금리",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+  "topLine": "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+1.08%",
+      "value": "-0.37%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.81%",
+      "value": "+1.30%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.15%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-1.58%",
+      "value": "+0.43%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.17%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "JPM identifies consumer sectors to",
-      "impact": "지수, 위험선호",
+      "title": "Discovery Announces Annual General",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Investing.com -- Beaten-down consumer stocks are forming a bottom and could deliver better performance in the second half of 2026, according to JPMorgan, which identified several s",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpm-identifies-consumer-sectors-buy-123047285.html?.tsrc=rss"
+      "summary": "Discovery Silver Corp. changes name to Discovery Mining Ltd. TORONTO, June 22, 2026 (GLOBE NEWSWIRE) -- Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/discovery-announces-annual-general-special-220000363.html?.tsrc=rss"
     },
     {
-      "title": "Charles Schwab enters prediction",
+      "title": "Stock Market Today, June 22",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The brokerage is partnering with Cboe to offer contracts that pay a fixed sum or nothing based on where the index closes",
-      "link": "https://qz.com/charles-schwab-cboe-prediction-markets-sp500-binary-options-062226?.tsrc=rss"
+      "summary": "UiPath is giving enterprises more ways to coordinate AI agents, robots, and people, with the next readout focused on whether agentic automation demand can lift recurring revenue an",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-uipath-falls-as-agentic-automation-push-faces-arr-growth-test/?.tsrc=rss"
     },
     {
-      "title": "History Says This 1 Investing",
+      "title": "S&P 500, Nasdaq Drop As SpaceX,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "This move may be tempting right now, but it could be costly.",
-      "link": "https://www.fool.com/investing/2026/06/22/history-says-this-1-investing-mistake-could-cost-y/?.tsrc=rss"
+      "summary": "SpaceX shares tanked 16% to their lowest level since listing, marking its third straight daily decline.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-space-x-broader-tech-weakness-outweighs-us-iran-hopes-spcx-googl-nflx-coin-mu-in-focus/cZKMJLHR79B?.tsrc=rss"
     },
     {
-      "title": "3 Small-Cap Stocks We Keep Off Our",
+      "title": "Stock Market Today, June 22",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have i",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-keep-121919656.html?.tsrc=rss"
+      "summary": "Alphabet has the scale to fund AI, with investors looking for Gemini, Google Cloud, and Search to turn that spending into measurable growth as talent concerns intensify.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "JPM identifies consumer sectors to",
-      "summary": "Investing.com -- Beaten-down consumer stocks are forming a bottom and could deliver better performance in the second half of 2026, according to JPMorgan, which identified several s",
-      "impact": "지수, 위험선호",
+      "title": "Discovery Announces Annual General",
+      "summary": "Discovery Silver Corp. changes name to Discovery Mining Ltd. TORONTO, June 22, 2026 (GLOBE NEWSWIRE) -- Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpm-identifies-consumer-sectors-buy-123047285.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 12:30:47 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/discovery-announces-annual-general-special-220000363.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 22:00:00 +0000"
     },
     {
-      "title": "Charles Schwab enters prediction",
-      "summary": "The brokerage is partnering with Cboe to offer contracts that pay a fixed sum or nothing based on where the index closes",
+      "title": "Stock Market Today, June 22",
+      "summary": "UiPath is giving enterprises more ways to coordinate AI agents, robots, and people, with the next readout focused on whether agentic automation demand can lift recurring revenue an",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://qz.com/charles-schwab-cboe-prediction-markets-sp500-binary-options-062226?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 12:21:41 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-uipath-falls-as-agentic-automation-push-faces-arr-growth-test/?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 21:59:04 +0000"
     },
     {
-      "title": "History Says This 1 Investing",
-      "summary": "This move may be tempting right now, but it could be costly.",
+      "title": "S&P 500, Nasdaq Drop As SpaceX,",
+      "summary": "SpaceX shares tanked 16% to their lowest level since listing, marking its third straight daily decline.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/22/history-says-this-1-investing-mistake-could-cost-y/?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 12:20:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-space-x-broader-tech-weakness-outweighs-us-iran-hopes-spcx-googl-nflx-coin-mu-in-focus/cZKMJLHR79B?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 21:37:56 +0000"
     },
     {
-      "title": "3 Small-Cap Stocks We Keep Off Our",
-      "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have i",
+      "title": "Stock Market Today, June 22",
+      "summary": "Alphabet has the scale to fund AI, with investors looking for Gemini, Google Cloud, and Search to turn that spending into measurable growth as talent concerns intensify.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-keep-121919656.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 12:19:19 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 21:34:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "74.65",
-          "change": "-1.58%",
-          "direction": "down"
+          "value": "74.18",
+          "change": "+0.43%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "78.59",
-          "change": "-1.58%",
-          "direction": "down"
+          "value": "78.12",
+          "change": "+0.28%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4226.10",
-          "change": "-0.47%",
-          "direction": "down"
+          "value": "4211.00",
+          "change": "+0.20%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.37",
-          "change": "-0.17%",
+          "value": "6.36",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        74.86000061035156,
-        74.83000183105469,
-        74.77999877929688,
-        74.66000366210938,
-        74.66999816894531,
-        74.55000305175781,
-        74.55000305175781,
-        74.55999755859375,
-        74.66000366210938,
-        74.68000030517578,
-        74.6500015258789
+        74.05000305175781,
+        74.04000091552734,
+        74.05999755859375,
+        74.08999633789062,
+        76.54000091552734,
+        74.13999938964844,
+        74.1500015258789,
+        74.12000274658203,
+        74.08000183105469,
+        74.18000030517578,
+        74.18000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-22 21:26 KST"
+      "status": "강세",
+      "freshness": "2026-06-23 07:04 KST"
     },
     {
       "id": "bonds",
@@ -202,36 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.660%",
-          "change": "+0.05%",
+          "value": "3.680%",
+          "change": "+0.60%",
           "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "4.268%",
-          "change": "+1.02%",
+          "value": "4.287%",
+          "change": "+1.47%",
           "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.487%",
-          "change": "+0.81%",
+          "value": "4.509%",
+          "change": "+1.30%",
           "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "4.925%",
-          "change": "+0.49%",
+          "value": "4.947%",
+          "change": "+0.94%",
           "direction": "up"
         }
       ],
       "trend": [
-        4.488999843597412,
-        4.486999988555908
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926,
+        4.508999824523926
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "압박",
-      "freshness": "2026-06-22 21:21 KST"
+      "freshness": "2026-06-23 03:59 KST"
     },
     {
       "id": "indices",
@@ -241,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7500.58",
-          "change": "+1.08%",
-          "direction": "up"
+          "value": "7472.79",
+          "change": "-0.37%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26517.93",
-          "change": "+1.91%",
-          "direction": "up"
+          "value": "26166.60",
+          "change": "-1.32%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -259,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6311.34",
+          "value": "6311.32",
           "change": "+0.29%",
           "direction": "up"
         }
       ],
       "trend": [
-        7503.85986328125,
-        7506.14013671875,
-        7504.22021484375,
-        7504.18994140625,
-        7503.5400390625,
-        7506.89990234375,
-        7506.8798828125,
-        7509.259765625,
-        7508.580078125,
-        7497.85986328125,
-        7500.580078125
+        7475.7099609375,
+        7474.39990234375,
+        7473.1201171875,
+        7474.72021484375,
+        7474.830078125,
+        7471.91015625,
+        7469.77001953125,
+        7471.10986328125,
+        7472.1298828125,
+        7475.4599609375,
+        7472.7900390625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-06-19 05:42 KST"
+      "status": "약세",
+      "freshness": "2026-06-23 05:45 KST"
     },
     {
       "id": "fx",
@@ -289,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.84",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "101.00",
+          "change": "+0.15%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1537.12",
-          "change": "+0.47%",
+          "value": "1533.42",
+          "change": "+0.23%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.73",
-          "change": "+0.28%",
+          "value": "161.59",
+          "change": "+0.19%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7633",
-          "change": "-0.07%",
+          "value": "6.7671",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        1537.6400146484375,
-        1537.52001953125,
-        1537.3599853515625,
-        1537.25,
-        1537.22998046875,
-        1537.3399658203125,
-        1537.47998046875,
-        1537.47998046875,
-        1537.489990234375,
-        1537.1600341796875,
-        1537.1199951171875
+        1533.3699951171875,
+        1534.1700439453125,
+        1533.699951171875,
+        1534.3800048828125,
+        1534.989990234375,
+        1535.56005859375,
+        1534.0899658203125,
+        1533.5799560546875,
+        1533.5899658203125,
+        1533.550048828125,
+        1533.4200439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-22 21:36 KST"
+      "status": "강세",
+      "freshness": "2026-06-23 07:13 KST"
     }
   ],
   "currentAction": {
-    "state": "Policy shock",
-    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
-    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+    "state": "Risk-off",
+    "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+    "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
     "isCurrent": true
   },
   "actions": [
@@ -352,8 +361,8 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
-      "isCurrent": false
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "isCurrent": true
     },
     {
       "state": "Inflation shock",
@@ -371,7 +380,7 @@
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
       "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
-      "isCurrent": true
+      "isCurrent": false
     }
   ]
 }
