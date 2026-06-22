@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "collectedAt": "2026-06-19T21:19:05Z",
+  "date": "2026-06-22",
+  "collectedAt": "2026-06-22T08:45:53Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Risk-on",
+      "value": "Neutral",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,11 +26,11 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "주식 + 달러 완화",
+      "value": "혼조 신호",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.",
+  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.08%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.91%",
+      "value": "-0.69%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.76%",
+      "value": "-0.62%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall; Nvidia Leads",
+      "title": "In 6 Words, Fed Chair Kevin Warsh",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI",
-      "link": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss"
+      "summary": "Warsh made his intentions clear -- and it's not the best news for an expensive stock market.",
+      "link": "https://www.fool.com/investing/2026/06/22/6-words-fed-chair-kevin-warsh-drop-hammer-wall-st/?.tsrc=rss"
     },
     {
-      "title": "If You’re 50+ and Tired of Watching",
+      "title": "US Stock Market Today",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "You are in your fifties, the 401(k) is finally a real number, and you have noticed something uncomfortable: the market keeps ripping higher on a handful of AI names you don’t under",
-      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/?.tsrc=rss"
+      "summary": "The Morning Bull - US Market Morning Update Monday, Jun, 22 2026 US stock futures are slightly softer this morning, with E-mini S&P 500 contracts down about 0.2%, as investors weig",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081053716.html?.tsrc=rss"
     },
     {
-      "title": "TSX Closer",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-gold-202427051.html?.tsrc=rss"
-    },
-    {
-      "title": "Stocks Stall as Iran Nuclear Talks",
+      "title": "2 S&P 500 Stocks to Research Further",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of secur",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss"
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080319278.html?.tsrc=rss"
+    },
+    {
+      "title": "Crude prices drop after 'positive'",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices fell on Monday on optimism over US-Iran talks, with mediators flagging a \"roadmap\" to a final agreement, while equities were mixed.The two mediators said the United Stat",
+      "link": "https://finance.yahoo.com/markets/articles/crude-prices-drop-most-stocks-025950835.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall; Nvidia Leads",
-      "summary": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI",
+      "title": "In 6 Words, Fed Chair Kevin Warsh",
+      "summary": "Warsh made his intentions clear -- and it's not the best news for an expensive stock market.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 21:00:05 +0000"
+      "link": "https://www.fool.com/investing/2026/06/22/6-words-fed-chair-kevin-warsh-drop-hammer-wall-st/?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 08:26:00 +0000"
     },
     {
-      "title": "If You’re 50+ and Tired of Watching",
-      "summary": "You are in your fifties, the 401(k) is finally a real number, and you have noticed something uncomfortable: the market keeps ripping higher on a handful of AI names you don’t under",
+      "title": "US Stock Market Today",
+      "summary": "The Morning Bull - US Market Morning Update Monday, Jun, 22 2026 US stock futures are slightly softer this morning, with E-mini S&P 500 contracts down about 0.2%, as investors weig",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://247wallst.com/investing/2026/06/19/if-youre-50-and-tired-of-watching-tech-boom-without-you-read-this/?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 20:51:02 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081053716.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 08:10:53 +0000"
     },
     {
-      "title": "TSX Closer",
-      "summary": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-gold-202427051.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 20:24:27 +0000"
-    },
-    {
-      "title": "Stocks Stall as Iran Nuclear Talks",
-      "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of secur",
+      "title": "2 S&P 500 Stocks to Research Further",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 20:09:15 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080319278.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 08:03:19 +0000"
+    },
+    {
+      "title": "Crude prices drop after 'positive'",
+      "summary": "Oil prices fell on Monday on optimism over US-Iran talks, with mediators flagging a \"roadmap\" to a final agreement, while equities were mixed.The two mediators said the United Stat",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/crude-prices-drop-most-stocks-025950835.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 07:45:33 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "76.54",
-          "change": "+0.91%",
-          "direction": "up"
+          "value": "75.33",
+          "change": "-0.69%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "80.59",
-          "change": "+0.93%",
-          "direction": "up"
+          "value": "79.24",
+          "change": "-0.76%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4172.90",
-          "change": "-1.72%",
+          "value": "4210.00",
+          "change": "-0.85%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.34",
-          "change": "-0.76%",
+          "value": "6.35",
+          "change": "-0.62%",
           "direction": "down"
         }
       ],
       "trend": [
-        75.22000122070312,
-        75.2300033569336,
-        75.22000122070312,
-        75.26000213623047,
-        75.23999786376953,
-        75.26000213623047,
-        75.2300033569336,
-        75.27999877929688,
-        75.29000091552734,
-        75.25,
-        75.26000213623047
+        75.80999755859375,
+        75.66000366210938,
+        75.5199966430664,
+        75.4000015258789,
+        75.5,
+        75.44999694824219,
+        75.58999633789062,
+        75.6500015258789,
+        75.45999908447266,
+        75.36000061035156,
+        75.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-20 01:59 KST"
+      "status": "약세",
+      "freshness": "2026-06-22 17:35 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "9052.42",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "9114.55",
+          "change": "+0.69%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6293.13",
-          "change": "-0.48%",
-          "direction": "down"
+          "value": "6293.21",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.85",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "100.93",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1527.71",
-          "change": "-0.73%",
-          "direction": "down"
+          "value": "1539.61",
+          "change": "+0.64%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.28",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "161.76",
+          "change": "+0.30%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7681",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7748",
+          "change": "+0.10%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1527.72998046875,
-        1531.6199951171875,
-        1529.75,
-        1530.3399658203125,
-        1530.3599853515625,
-        1529.25,
-        1531.97998046875,
-        1527.800048828125,
-        1530.699951171875,
-        1527.7099609375,
-        1527.7099609375
+        1538.4100341796875,
+        1538.31005859375,
+        1538.6500244140625,
+        1539.0,
+        1539.280029296875,
+        1539.56005859375,
+        1539.739990234375,
+        1539.56005859375,
+        1539.550048828125,
+        1539.7099609375,
+        1539.6099853515625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-06-20 06:15 KST"
+      "status": "강세",
+      "freshness": "2026-06-22 17:45 KST"
     }
   ],
   "currentAction": {
-    "state": "Risk-on",
-    "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
-    "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+    "state": "Neutral",
+    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,13 +350,13 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": false
+      "isCurrent": true
     },
     {
       "state": "Risk-on",
       "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
       "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-off",
