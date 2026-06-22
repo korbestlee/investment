@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "collectedAt": "2026-06-22T08:45:53Z",
+  "collectedAt": "2026-06-22T12:36:46Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
+      "value": "Policy shock",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,11 +26,11 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "혼조 신호",
+      "value": "금리 변동성",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
@@ -40,91 +40,91 @@
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.81%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.08%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.69%",
+      "value": "-1.58%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.62%",
+      "value": "-0.17%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "In 6 Words, Fed Chair Kevin Warsh",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Warsh made his intentions clear -- and it's not the best news for an expensive stock market.",
-      "link": "https://www.fool.com/investing/2026/06/22/6-words-fed-chair-kevin-warsh-drop-hammer-wall-st/?.tsrc=rss"
-    },
-    {
-      "title": "US Stock Market Today",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Morning Bull - US Market Morning Update Monday, Jun, 22 2026 US stock futures are slightly softer this morning, with E-mini S&P 500 contracts down about 0.2%, as investors weig",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081053716.html?.tsrc=rss"
-    },
-    {
-      "title": "2 S&P 500 Stocks to Research Further",
+      "title": "JPM identifies consumer sectors to",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080319278.html?.tsrc=rss"
+      "summary": "Investing.com -- Beaten-down consumer stocks are forming a bottom and could deliver better performance in the second half of 2026, according to JPMorgan, which identified several s",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpm-identifies-consumer-sectors-buy-123047285.html?.tsrc=rss"
     },
     {
-      "title": "Crude prices drop after 'positive'",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices fell on Monday on optimism over US-Iran talks, with mediators flagging a \"roadmap\" to a final agreement, while equities were mixed.The two mediators said the United Stat",
-      "link": "https://finance.yahoo.com/markets/articles/crude-prices-drop-most-stocks-025950835.html?.tsrc=rss"
+      "title": "Charles Schwab enters prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The brokerage is partnering with Cboe to offer contracts that pay a fixed sum or nothing based on where the index closes",
+      "link": "https://qz.com/charles-schwab-cboe-prediction-markets-sp500-binary-options-062226?.tsrc=rss"
+    },
+    {
+      "title": "History Says This 1 Investing",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "This move may be tempting right now, but it could be costly.",
+      "link": "https://www.fool.com/investing/2026/06/22/history-says-this-1-investing-mistake-could-cost-y/?.tsrc=rss"
+    },
+    {
+      "title": "3 Small-Cap Stocks We Keep Off Our",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have i",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-keep-121919656.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "In 6 Words, Fed Chair Kevin Warsh",
-      "summary": "Warsh made his intentions clear -- and it's not the best news for an expensive stock market.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/06/22/6-words-fed-chair-kevin-warsh-drop-hammer-wall-st/?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 08:26:00 +0000"
-    },
-    {
-      "title": "US Stock Market Today",
-      "summary": "The Morning Bull - US Market Morning Update Monday, Jun, 22 2026 US stock futures are slightly softer this morning, with E-mini S&P 500 contracts down about 0.2%, as investors weig",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081053716.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 08:10:53 +0000"
-    },
-    {
-      "title": "2 S&P 500 Stocks to Research Further",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "title": "JPM identifies consumer sectors to",
+      "summary": "Investing.com -- Beaten-down consumer stocks are forming a bottom and could deliver better performance in the second half of 2026, according to JPMorgan, which identified several s",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080319278.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 08:03:19 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpm-identifies-consumer-sectors-buy-123047285.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 12:30:47 +0000"
     },
     {
-      "title": "Crude prices drop after 'positive'",
-      "summary": "Oil prices fell on Monday on optimism over US-Iran talks, with mediators flagging a \"roadmap\" to a final agreement, while equities were mixed.The two mediators said the United Stat",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/crude-prices-drop-most-stocks-025950835.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 07:45:33 +0000"
+      "title": "Charles Schwab enters prediction",
+      "summary": "The brokerage is partnering with Cboe to offer contracts that pay a fixed sum or nothing based on where the index closes",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://qz.com/charles-schwab-cboe-prediction-markets-sp500-binary-options-062226?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 12:21:41 +0000"
+    },
+    {
+      "title": "History Says This 1 Investing",
+      "summary": "This move may be tempting right now, but it could be costly.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/22/history-says-this-1-investing-mistake-could-cost-y/?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 12:20:00 +0000"
+    },
+    {
+      "title": "3 Small-Cap Stocks We Keep Off Our",
+      "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have i",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-keep-121919656.html?.tsrc=rss",
+      "published": "Mon, 22 Jun 2026 12:19:19 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.33",
-          "change": "-0.69%",
+          "value": "74.65",
+          "change": "-1.58%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "79.24",
-          "change": "-0.76%",
+          "value": "78.59",
+          "change": "-1.58%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4210.00",
-          "change": "-0.85%",
+          "value": "4226.10",
+          "change": "-0.47%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.35",
-          "change": "-0.62%",
+          "value": "6.37",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        75.80999755859375,
-        75.66000366210938,
-        75.5199966430664,
-        75.4000015258789,
-        75.5,
-        75.44999694824219,
-        75.58999633789062,
-        75.6500015258789,
-        75.45999908447266,
-        75.36000061035156,
-        75.33000183105469
+        74.86000061035156,
+        74.83000183105469,
+        74.77999877929688,
+        74.66000366210938,
+        74.66999816894531,
+        74.55000305175781,
+        74.55000305175781,
+        74.55999755859375,
+        74.66000366210938,
+        74.68000030517578,
+        74.6500015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-22 17:35 KST"
+      "freshness": "2026-06-22 21:26 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,36 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.658%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "3.660%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "4.225%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.268%",
+          "change": "+1.02%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.451%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.487%",
+          "change": "+0.81%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "4.901%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.925%",
+          "change": "+0.49%",
+          "direction": "up"
         }
       ],
       "trend": [
-        58,
-        57,
-        60,
-        63,
-        67,
-        70,
-        73,
-        79,
-        83,
-        86,
-        88
+        4.488999843597412,
+        4.486999988555908
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-06-19 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-06-22 21:21 KST"
     },
     {
       "id": "indices",
@@ -268,8 +259,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6293.21",
-          "change": "+0.00%",
+          "value": "6311.34",
+          "change": "+0.29%",
           "direction": "up"
         }
       ],
@@ -298,51 +289,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.93",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "100.84",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1539.61",
-          "change": "+0.64%",
+          "value": "1537.12",
+          "change": "+0.47%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.76",
-          "change": "+0.30%",
+          "value": "161.73",
+          "change": "+0.28%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7748",
-          "change": "+0.10%",
-          "direction": "up"
+          "value": "6.7633",
+          "change": "-0.07%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1538.4100341796875,
-        1538.31005859375,
-        1538.6500244140625,
-        1539.0,
-        1539.280029296875,
-        1539.56005859375,
-        1539.739990234375,
-        1539.56005859375,
-        1539.550048828125,
-        1539.7099609375,
-        1539.6099853515625
+        1537.6400146484375,
+        1537.52001953125,
+        1537.3599853515625,
+        1537.25,
+        1537.22998046875,
+        1537.3399658203125,
+        1537.47998046875,
+        1537.47998046875,
+        1537.489990234375,
+        1537.1600341796875,
+        1537.1199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-22 17:45 KST"
+      "status": "완화",
+      "freshness": "2026-06-22 21:36 KST"
     }
   ],
   "currentAction": {
-    "state": "Neutral",
-    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
-    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "state": "Policy shock",
+    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,7 +341,7 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-on",
@@ -380,7 +371,7 @@
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
       "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
-      "isCurrent": false
+      "isCurrent": true
     }
   ]
 }
