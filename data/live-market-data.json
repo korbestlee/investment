@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "collectedAt": "2026-06-22T22:14:56Z",
+  "collectedAt": "2026-06-23T06:36:39Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.15%",
+      "value": "+0.03%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.43%",
+      "value": "-1.34%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-2.46%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Discovery Announces Annual General",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Discovery Silver Corp. changes name to Discovery Mining Ltd. TORONTO, June 22, 2026 (GLOBE NEWSWIRE) -- Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/discovery-announces-annual-general-special-220000363.html?.tsrc=rss"
+      "title": "The S&P 500 Is Dominated by AI. If",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "If your portfolio feels too tech-heavy, buying energy stocks and bonds could help protect your cash from a downturn.",
+      "link": "https://www.fool.com/investing/2026/06/23/the-sp-500-is-dominated-by-ai-if-the-bubble-pops-h/?.tsrc=rss"
     },
     {
-      "title": "Stock Market Today, June 22",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "UiPath is giving enterprises more ways to coordinate AI agents, robots, and people, with the next readout focused on whether agentic automation demand can lift recurring revenue an",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-uipath-falls-as-agentic-automation-push-faces-arr-growth-test/?.tsrc=rss"
+      "title": "Gold Falls as Inflation Risks",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(Bloomberg) -- Gold declined as inflationary concerns overshadowed early optimism around negotiations to resolve the Iran war.Most Read from BloombergSpaceX Falls for Third Day, Er",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-us-iran-flag-000701656.html?.tsrc=rss"
     },
     {
-      "title": "S&P 500, Nasdaq Drop As SpaceX,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "SpaceX shares tanked 16% to their lowest level since listing, marking its third straight daily decline.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-space-x-broader-tech-weakness-outweighs-us-iran-hopes-spcx-googl-nflx-coin-mu-in-focus/cZKMJLHR79B?.tsrc=rss"
+      "title": "Crescent Energy’s (CRGY) Investment",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Crescent Energy Company (NYSE:CRGY) is included among the 13 Best Dividend Stocks to Buy Under $25. On June 18, Raymond James lowered its price recommendation on Crescent Energy Co",
+      "link": "https://finance.yahoo.com/energy/articles/crescent-energy-crgy-investment-case-040817186.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market Today, June 22",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Alphabet has the scale to fund AI, with investors looking for Gemini, Google Cloud, and Search to turn that spending into measurable growth as talent concerns intensify.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/?.tsrc=rss"
+      "title": "Star Copper Extends Copper Creek",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "VANCOUVER, BC / ACCESS Newswire / June 23, 2026 / Star Copper Corp. (CSE:STCU)(OTCQX:STCUF)(FWB:SOP) (\"Star Copper\" or the \"Company\"), a critical minerals exploration and developme",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/star-copper-extends-copper-creek-040100729.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Discovery Announces Annual General",
-      "summary": "Discovery Silver Corp. changes name to Discovery Mining Ltd. TORONTO, June 22, 2026 (GLOBE NEWSWIRE) -- Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/discovery-announces-annual-general-special-220000363.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 22:00:00 +0000"
+      "title": "The S&P 500 Is Dominated by AI. If",
+      "summary": "If your portfolio feels too tech-heavy, buying energy stocks and bonds could help protect your cash from a downturn.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/06/23/the-sp-500-is-dominated-by-ai-if-the-bubble-pops-h/?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 06:20:00 +0000"
     },
     {
-      "title": "Stock Market Today, June 22",
-      "summary": "UiPath is giving enterprises more ways to coordinate AI agents, robots, and people, with the next readout focused on whether agentic automation demand can lift recurring revenue an",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-uipath-falls-as-agentic-automation-push-faces-arr-growth-test/?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 21:59:04 +0000"
+      "title": "Gold Falls as Inflation Risks",
+      "summary": "(Bloomberg) -- Gold declined as inflationary concerns overshadowed early optimism around negotiations to resolve the Iran war.Most Read from BloombergSpaceX Falls for Third Day, Er",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-us-iran-flag-000701656.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 05:21:10 +0000"
     },
     {
-      "title": "S&P 500, Nasdaq Drop As SpaceX,",
-      "summary": "SpaceX shares tanked 16% to their lowest level since listing, marking its third straight daily decline.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-space-x-broader-tech-weakness-outweighs-us-iran-hopes-spcx-googl-nflx-coin-mu-in-focus/cZKMJLHR79B?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 21:37:56 +0000"
+      "title": "Crescent Energy’s (CRGY) Investment",
+      "summary": "Crescent Energy Company (NYSE:CRGY) is included among the 13 Best Dividend Stocks to Buy Under $25. On June 18, Raymond James lowered its price recommendation on Crescent Energy Co",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/crescent-energy-crgy-investment-case-040817186.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 04:08:17 +0000"
     },
     {
-      "title": "Stock Market Today, June 22",
-      "summary": "Alphabet has the scale to fund AI, with investors looking for Gemini, Google Cloud, and Search to turn that spending into measurable growth as talent concerns intensify.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/22/stock-market-today-june-22-alphabet-falls-as-alphafold-co-creator-s-exit-raises-ai-talent-concerns/?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 21:34:02 +0000"
+      "title": "Star Copper Extends Copper Creek",
+      "summary": "VANCOUVER, BC / ACCESS Newswire / June 23, 2026 / Star Copper Corp. (CSE:STCU)(OTCQX:STCUF)(FWB:SOP) (\"Star Copper\" or the \"Company\"), a critical minerals exploration and developme",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/star-copper-extends-copper-creek-040100729.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 04:01:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "74.18",
-          "change": "+0.43%",
-          "direction": "up"
+          "value": "72.87",
+          "change": "-1.34%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "78.12",
-          "change": "+0.28%",
-          "direction": "up"
+          "value": "76.75",
+          "change": "-1.48%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4211.00",
-          "change": "+0.20%",
-          "direction": "up"
+          "value": "4135.20",
+          "change": "-1.61%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.36",
-          "change": "-0.02%",
+          "value": "6.21",
+          "change": "-2.46%",
           "direction": "down"
         }
       ],
       "trend": [
-        74.05000305175781,
-        74.04000091552734,
-        74.05999755859375,
-        74.08999633789062,
-        76.54000091552734,
-        74.13999938964844,
-        74.1500015258789,
-        74.12000274658203,
-        74.08000183105469,
-        74.18000030517578,
-        74.18000030517578
+        72.91000366210938,
+        72.91999816894531,
+        72.95999908447266,
+        72.95999908447266,
+        72.91999816894531,
+        72.88999938964844,
+        72.93000030517578,
+        72.88999938964844,
+        72.87999725341797,
+        72.9000015258789,
+        72.87000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-23 07:04 KST"
+      "status": "약세",
+      "freshness": "2026-06-23 15:26 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "9114.55",
-          "change": "+0.69%",
-          "direction": "up"
+          "value": "8302.02",
+          "change": "-8.91%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.00",
-          "change": "+0.15%",
+          "value": "101.05",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1533.42",
-          "change": "+0.23%",
+          "value": "1540.12",
+          "change": "+0.44%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.59",
-          "change": "+0.19%",
+          "value": "161.72",
+          "change": "+0.13%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7671",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.7800",
+          "change": "+0.19%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1533.3699951171875,
-        1534.1700439453125,
-        1533.699951171875,
-        1534.3800048828125,
-        1534.989990234375,
-        1535.56005859375,
-        1534.0899658203125,
-        1533.5799560546875,
-        1533.5899658203125,
-        1533.550048828125,
-        1533.4200439453125
+        1541.1800537109375,
+        1539.6800537109375,
+        1540.47998046875,
+        1539.6800537109375,
+        1539.6800537109375,
+        1540.1800537109375,
+        1539.280029296875,
+        1540.219970703125,
+        1539.6800537109375,
+        1539.47998046875,
+        1540.1199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-23 07:13 KST"
+      "freshness": "2026-06-23 15:36 KST"
     }
   ],
   "currentAction": {
