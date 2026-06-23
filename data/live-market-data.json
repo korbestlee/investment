@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "collectedAt": "2026-06-23T06:36:39Z",
+  "collectedAt": "2026-06-23T10:22:10Z",
   "source": {
     "provider": "Yahoo Finance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.03%",
+      "value": "+0.14%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-1.34%",
+      "value": "-0.41%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-2.46%",
+      "value": "-2.73%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The S&P 500 Is Dominated by AI. If",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "If your portfolio feels too tech-heavy, buying energy stocks and bonds could help protect your cash from a downturn.",
-      "link": "https://www.fool.com/investing/2026/06/23/the-sp-500-is-dominated-by-ai-if-the-bubble-pops-h/?.tsrc=rss"
+      "title": "3 S&P 500 Stocks with Exciting",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-095246467.html?.tsrc=rss"
     },
     {
-      "title": "Gold Falls as Inflation Risks",
-      "impact": "원자재, 인플레 기대",
+      "title": "Oil Prices Fall After U.S. Waives",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Bloomberg) -- Gold declined as inflationary concerns overshadowed early optimism around negotiations to resolve the Iran war.Most Read from BloombergSpaceX Falls for Third Day, Er",
+      "summary": "Oil prices fell Tuesday after the U.S. waived Iranian sanctions on crude and petrochemical products for 60 days, in a sign that talks are progressing well.  The Treasury Department",
+      "link": "https://finance.yahoo.com/m/a922c157-cdd9-357a-8494-8963cb970e04/oil-prices-fall-after-u.s..html?.tsrc=rss"
+    },
+    {
+      "title": "Gold Slumps as Tech Selloff",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "(Bloomberg) -- Gold slumped toward $4,000 an ounce and silver plunged as much as 5% as a broad selloff swept through financial markets.Most Read from BloombergSpaceX Falls for Thir",
       "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-us-iran-flag-000701656.html?.tsrc=rss"
     },
     {
-      "title": "Crescent Energy’s (CRGY) Investment",
+      "title": "Gold Slides on Stronger Dollar as",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Crescent Energy Company (NYSE:CRGY) is included among the 13 Best Dividend Stocks to Buy Under $25. On June 18, Raymond James lowered its price recommendation on Crescent Energy Co",
-      "link": "https://finance.yahoo.com/energy/articles/crescent-energy-crgy-investment-case-040817186.html?.tsrc=rss"
-    },
-    {
-      "title": "Star Copper Extends Copper Creek",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / June 23, 2026 / Star Copper Corp. (CSE:STCU)(OTCQX:STCUF)(FWB:SOP) (\"Star Copper\" or the \"Company\"), a critical minerals exploration and developme",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/star-copper-extends-copper-creek-040100729.html?.tsrc=rss"
+      "summary": "Gold fell below $4,200 a troy ounce, pressured by a stronger dollar as investors weigh U.S.-Iran peace talks and the U.S. monetary policy outlook. In early trading, New York future",
+      "link": "https://finance.yahoo.com/m/bfbad336-e486-3ba5-9b08-83f04c039d3b/gold-slides-on-stronger.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The S&P 500 Is Dominated by AI. If",
-      "summary": "If your portfolio feels too tech-heavy, buying energy stocks and bonds could help protect your cash from a downturn.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/06/23/the-sp-500-is-dominated-by-ai-if-the-bubble-pops-h/?.tsrc=rss",
-      "published": "Tue, 23 Jun 2026 06:20:00 +0000"
+      "title": "3 S&P 500 Stocks with Exciting",
+      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-095246467.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 09:52:46 +0000"
     },
     {
-      "title": "Gold Falls as Inflation Risks",
-      "summary": "(Bloomberg) -- Gold declined as inflationary concerns overshadowed early optimism around negotiations to resolve the Iran war.Most Read from BloombergSpaceX Falls for Third Day, Er",
-      "impact": "원자재, 인플레 기대",
+      "title": "Oil Prices Fall After U.S. Waives",
+      "summary": "Oil prices fell Tuesday after the U.S. waived Iranian sanctions on crude and petrochemical products for 60 days, in a sign that talks are progressing well.  The Treasury Department",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/a922c157-cdd9-357a-8494-8963cb970e04/oil-prices-fall-after-u.s..html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 09:50:00 +0000"
+    },
+    {
+      "title": "Gold Slumps as Tech Selloff",
+      "summary": "(Bloomberg) -- Gold slumped toward $4,000 an ounce and silver plunged as much as 5% as a broad selloff swept through financial markets.Most Read from BloombergSpaceX Falls for Thir",
+      "impact": "채권, 금리",
       "importance": "high",
       "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-us-iran-flag-000701656.html?.tsrc=rss",
-      "published": "Tue, 23 Jun 2026 05:21:10 +0000"
+      "published": "Tue, 23 Jun 2026 09:38:27 +0000"
     },
     {
-      "title": "Crescent Energy’s (CRGY) Investment",
-      "summary": "Crescent Energy Company (NYSE:CRGY) is included among the 13 Best Dividend Stocks to Buy Under $25. On June 18, Raymond James lowered its price recommendation on Crescent Energy Co",
+      "title": "Gold Slides on Stronger Dollar as",
+      "summary": "Gold fell below $4,200 a troy ounce, pressured by a stronger dollar as investors weigh U.S.-Iran peace talks and the U.S. monetary policy outlook. In early trading, New York future",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/crescent-energy-crgy-investment-case-040817186.html?.tsrc=rss",
-      "published": "Tue, 23 Jun 2026 04:08:17 +0000"
-    },
-    {
-      "title": "Star Copper Extends Copper Creek",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / June 23, 2026 / Star Copper Corp. (CSE:STCU)(OTCQX:STCUF)(FWB:SOP) (\"Star Copper\" or the \"Company\"), a critical minerals exploration and developme",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/star-copper-extends-copper-creek-040100729.html?.tsrc=rss",
-      "published": "Tue, 23 Jun 2026 04:01:00 +0000"
+      "link": "https://finance.yahoo.com/m/bfbad336-e486-3ba5-9b08-83f04c039d3b/gold-slides-on-stronger.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 09:36:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.87",
-          "change": "-1.34%",
+          "value": "73.56",
+          "change": "-0.41%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "76.75",
-          "change": "-1.48%",
+          "value": "77.51",
+          "change": "-0.50%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4135.20",
-          "change": "-1.61%",
+          "value": "4145.50",
+          "change": "-1.36%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.21",
-          "change": "-2.46%",
+          "value": "6.19",
+          "change": "-2.73%",
           "direction": "down"
         }
       ],
       "trend": [
-        72.91000366210938,
-        72.91999816894531,
-        72.95999908447266,
-        72.95999908447266,
-        72.91999816894531,
-        72.88999938964844,
-        72.93000030517578,
-        72.88999938964844,
-        72.87999725341797,
-        72.9000015258789,
-        72.87000274658203
+        73.51000213623047,
+        73.41000366210938,
+        73.4000015258789,
+        73.37000274658203,
+        73.44999694824219,
+        73.44999694824219,
+        73.4800033569336,
+        73.54000091552734,
+        73.55999755859375,
+        73.54000091552734,
+        73.55999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-23 15:26 KST"
+      "freshness": "2026-06-23 19:12 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "8302.02",
-          "change": "-8.91%",
+          "value": "8203.84",
+          "change": "-9.99%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6311.32",
-          "change": "+0.29%",
-          "direction": "up"
+          "value": "6242.87",
+          "change": "-1.08%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.05",
-          "change": "+0.03%",
+          "value": "101.16",
+          "change": "+0.14%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1540.12",
-          "change": "+0.44%",
+          "value": "1534.84",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.72",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "161.39",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7800",
-          "change": "+0.19%",
+          "value": "6.7833",
+          "change": "+0.24%",
           "direction": "up"
         }
       ],
       "trend": [
-        1541.1800537109375,
-        1539.6800537109375,
-        1540.47998046875,
-        1539.6800537109375,
-        1539.6800537109375,
-        1540.1800537109375,
-        1539.280029296875,
-        1540.219970703125,
-        1539.6800537109375,
-        1539.47998046875,
-        1540.1199951171875
+        1534.93994140625,
+        1534.8699951171875,
+        1534.6700439453125,
+        1534.47998046875,
+        1534.4100341796875,
+        1534.47998046875,
+        1534.550048828125,
+        1534.6099853515625,
+        1534.7099609375,
+        1534.699951171875,
+        1534.8399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-23 15:36 KST"
+      "freshness": "2026-06-23 19:22 KST"
     }
   ],
   "currentAction": {
