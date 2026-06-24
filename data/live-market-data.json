@@ -1,10 +1,10 @@
 {
   "date": "2026-06-24",
-  "collectedAt": "2026-06-24T05:50:15Z",
+  "collectedAt": "2026-06-23T21:48:44Z",
   "source": {
-    "provider": "pykrx + yfinance",
+    "provider": "Yahoo Finance",
     "mode": "live snapshot",
-    "note": "Generated from live pykrx/yfinance data for GitHub Pages."
+    "note": "Generated from live Yahoo Finance data for GitHub Pages."
   },
   "freshness": {
     "fx": "intraday chart",
@@ -16,7 +16,7 @@
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
+      "value": "Policy shock",
       "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
     },
     {
@@ -26,105 +26,105 @@
     },
     {
       "label": "핵심 드라이버",
-      "value": "혼조 신호",
+      "value": "금리 변동성",
       "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
     }
   ],
-  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "topLine": "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.13%",
+      "value": "-1.44%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.35%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.34%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-1.10%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-3.78%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "is gold falling as inflation rises?",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
-      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss"
-    },
-    {
-      "title": "Honeywell (HON) Plans Aerospace",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss"
-    },
-    {
-      "title": "Cboe Joins Prediction Market Race",
+      "title": "Energizer, Cal-Maine, and B&G Foods",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
-      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss"
+      "summary": "A number of stocks jumped in the afternoon session after investors rotated out of semiconductors and AI names during the global chip selloff.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/energizer-cal-maine-b-g-214446138.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Breaks Key Support; FedEx,",
+      "title": "Dow Jones Futures Rise After Nasdaq",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
-      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
+      "summary": "The Nasdaq broke key support Tuesday as AI stocks sold off, even as SpaceX reversed higher. FedEx and AI chip IPO Cerebras reported late. Micron earnings loom.",
+      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures-rise-after.html?.tsrc=rss"
+    },
+    {
+      "title": "Google-Parent Alphabet To Join Dow",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Google-parent Alphabet will be the fifth Magnificent Seven stock to join the Dow Jones Industrial Average. Google stock is replacing Verizon.",
+      "link": "https://finance.yahoo.com/m/a1077ce3-f550-3d55-a667-1472e8e22b80/google-parent-alphabet-to.html?.tsrc=rss"
+    },
+    {
+      "title": "Tech stocks tumble for a second day.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Nvidia, Alphabet and other technology stocks fell as Wall Street shifted from rewarding AI spending to demanding evidence that it will produce outsized returns.",
+      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-profits-nasdaq-nvidia-alphabet-spacex/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "is gold falling as inflation rises?",
-      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 05:30:18 +0000"
-    },
-    {
-      "title": "Honeywell (HON) Plans Aerospace",
-      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 05:07:33 +0000"
-    },
-    {
-      "title": "Cboe Joins Prediction Market Race",
-      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
+      "title": "Energizer, Cal-Maine, and B&G Foods",
+      "summary": "A number of stocks jumped in the afternoon session after investors rotated out of semiconductors and AI names during the global chip selloff.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 04:09:32 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/energizer-cal-maine-b-g-214446138.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 21:44:46 +0000"
     },
     {
-      "title": "Nasdaq Breaks Key Support; FedEx,",
-      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
+      "title": "Dow Jones Futures Rise After Nasdaq",
+      "summary": "The Nasdaq broke key support Tuesday as AI stocks sold off, even as SpaceX reversed higher. FedEx and AI chip IPO Cerebras reported late. Micron earnings loom.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 03:07:24 +0000"
+      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 21:41:50 +0000"
+    },
+    {
+      "title": "Google-Parent Alphabet To Join Dow",
+      "summary": "Google-parent Alphabet will be the fifth Magnificent Seven stock to join the Dow Jones Industrial Average. Google stock is replacing Verizon.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/a1077ce3-f550-3d55-a667-1472e8e22b80/google-parent-alphabet-to.html?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 21:41:23 +0000"
+    },
+    {
+      "title": "Tech stocks tumble for a second day.",
+      "summary": "Nvidia, Alphabet and other technology stocks fell as Wall Street shifted from rewarding AI spending to demanding evidence that it will produce outsized returns.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-profits-nasdaq-nvidia-alphabet-spacex/?.tsrc=rss",
+      "published": "Tue, 23 Jun 2026 21:35:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.66",
-          "change": "-0.03%",
+          "value": "73.05",
+          "change": "-1.10%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "76.54",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "76.88",
+          "change": "-0.26%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4093.90",
-          "change": "-0.02%",
+          "value": "4129.00",
+          "change": "-1.75%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.14",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.12",
+          "change": "-3.78%",
+          "direction": "down"
         }
       ],
       "trend": [
-        72.6500015258789,
-        72.66999816894531,
-        72.63999938964844,
-        72.66000366210938,
-        72.7300033569336,
-        72.6500015258789,
-        72.6500015258789,
-        72.69000244140625,
-        72.66000366210938,
-        72.68000030517578,
-        72.66000366210938
+        73.06999969482422,
+        73.04000091552734,
+        73.06999969482422,
+        73.06999969482422,
+        73.08000183105469,
+        73.05999755859375,
+        73.05999755859375,
+        73.05000305175781,
+        73.05999755859375,
+        73.05000305175781,
+        73.05000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-24 14:40 KST"
+      "freshness": "2026-06-24 05:59 KST"
     },
     {
       "id": "bonds",
@@ -203,26 +203,26 @@
         {
           "name": "UST 13W",
           "value": "3.690%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "+0.27%",
+          "direction": "up"
         },
         {
           "name": "UST 5Y",
           "value": "4.261%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "-0.61%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
           "value": "4.493%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "-0.35%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
           "value": "4.940%",
-          "change": "+0.04%",
-          "direction": "up"
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -239,7 +239,7 @@
         4.493000030517578
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
+      "status": "완화",
       "freshness": "2026-06-24 03:59 KST"
     },
     {
@@ -250,31 +250,30 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7365.92",
-          "change": "-0.13%",
+          "value": "7365.46",
+          "change": "-1.44%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25589.01",
-          "change": "-0.12%",
+          "value": "25587.04",
+          "change": "-2.21%",
           "direction": "down"
         },
         {
           "name": "KOSPI",
-          "value": "8479.63",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "8203.84",
+          "change": "-9.99%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6244.80",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6230.55",
+          "change": "-1.28%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7374.08984375,
         7378.06982421875,
         7374.93994140625,
         7376.1298828125,
@@ -284,11 +283,12 @@
         7376.740234375,
         7373.8701171875,
         7375.580078125,
-        7365.919921875
+        7365.919921875,
+        7365.4599609375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-06-24 04:59 KST"
+      "freshness": "2026-06-24 06:33 KST"
     },
     {
       "id": "fx",
@@ -298,51 +298,51 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.47",
-          "change": "+0.00%",
+          "value": "101.36",
+          "change": "+0.34%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1541.18",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1531.55",
+          "change": "-0.12%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "161.59",
-          "change": "+0.00%",
+          "value": "161.53",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.8025",
-          "change": "+0.01%",
+          "value": "6.7844",
+          "change": "+0.26%",
           "direction": "up"
         }
       ],
       "trend": [
-        1541.780029296875,
-        1541.6700439453125,
-        1541.47998046875,
-        1541.1800537109375,
-        1541.280029296875,
-        1540.97998046875,
-        1541.0799560546875,
-        1540.780029296875,
-        1540.8900146484375,
-        1541.0799560546875,
-        1541.1800537109375
+        1531.510009765625,
+        1531.3199462890625,
+        1531.5699462890625,
+        1531.3499755859375,
+        1531.3199462890625,
+        1531.5699462890625,
+        1530.97998046875,
+        1531.300048828125,
+        1531.2900390625,
+        1531.3199462890625,
+        1531.550048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-24 14:50 KST"
+      "freshness": "2026-06-24 06:48 KST"
     }
   ],
   "currentAction": {
-    "state": "Neutral",
-    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
-    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "state": "Policy shock",
+    "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+    "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,7 +350,7 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-on",
@@ -380,7 +380,7 @@
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
       "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
-      "isCurrent": false
+      "isCurrent": true
     }
   ]
 }
