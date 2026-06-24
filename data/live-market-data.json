@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "collectedAt": "2026-06-24T06:33:47Z",
+  "collectedAt": "2026-06-24T09:59:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Empire Metals Limited Announces",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "LONDON, UK / ACCESS Newswire / June 24, 2026 / Empire Metals Limited, the AIM-quoted and OTCQX-traded exploration and development company, is pleased to announce that its wholly-ow",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/empire-metals-limited-announces-completion-060000071.html?.tsrc=rss"
-    },
-    {
-      "title": "Bitcoin Stabilizes Near 200-WMA as",
+      "title": "The S&P 500 Is Up 9% in 2026. Wall",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Bitcoin price holds and stabilizes near its 200-week moving average (200-WMA) amid easing geopolitical tensions. The U.S. Senate passed a bipartisan resolution invoking the War Pow",
-      "link": "https://coingape.com/bitcoin-stabilizes-near-200-wma-as-senate-passes-war-powers-act-to-end-us-iran-war/?.tsrc=rss"
+      "summary": "Wall Street analysts anticipate more upside for U.S. stocks in the second half of 2026.",
+      "link": "https://www.fool.com/investing/2026/06/24/sp-500-wall-street-says-stock-market-do-this-next/?.tsrc=rss"
     },
     {
-      "title": "is gold falling as inflation rises?",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
-      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss"
+      "title": "1 Services Stock to Target This Week",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Furthermore, the demand for their offerings is rising as more c",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-target-week-092825572.html?.tsrc=rss"
     },
     {
-      "title": "Honeywell (HON) Plans Aerospace",
+      "title": "1 Industrials Stock Worth Your",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss"
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-092025560.html?.tsrc=rss"
+    },
+    {
+      "title": "Bitcoin Broke Down",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "This Bitcoin price prediction weighs a 5% drop and cooling US demand against $1.17 billion in short bets that could spark a squeeze.",
+      "link": "https://beincrypto.com/bitcoin-price-prediction-short-squeeze/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Empire Metals Limited Announces",
-      "summary": "LONDON, UK / ACCESS Newswire / June 24, 2026 / Empire Metals Limited, the AIM-quoted and OTCQX-traded exploration and development company, is pleased to announce that its wholly-ow",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/empire-metals-limited-announces-completion-060000071.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 06:00:00 +0000"
-    },
-    {
-      "title": "Bitcoin Stabilizes Near 200-WMA as",
-      "summary": "Bitcoin price holds and stabilizes near its 200-week moving average (200-WMA) amid easing geopolitical tensions. The U.S. Senate passed a bipartisan resolution invoking the War Pow",
+      "title": "The S&P 500 Is Up 9% in 2026. Wall",
+      "summary": "Wall Street analysts anticipate more upside for U.S. stocks in the second half of 2026.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://coingape.com/bitcoin-stabilizes-near-200-wma-as-senate-passes-war-powers-act-to-end-us-iran-war/?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 05:35:42 +0000"
+      "link": "https://www.fool.com/investing/2026/06/24/sp-500-wall-street-says-stock-market-do-this-next/?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 09:32:00 +0000"
     },
     {
-      "title": "is gold falling as inflation rises?",
-      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 05:30:18 +0000"
+      "title": "1 Services Stock to Target This Week",
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Furthermore, the demand for their offerings is rising as more c",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-target-week-092825572.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 09:28:25 +0000"
     },
     {
-      "title": "Honeywell (HON) Plans Aerospace",
-      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
+      "title": "1 Industrials Stock Worth Your",
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 05:07:33 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-092025560.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 09:20:25 +0000"
+    },
+    {
+      "title": "Bitcoin Broke Down",
+      "summary": "This Bitcoin price prediction weighs a 5% drop and cooling US demand against $1.17 billion in short bets that could spark a squeeze.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://beincrypto.com/bitcoin-price-prediction-short-squeeze/?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 08:57:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.64",
-          "change": "-0.01%",
+          "value": "72.07",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "76.48",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Gold",
-          "value": "4106.70",
+          "value": "75.88",
           "change": "+0.03%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "4086.50",
+          "change": "+0.04%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.15",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.11",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        72.87000274658203,
-        72.83999633789062,
-        72.77999877929688,
-        72.70999908447266,
-        72.72000122070312,
-        72.7300033569336,
-        72.73999786376953,
-        72.72000122070312,
-        72.69999694824219,
-        72.6500015258789,
-        72.63999938964844
+        71.87000274658203,
+        71.8499984741211,
+        71.83000183105469,
+        71.83999633789062,
+        71.83000183105469,
+        71.87999725341797,
+        71.8499984741211,
+        71.80000305175781,
+        71.86000061035156,
+        72.11000061035156,
+        72.06999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-24 15:23 KST"
+      "freshness": "2026-06-24 18:49 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6244.80",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6215.00",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.46",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "101.62",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1542.28",
-          "change": "-0.01%",
+          "value": "1546.52",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "161.68",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "161.73",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.8009",
-          "change": "-0.01%",
+          "value": "6.8094",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        1541.6800537109375,
-        1541.0799560546875,
-        1541.47998046875,
-        1541.6800537109375,
-        1542.0799560546875,
-        1542.1600341796875,
-        1541.5799560546875,
-        1541.97998046875,
-        1542.280029296875,
-        1542.47998046875,
-        1542.280029296875
+        1547.8800048828125,
+        1547.1800537109375,
+        1546.93994140625,
+        1546.56005859375,
+        1546.3800048828125,
+        1547.18994140625,
+        1546.6400146484375,
+        1546.5799560546875,
+        1546.47998046875,
+        1547.0899658203125,
+        1546.52001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-24 15:33 KST"
+      "status": "완화",
+      "freshness": "2026-06-24 18:59 KST"
     }
   ],
   "currentAction": {
