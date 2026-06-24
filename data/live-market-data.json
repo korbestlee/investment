@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-24",
-  "collectedAt": "2026-06-24T09:59:56Z",
+  "date": "2026-06-25",
+  "collectedAt": "2026-06-24T21:42:04Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.13%",
+      "value": "+0.11%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.05%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.10%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The S&P 500 Is Up 9% in 2026. Wall",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Wall Street analysts anticipate more upside for U.S. stocks in the second half of 2026.",
-      "link": "https://www.fool.com/investing/2026/06/24/sp-500-wall-street-says-stock-market-do-this-next/?.tsrc=rss"
-    },
-    {
-      "title": "1 Services Stock to Target This Week",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Furthermore, the demand for their offerings is rising as more c",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-target-week-092825572.html?.tsrc=rss"
-    },
-    {
-      "title": "1 Industrials Stock Worth Your",
+      "title": "Dow Jones Futures Rise As Micron",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-092025560.html?.tsrc=rss"
+      "summary": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
+      "link": "https://finance.yahoo.com/m/62ac79cc-8e88-3711-aacd-1efa7c03c79f/dow-jones-futures-rise-as.html?.tsrc=rss"
     },
     {
-      "title": "Bitcoin Broke Down",
+      "title": "Bullish inventories meet bearish",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(By Oil & Gas 360) – The oil market is entering a new phase of uncertainty. After months dominated by […]",
+      "link": "https://finance.yahoo.com/energy/articles/bullish-inventories-meet-bearish-expectations-213023449.html?.tsrc=rss"
+    },
+    {
+      "title": "Blue Moon Metals Reports Major",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "This Bitcoin price prediction weighs a 5% drop and cooling US demand against $1.17 billion in short bets that could spark a squeeze.",
-      "link": "https://beincrypto.com/bitcoin-price-prediction-short-squeeze/?.tsrc=rss"
+      "summary": "Blue Moon Metals (MOON.V, BMM) after trade Wednesday detailed several milestones for its Nussir copp",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-moon-metals-reports-major-212200942.html?.tsrc=rss"
+    },
+    {
+      "title": "Oriental Rise Provides Update",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "NINGDE, China, June 24, 2026 (GLOBE NEWSWIRE) -- Oriental Rise Holdings Limited (NASDAQ: ORIS) (\"Oriental Rise\" or the \"Company\"), an integrated tea supplier in mainland China, tod",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oriental-rise-provides-regarding-nasdaq-212200639.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The S&P 500 Is Up 9% in 2026. Wall",
-      "summary": "Wall Street analysts anticipate more upside for U.S. stocks in the second half of 2026.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/24/sp-500-wall-street-says-stock-market-do-this-next/?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 09:32:00 +0000"
-    },
-    {
-      "title": "1 Services Stock to Target This Week",
-      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Furthermore, the demand for their offerings is rising as more c",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-target-week-092825572.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 09:28:25 +0000"
-    },
-    {
-      "title": "1 Industrials Stock Worth Your",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
+      "title": "Dow Jones Futures Rise As Micron",
+      "summary": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-092025560.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 09:20:25 +0000"
+      "link": "https://finance.yahoo.com/m/62ac79cc-8e88-3711-aacd-1efa7c03c79f/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 21:31:38 +0000"
     },
     {
-      "title": "Bitcoin Broke Down",
-      "summary": "This Bitcoin price prediction weighs a 5% drop and cooling US demand against $1.17 billion in short bets that could spark a squeeze.",
+      "title": "Bullish inventories meet bearish",
+      "summary": "(By Oil & Gas 360) – The oil market is entering a new phase of uncertainty. After months dominated by […]",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/bullish-inventories-meet-bearish-expectations-213023449.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 21:30:23 +0000"
+    },
+    {
+      "title": "Blue Moon Metals Reports Major",
+      "summary": "Blue Moon Metals (MOON.V, BMM) after trade Wednesday detailed several milestones for its Nussir copp",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://beincrypto.com/bitcoin-price-prediction-short-squeeze/?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 08:57:20 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-moon-metals-reports-major-212200942.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 21:22:00 +0000"
+    },
+    {
+      "title": "Oriental Rise Provides Update",
+      "summary": "NINGDE, China, June 24, 2026 (GLOBE NEWSWIRE) -- Oriental Rise Holdings Limited (NASDAQ: ORIS) (\"Oriental Rise\" or the \"Company\"), an integrated tea supplier in mainland China, tod",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oriental-rise-provides-regarding-nasdaq-212200639.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 21:22:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.07",
-          "change": "-0.06%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "75.88",
+          "value": "69.87",
           "change": "+0.03%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4086.50",
+          "name": "Brent",
+          "value": "73.18",
           "change": "+0.04%",
           "direction": "up"
         },
         {
-          "name": "Copper",
-          "value": "6.11",
-          "change": "+0.02%",
+          "name": "Gold",
+          "value": "4016.40",
+          "change": "+0.00%",
           "direction": "up"
+        },
+        {
+          "name": "Copper",
+          "value": "5.99",
+          "change": "-0.10%",
+          "direction": "down"
         }
       ],
       "trend": [
-        71.87000274658203,
-        71.8499984741211,
-        71.83000183105469,
-        71.83999633789062,
-        71.83000183105469,
-        71.87999725341797,
-        71.8499984741211,
-        71.80000305175781,
-        71.86000061035156,
-        72.11000061035156,
-        72.06999969482422
+        69.88999938964844,
+        69.80999755859375,
+        69.83999633789062,
+        69.83000183105469,
+        69.87000274658203,
+        69.8499984741211,
+        69.83999633789062,
+        69.83000183105469,
+        69.83999633789062,
+        69.8499984741211,
+        69.87000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-24 18:49 KST"
+      "status": "강세",
+      "freshness": "2026-06-25 05:59 KST"
     },
     {
       "id": "bonds",
@@ -208,39 +208,39 @@
         },
         {
           "name": "UST 5Y",
-          "value": "4.261%",
+          "value": "4.176%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.493%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.402%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "4.940%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.856%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.493000030517578,
-        4.493000030517578,
-        4.491000175476074,
-        4.491000175476074,
-        4.491000175476074,
-        4.491000175476074,
-        4.491000175476074,
-        4.493000030517578,
-        4.493000030517578,
-        4.493000030517578,
-        4.493000030517578
+        4.400000095367432,
+        4.400000095367432,
+        4.3979997634887695,
+        4.3979997634887695,
+        4.400000095367432,
+        4.400000095367432,
+        4.400000095367432,
+        4.400000095367432,
+        4.400000095367432,
+        4.400000095367432,
+        4.4019999504089355
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-06-24 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-06-25 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7365.92",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "7359.90",
+          "change": "+0.11%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25589.01",
-          "change": "-0.12%",
-          "direction": "down"
+          "value": "25484.75",
+          "change": "+0.17%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6215.00",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6214.05",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7374.08984375,
-        7378.06982421875,
-        7374.93994140625,
-        7376.1298828125,
-        7376.25,
-        7382.83984375,
-        7377.3701171875,
-        7376.740234375,
-        7373.8701171875,
-        7375.580078125,
-        7365.919921875
+        7348.83984375,
+        7350.68994140625,
+        7354.14990234375,
+        7355.06005859375,
+        7357.8798828125,
+        7357.72021484375,
+        7355.64013671875,
+        7352.7900390625,
+        7351.669921875,
+        7351.580078125,
+        7359.89990234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-06-24 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-06-25 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.62",
-          "change": "-0.01%",
+          "value": "101.57",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1546.52",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "1542.09",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.73",
-          "change": "-0.00%",
+          "value": "161.71",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.8094",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.8014",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1547.8800048828125,
-        1547.1800537109375,
-        1546.93994140625,
-        1546.56005859375,
-        1546.3800048828125,
-        1547.18994140625,
-        1546.6400146484375,
-        1546.5799560546875,
-        1546.47998046875,
-        1547.0899658203125,
-        1546.52001953125
+        1542.219970703125,
+        1542.260009765625,
+        1541.52001953125,
+        1541.050048828125,
+        1541.780029296875,
+        1541.8800048828125,
+        1541.8599853515625,
+        1541.93994140625,
+        1541.9200439453125,
+        1541.97998046875,
+        1542.0899658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-24 18:59 KST"
+      "freshness": "2026-06-25 06:39 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
