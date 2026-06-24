@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-24",
+  "collectedAt": "2026-06-24T05:50:15Z",
+  "source": {
+    "provider": "pykrx + yfinance",
+    "mode": "live snapshot",
+    "note": "Generated from live pykrx/yfinance data for GitHub Pages."
+  },
+  "freshness": {
+    "fx": "intraday chart",
+    "indices": "intraday chart",
+    "commodities": "intraday chart",
+    "bonds": "intraday chart",
+    "news": "live rss"
+  },
+  "signals": [
+    {
+      "label": "시장 상태",
+      "value": "Neutral",
+      "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
+    },
+    {
+      "label": "신뢰도",
+      "value": "높음",
+      "sub": "실시간 차트 스냅샷 기반"
+    },
+    {
+      "label": "핵심 드라이버",
+      "value": "혼조 신호",
+      "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
+    }
+  ],
+  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "regimeFactors": [
+    {
+      "label": "S&P 500",
+      "value": "-0.13%",
+      "signal": "risk",
+      "note": "주식 방향으로 위험선호 강도를 확인합니다."
+    },
+    {
+      "label": "미 10년물",
+      "value": "+0.00%",
+      "signal": "rates",
+      "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
+    },
+    {
+      "label": "DXY",
+      "value": "+0.00%",
+      "signal": "dollar",
+      "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
+    },
+    {
+      "label": "WTI",
+      "value": "-0.03%",
+      "signal": "inflation",
+      "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
+    },
+    {
+      "label": "Copper",
+      "value": "+0.02%",
+      "signal": "growth",
+      "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
+    }
+  ],
+  "issues": [
+    {
+      "title": "is gold falling as inflation rises?",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
+      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss"
+    },
+    {
+      "title": "Honeywell (HON) Plans Aerospace",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss"
+    },
+    {
+      "title": "Cboe Joins Prediction Market Race",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
+      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq Breaks Key Support; FedEx,",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
+      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
+    }
+  ],
+  "newsItems": [
+    {
+      "title": "is gold falling as inflation rises?",
+      "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 05:30:18 +0000"
+    },
+    {
+      "title": "Honeywell (HON) Plans Aerospace",
+      "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 05:07:33 +0000"
+    },
+    {
+      "title": "Cboe Joins Prediction Market Race",
+      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 04:09:32 +0000"
+    },
+    {
+      "title": "Nasdaq Breaks Key Support; FedEx,",
+      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 03:07:24 +0000"
+    }
+  ],
+  "criteria": [
+    {
+      "title": "변화의 크기",
+      "description": "전일 대비, 1주 대비, 1개월 대비로 의미 있는 움직임인지 확인합니다."
+    },
+    {
+      "title": "방향의 일관성",
+      "description": "금리, 달러, 주식, 원자재가 같은 레짐을 가리키는지 확인합니다."
+    },
+    {
+      "title": "이벤트 충격",
+      "description": "지표 서프라이즈, 중앙은행 발언, 지정학 이벤트의 즉시 반응을 봅니다."
+    },
+    {
+      "title": "상호작용",
+      "description": "유가와 인플레 기대, 금리와 성장주, 달러와 신흥국 통화의 연결을 봅니다."
+    }
+  ],
+  "assetGroups": [
+    {
+      "id": "commodities",
+      "label": "원자재",
+      "title": "원자재",
+      "summary": "Yahoo intraday chart 데이터로 원자재 변화를 읽습니다.",
+      "items": [
+        {
+          "name": "WTI",
+          "value": "72.66",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "76.54",
+          "change": "+0.09%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4093.90",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "Copper",
+          "value": "6.14",
+          "change": "+0.02%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        72.6500015258789,
+        72.66999816894531,
+        72.63999938964844,
+        72.66000366210938,
+        72.7300033569336,
+        72.6500015258789,
+        72.6500015258789,
+        72.69000244140625,
+        72.66000366210938,
+        72.68000030517578,
+        72.66000366210938
+      ],
+      "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
+      "status": "약세",
+      "freshness": "2026-06-24 14:40 KST"
+    },
+    {
+      "id": "bonds",
+      "label": "채권",
+      "title": "채권",
+      "summary": "미국 국채 수익률과 커브 변화를 확인합니다.",
+      "items": [
+        {
+          "name": "UST 13W",
+          "value": "3.690%",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "UST 5Y",
+          "value": "4.261%",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "UST 10Y",
+          "value": "4.493%",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "UST 30Y",
+          "value": "4.940%",
+          "change": "+0.04%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        4.493000030517578,
+        4.493000030517578,
+        4.491000175476074,
+        4.491000175476074,
+        4.491000175476074,
+        4.491000175476074,
+        4.491000175476074,
+        4.493000030517578,
+        4.493000030517578,
+        4.493000030517578,
+        4.493000030517578
+      ],
+      "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
+      "status": "중립",
+      "freshness": "2026-06-24 03:59 KST"
+    },
+    {
+      "id": "indices",
+      "label": "지수",
+      "title": "지수",
+      "summary": "실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.",
+      "items": [
+        {
+          "name": "S&P 500",
+          "value": "7365.92",
+          "change": "-0.13%",
+          "direction": "down"
+        },
+        {
+          "name": "Nasdaq",
+          "value": "25589.01",
+          "change": "-0.12%",
+          "direction": "down"
+        },
+        {
+          "name": "KOSPI",
+          "value": "8479.63",
+          "change": "+0.13%",
+          "direction": "up"
+        },
+        {
+          "name": "Euro Stoxx",
+          "value": "6244.80",
+          "change": "+0.03%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        7374.08984375,
+        7378.06982421875,
+        7374.93994140625,
+        7376.1298828125,
+        7376.25,
+        7382.83984375,
+        7377.3701171875,
+        7376.740234375,
+        7373.8701171875,
+        7375.580078125,
+        7365.919921875
+      ],
+      "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
+      "status": "약세",
+      "freshness": "2026-06-24 04:59 KST"
+    },
+    {
+      "id": "fx",
+      "label": "환율",
+      "title": "환율",
+      "summary": "intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.",
+      "items": [
+        {
+          "name": "DXY",
+          "value": "101.47",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1541.18",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "161.59",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.8025",
+          "change": "+0.01%",
+          "direction": "up"
+        }
+      ],
+      "trend": [
+        1541.780029296875,
+        1541.6700439453125,
+        1541.47998046875,
+        1541.1800537109375,
+        1541.280029296875,
+        1540.97998046875,
+        1541.0799560546875,
+        1540.780029296875,
+        1540.8900146484375,
+        1541.0799560546875,
+        1541.1800537109375
+      ],
+      "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
+      "status": "강세",
+      "freshness": "2026-06-24 14:50 KST"
+    }
+  ],
+  "currentAction": {
+    "state": "Neutral",
+    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "isCurrent": true
+  },
+  "actions": [
+    {
+      "state": "Neutral",
+      "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+      "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+      "isCurrent": true
+    },
+    {
+      "state": "Risk-on",
+      "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+      "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Risk-off",
+      "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Inflation shock",
+      "rule": "장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.",
+      "detail": "유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Growth shock",
+      "rule": "경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.",
+      "detail": "구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.",
+      "isCurrent": false
+    },
+    {
+      "state": "Policy shock",
+      "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+      "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+      "isCurrent": false
+    }
+  ]
+}

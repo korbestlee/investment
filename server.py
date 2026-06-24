@@ -6,7 +6,7 @@ import copy
 import json
 import os
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -14,6 +14,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlparse
 
 import requests
+import yfinance as yf
 
 
 ROOT = Path(__file__).resolve().parent
@@ -35,53 +36,112 @@ def format_pct(value: float | None) -> str:
     return f"{sign}{value:.2f}%"
 
 
-def fetch_yahoo_chart(symbol: str, interval: str = "1m", range_: str = "1d") -> dict:
-    response = requests.get(
-        f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}",
-        params={"interval": interval, "range": range_},
-        headers={"User-Agent": "Mozilla/5.0"},
-        timeout=20,
-    )
-    response.raise_for_status()
-    payload = response.json()
-    chart = payload.get("chart", {})
-    error = chart.get("error")
-    if error:
-        raise RuntimeError(error.get("description") or f"Yahoo error for {symbol}")
-    result = chart.get("result") or []
-    if not result:
-        raise RuntimeError(f"No Yahoo chart data for {symbol}")
-    return result[0]
+def compact_headline(title: str, summary: str = "") -> str:
+    raw_title = " ".join((title or "").split()).strip()
+    if not raw_title:
+        return "Untitled headline"
+    cleaned = raw_title
+    for prefix in ("Dow Jones Futures", "Stock Market Today", "Market Watch", "Opinion", "Analysis", "Breaking"):
+        if cleaned.lower().startswith(prefix.lower() + ":"):
+            cleaned = cleaned[len(prefix) + 1 :].strip()
+            break
+    if cleaned.lower().startswith("why "):
+        cleaned = cleaned[4:].strip()
+    cleaned = cleaned.split("|", 1)[0].strip()
+    cleaned = cleaned.split(" - ", 1)[0].strip()
+    primary = cleaned.split(":", 1)[0].split("—", 1)[0].split("–", 1)[0].strip()
+    if len(primary) <= 36:
+        return primary
+    words = primary.split()
+    if len(words) > 1:
+        text = ""
+        for word in words:
+            next_text = f"{text} {word}".strip()
+            if len(next_text) > 36:
+                break
+            text = next_text
+        if text:
+            return text
+    summary_text = " ".join((summary or "").split()).strip()
+    if summary_text:
+        return summary_text[:36].rstrip()
+    return primary[:36].rstrip()
 
 
-def build_yahoo_series(symbol: str) -> dict:
-    payload = fetch_yahoo_chart(symbol)
-    meta = payload.get("meta", {})
-    quote = (payload.get("indicators", {}) or {}).get("quote", [{}])[0]
-    closes = quote.get("close", []) or []
-    points = [float(close) for close in closes if close is not None]
-    latest = meta.get("regularMarketPrice")
-    previous = meta.get("chartPreviousClose")
-    if latest is None and points:
-        latest = points[-1]
-    if previous is None and len(points) > 1:
-        previous = points[-2]
+def build_yfinance_series(symbol: str) -> dict:
+    ticker = yf.Ticker(symbol)
+    history = ticker.history(period="5d", interval="1m", auto_adjust=False)
+    if history is None or history.empty:
+        raise RuntimeError(f"No yfinance history for {symbol}")
+
+    closes = [float(value) for value in history["Close"].dropna().tolist() if value is not None]
+    if not closes:
+        raise RuntimeError(f"No close values for {symbol}")
+
+    latest = closes[-1]
+    previous = closes[-2] if len(closes) > 1 else None
     change_pct = None
     if latest is not None and previous not in (None, 0):
         change_pct = ((latest - previous) / previous) * 100
-    market_time = meta.get("regularMarketTime")
+
+    market_time = history.index[-1]
+    if hasattr(market_time, "to_pydatetime"):
+        market_time = market_time.to_pydatetime()
     freshness = "intraday chart"
     if market_time:
-        freshness = datetime.fromtimestamp(market_time, tz=timezone.utc).astimezone(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST")
+        if not hasattr(market_time, "tzinfo") or market_time.tzinfo is None:
+            market_time = market_time.replace(tzinfo=timezone.utc)
+        freshness = market_time.astimezone(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST")
+
     return {
         "symbol": symbol,
         "latest": latest,
         "previous": previous,
         "change_pct": change_pct,
-        "points": points[-60:],
+        "points": closes[-60:],
         "freshness": freshness,
-        "meta": meta,
+        "meta": {
+            "provider": "yfinance",
+            "symbol": symbol,
+        },
     }
+
+
+def build_krx_series(index_code: str, fallback_symbol: str) -> dict:
+    try:
+        from pykrx import stock as krx_stock
+
+        today = datetime.now(SEOUL_TZ).strftime("%Y%m%d")
+        start = (datetime.now(SEOUL_TZ) - timedelta(days=90)).strftime("%Y%m%d")
+        data = krx_stock.get_index_ohlcv_by_date(start, today, index_code)
+        if data is None or getattr(data, "empty", True):
+            raise RuntimeError(f"No KRX index data for {index_code}")
+
+        close_series = data["종가"] if "종가" in data.columns else data.iloc[:, 3]
+        closes = [float(value) for value in close_series.dropna().tolist() if value is not None]
+        if not closes:
+            raise RuntimeError(f"No KRX close values for {index_code}")
+
+        latest = closes[-1]
+        previous = closes[-2] if len(closes) > 1 else None
+        change_pct = None
+        if latest is not None and previous not in (None, 0):
+            change_pct = ((latest - previous) / previous) * 100
+
+        return {
+            "symbol": fallback_symbol,
+            "latest": latest,
+            "previous": previous,
+            "change_pct": change_pct,
+            "points": closes[-60:],
+            "freshness": datetime.now(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST"),
+            "meta": {
+                "provider": "pykrx",
+                "index_code": index_code,
+            },
+        }
+    except Exception:
+        return build_yfinance_series(fallback_symbol)
 
 
 def fetch_yahoo_news() -> list[dict]:
@@ -119,7 +179,7 @@ def fetch_yahoo_news() -> list[dict]:
             importance = "mid"
         items.append(
             {
-                "title": title or "Untitled headline",
+                "title": compact_headline(title, summary),
                 "summary": summary[:180] if summary else "Yahoo Finance RSS headline",
                 "impact": impact,
                 "importance": importance,
@@ -150,27 +210,160 @@ def status_from_change(change_pct: float | None, positive_label: str, negative_l
     return neutral_label
 
 
+def action_catalog() -> list[dict]:
+    return [
+        {
+            "state": "Neutral",
+            "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
+            "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+        },
+        {
+            "state": "Risk-on",
+            "rule": "지수와 성장주 노출을 점진적으로 늘리되 추격매수는 피합니다.",
+            "detail": "금리 안정과 달러 완화가 같이 확인될 때만 위험자산 비중 확대 속도를 높입니다.",
+        },
+        {
+            "state": "Risk-off",
+            "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+            "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+        },
+        {
+            "state": "Inflation shock",
+            "rule": "장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.",
+            "detail": "유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.",
+        },
+        {
+            "state": "Growth shock",
+            "rule": "경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.",
+            "detail": "구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.",
+        },
+        {
+            "state": "Policy shock",
+            "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
+            "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+        },
+    ]
+
+
+def build_regime(results: dict) -> tuple[str, str, str, list[dict]]:
+    spx_change = results["spx"]["change_pct"] or 0
+    tnx_change = results["tnx"]["change_pct"] or 0
+    dxy_change = results["dxy"]["change_pct"] or 0
+    wti_change = results["wti"]["change_pct"] or 0
+    copper_change = results["copper"]["change_pct"] or 0
+    factors = [
+        {
+            "label": "S&P 500",
+            "value": format_pct(spx_change),
+            "signal": "risk",
+            "note": "주식 방향으로 위험선호 강도를 확인합니다.",
+        },
+        {
+            "label": "미 10년물",
+            "value": format_pct(tnx_change),
+            "signal": "rates",
+            "note": "장기금리 변화가 밸류에이션 부담을 결정합니다.",
+        },
+        {
+            "label": "DXY",
+            "value": format_pct(dxy_change),
+            "signal": "dollar",
+            "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다.",
+        },
+        {
+            "label": "WTI",
+            "value": format_pct(wti_change),
+            "signal": "inflation",
+            "note": "유가 상승은 인플레 재가열 경계로 이어집니다.",
+        },
+        {
+            "label": "Copper",
+            "value": format_pct(copper_change),
+            "signal": "growth",
+            "note": "산업금속 약세는 성장 둔화 우려를 반영합니다.",
+        },
+    ]
+
+    if abs(tnx_change) >= 0.35 and abs(spx_change) >= 0.6:
+        return (
+            "Policy shock",
+            "금리 변동성",
+            "정책 이벤트 충격으로 금리와 주식이 동시에 크게 흔들리고 있습니다.",
+            factors,
+        )
+    if wti_change >= 1.2 and tnx_change >= 0.15:
+        return (
+            "Inflation shock",
+            "유가 + 금리",
+            "유가와 금리의 동반 상승으로 인플레이션 재가열 경계가 높아졌습니다.",
+            factors,
+        )
+    if spx_change <= -0.6 and copper_change <= -0.5 and tnx_change <= 0:
+        return (
+            "Growth shock",
+            "성장 둔화",
+            "주식과 산업금속 약세가 겹치며 성장 둔화 우려가 커지고 있습니다.",
+            factors,
+        )
+    if spx_change <= -0.35 and (dxy_change >= 0.1 or tnx_change >= 0.1):
+        return (
+            "Risk-off",
+            "달러 + 금리",
+            "달러 강세와 주식 약세가 함께 보여 위험회피 흐름이 강화되고 있습니다.",
+            factors,
+        )
+    if spx_change >= 0.35 and tnx_change <= 0.05 and dxy_change <= 0.05:
+        return (
+            "Risk-on",
+            "주식 + 달러 완화",
+            "주식이 견조하고 금리와 달러 부담이 완화되며 위험선호가 회복되고 있습니다.",
+            factors,
+        )
+    return (
+        "Neutral",
+        "혼조 신호",
+        "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+        factors,
+    )
+
+
+def build_actions(current_state: str, results: dict) -> tuple[dict, list[dict]]:
+    actions = copy.deepcopy(action_catalog())
+    for action in actions:
+        action["isCurrent"] = action["state"] == current_state
+    if (results["wti"]["change_pct"] or 0) > 1:
+        for action in actions:
+            if action["state"] == "Inflation shock":
+                action["detail"] = "유가 급등이 기대 인플레이션과 장기금리 상방을 다시 자극하는지 확인합니다."
+    if (results["spx"]["change_pct"] or 0) < 0:
+        for action in actions:
+            if action["state"] == "Risk-off":
+                action["detail"] = "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다."
+    current_action = next((action for action in actions if action["state"] == current_state), actions[0])
+    return current_action, actions
+
+
 def build_market_data() -> dict:
     sample = load_sample()
     try:
         with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
             futures = {
-                "wti": pool.submit(build_yahoo_series, "CL=F"),
-                "brent": pool.submit(build_yahoo_series, "BZ=F"),
-                "gold": pool.submit(build_yahoo_series, "GC=F"),
-                "copper": pool.submit(build_yahoo_series, "HG=F"),
-                "irx": pool.submit(build_yahoo_series, "^IRX"),
-                "fvx": pool.submit(build_yahoo_series, "^FVX"),
-                "tnx": pool.submit(build_yahoo_series, "^TNX"),
-                "tyx": pool.submit(build_yahoo_series, "^TYX"),
-                "spx": pool.submit(build_yahoo_series, "^GSPC"),
-                "ixic": pool.submit(build_yahoo_series, "^IXIC"),
-                "ks11": pool.submit(build_yahoo_series, "^KS11"),
-                "stoxx": pool.submit(build_yahoo_series, "^STOXX50E"),
-                "usdjpy": pool.submit(build_yahoo_series, "USDJPY=X"),
-                "usdkrw": pool.submit(build_yahoo_series, "USDKRW=X"),
-                "usdcny": pool.submit(build_yahoo_series, "USDCNY=X"),
-                "dxy": pool.submit(build_yahoo_series, "DX-Y.NYB"),
+                "wti": pool.submit(build_yfinance_series, "CL=F"),
+                "brent": pool.submit(build_yfinance_series, "BZ=F"),
+                "gold": pool.submit(build_yfinance_series, "GC=F"),
+                "copper": pool.submit(build_yfinance_series, "HG=F"),
+                "irx": pool.submit(build_yfinance_series, "^IRX"),
+                "fvx": pool.submit(build_yfinance_series, "^FVX"),
+                "tnx": pool.submit(build_yfinance_series, "^TNX"),
+                "tyx": pool.submit(build_yfinance_series, "^TYX"),
+                "spx": pool.submit(build_yfinance_series, "^GSPC"),
+                "ixic": pool.submit(build_yfinance_series, "^IXIC"),
+                "ks11": pool.submit(build_krx_series, "1001", "^KS11"),
+                "stoxx": pool.submit(build_yfinance_series, "^STOXX50E"),
+                "usdjpy": pool.submit(build_yfinance_series, "USDJPY=X"),
+                "usdkrw": pool.submit(build_yfinance_series, "USDKRW=X"),
+                "usdcny": pool.submit(build_yfinance_series, "USDCNY=X"),
+                "dxy": pool.submit(build_yfinance_series, "DX-Y.NYB"),
             }
             results = {name: future.result() for name, future in futures.items()}
     except Exception as exc:
@@ -384,25 +577,16 @@ def build_market_data() -> dict:
         },
     ]
 
-    actions = copy.deepcopy(sample["actions"])
-    if (results["wti"]["change_pct"] or 0) > 1:
-        actions[1]["detail"] = "유가 반등이 물가 기대를 자극하는지 확인합니다."
-    if (results["spx"]["change_pct"] or 0) < 0:
-        actions[0]["detail"] = "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다."
-
-    top_line = "실시간 Yahoo intraday 데이터를 기준으로 레짐과 대응을 자동 계산했습니다."
-    if (results["spx"]["change_pct"] or 0) < 0 and (results["tnx"]["change_pct"] or 0) > 0:
-        top_line = "금리 상승과 주식 약세가 함께 보여 위험자산 압박이 커지고 있습니다."
-    elif (results["spx"]["change_pct"] or 0) > 0 and (results["tnx"]["change_pct"] or 0) <= 0:
-        top_line = "주식이 버티고 금리 부담이 완화되며 위험선호가 유지됩니다."
+    market_state, driver_label, top_line, regime_factors = build_regime(results)
+    current_action, actions = build_actions(market_state, results)
 
     return {
         "date": datetime.now(SEOUL_TZ).strftime("%Y-%m-%d"),
         "collectedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         "source": {
-            "provider": "Yahoo Finance",
+            "provider": "pykrx + yfinance",
             "mode": "live",
-            "note": "Intraday chart endpoints are used for quotes and yields.",
+            "note": "국내 지수는 pykrx, 해외 자산은 yfinance를 사용합니다.",
         },
         "freshness": {
             "fx": "intraday chart",
@@ -414,7 +598,7 @@ def build_market_data() -> dict:
         "signals": [
             {
                 "label": "시장 상태",
-                "value": "Risk-off" if (results["spx"]["change_pct"] or 0) < 0 else "Neutral",
+                "value": market_state,
                 "sub": "자산군 신호를 합쳐 레짐을 계산했습니다.",
             },
             {
@@ -424,15 +608,17 @@ def build_market_data() -> dict:
             },
             {
                 "label": "핵심 드라이버",
-                "value": "금리 + 달러",
-                "sub": "미국 금리와 달러 강세가 핵심 축입니다.",
+                "value": driver_label,
+                "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다.",
             },
         ],
         "topLine": top_line,
+        "regimeFactors": regime_factors,
         "issues": issues,
         "newsItems": news_items,
         "criteria": sample["criteria"],
         "assetGroups": asset_groups,
+        "currentAction": current_action,
         "actions": actions,
     }
 

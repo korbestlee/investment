@@ -1,0 +1,1069 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "메인 메뉴로 바로가기" [ref=e2] [cursor=pointer]:
+      - /url: "#menu"
+      - generic [ref=e3]: 메인 메뉴로 바로가기
+    - link "본문으로 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#start"
+      - generic [ref=e5]: 본문으로 바로가기
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - heading "네이버 페이 증권" [level=1] [ref=e10]:
+        - link "네이버" [ref=e11] [cursor=pointer]:
+          - /url: https://www.naver.com/
+          - img [ref=e12]
+          - generic [ref=e14]: 네이버
+        - link "페이" [ref=e15] [cursor=pointer]:
+          - /url: https://new-m.pay.naver.com/
+          - img [ref=e16]
+          - generic [ref=e18]: 페이
+        - link "증권" [ref=e19] [cursor=pointer]:
+          - /url: /
+          - img [ref=e20]
+          - generic [ref=e23]: 증권
+      - generic [ref=e24]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: 증권 종목명·지수명 검색
+          - textbox "증권 종목명·지수명 검색" [ref=e28]:
+            - /placeholder: 종목명·지수명 입력
+          - button "검색" [ref=e29]:
+            - img [ref=e30]
+            - generic [ref=e33]: 검색
+          - generic [ref=e34]: 자동완성
+        - strong [ref=e35]: 사용자 링크
+    - generic [ref=e38]:
+      - list [ref=e39]:
+        - listitem [ref=e40]:
+          - link "증권 홈 선택됨" [ref=e41] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e42]: 증권 홈
+            - generic [ref=e43]: 선택됨
+        - listitem [ref=e44]:
+          - link "국내증시" [ref=e45] [cursor=pointer]:
+            - /url: /sise/
+            - generic [ref=e46]: 국내증시
+        - listitem [ref=e47]:
+          - link "해외증시" [ref=e48] [cursor=pointer]:
+            - /url: /world/
+            - generic [ref=e49]: 해외증시
+        - listitem [ref=e50]:
+          - link "시장지표" [ref=e51] [cursor=pointer]:
+            - /url: /marketindex/
+            - generic [ref=e52]: 시장지표
+        - listitem [ref=e53]:
+          - link "리서치" [ref=e54] [cursor=pointer]:
+            - /url: /research/
+            - generic [ref=e55]: 리서치
+        - listitem [ref=e56]:
+          - link "뉴스" [ref=e57] [cursor=pointer]:
+            - /url: /news/
+            - generic [ref=e58]: 뉴스
+        - listitem [ref=e59]:
+          - link "MY" [ref=e60] [cursor=pointer]:
+            - /url: /mystock/
+            - generic [ref=e61]: MY
+      - generic [ref=e62]:
+        - link "새로운 증권 보기 NEW" [ref=e63] [cursor=pointer]:
+          - /url: https://stock.naver.com
+          - text: 새로운 증권 보기
+          - generic [ref=e66]: NEW
+        - generic [ref=e67]: 더 편리해진 증권을 만나보세요
+    - iframe
+  - generic [ref=e69]:
+    - strong [ref=e71]: 본문시작
+    - generic [ref=e72]:
+      - term [ref=e73]: 오늘의 코스피/코스닥 지수
+      - definition [ref=e74]: 2026년 06월 16일 장마감
+      - definition [ref=e75]: 코스피 지수 8,726.60 전일대비 상승 180.62 플러스 2.11 퍼센트
+      - definition [ref=e76]: 코스닥 지수 1,018.68 전일대비 하락 15.35 마이너스 1.48 퍼센트
+    - generic [ref=e78]:
+      - list [ref=e80]:
+        - listitem [ref=e81]:
+          - link "최근조회종목" [ref=e82] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e83]: 최근조회종목
+        - listitem [ref=e84]:
+          - link "MY STOCK" [ref=e85] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e86]: MY STOCK
+      - generic [ref=e87]:
+        - strong [ref=e88]: 최근 조회종목 리스트
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - paragraph [ref=e92]: 최근조회 종목이 없습니다.
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - generic [ref=e98]:
+              - heading "주요뉴스" [level=2] [ref=e99]
+              - list [ref=e100]:
+                - listitem [ref=e101]:
+                  - link "“월급으로 주식 1주 살 판” 200만원도 우습다…황제주 넘어 ‘명품주’ 속출 [투자360]" [ref=e103] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/016/0002657451
+                - listitem [ref=e104]:
+                  - link "전쟁 인플레에 EU 이어 日 금리 올려…韓도 인상 힘실려" [ref=e106] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/020/0003727232
+                - listitem [ref=e107]:
+                  - link "나만 비켜간 스페이스X 상장 빔?… ETF 편입시점 따라 희비" [ref=e109] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/014/0005535775
+                - listitem [ref=e110]:
+                  - link "“스페이스X는 42%나 올랐는데” ETF 주가는 왜 이래?…속 터지는 투자자들 [투자360]" [ref=e112] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/016/0002657437
+                - listitem [ref=e113]:
+                  - link "8년 전 헐값 인수…AI 열풍에 23조 '초대박'" [ref=e115] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/215/0001255614
+                - listitem [ref=e116]:
+                  - link "\"반도체보다 더 올랐네\"…종전 합의에 '상승률 1위' 업종은" [ref=e118] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/031/0001035509
+              - link "주요뉴스 더보기" [ref=e119] [cursor=pointer]:
+                - /url: /news/mainnews.naver
+                - emphasis [ref=e120]:
+                  - generic [ref=e121]: 주요뉴스 더보기
+            - generic [ref=e122]:
+              - heading "TOP 종목" [level=2] [ref=e123]
+              - generic [ref=e124]:
+                - list [ref=e125]:
+                  - listitem [ref=e126]:
+                    - link "KRX" [ref=e127] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e128]:
+                    - link "NXT" [ref=e129] [cursor=pointer]:
+                      - /url: "#"
+                - generic [ref=e130]:
+                  - text: 넥스트레이드(NXT)
+                  - button "도움말" [ref=e131]:
+                    - generic [ref=e133]: 도움말
+              - list [ref=e134]:
+                - listitem [ref=e135]:
+                  - link "거래상위" [ref=e136] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e138]: 거래상위
+                - listitem [ref=e139]:
+                  - link "상승" [ref=e140] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e142]: 상승
+                - listitem [ref=e143]:
+                  - link "하락" [ref=e144] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e146]: 하락
+                - listitem [ref=e147]:
+                  - link "시가총액 상위" [ref=e148] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e150]: 시가총액 상위
+              - generic [ref=e151]:
+                - table "거래상위 TOP 종목종목명에 대한 현재가, 전일대비, 등락률로 구분되어 있습니다." [ref=e152]:
+                  - caption [ref=e153]: 거래상위 TOP 종목종목명에 대한 현재가, 전일대비, 등락률로 구분되어 있습니다.
+                  - rowgroup [ref=e157]:
+                    - row "종목명 현재가 전일대비 등락률" [ref=e158]:
+                      - columnheader "종목명" [ref=e159]
+                      - columnheader "현재가" [ref=e160]
+                      - columnheader "전일대비" [ref=e161]
+                      - columnheader "등락률" [ref=e162]
+                  - rowgroup [ref=e163]:
+                    - row "KODEX 200선물인버스2X 71 하락 3 -4.05%" [ref=e164]:
+                      - rowheader "KODEX 200선물인버스2X" [ref=e165]:
+                        - link "KODEX 200선물인버스2X" [ref=e166] [cursor=pointer]:
+                          - /url: /item/main.naver?code=252670
+                      - cell "71" [ref=e167]
+                      - cell "하락 3" [ref=e168]:
+                        - emphasis [ref=e169]:
+                          - generic [ref=e170]: 하락
+                        - text: "3"
+                      - cell "-4.05%" [ref=e171]:
+                        - emphasis [ref=e172]: "-4.05%"
+                    - row "KODEX 인버스 909 하락 20 -2.15%" [ref=e173]:
+                      - rowheader "KODEX 인버스" [ref=e174]:
+                        - link "KODEX 인버스" [ref=e175] [cursor=pointer]:
+                          - /url: /item/main.naver?code=114800
+                      - cell "909" [ref=e176]
+                      - cell "하락 20" [ref=e177]:
+                        - emphasis [ref=e178]:
+                          - generic [ref=e179]: 하락
+                        - text: "20"
+                      - cell "-2.15%" [ref=e180]:
+                        - emphasis [ref=e181]: "-2.15%"
+                    - row "KODEX SK하이닉스단일종목레버리지 29,190 상승 2,380 +8.88%" [ref=e182]:
+                      - rowheader "KODEX SK하이닉스단일종목레버리지" [ref=e183]:
+                        - link "KODEX SK하이닉스단일종목레버리지" [ref=e184] [cursor=pointer]:
+                          - /url: /item/main.naver?code=0193T0
+                      - cell "29,190" [ref=e185]
+                      - cell "상승 2,380" [ref=e186]:
+                        - emphasis [ref=e187]:
+                          - generic [ref=e188]: 상승
+                        - text: 2,380
+                      - cell "+8.88%" [ref=e189]:
+                        - emphasis [ref=e190]: +8.88%
+                    - row "KODEX 삼성전자단일종목레버리지 26,660 상승 975 +3.80%" [ref=e191]:
+                      - rowheader "KODEX 삼성전자단일종목레버리지" [ref=e192]:
+                        - link "KODEX 삼성전자단일종목레버리지" [ref=e193] [cursor=pointer]:
+                          - /url: /item/main.naver?code=0193W0
+                      - cell "26,660" [ref=e194]
+                      - cell "상승 975" [ref=e195]:
+                        - emphasis [ref=e196]:
+                          - generic [ref=e197]: 상승
+                        - text: "975"
+                      - cell "+3.80%" [ref=e198]:
+                        - emphasis [ref=e199]: +3.80%
+                    - row "TIGER SK하이닉스단일종목레버리지 24,775 상승 1,825 +7.95%" [ref=e200]:
+                      - rowheader "TIGER SK하이닉스단일종목레버리지" [ref=e201]:
+                        - link "TIGER SK하이닉스단일종목레버리지" [ref=e202] [cursor=pointer]:
+                          - /url: /item/main.naver?code=0195S0
+                      - cell "24,775" [ref=e203]
+                      - cell "상승 1,825" [ref=e204]:
+                        - emphasis [ref=e205]:
+                          - generic [ref=e206]: 상승
+                        - text: 1,825
+                      - cell "+7.95%" [ref=e207]:
+                        - emphasis [ref=e208]: +7.95%
+                    - row "TIGER 200선물인버스2X 77 하락 3 -3.75%" [ref=e209]:
+                      - rowheader "TIGER 200선물인버스2X" [ref=e210]:
+                        - link "TIGER 200선물인버스2X" [ref=e211] [cursor=pointer]:
+                          - /url: /item/main.naver?code=252710
+                      - cell "77" [ref=e212]
+                      - cell "하락 3" [ref=e213]:
+                        - emphasis [ref=e214]:
+                          - generic [ref=e215]: 하락
+                        - text: "3"
+                      - cell "-3.75%" [ref=e216]:
+                        - emphasis [ref=e217]: "-3.75%"
+                    - row "TIGER 삼성전자단일종목레버리지 24,510 상승 835 +3.53%" [ref=e218]:
+                      - rowheader "TIGER 삼성전자단일종목레버리지" [ref=e219]:
+                        - link "TIGER 삼성전자단일종목레버리지" [ref=e220] [cursor=pointer]:
+                          - /url: /item/main.naver?code=0195R0
+                      - cell "24,510" [ref=e221]
+                      - cell "상승 835" [ref=e222]:
+                        - emphasis [ref=e223]:
+                          - generic [ref=e224]: 상승
+                        - text: "835"
+                      - cell "+3.53%" [ref=e225]:
+                        - emphasis [ref=e226]: +3.53%
+                    - row "SOL SK하이닉스선물단일종목인버스2X 10,900 하락 1,050 -8.79%" [ref=e227]:
+                      - rowheader "SOL SK하이닉스선물단일종목인버스2X" [ref=e228]:
+                        - link "SOL SK하이닉스선물단일종목인버스2X" [ref=e229] [cursor=pointer]:
+                          - /url: /item/main.naver?code=0197X0
+                      - cell "10,900" [ref=e230]
+                      - cell "하락 1,050" [ref=e231]:
+                        - emphasis [ref=e232]:
+                          - generic [ref=e233]: 하락
+                        - text: 1,050
+                      - cell "-8.79%" [ref=e234]:
+                        - emphasis [ref=e235]: "-8.79%"
+                    - row "대우건설 27,450 상승 4,550 +19.87%" [ref=e236]:
+                      - rowheader "대우건설" [ref=e237]:
+                        - link "대우건설" [ref=e238] [cursor=pointer]:
+                          - /url: /item/main.naver?code=047040
+                      - cell "27,450" [ref=e239]
+                      - cell "상승 4,550" [ref=e240]:
+                        - emphasis [ref=e241]:
+                          - generic [ref=e242]: 상승
+                        - text: 4,550
+                      - cell "+19.87%" [ref=e243]:
+                        - emphasis [ref=e244]: +19.87%
+                    - row "TIGER 미국S&P500 28,355 상승 135 +0.48%" [ref=e245]:
+                      - rowheader "TIGER 미국S&P500" [ref=e246]:
+                        - link "TIGER 미국S&P500" [ref=e247] [cursor=pointer]:
+                          - /url: /item/main.naver?code=360750
+                      - cell "28,355" [ref=e248]
+                      - cell "상승 135" [ref=e249]:
+                        - emphasis [ref=e250]:
+                          - generic [ref=e251]: 상승
+                        - text: "135"
+                      - cell "+0.48%" [ref=e252]:
+                        - emphasis [ref=e253]: +0.48%
+                    - row "KODEX 코스닥150레버리지 12,665 하락 755 -5.63%" [ref=e254]:
+                      - rowheader "KODEX 코스닥150레버리지" [ref=e255]:
+                        - link "KODEX 코스닥150레버리지" [ref=e256] [cursor=pointer]:
+                          - /url: /item/main.naver?code=233740
+                      - cell "12,665" [ref=e257]
+                      - cell "하락 755" [ref=e258]:
+                        - emphasis [ref=e259]:
+                          - generic [ref=e260]: 하락
+                        - text: "755"
+                      - cell "-5.63%" [ref=e261]:
+                        - emphasis [ref=e262]: "-5.63%"
+                    - row "JW신약 1,798 상승 23 +1.30%" [ref=e263]:
+                      - rowheader "JW신약" [ref=e264]:
+                        - link "JW신약" [ref=e265] [cursor=pointer]:
+                          - /url: /item/main.naver?code=067290
+                      - cell "1,798" [ref=e266]
+                      - cell "상승 23" [ref=e267]:
+                        - emphasis [ref=e268]:
+                          - generic [ref=e269]: 상승
+                        - text: "23"
+                      - cell "+1.30%" [ref=e270]:
+                        - emphasis [ref=e271]: +1.30%
+                    - row "KODEX 미국S&P500 25,840 상승 105 +0.41%" [ref=e272]:
+                      - rowheader "KODEX 미국S&P500" [ref=e273]:
+                        - link "KODEX 미국S&P500" [ref=e274] [cursor=pointer]:
+                          - /url: /item/main.naver?code=379800
+                      - cell "25,840" [ref=e275]
+                      - cell "상승 105" [ref=e276]:
+                        - emphasis [ref=e277]:
+                          - generic [ref=e278]: 상승
+                        - text: "105"
+                      - cell "+0.41%" [ref=e279]:
+                        - emphasis [ref=e280]: +0.41%
+                    - row "티웨이홀딩스 340 하락 22 -6.08%" [ref=e281]:
+                      - rowheader "티웨이홀딩스" [ref=e282]:
+                        - link "티웨이홀딩스" [ref=e283] [cursor=pointer]:
+                          - /url: /item/main.naver?code=004870
+                      - cell "340" [ref=e284]
+                      - cell "하락 22" [ref=e285]:
+                        - emphasis [ref=e286]:
+                          - generic [ref=e287]: 하락
+                        - text: "22"
+                      - cell "-6.08%" [ref=e288]:
+                        - emphasis [ref=e289]: "-6.08%"
+                    - row "삼성 인버스 2X WTI원유 선물 ETN 20 하락 1 -4.76%" [ref=e290]:
+                      - rowheader "삼성 인버스 2X WTI원유 선물 ETN" [ref=e291]:
+                        - link "삼성 인버스 2X WTI원유 선물 ETN" [ref=e292] [cursor=pointer]:
+                          - /url: /item/main.naver?code=530036
+                      - cell "20" [ref=e293]
+                      - cell "하락 1" [ref=e294]:
+                        - emphasis [ref=e295]:
+                          - generic [ref=e296]: 하락
+                        - text: "1"
+                      - cell "-4.76%" [ref=e297]:
+                        - emphasis [ref=e298]: "-4.76%"
+                - link "거래상위 더보기" [ref=e299] [cursor=pointer]:
+                  - /url: /sise/sise_quant.naver
+                  - emphasis [ref=e300]:
+                    - generic [ref=e301]: 거래상위 더보기
+          - generic [ref=e302]:
+            - generic [ref=e303]:
+              - generic [ref=e304]:
+                - heading "오늘의 증시" [level=2] [ref=e305]
+                - generic [ref=e308]: 2026.06.16장마감
+              - generic [ref=e309]:
+                - generic [ref=e310]:
+                  - generic [ref=e311] [cursor=pointer]:
+                    - heading "코스피" [level=4] [ref=e312]:
+                      - link "코스피" [ref=e313]:
+                        - /url: /sise/sise_index.naver?code=KOSPI
+                        - emphasis [ref=e314]:
+                          - generic [ref=e315]: 코스피
+                    - link "8,726.60 180.62 + 2.11% 상승":
+                      - /url: /sise/sise_index.naver?code=KOSPI
+                      - generic [ref=e316]:
+                        - text: 8,726.60 180.62
+                        - generic [ref=e317]:
+                          - generic [ref=e318]: +
+                          - text: 2.11%
+                        - generic [ref=e319]: 상승
+                  - generic [ref=e321]:
+                    - paragraph [ref=e322]: 코스피 시세 차트
+                    - link "코스피지수 상세보기" [ref=e323] [cursor=pointer]:
+                      - /url: /sise/sise_index.naver?code=KOSPI
+                      - img "코스피지수 상세보기" [ref=e324]
+                  - generic [ref=e325]:
+                    - generic [ref=e326]:
+                      - term [ref=e327]:
+                        - link "개인" [ref=e328] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                      - definition [ref=e329]:
+                        - link "-21,841" [ref=e330] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                        - generic [ref=e331]: 억원
+                      - term [ref=e332]:
+                        - link "외국인" [ref=e333] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                      - definition [ref=e334]:
+                        - link "+15,353" [ref=e335] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                        - generic [ref=e336]: 억원
+                      - term [ref=e337]:
+                        - link "기관" [ref=e338] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                      - definition [ref=e339]:
+                        - link "+7,076" [ref=e340] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=01
+                        - generic [ref=e341]: 억원
+                    - generic [ref=e342]:
+                      - term [ref=e343]: 상한종목수
+                      - definition [ref=e344]:
+                        - link "5" [ref=e345] [cursor=pointer]:
+                          - /url: /sise/sise_upper.naver
+                      - term [ref=e346]: 상승종목수
+                      - definition [ref=e347]:
+                        - link "519" [ref=e348] [cursor=pointer]:
+                          - /url: /sise/sise_rise.naver?sosok=0
+                      - term [ref=e349]: 보합종목수
+                      - definition [ref=e350]:
+                        - link "38" [ref=e351] [cursor=pointer]:
+                          - /url: /sise/sise_steady.naver?sosok=0
+                      - term [ref=e352]: 하락종목수
+                      - definition [ref=e353]:
+                        - link "360" [ref=e354] [cursor=pointer]:
+                          - /url: /sise/sise_fall.naver?sosok=0
+                      - term [ref=e355]: 하한종목수
+                      - definition [ref=e356]:
+                        - link "0" [ref=e357] [cursor=pointer]:
+                          - /url: /sise/sise_lower.naver
+                - generic [ref=e358]:
+                  - generic [ref=e359] [cursor=pointer]:
+                    - heading "코스닥" [level=4] [ref=e360]:
+                      - link "코스닥" [ref=e361]:
+                        - /url: /sise/sise_index.naver?code=KOSDAQ
+                        - emphasis [ref=e362]:
+                          - generic [ref=e363]: 코스닥
+                    - link "1,018.68 15.35 - 1.48% 하락":
+                      - /url: /sise/sise_index.naver?code=KOSDAQ
+                      - generic [ref=e364]:
+                        - text: 1,018.68 15.35
+                        - generic [ref=e365]:
+                          - generic [ref=e366]: "-"
+                          - text: 1.48%
+                        - generic [ref=e367]: 하락
+                  - generic [ref=e369]:
+                    - paragraph [ref=e370]: 코스닥 시세 차트
+                    - link "코스닥지수 상세보기" [ref=e371] [cursor=pointer]:
+                      - /url: /sise/sise_index.naver?code=KOSDAQ
+                      - img "코스닥지수 상세보기" [ref=e372]
+                  - generic [ref=e373]:
+                    - generic [ref=e374]:
+                      - term [ref=e375]:
+                        - link "개인" [ref=e376] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                      - definition [ref=e377]:
+                        - link "+7,907" [ref=e378] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                        - generic [ref=e379]: 억원
+                      - term [ref=e380]:
+                        - link "외국인" [ref=e381] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                      - definition [ref=e382]:
+                        - link "-3,095" [ref=e383] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                        - generic [ref=e384]: 억원
+                      - term [ref=e385]:
+                        - link "기관" [ref=e386] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                      - definition [ref=e387]:
+                        - link "-4,630" [ref=e388] [cursor=pointer]:
+                          - /url: /sise/sise_trans_style.naver?sosok=02
+                        - generic [ref=e389]: 억원
+                    - generic [ref=e390]:
+                      - term [ref=e391]: 상한종목수
+                      - definition [ref=e392]:
+                        - link "6" [ref=e393] [cursor=pointer]:
+                          - /url: /sise/sise_upper.naver
+                      - term [ref=e394]: 상승종목수
+                      - definition [ref=e395]:
+                        - link "764" [ref=e396] [cursor=pointer]:
+                          - /url: /sise/sise_rise.naver?sosok=1
+                      - term [ref=e397]: 보합종목수
+                      - definition [ref=e398]:
+                        - link "76" [ref=e399] [cursor=pointer]:
+                          - /url: /sise/sise_steady.naver?sosok=1
+                      - term [ref=e400]: 하락종목수
+                      - definition [ref=e401]:
+                        - link "896" [ref=e402] [cursor=pointer]:
+                          - /url: /sise/sise_fall.naver?sosok=1
+                      - term [ref=e403]: 하한종목수
+                      - definition [ref=e404]:
+                        - link "1" [ref=e405] [cursor=pointer]:
+                          - /url: /sise/sise_lower.naver
+                - generic [ref=e406]:
+                  - generic [ref=e407] [cursor=pointer]:
+                    - heading "코스피200" [level=4] [ref=e408]:
+                      - link "코스피200" [ref=e409]:
+                        - /url: /sise/sise_index.naver?code=KPI200
+                        - emphasis [ref=e410]:
+                          - generic [ref=e411]: 코스피200
+                    - link "1,391.74 31.48 + 2.31% 상승":
+                      - /url: /sise/sise_index.naver?code=KPI200
+                      - generic [ref=e412]:
+                        - text: 1,391.74 31.48
+                        - generic [ref=e413]:
+                          - generic [ref=e414]: +
+                          - text: 2.31%
+                        - generic [ref=e415]: 상승
+                  - generic [ref=e417]:
+                    - paragraph [ref=e418]: 코스피200 시세 차트
+                    - link "코스피200지수 상세보기" [ref=e419] [cursor=pointer]:
+                      - /url: /sise/sise_index.naver?code=KPI200
+                      - img "코스피200지수 상세보기" [ref=e420]
+                  - generic [ref=e422]:
+                    - term [ref=e423]: 개인
+                    - definition [ref=e424]:
+                      - text: "-20,643"
+                      - generic [ref=e425]: 억원
+                    - term [ref=e426]: 외국인
+                    - definition [ref=e427]:
+                      - text: +13,897
+                      - generic [ref=e428]: 억원
+                    - term [ref=e429]: 기관
+                    - definition [ref=e430]:
+                      - text: +7,210
+                      - generic [ref=e431]: 억원
+                  - generic [ref=e432]:
+                    - generic:
+                      - term:
+                        - link "프로그램" [ref=e433] [cursor=pointer]:
+                          - /url: /sise/sise_program.naver?sosok=01
+                          - generic [ref=e434]: 프로그램
+                      - definition [ref=e435]:
+                        - link "+4,642억" [ref=e436] [cursor=pointer]:
+                          - /url: /sise/sise_program.naver?sosok=01
+                      - term [ref=e437]: 콘탱고
+                      - definition [ref=e438]:
+                        - generic [ref=e439]:
+                          - text: "+11.36"
+                          - img "콘탱고" [ref=e440]
+            - generic [ref=e441]:
+              - heading "업종상위" [level=2] [ref=e442]
+              - list [ref=e443]:
+                - listitem [ref=e444]:
+                  - generic [ref=e446]: "1"
+                  - paragraph [ref=e447]:
+                    - link "에너지장비및서.." [ref=e448] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=upjong&no=295
+                      - strong [ref=e449]: 에너지장비및서..
+                    - emphasis [ref=e450]: +8.98%
+                  - paragraph [ref=e451]:
+                    - link "씨에스윈드" [ref=e452] [cursor=pointer]:
+                      - /url: /item/main.naver?code=112610
+                    - emphasis [ref=e453]: +29.83%
+                  - paragraph [ref=e454]:
+                    - link "SK오션플랜트" [ref=e455] [cursor=pointer]:
+                      - /url: /item/main.naver?code=100090
+                    - emphasis [ref=e456]: +26.92%
+                - listitem [ref=e457]:
+                  - generic [ref=e459]: "2"
+                  - paragraph [ref=e460]:
+                    - link "우주항공과국방" [ref=e461] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=upjong&no=284
+                      - strong [ref=e462]: 우주항공과국방
+                    - emphasis [ref=e463]: +8.77%
+                  - paragraph [ref=e464]:
+                    - link "LIG디펜스앤.." [ref=e465] [cursor=pointer]:
+                      - /url: /item/main.naver?code=079550
+                    - emphasis [ref=e466]: +18.58%
+                  - paragraph [ref=e467]:
+                    - link "RF시스템즈" [ref=e468] [cursor=pointer]:
+                      - /url: /item/main.naver?code=474610
+                    - emphasis [ref=e469]: +15.59%
+                - listitem [ref=e470]:
+                  - generic [ref=e472]: "3"
+                  - paragraph [ref=e473]:
+                    - link "건설" [ref=e474] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=upjong&no=279
+                      - strong [ref=e475]: 건설
+                    - emphasis [ref=e476]: +7.34%
+                  - paragraph [ref=e477]:
+                    - link "일성건설" [ref=e478] [cursor=pointer]:
+                      - /url: /item/main.naver?code=013360
+                    - emphasis [ref=e479]: +30.00%
+                  - paragraph [ref=e480]:
+                    - link "대우건설" [ref=e481] [cursor=pointer]:
+                      - /url: /item/main.naver?code=047040
+                    - emphasis [ref=e482]: +19.87%
+              - link "업종상위 더보기" [ref=e483] [cursor=pointer]:
+                - /url: /sise/sise_group.naver?type=upjong
+                - emphasis [ref=e484]:
+                  - generic [ref=e485]: 업종상위 더보기
+            - generic [ref=e486]:
+              - heading "테마상위" [level=2] [ref=e487]
+              - list [ref=e488]:
+                - listitem [ref=e489]:
+                  - generic [ref=e491]: "1"
+                  - paragraph [ref=e492]:
+                    - link "건설 대표주" [ref=e493] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=theme&no=154
+                      - strong [ref=e494]: 건설 대표주
+                    - emphasis [ref=e495]: +7.06%
+                  - paragraph [ref=e496]:
+                    - link "대우건설" [ref=e497] [cursor=pointer]:
+                      - /url: /item/main.naver?code=047040
+                    - emphasis [ref=e498]: +19.87%
+                  - paragraph [ref=e499]:
+                    - link "DL이앤씨" [ref=e500] [cursor=pointer]:
+                      - /url: /item/main.naver?code=375500
+                    - emphasis [ref=e501]: +13.16%
+                - listitem [ref=e502]:
+                  - generic [ref=e504]: "2"
+                  - paragraph [ref=e505]:
+                    - link "풍력에너지" [ref=e506] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=theme&no=188
+                      - strong [ref=e507]: 풍력에너지
+                    - emphasis [ref=e508]: +6.30%
+                  - paragraph [ref=e509]:
+                    - link "씨에스윈드" [ref=e510] [cursor=pointer]:
+                      - /url: /item/main.naver?code=112610
+                    - emphasis [ref=e511]: +29.83%
+                  - paragraph [ref=e512]:
+                    - link "씨에스베어.." [ref=e513] [cursor=pointer]:
+                      - /url: /item/main.naver?code=297090
+                    - emphasis [ref=e514]: +29.79%
+                - listitem [ref=e515]:
+                  - generic [ref=e517]: "3"
+                  - paragraph [ref=e518]:
+                    - link "생명보험" [ref=e519] [cursor=pointer]:
+                      - /url: /sise/sise_group_detail.naver?type=theme&no=283
+                      - strong [ref=e520]: 생명보험
+                    - emphasis [ref=e521]: +4.72%
+                  - paragraph [ref=e522]:
+                    - link "미래에셋생.." [ref=e523] [cursor=pointer]:
+                      - /url: /item/main.naver?code=085620
+                    - emphasis [ref=e524]: +12.57%
+                  - paragraph [ref=e525]:
+                    - link "한화생명" [ref=e526] [cursor=pointer]:
+                      - /url: /item/main.naver?code=088350
+                    - emphasis [ref=e527]: +5.71%
+              - link "테마상위 더보기" [ref=e528] [cursor=pointer]:
+                - /url: /sise/theme.naver
+                - emphasis [ref=e529]:
+                  - generic [ref=e530]: 테마상위 더보기
+        - generic [ref=e531]:
+          - generic:
+            - generic [ref=e532]:
+              - heading "환전 고시 환율" [level=2] [ref=e533]
+              - table "환전 고시 환율통화명에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e534]:
+                - caption [ref=e535]: 환전 고시 환율통화명에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e540]:
+                  - row "구분 현재가 전일대비" [ref=e541]:
+                    - columnheader "구분" [ref=e542]
+                    - columnheader "현재가" [ref=e543]
+                    - columnheader "전일대비" [ref=e544]
+                - rowgroup [ref=e545]:
+                  - row "미국USD 1,507.90 하락 7.60" [ref=e546]:
+                    - rowheader "미국USD" [ref=e547]:
+                      - link "미국USD" [ref=e548] [cursor=pointer]:
+                        - /url: /marketindex/exchangeDetail.naver?marketindexCd=FX_USDKRW
+                    - cell "1,507.90" [ref=e549]
+                    - cell "하락 7.60" [ref=e550]:
+                      - emphasis [ref=e551]:
+                        - generic [ref=e552]: 하락
+                      - text: "7.60"
+                  - row "일본JPY (100엔) 940.47 하락 4.71" [ref=e553]:
+                    - rowheader "일본JPY (100엔)" [ref=e554]:
+                      - link "일본JPY (100엔)" [ref=e555] [cursor=pointer]:
+                        - /url: /marketindex/exchangeDetail.naver?marketindexCd=FX_JPYKRW
+                    - cell "940.47" [ref=e556]
+                    - cell "하락 4.71" [ref=e557]:
+                      - emphasis [ref=e558]:
+                        - generic [ref=e559]: 하락
+                      - text: "4.71"
+                  - row "유럽연합EUR 1,749.31 하락 6.85" [ref=e560]:
+                    - rowheader "유럽연합EUR" [ref=e561]:
+                      - link "유럽연합EUR" [ref=e562] [cursor=pointer]:
+                        - /url: /marketindex/exchangeDetail.naver?marketindexCd=FX_EURKRW
+                    - cell "1,749.31" [ref=e563]
+                    - cell "하락 6.85" [ref=e564]:
+                      - emphasis [ref=e565]:
+                        - generic [ref=e566]: 하락
+                      - text: "6.85"
+                  - row "중국CNY 223.15 하락 1.07" [ref=e567]:
+                    - rowheader "중국CNY" [ref=e568]:
+                      - link "중국CNY" [ref=e569] [cursor=pointer]:
+                        - /url: /marketindex/exchangeDetail.naver?marketindexCd=FX_CNYKRW
+                    - cell "223.15" [ref=e570]
+                    - cell "하락 1.07" [ref=e571]:
+                      - emphasis [ref=e572]:
+                        - generic [ref=e573]: 하락
+                      - text: "1.07"
+              - paragraph [ref=e574]:
+                - emphasis [ref=e575]: 2026.06.16 21:45
+                - text: 하나은행 기준
+              - link "환전 고시 환율 더보기" [ref=e576] [cursor=pointer]:
+                - /url: /marketindex/?tabSel=exchange#tab_section
+                - emphasis [ref=e577]:
+                  - generic [ref=e578]: 환전 고시 환율 더보기
+            - generic [ref=e579]:
+              - heading "국제 시장 환율" [level=2] [ref=e580]
+              - table "국제 시장 환율통화명에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e581]:
+                - caption [ref=e582]: 국제 시장 환율통화명에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e587]:
+                  - row "구분 현재가 전일대비" [ref=e588]:
+                    - columnheader "구분" [ref=e589]
+                    - columnheader "현재가" [ref=e590]
+                    - columnheader "전일대비" [ref=e591]
+                - rowgroup [ref=e592]:
+                  - row "달러/일본 엔(06.15) 160.1300 하락 0.10" [ref=e593]:
+                    - rowheader "달러/일본 엔(06.15)" [ref=e594]:
+                      - link "달러/일본 엔(06.15)" [ref=e595] [cursor=pointer]:
+                        - /url: /marketindex/worldExchangeDetail.naver?marketindexCd=FX_USDJPY
+                    - cell "160.1300" [ref=e596]
+                    - cell "하락 0.10" [ref=e597]:
+                      - emphasis [ref=e598]:
+                        - generic [ref=e599]: 하락
+                      - text: "0.10"
+                  - row "유로/달러(06.15) 1.1607 상승 0.00" [ref=e600]:
+                    - rowheader "유로/달러(06.15)" [ref=e601]:
+                      - link "유로/달러(06.15)" [ref=e602] [cursor=pointer]:
+                        - /url: /marketindex/worldExchangeDetail.naver?marketindexCd=FX_EURUSD
+                    - cell "1.1607" [ref=e603]
+                    - cell "상승 0.00" [ref=e604]:
+                      - emphasis [ref=e605]:
+                        - generic [ref=e606]: 상승
+                      - text: "0.00"
+                  - row "파운드/달러(06.15) 1.3439 상승 0.00" [ref=e607]:
+                    - rowheader "파운드/달러(06.15)" [ref=e608]:
+                      - link "파운드/달러(06.15)" [ref=e609] [cursor=pointer]:
+                        - /url: /marketindex/worldExchangeDetail.naver?marketindexCd=FX_GBPUSD
+                    - cell "1.3439" [ref=e610]
+                    - cell "상승 0.00" [ref=e611]:
+                      - emphasis [ref=e612]:
+                        - generic [ref=e613]: 상승
+                      - text: "0.00"
+                  - row "달러인덱스(06.15) 99.3700 하락 0.11" [ref=e614]:
+                    - rowheader "달러인덱스(06.15)" [ref=e615]:
+                      - link "달러인덱스(06.15)" [ref=e616] [cursor=pointer]:
+                        - /url: /marketindex/worldExchangeDetail.naver?marketindexCd=FX_USDX
+                    - cell "99.3700" [ref=e617]
+                    - cell "하락 0.11" [ref=e618]:
+                      - emphasis [ref=e619]:
+                        - generic [ref=e620]: 하락
+                      - text: "0.11"
+              - link "국제 시장 환율 더보기" [ref=e621] [cursor=pointer]:
+                - /url: /marketindex/?tabSel=worldExchange#tab_section
+                - emphasis [ref=e622]:
+                  - generic [ref=e623]: 국제 시장 환율 더보기
+            - generic [ref=e624]:
+              - heading "금리" [level=2] [ref=e625]
+              - table "금리종류에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e626]:
+                - caption [ref=e627]: 금리종류에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e632]:
+                  - row "구분 현재가 전일대비" [ref=e633]:
+                    - columnheader "구분" [ref=e634]
+                    - columnheader "현재가" [ref=e635]
+                    - columnheader "전일대비" [ref=e636]
+                - rowgroup [ref=e637]:
+                  - row "CD(91일)(06.16) 2.92 보합" [ref=e638]:
+                    - rowheader "CD(91일)(06.16)" [ref=e639]:
+                      - link "CD(91일)(06.16)" [ref=e640] [cursor=pointer]:
+                        - /url: /marketindex/interestDetail.naver?marketindexCd=IRR_CD91
+                    - cell "2.92" [ref=e641]
+                    - cell "보합" [ref=e642]:
+                      - emphasis [ref=e643]:
+                        - generic [ref=e644]: 보합
+                  - row "콜금리(06.15) 2.54 상승 0.01" [ref=e645]:
+                    - rowheader "콜금리(06.15)" [ref=e646]:
+                      - link "콜금리(06.15)" [ref=e647] [cursor=pointer]:
+                        - /url: /marketindex/interestDetail.naver?marketindexCd=IRR_CALL
+                    - cell "2.54" [ref=e648]
+                    - cell "상승 0.01" [ref=e649]:
+                      - emphasis [ref=e650]:
+                        - generic [ref=e651]: 상승
+                      - text: "0.01"
+                  - row "국고채(3년)(06.16) 3.71 하락 0.03" [ref=e652]:
+                    - rowheader "국고채(3년)(06.16)" [ref=e653]:
+                      - link "국고채(3년)(06.16)" [ref=e654] [cursor=pointer]:
+                        - /url: /marketindex/interestDetail.naver?marketindexCd=IRR_GOVT03Y
+                    - cell "3.71" [ref=e655]
+                    - cell "하락 0.03" [ref=e656]:
+                      - emphasis [ref=e657]:
+                        - generic [ref=e658]: 하락
+                      - text: "0.03"
+                  - row "회사채(3년)(06.16) 4.34 하락 0.03" [ref=e659]:
+                    - rowheader "회사채(3년)(06.16)" [ref=e660]:
+                      - link "회사채(3년)(06.16)" [ref=e661] [cursor=pointer]:
+                        - /url: /marketindex/interestDetail.naver?marketindexCd=IRR_CORP03Y
+                    - cell "4.34" [ref=e662]
+                    - cell "하락 0.03" [ref=e663]:
+                      - emphasis [ref=e664]:
+                        - generic [ref=e665]: 하락
+                      - text: "0.03"
+              - link "금리 더보기" [ref=e666] [cursor=pointer]:
+                - /url: /marketindex/interestMain.naver
+                - emphasis [ref=e667]:
+                  - generic [ref=e668]: 금리 더보기
+          - generic:
+            - generic [ref=e669]:
+              - heading "유가" [level=2] [ref=e670]
+              - table "유가종류에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e671]:
+                - caption [ref=e672]: 유가종류에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e677]:
+                  - row "구분 현재가 전일대비" [ref=e678]:
+                    - columnheader "구분" [ref=e679]
+                    - columnheader "현재가" [ref=e680]
+                    - columnheader "전일대비" [ref=e681]
+                - rowgroup [ref=e682]:
+                  - row "두바이유(06.15) 84.23 하락 2.70" [ref=e683]:
+                    - rowheader "두바이유(06.15)" [ref=e684]:
+                      - link "두바이유(06.15)" [ref=e685] [cursor=pointer]:
+                        - /url: /marketindex/worldOilDetail.naver?fdtc=2&marketindexCd=OIL_DU
+                    - cell "84.23" [ref=e686]
+                    - cell "하락 2.70" [ref=e687]:
+                      - emphasis [ref=e688]:
+                        - generic [ref=e689]: 하락
+                      - text: "2.70"
+                  - row "WTI(06.15) 80.75 하락 4.13" [ref=e690]:
+                    - rowheader "WTI(06.15)" [ref=e691]:
+                      - link "WTI(06.15)" [ref=e692] [cursor=pointer]:
+                        - /url: /marketindex/worldOilDetail.naver?fdtc=2&marketindexCd=OIL_CL
+                    - cell "80.75" [ref=e693]
+                    - cell "하락 4.13" [ref=e694]:
+                      - emphasis [ref=e695]:
+                        - generic [ref=e696]: 하락
+                      - text: "4.13"
+                  - row "휘발유(06.16) 2,009.21 하락 0.22" [ref=e697]:
+                    - rowheader "휘발유(06.16)" [ref=e698]:
+                      - link "휘발유(06.16)" [ref=e699] [cursor=pointer]:
+                        - /url: /marketindex/oilDetail.naver?marketindexCd=OIL_GSL
+                    - cell "2,009.21" [ref=e700]
+                    - cell "하락 0.22" [ref=e701]:
+                      - emphasis [ref=e702]:
+                        - generic [ref=e703]: 하락
+                      - text: "0.22"
+                  - row "고급휘발유(06.16) 2,440.91 하락 0.43" [ref=e704]:
+                    - rowheader "고급휘발유(06.16)" [ref=e705]:
+                      - link "고급휘발유(06.16)" [ref=e706] [cursor=pointer]:
+                        - /url: /marketindex/oilDetail.naver?marketindexCd=OIL_HGSL
+                    - cell "2,440.91" [ref=e707]
+                    - cell "하락 0.43" [ref=e708]:
+                      - emphasis [ref=e709]:
+                        - generic [ref=e710]: 하락
+                      - text: "0.43"
+              - paragraph [ref=e711]: 단위|국제:달러/배럴, 국내:원/리터
+              - link "유가 더보기" [ref=e712] [cursor=pointer]:
+                - /url: /marketindex/oilMain.naver
+                - emphasis [ref=e713]:
+                  - generic [ref=e714]: 유가 더보기
+            - generic [ref=e715]:
+              - heading "금 시세" [level=2] [ref=e716]
+              - table "금 시세종류에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e717]:
+                - caption [ref=e718]: 금 시세종류에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e723]:
+                  - row "구분 현재가 전일대비" [ref=e724]:
+                    - columnheader "구분" [ref=e725]
+                    - columnheader "현재가" [ref=e726]
+                    - columnheader "전일대비" [ref=e727]
+                - rowgroup [ref=e728]:
+                  - row "국제금(06.15) 4,351.60 상승 112.80" [ref=e729]:
+                    - rowheader "국제금(06.15)" [ref=e730]:
+                      - link "국제금(06.15)" [ref=e731] [cursor=pointer]:
+                        - /url: /marketindex/worldGoldDetail.naver?marketindexCd=CMDT_GC&fdtc=2
+                    - cell "4,351.60" [ref=e732]
+                    - cell "상승 112.80" [ref=e733]:
+                      - emphasis [ref=e734]:
+                        - generic [ref=e735]: 상승
+                      - text: "112.80"
+                  - row "국내금(06.16) 210,744.10 하락 524.59" [ref=e736]:
+                    - rowheader "국내금(06.16)" [ref=e737]:
+                      - link "국내금(06.16)" [ref=e738] [cursor=pointer]:
+                        - /url: /marketindex/goldDetail.naver
+                    - cell "210,744.10" [ref=e739]
+                    - cell "하락 524.59" [ref=e740]:
+                      - emphasis [ref=e741]:
+                        - generic [ref=e742]: 하락
+                      - text: "524.59"
+              - paragraph [ref=e743]: 단위|국제:달러/트로이온스, 국내:원/g
+              - link "금 시세 더보기" [ref=e744] [cursor=pointer]:
+                - /url: /marketindex/goldMain.naver
+                - emphasis [ref=e745]:
+                  - generic [ref=e746]: 금 시세 더보기
+            - generic [ref=e747]:
+              - heading "원자재" [level=2] [ref=e748]
+              - table "원자재종류에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e749]:
+                - caption [ref=e750]: 원자재종류에 대한 현재가,전일대비로 구분되어 있습니다.
+                - rowgroup [ref=e755]:
+                  - row "구분 현재가 전일대비" [ref=e756]:
+                    - columnheader "구분" [ref=e757]
+                    - columnheader "현재가" [ref=e758]
+                    - columnheader "전일대비" [ref=e759]
+                - rowgroup [ref=e760]:
+                  - row "구리(06.15) 13,714.00 상승 111.00" [ref=e761]:
+                    - rowheader "구리(06.15)" [ref=e762]:
+                      - link "구리(06.15)" [ref=e763] [cursor=pointer]:
+                        - /url: /marketindex/materialDetail.naver?marketindexCd=CMDT_CDY
+                    - cell "13,714.00" [ref=e764]
+                    - cell "상승 111.00" [ref=e765]:
+                      - emphasis [ref=e766]:
+                        - generic [ref=e767]: 상승
+                      - text: "111.00"
+                  - row "납(06.15) 1,964.00 상승 7.00" [ref=e768]:
+                    - rowheader "납(06.15)" [ref=e769]:
+                      - link "납(06.15)" [ref=e770] [cursor=pointer]:
+                        - /url: /marketindex/materialDetail.naver?marketindexCd=CMDT_PDY
+                    - cell "1,964.00" [ref=e771]
+                    - cell "상승 7.00" [ref=e772]:
+                      - emphasis [ref=e773]:
+                        - generic [ref=e774]: 상승
+                      - text: "7.00"
+                  - row "천연가스(06.15) 3.15 상승 0.03" [ref=e775]:
+                    - rowheader "천연가스(06.15)" [ref=e776]:
+                      - link "천연가스(06.15)" [ref=e777] [cursor=pointer]:
+                        - /url: /marketindex/materialDetail.naver?marketindexCd=CMDT_NG
+                    - cell "3.15" [ref=e778]
+                    - cell "상승 0.03" [ref=e779]:
+                      - emphasis [ref=e780]:
+                        - generic [ref=e781]: 상승
+                      - text: "0.03"
+                  - row "옥수수(06.15) 415.50 상승 2.75" [ref=e782]:
+                    - rowheader "옥수수(06.15)" [ref=e783]:
+                      - link "옥수수(06.15)" [ref=e784] [cursor=pointer]:
+                        - /url: /marketindex/materialDetail.naver?marketindexCd=CMDT_C
+                    - cell "415.50" [ref=e785]
+                    - cell "상승 2.75" [ref=e786]:
+                      - emphasis [ref=e787]:
+                        - generic [ref=e788]: 상승
+                      - text: "2.75"
+              - paragraph [ref=e789]:
+                - text: 단위|구리·납:달러/톤
+                - text: "천연가스: 달러/MMBtu, 옥수수: 센트/부셸"
+              - link "원자재 더보기" [ref=e790] [cursor=pointer]:
+                - /url: /marketindex/materialMain.naver
+                - emphasis [ref=e791]:
+                  - generic [ref=e792]: 원자재 더보기
+      - generic [ref=e794]:
+        - generic [ref=e795]:
+          - heading "해외 증시" [level=3] [ref=e796]
+          - table "해외 증시종류에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e797]:
+            - caption [ref=e798]: 해외 증시종류에 대한 현재가,전일대비로 구분되어 있습니다.
+            - rowgroup [ref=e803]:
+              - row "구분 현재가 전일대비" [ref=e804]:
+                - columnheader "구분" [ref=e805]
+                - columnheader "현재가" [ref=e806]
+                - columnheader "전일대비" [ref=e807]
+            - rowgroup [ref=e808]:
+              - row "다우산업(06.15) 51,671.03 상승 468.77" [ref=e809]:
+                - rowheader "다우산업(06.15)" [ref=e810]:
+                  - link "다우산업(06.15)" [ref=e811] [cursor=pointer]:
+                    - /url: /world/sise.naver?symbol=DJI@DJI&fdtc=0
+                - cell "51,671.03" [ref=e812]
+                - cell "상승 468.77" [ref=e813]:
+                  - emphasis [ref=e814]:
+                    - generic [ref=e815]: 상승
+                  - text: "468.77"
+              - row "나스닥(06.15) 26,683.94 상승 795.10" [ref=e816]:
+                - rowheader "나스닥(06.15)" [ref=e817]:
+                  - link "나스닥(06.15)" [ref=e818] [cursor=pointer]:
+                    - /url: /world/sise.naver?symbol=NAS@IXIC&fdtc=0
+                - cell "26,683.94" [ref=e819]
+                - cell "상승 795.10" [ref=e820]:
+                  - emphasis [ref=e821]:
+                    - generic [ref=e822]: 상승
+                  - text: "795.10"
+              - row "홍콩H(06.16) 8,240.05 하락 135.69" [ref=e823]:
+                - rowheader "홍콩H(06.16)" [ref=e824]:
+                  - link "홍콩H(06.16)" [ref=e825] [cursor=pointer]:
+                    - /url: /world/sise.naver?symbol=HSI@HSCE&fdtc=0
+                - cell "8,240.05" [ref=e826]
+                - cell "하락 135.69" [ref=e827]:
+                  - emphasis [ref=e828]:
+                    - generic [ref=e829]: 하락
+                  - text: "135.69"
+              - row "상해종합(06.16) 4,091.89 하락 4.58" [ref=e830]:
+                - rowheader "상해종합(06.16)" [ref=e831]:
+                  - link "상해종합(06.16)" [ref=e832] [cursor=pointer]:
+                    - /url: /world/sise.naver?symbol=SHS@000001&fdtc=0
+                - cell "4,091.89" [ref=e833]
+                - cell "하락 4.58" [ref=e834]:
+                  - emphasis [ref=e835]:
+                    - generic [ref=e836]: 하락
+                  - text: "4.58"
+              - row "니케이225(06.16) 69,404.50 상승 87.00" [ref=e837]:
+                - rowheader "니케이225(06.16)" [ref=e838]:
+                  - link "니케이225(06.16)" [ref=e839] [cursor=pointer]:
+                    - /url: /world/sise.naver?symbol=NII@NI225&fdtc=0
+                - cell "69,404.50" [ref=e840]
+                - cell "상승 87.00" [ref=e841]:
+                  - emphasis [ref=e842]:
+                    - generic [ref=e843]: 상승
+                  - text: "87.00"
+          - link "해외 증시 더보기" [ref=e844] [cursor=pointer]:
+            - /url: /world/
+            - emphasis [ref=e845]:
+              - generic [ref=e846]: 해외 증시 더보기
+        - heading "광고" [level=2] [ref=e847]
+        - generic [ref=e848]:
+          - heading "인기 검색 종목" [level=3] [ref=e849]
+          - table "인기 검색 종목표종목명에 대한 현재가,전일대비로 구분되어 있습니다." [ref=e850]:
+            - caption [ref=e851]: 인기 검색 종목표종목명에 대한 현재가,전일대비로 구분되어 있습니다.
+            - rowgroup [ref=e856]:
+              - row "구분 현재가 전일대비" [ref=e857]:
+                - columnheader "구분" [ref=e858]
+                - columnheader "현재가" [ref=e859]
+                - columnheader "전일대비" [ref=e860]
+            - rowgroup [ref=e861]:
+              - row "1.삼성전자 343,000 상승 6,000" [ref=e862]:
+                - rowheader "1.삼성전자" [ref=e863]:
+                  - emphasis [ref=e864]: "1."
+                  - link "삼성전자" [ref=e865] [cursor=pointer]:
+                    - /url: /item/main.naver?code=005930
+                - cell "343,000" [ref=e866]
+                - cell "상승 6,000" [ref=e867]:
+                  - emphasis [ref=e868]:
+                    - generic [ref=e869]: 상승
+                  - text: 6,000
+              - row "2.SK하이닉스 2,382,000 상승 94,000" [ref=e870]:
+                - rowheader "2.SK하이닉스" [ref=e871]:
+                  - emphasis [ref=e872]: "2."
+                  - link "SK하이닉스" [ref=e873] [cursor=pointer]:
+                    - /url: /item/main.naver?code=000660
+                - cell "2,382,000" [ref=e874]
+                - cell "상승 94,000" [ref=e875]:
+                  - emphasis [ref=e876]:
+                    - generic [ref=e877]: 상승
+                  - text: 94,000
+              - row "3.현대차 640,000 하락 7,000" [ref=e878]:
+                - rowheader "3.현대차" [ref=e879]:
+                  - emphasis [ref=e880]: "3."
+                  - link "현대차" [ref=e881] [cursor=pointer]:
+                    - /url: /item/main.naver?code=005380
+                - cell "640,000" [ref=e882]
+                - cell "하락 7,000" [ref=e883]:
+                  - emphasis [ref=e884]:
+                    - generic [ref=e885]: 하락
+                  - text: 7,000
+              - row "4.삼성전기 2,048,000 상승 49,000" [ref=e886]:
+                - rowheader "4.삼성전기" [ref=e887]:
+                  - emphasis [ref=e888]: "4."
+                  - link "삼성전기" [ref=e889] [cursor=pointer]:
+                    - /url: /item/main.naver?code=009150
+                - cell "2,048,000" [ref=e890]
+                - cell "상승 49,000" [ref=e891]:
+                  - emphasis [ref=e892]:
+                    - generic [ref=e893]: 상승
+                  - text: 49,000
+              - row "5.LG전자 234,000 하락 9,500" [ref=e894]:
+                - rowheader "5.LG전자" [ref=e895]:
+                  - emphasis [ref=e896]: "5."
+                  - link "LG전자" [ref=e897] [cursor=pointer]:
+                    - /url: /item/main.naver?code=066570
+                - cell "234,000" [ref=e898]
+                - cell "하락 9,500" [ref=e899]:
+                  - emphasis [ref=e900]:
+                    - generic [ref=e901]: 하락
+                  - text: 9,500
+          - link "인기 검색 종목 더보기" [ref=e902] [cursor=pointer]:
+            - /url: /sise/lastsearch2.naver
+            - emphasis [ref=e903]:
+              - generic [ref=e904]: 인기 검색 종목 더보기
+        - generic [ref=e905]:
+          - heading "공지사항" [level=3] [ref=e906]
+          - list [ref=e907]:
+            - listitem [ref=e908]:
+              - link "새로운 Npay 증권 PC 서비스..." [ref=e909] [cursor=pointer]:
+                - /url: https://finance.naver.com/notice.naver?noticeId=28157
+          - link "공지사항 더보기" [ref=e910] [cursor=pointer]:
+            - /url: /notice.naver
+            - emphasis [ref=e911]:
+              - generic [ref=e912]: 공지사항 더보기
+    - generic [ref=e913]:
+      - list [ref=e914]:
+        - listitem [ref=e915]:
+          - link "이용약관" [ref=e916] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/naver-financial-service
+        - listitem [ref=e917]:
+          - link "개인정보처리방침" [ref=e918] [cursor=pointer]:
+            - /url: https://new-m.pay.naver.com/member/terms-policy/privacy
+            - strong [ref=e919]: 개인정보처리방침
+        - listitem [ref=e920]:
+          - link "게시판 운영원칙" [ref=e921] [cursor=pointer]:
+            - /url: /rules.naver
+        - listitem [ref=e922]:
+          - link "증권 고객센터" [ref=e923] [cursor=pointer]:
+            - /url: https://help.pay.naver.com/faq/alias/finance.help
+      - paragraph [ref=e924]:
+        - text: 네이버파이낸셜(주)이 제공하는 금융 정보는
+        - link "콘텐츠 제공업체" [ref=e925] [cursor=pointer]:
+          - /url: javascript:;
+        - text: 로부터 받는 투자 참고사항이며, 오류가 발생하거나 지연될 수 있습니다.
+        - text: 네이버파이낸셜(주)과 콘텐츠 제공업체는 제공된 정보에 의한 투자 결과에 법적인 책임을 지지 않습니다. 게시된 정보는 무단으로 배포할 수 없습니다.
+      - paragraph [ref=e926]: 국내 증시 기본 데이터는 한국거래소(KRX)에서 제공합니다.
+      - link "NAVER FINANCIAL" [ref=e928] [cursor=pointer]:
+        - /url: https://www.naverfincorp.com/
+        - img "NAVER FINANCIAL" [ref=e929]

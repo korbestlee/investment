@@ -1,0 +1,58 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - paragraph [ref=e7]: Daily Global Macro Briefing
+          - heading "글로벌 금융 브리핑" [level=1] [ref=e8]
+          - paragraph [ref=e9]: 오늘 시장 상태와 대응만 먼저 읽고, 필요할 때만 세부 자산과 뉴스를 확인하도록 정리했습니다.
+        - generic [ref=e11]: Loading
+      - generic [ref=e13]:
+        - button "Refresh" [ref=e14] [cursor=pointer]
+        - button "Reload" [ref=e15] [cursor=pointer]
+      - generic [ref=e17]:
+        - generic [ref=e18]: 오늘의 한 줄 결론
+        - generic [ref=e19]: 데이터를 읽는 중
+      - group [ref=e20]:
+        - generic "데이터 상태 보기 +" [ref=e21] [cursor=pointer]
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - paragraph [ref=e26]: 판정 엔진
+        - heading "레짐과 우선순위" [level=2] [ref=e27]
+      - paragraph [ref=e28]: 자산별 신호를 합쳐 오늘의 상태와 실행 순서를 계산합니다.
+    - generic [ref=e31]:
+      - paragraph [ref=e32]: 대응방법
+      - heading "상태별 액션" [level=2] [ref=e33]
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - paragraph [ref=e37]: 자산군별 분석
+        - heading "원자재, 채권, 지수, 환율" [level=2] [ref=e38]
+      - paragraph [ref=e39]: 각 자산은 현재값, 방향, 해석, 경보를 함께 보여줍니다.
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - paragraph [ref=e44]: 시장 이슈
+          - heading "핵심 이슈와 뉴스" [level=2] [ref=e45]
+        - paragraph [ref=e46]: 핵심 해석과 원문 헤드라인을 한 곳에서 확인합니다.
+      - heading "핵심 이슈" [level=3] [ref=e48]
+      - generic [ref=e49]:
+        - heading "최신 헤드라인" [level=3] [ref=e50]
+        - paragraph [ref=e51]: Yahoo Finance RSS 기준
+    - generic [ref=e52]:
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: 브리핑 가이드
+        - heading "언제 보고 어떻게 판단할지" [level=2] [ref=e56]
+      - heading "집중할 시간대" [level=3] [ref=e58]
+      - heading "판단 프레임" [level=3] [ref=e60]
+      - heading "운영 순서" [level=3] [ref=e62]
+      - list [ref=e63]:
+        - listitem [ref=e64]:
+          - strong [ref=e65]: 수집
+          - text: 가격과 뉴스를 먼저 확인합니다.
+        - listitem [ref=e66]:
+          - strong [ref=e67]: 분석
+          - text: 금리, 달러, 주식, 원자재를 같은 기준으로 봅니다.
+        - listitem [ref=e68]:
+          - strong [ref=e69]: 대응
+          - text: 현재 상태에 맞는 액션 한 가지만 우선 실행합니다.
