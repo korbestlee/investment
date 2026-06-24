@@ -14,9 +14,9 @@ OUTPUT = ROOT / "data" / "live-market-data.json"
 def main() -> None:
     data = server.build_market_data()
     data["source"] = {
-        "provider": data.get("source", {}).get("provider", "Yahoo Finance"),
+        "provider": data.get("source", {}).get("provider", "pykrx + yfinance"),
         "mode": "live snapshot",
-        "note": "Generated from live Yahoo Finance data for GitHub Pages.",
+        "note": "Generated from live pykrx/yfinance data for GitHub Pages.",
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with OUTPUT.open("w", encoding="utf-8") as f:

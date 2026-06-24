@@ -6,7 +6,7 @@ import copy
 import json
 import os
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -14,6 +14,7 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urlparse
 
 import requests
+import yfinance as yf
 
 
 ROOT = Path(__file__).resolve().parent
@@ -67,53 +68,80 @@ def compact_headline(title: str, summary: str = "") -> str:
     return primary[:36].rstrip()
 
 
-def fetch_yahoo_chart(symbol: str, interval: str = "1m", range_: str = "1d") -> dict:
-    response = requests.get(
-        f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}",
-        params={"interval": interval, "range": range_},
-        headers={"User-Agent": "Mozilla/5.0"},
-        timeout=20,
-    )
-    response.raise_for_status()
-    payload = response.json()
-    chart = payload.get("chart", {})
-    error = chart.get("error")
-    if error:
-        raise RuntimeError(error.get("description") or f"Yahoo error for {symbol}")
-    result = chart.get("result") or []
-    if not result:
-        raise RuntimeError(f"No Yahoo chart data for {symbol}")
-    return result[0]
+def build_yfinance_series(symbol: str) -> dict:
+    ticker = yf.Ticker(symbol)
+    history = ticker.history(period="5d", interval="1m", auto_adjust=False)
+    if history is None or history.empty:
+        raise RuntimeError(f"No yfinance history for {symbol}")
 
+    closes = [float(value) for value in history["Close"].dropna().tolist() if value is not None]
+    if not closes:
+        raise RuntimeError(f"No close values for {symbol}")
 
-def build_yahoo_series(symbol: str) -> dict:
-    payload = fetch_yahoo_chart(symbol)
-    meta = payload.get("meta", {})
-    quote = (payload.get("indicators", {}) or {}).get("quote", [{}])[0]
-    closes = quote.get("close", []) or []
-    points = [float(close) for close in closes if close is not None]
-    latest = meta.get("regularMarketPrice")
-    previous = meta.get("chartPreviousClose")
-    if latest is None and points:
-        latest = points[-1]
-    if previous is None and len(points) > 1:
-        previous = points[-2]
+    latest = closes[-1]
+    previous = closes[-2] if len(closes) > 1 else None
     change_pct = None
     if latest is not None and previous not in (None, 0):
         change_pct = ((latest - previous) / previous) * 100
-    market_time = meta.get("regularMarketTime")
+
+    market_time = history.index[-1]
+    if hasattr(market_time, "to_pydatetime"):
+        market_time = market_time.to_pydatetime()
     freshness = "intraday chart"
     if market_time:
-        freshness = datetime.fromtimestamp(market_time, tz=timezone.utc).astimezone(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST")
+        if not hasattr(market_time, "tzinfo") or market_time.tzinfo is None:
+            market_time = market_time.replace(tzinfo=timezone.utc)
+        freshness = market_time.astimezone(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST")
+
     return {
         "symbol": symbol,
         "latest": latest,
         "previous": previous,
         "change_pct": change_pct,
-        "points": points[-60:],
+        "points": closes[-60:],
         "freshness": freshness,
-        "meta": meta,
+        "meta": {
+            "provider": "yfinance",
+            "symbol": symbol,
+        },
     }
+
+
+def build_krx_series(index_code: str, fallback_symbol: str) -> dict:
+    try:
+        from pykrx import stock as krx_stock
+
+        today = datetime.now(SEOUL_TZ).strftime("%Y%m%d")
+        start = (datetime.now(SEOUL_TZ) - timedelta(days=90)).strftime("%Y%m%d")
+        data = krx_stock.get_index_ohlcv_by_date(start, today, index_code)
+        if data is None or getattr(data, "empty", True):
+            raise RuntimeError(f"No KRX index data for {index_code}")
+
+        close_series = data["종가"] if "종가" in data.columns else data.iloc[:, 3]
+        closes = [float(value) for value in close_series.dropna().tolist() if value is not None]
+        if not closes:
+            raise RuntimeError(f"No KRX close values for {index_code}")
+
+        latest = closes[-1]
+        previous = closes[-2] if len(closes) > 1 else None
+        change_pct = None
+        if latest is not None and previous not in (None, 0):
+            change_pct = ((latest - previous) / previous) * 100
+
+        return {
+            "symbol": fallback_symbol,
+            "latest": latest,
+            "previous": previous,
+            "change_pct": change_pct,
+            "points": closes[-60:],
+            "freshness": datetime.now(SEOUL_TZ).strftime("%Y-%m-%d %H:%M KST"),
+            "meta": {
+                "provider": "pykrx",
+                "index_code": index_code,
+            },
+        }
+    except Exception:
+        return build_yfinance_series(fallback_symbol)
 
 
 def fetch_yahoo_news() -> list[dict]:
@@ -320,22 +348,22 @@ def build_market_data() -> dict:
     try:
         with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
             futures = {
-                "wti": pool.submit(build_yahoo_series, "CL=F"),
-                "brent": pool.submit(build_yahoo_series, "BZ=F"),
-                "gold": pool.submit(build_yahoo_series, "GC=F"),
-                "copper": pool.submit(build_yahoo_series, "HG=F"),
-                "irx": pool.submit(build_yahoo_series, "^IRX"),
-                "fvx": pool.submit(build_yahoo_series, "^FVX"),
-                "tnx": pool.submit(build_yahoo_series, "^TNX"),
-                "tyx": pool.submit(build_yahoo_series, "^TYX"),
-                "spx": pool.submit(build_yahoo_series, "^GSPC"),
-                "ixic": pool.submit(build_yahoo_series, "^IXIC"),
-                "ks11": pool.submit(build_yahoo_series, "^KS11"),
-                "stoxx": pool.submit(build_yahoo_series, "^STOXX50E"),
-                "usdjpy": pool.submit(build_yahoo_series, "USDJPY=X"),
-                "usdkrw": pool.submit(build_yahoo_series, "USDKRW=X"),
-                "usdcny": pool.submit(build_yahoo_series, "USDCNY=X"),
-                "dxy": pool.submit(build_yahoo_series, "DX-Y.NYB"),
+                "wti": pool.submit(build_yfinance_series, "CL=F"),
+                "brent": pool.submit(build_yfinance_series, "BZ=F"),
+                "gold": pool.submit(build_yfinance_series, "GC=F"),
+                "copper": pool.submit(build_yfinance_series, "HG=F"),
+                "irx": pool.submit(build_yfinance_series, "^IRX"),
+                "fvx": pool.submit(build_yfinance_series, "^FVX"),
+                "tnx": pool.submit(build_yfinance_series, "^TNX"),
+                "tyx": pool.submit(build_yfinance_series, "^TYX"),
+                "spx": pool.submit(build_yfinance_series, "^GSPC"),
+                "ixic": pool.submit(build_yfinance_series, "^IXIC"),
+                "ks11": pool.submit(build_krx_series, "1001", "^KS11"),
+                "stoxx": pool.submit(build_yfinance_series, "^STOXX50E"),
+                "usdjpy": pool.submit(build_yfinance_series, "USDJPY=X"),
+                "usdkrw": pool.submit(build_yfinance_series, "USDKRW=X"),
+                "usdcny": pool.submit(build_yfinance_series, "USDCNY=X"),
+                "dxy": pool.submit(build_yfinance_series, "DX-Y.NYB"),
             }
             results = {name: future.result() for name, future in futures.items()}
     except Exception as exc:
@@ -556,9 +584,9 @@ def build_market_data() -> dict:
         "date": datetime.now(SEOUL_TZ).strftime("%Y-%m-%d"),
         "collectedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         "source": {
-            "provider": "Yahoo Finance",
+            "provider": "pykrx + yfinance",
             "mode": "live",
-            "note": "Intraday chart endpoints are used for quotes and yields.",
+            "note": "국내 지수는 pykrx, 해외 자산은 yfinance를 사용합니다.",
         },
         "freshness": {
             "fx": "intraday chart",
