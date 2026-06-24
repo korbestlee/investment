@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "collectedAt": "2026-06-24T05:57:58Z",
+  "collectedAt": "2026-06-24T06:33:47Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,12 +58,26 @@
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
+    {
+      "title": "Empire Metals Limited Announces",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "LONDON, UK / ACCESS Newswire / June 24, 2026 / Empire Metals Limited, the AIM-quoted and OTCQX-traded exploration and development company, is pleased to announce that its wholly-ow",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/empire-metals-limited-announces-completion-060000071.html?.tsrc=rss"
+    },
+    {
+      "title": "Bitcoin Stabilizes Near 200-WMA as",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Bitcoin price holds and stabilizes near its 200-week moving average (200-WMA) amid easing geopolitical tensions. The U.S. Senate passed a bipartisan resolution invoking the War Pow",
+      "link": "https://coingape.com/bitcoin-stabilizes-near-200-wma-as-senate-passes-war-powers-act-to-end-us-iran-war/?.tsrc=rss"
+    },
     {
       "title": "is gold falling as inflation rises?",
       "impact": "채권, 금리",
@@ -77,23 +91,25 @@
       "importance": "high",
       "summary": "Honeywell International is preparing to spin off Honeywell Aerospace into a separate, publicly traded company while rebranding the parent as Honeywell Technologies. The separation ",
       "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss"
-    },
-    {
-      "title": "Cboe Joins Prediction Market Race",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
-      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq Breaks Key Support; FedEx,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
-      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
     }
   ],
   "newsItems": [
+    {
+      "title": "Empire Metals Limited Announces",
+      "summary": "LONDON, UK / ACCESS Newswire / June 24, 2026 / Empire Metals Limited, the AIM-quoted and OTCQX-traded exploration and development company, is pleased to announce that its wholly-ow",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/empire-metals-limited-announces-completion-060000071.html?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Bitcoin Stabilizes Near 200-WMA as",
+      "summary": "Bitcoin price holds and stabilizes near its 200-week moving average (200-WMA) amid easing geopolitical tensions. The U.S. Senate passed a bipartisan resolution invoking the War Pow",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://coingape.com/bitcoin-stabilizes-near-200-wma-as-senate-passes-war-powers-act-to-end-us-iran-war/?.tsrc=rss",
+      "published": "Wed, 24 Jun 2026 05:35:42 +0000"
+    },
     {
       "title": "is gold falling as inflation rises?",
       "summary": "Gold is heading for a fourth monthly fall even as US inflation hits a three-year high. Here is why higher rates, not inflation, now drive the gold price.View on euronews",
@@ -109,22 +125,6 @@
       "importance": "high",
       "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-plans-aerospace-spinoff-050733319.html?.tsrc=rss",
       "published": "Wed, 24 Jun 2026 05:07:33 +0000"
-    },
-    {
-      "title": "Cboe Joins Prediction Market Race",
-      "summary": "Cboe launches S&P 500 binary options on Interactive Brokers, moving into prediction markets as open interest hits new highs.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://beincrypto.com/cboe-prediction-markets-binary-options/?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 04:09:32 +0000"
-    },
-    {
-      "title": "Nasdaq Breaks Key Support; FedEx,",
-      "summary": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 03:07:24 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.53",
+          "value": "72.64",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "76.38",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "76.48",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4094.40",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4106.70",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.13",
-          "change": "-0.02%",
+          "value": "6.15",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        72.69000244140625,
-        72.66000366210938,
-        72.68000030517578,
+        72.87000274658203,
+        72.83999633789062,
+        72.77999877929688,
+        72.70999908447266,
+        72.72000122070312,
+        72.7300033569336,
+        72.73999786376953,
+        72.72000122070312,
+        72.69999694824219,
         72.6500015258789,
-        72.62000274658203,
-        72.55000305175781,
-        72.62000274658203,
-        72.61000061035156,
-        72.54000091552734,
-        72.54000091552734,
-        72.52999877929688
+        72.63999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-24 14:47 KST"
+      "freshness": "2026-06-24 15:23 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8512.56",
-          "change": "-0.05%",
+          "value": "8449.55",
+          "change": "-0.27%",
           "direction": "down"
         },
         {
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "101.46",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1542.28",
           "change": "-0.01%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1540.55",
+          "name": "USDJPY",
+          "value": "161.68",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "161.61",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.8018",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.8009",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1540.780029296875,
-        1540.8900146484375,
+        1541.6800537109375,
         1541.0799560546875,
-        1541.0799560546875,
-        1540.800048828125,
-        1540.6500244140625,
-        1540.4000244140625,
-        1540.5799560546875,
-        1540.7099609375,
-        1540.3800048828125,
-        1540.550048828125
+        1541.47998046875,
+        1541.6800537109375,
+        1542.0799560546875,
+        1542.1600341796875,
+        1541.5799560546875,
+        1541.97998046875,
+        1542.280029296875,
+        1542.47998046875,
+        1542.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-24 14:57 KST"
+      "status": "강세",
+      "freshness": "2026-06-24 15:33 KST"
     }
   ],
   "currentAction": {
