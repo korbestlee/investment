@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "collectedAt": "2026-06-24T21:42:04Z",
+  "collectedAt": "2026-06-25T06:37:12Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.10%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Rise As Micron",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
-      "link": "https://finance.yahoo.com/m/62ac79cc-8e88-3711-aacd-1efa7c03c79f/dow-jones-futures-rise-as.html?.tsrc=rss"
+      "title": "FTSE 100 Live",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "FTSE 100 Live pre-open Blue-chip shares in London have been called lower on Thursday, with a mixed picture across global stock markets. The FTSE 100 is predicted to fall around 26 ",
+      "link": "https://www.proactiveinvestors.com/companies/news/1094475/ftse-100-live-london-stocks-called-lower-but-us-and-asian-tech-boosted-by-micron-1094475.html?.tsrc=rss"
     },
     {
-      "title": "Bullish inventories meet bearish",
+      "title": "Cost of living hope as oil prices",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "(By Oil & Gas 360) – The oil market is entering a new phase of uncertainty. After months dominated by […]",
-      "link": "https://finance.yahoo.com/energy/articles/bullish-inventories-meet-bearish-expectations-213023449.html?.tsrc=rss"
+      "summary": "Oil prices have returned to levels last seen just before the US-Iran war began, bolstering hopes of a respite ahead from cost-of-living pressures.  London Stock Exchange Group data",
+      "link": "https://uk.finance.yahoo.com/news/cost-living-hope-oil-prices-061300033.html?.tsrc=rss"
     },
     {
-      "title": "Blue Moon Metals Reports Major",
-      "impact": "시장 전반",
+      "title": "This ETF Has More Than Doubled the",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Blue Moon Metals (MOON.V, BMM) after trade Wednesday detailed several milestones for its Nussir copp",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-moon-metals-reports-major-212200942.html?.tsrc=rss"
+      "summary": "It may not duplicate those impressive results, but it has all the tools it needs.",
+      "link": "https://www.fool.com/investing/2026/06/25/this-etf-has-more-than-doubled-the-sp-500s-returns/?.tsrc=rss"
     },
     {
-      "title": "Oriental Rise Provides Update",
-      "impact": "채권, 금리",
+      "title": "Miliband derailed plan to use North",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "NINGDE, China, June 24, 2026 (GLOBE NEWSWIRE) -- Oriental Rise Holdings Limited (NASDAQ: ORIS) (\"Oriental Rise\" or the \"Company\"), an integrated tea supplier in mainland China, tod",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oriental-rise-provides-regarding-nasdaq-212200639.html?.tsrc=rss"
+      "summary": "Ed Miliband derailed a plan to fund Britain’s rearmament by ramping up North Sea drilling, The Telegraph can reveal.",
+      "link": "https://uk.finance.yahoo.com/news/miliband-derailed-plan-north-sea-054500040.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise As Micron",
-      "summary": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/62ac79cc-8e88-3711-aacd-1efa7c03c79f/dow-jones-futures-rise-as.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 21:31:38 +0000"
+      "title": "FTSE 100 Live",
+      "summary": "FTSE 100 Live pre-open Blue-chip shares in London have been called lower on Thursday, with a mixed picture across global stock markets. The FTSE 100 is predicted to fall around 26 ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.proactiveinvestors.com/companies/news/1094475/ftse-100-live-london-stocks-called-lower-but-us-and-asian-tech-boosted-by-micron-1094475.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 06:20:00 +0000"
     },
     {
-      "title": "Bullish inventories meet bearish",
-      "summary": "(By Oil & Gas 360) – The oil market is entering a new phase of uncertainty. After months dominated by […]",
+      "title": "Cost of living hope as oil prices",
+      "summary": "Oil prices have returned to levels last seen just before the US-Iran war began, bolstering hopes of a respite ahead from cost-of-living pressures.  London Stock Exchange Group data",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/bullish-inventories-meet-bearish-expectations-213023449.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 21:30:23 +0000"
+      "link": "https://uk.finance.yahoo.com/news/cost-living-hope-oil-prices-061300033.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 06:13:00 +0000"
     },
     {
-      "title": "Blue Moon Metals Reports Major",
-      "summary": "Blue Moon Metals (MOON.V, BMM) after trade Wednesday detailed several milestones for its Nussir copp",
-      "impact": "시장 전반",
+      "title": "This ETF Has More Than Doubled the",
+      "summary": "It may not duplicate those impressive results, but it has all the tools it needs.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-moon-metals-reports-major-212200942.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 21:22:00 +0000"
+      "link": "https://www.fool.com/investing/2026/06/25/this-etf-has-more-than-doubled-the-sp-500s-returns/?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 05:50:00 +0000"
     },
     {
-      "title": "Oriental Rise Provides Update",
-      "summary": "NINGDE, China, June 24, 2026 (GLOBE NEWSWIRE) -- Oriental Rise Holdings Limited (NASDAQ: ORIS) (\"Oriental Rise\" or the \"Company\"), an integrated tea supplier in mainland China, tod",
-      "impact": "채권, 금리",
+      "title": "Miliband derailed plan to use North",
+      "summary": "Ed Miliband derailed a plan to fund Britain’s rearmament by ramping up North Sea drilling, The Telegraph can reveal.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oriental-rise-provides-regarding-nasdaq-212200639.html?.tsrc=rss",
-      "published": "Wed, 24 Jun 2026 21:22:00 +0000"
+      "link": "https://uk.finance.yahoo.com/news/miliband-derailed-plan-north-sea-054500040.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 05:45:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.87",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "69.65",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "73.18",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "72.77",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4016.40",
-          "change": "+0.00%",
+          "value": "3996.90",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.99",
-          "change": "-0.10%",
+          "value": "5.98",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        69.88999938964844,
-        69.80999755859375,
-        69.83999633789062,
-        69.83000183105469,
-        69.87000274658203,
-        69.8499984741211,
-        69.83999633789062,
-        69.83000183105469,
-        69.83999633789062,
-        69.8499984741211,
-        69.87000274658203
+        69.5999984741211,
+        69.5,
+        69.45999908447266,
+        69.5199966430664,
+        69.69000244140625,
+        69.61000061035156,
+        69.66999816894531,
+        69.69999694824219,
+        69.69999694824219,
+        69.66999816894531,
+        69.6500015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-25 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-06-25 15:27 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "8449.55",
-          "change": "-0.27%",
-          "direction": "down"
+          "value": "8973.58",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.57",
+          "value": "101.54",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1542.09",
-          "change": "+0.01%",
+          "value": "1542.68",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.71",
-          "change": "-0.01%",
+          "value": "161.83",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.8014",
+          "value": "6.8058",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1542.219970703125,
-        1542.260009765625,
-        1541.52001953125,
-        1541.050048828125,
-        1541.780029296875,
-        1541.8800048828125,
-        1541.8599853515625,
-        1541.93994140625,
-        1541.9200439453125,
-        1541.97998046875,
-        1542.0899658203125
+        1542.1800537109375,
+        1542.5799560546875,
+        1542.3800048828125,
+        1543.1800537109375,
+        1544.1800537109375,
+        1543.0799560546875,
+        1543.47998046875,
+        1543.280029296875,
+        1542.5799560546875,
+        1542.280029296875,
+        1542.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-06-25 06:39 KST"
+      "freshness": "2026-06-25 15:37 KST"
     }
   ],
   "currentAction": {
