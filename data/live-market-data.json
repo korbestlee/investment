@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "collectedAt": "2026-06-25T06:37:12Z",
+  "collectedAt": "2026-06-25T09:56:22Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "FTSE 100 Live",
+      "title": "3 S&P 500 Stocks We’re Skeptical Of",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "FTSE 100 Live pre-open Blue-chip shares in London have been called lower on Thursday, with a mixed picture across global stock markets. The FTSE 100 is predicted to fall around 26 ",
-      "link": "https://www.proactiveinvestors.com/companies/news/1094475/ftse-100-live-london-stocks-called-lower-but-us-and-asian-tech-boosted-by-micron-1094475.html?.tsrc=rss"
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-skeptical-093750911.html?.tsrc=rss"
     },
     {
-      "title": "Cost of living hope as oil prices",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices have returned to levels last seen just before the US-Iran war began, bolstering hopes of a respite ahead from cost-of-living pressures.  London Stock Exchange Group data",
-      "link": "https://uk.finance.yahoo.com/news/cost-living-hope-oil-prices-061300033.html?.tsrc=rss"
-    },
-    {
-      "title": "This ETF Has More Than Doubled the",
+      "title": "Qualcomm Stock Surges After Chip",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "It may not duplicate those impressive results, but it has all the tools it needs.",
-      "link": "https://www.fool.com/investing/2026/06/25/this-etf-has-more-than-doubled-the-sp-500s-returns/?.tsrc=rss"
+      "summary": "The company almost doubles its non-handset sales target, helping to revive faith in the stumbling AI trade.",
+      "link": "https://finance.yahoo.com/m/11fb9101-657c-3f4d-b8e4-81e4c039212f/qualcomm-stock-surges-after.html?.tsrc=rss"
     },
     {
-      "title": "Miliband derailed plan to use North",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Ed Miliband derailed a plan to fund Britain’s rearmament by ramping up North Sea drilling, The Telegraph can reveal.",
-      "link": "https://uk.finance.yahoo.com/news/miliband-derailed-plan-north-sea-054500040.html?.tsrc=rss"
+      "title": "3 Industrials Stocks We Think Twice",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But their prominence also brings high exposure to the ups a",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-think-twice-092950298.html?.tsrc=rss"
+    },
+    {
+      "title": "2 Healthcare Stocks to Consider",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
+      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-consider-now-091350768.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "FTSE 100 Live",
-      "summary": "FTSE 100 Live pre-open Blue-chip shares in London have been called lower on Thursday, with a mixed picture across global stock markets. The FTSE 100 is predicted to fall around 26 ",
+      "title": "3 S&P 500 Stocks We’re Skeptical Of",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.proactiveinvestors.com/companies/news/1094475/ftse-100-live-london-stocks-called-lower-but-us-and-asian-tech-boosted-by-micron-1094475.html?.tsrc=rss",
-      "published": "Thu, 25 Jun 2026 06:20:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-skeptical-093750911.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 09:37:50 +0000"
     },
     {
-      "title": "Cost of living hope as oil prices",
-      "summary": "Oil prices have returned to levels last seen just before the US-Iran war began, bolstering hopes of a respite ahead from cost-of-living pressures.  London Stock Exchange Group data",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/cost-living-hope-oil-prices-061300033.html?.tsrc=rss",
-      "published": "Thu, 25 Jun 2026 06:13:00 +0000"
-    },
-    {
-      "title": "This ETF Has More Than Doubled the",
-      "summary": "It may not duplicate those impressive results, but it has all the tools it needs.",
+      "title": "Qualcomm Stock Surges After Chip",
+      "summary": "The company almost doubles its non-handset sales target, helping to revive faith in the stumbling AI trade.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/25/this-etf-has-more-than-doubled-the-sp-500s-returns/?.tsrc=rss",
-      "published": "Thu, 25 Jun 2026 05:50:00 +0000"
+      "link": "https://finance.yahoo.com/m/11fb9101-657c-3f4d-b8e4-81e4c039212f/qualcomm-stock-surges-after.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 09:30:00 +0000"
     },
     {
-      "title": "Miliband derailed plan to use North",
-      "summary": "Ed Miliband derailed a plan to fund Britain’s rearmament by ramping up North Sea drilling, The Telegraph can reveal.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/miliband-derailed-plan-north-sea-054500040.html?.tsrc=rss",
-      "published": "Thu, 25 Jun 2026 05:45:00 +0000"
+      "title": "3 Industrials Stocks We Think Twice",
+      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But their prominence also brings high exposure to the ups a",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-think-twice-092950298.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 09:29:50 +0000"
+    },
+    {
+      "title": "2 Healthcare Stocks to Consider",
+      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-consider-now-091350768.html?.tsrc=rss",
+      "published": "Thu, 25 Jun 2026 09:13:50 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.65",
+          "value": "69.53",
+          "change": "+0.06%",
+          "direction": "up"
+        },
+        {
+          "name": "Brent",
+          "value": "72.86",
           "change": "-0.03%",
           "direction": "down"
         },
         {
-          "name": "Brent",
-          "value": "72.77",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "Gold",
-          "value": "3996.90",
-          "change": "+0.01%",
+          "value": "4004.00",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.98",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.10",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        69.5999984741211,
-        69.5,
-        69.45999908447266,
         69.5199966430664,
-        69.69000244140625,
-        69.61000061035156,
-        69.66999816894531,
-        69.69999694824219,
-        69.69999694824219,
-        69.66999816894531,
-        69.6500015258789
+        69.47000122070312,
+        69.54000091552734,
+        69.51000213623047,
+        69.55000305175781,
+        69.48999786376953,
+        69.56999969482422,
+        69.51000213623047,
+        69.4800033569336,
+        69.48999786376953,
+        69.52999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-25 15:27 KST"
+      "status": "강세",
+      "freshness": "2026-06-25 18:46 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6214.05",
-          "change": "+0.03%",
+          "value": "6257.64",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.54",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.53",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1542.68",
-          "change": "+0.03%",
+          "value": "1541.46",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.83",
+          "value": "161.82",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.8058",
-          "change": "+0.00%",
+          "value": "6.7879",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        1542.1800537109375,
-        1542.5799560546875,
-        1542.3800048828125,
-        1543.1800537109375,
-        1544.1800537109375,
-        1543.0799560546875,
-        1543.47998046875,
-        1543.280029296875,
-        1542.5799560546875,
-        1542.280029296875,
-        1542.6800537109375
+        1542.010009765625,
+        1541.8699951171875,
+        1542.0400390625,
+        1541.8399658203125,
+        1542.0400390625,
+        1541.8800048828125,
+        1541.3800048828125,
+        1541.0799560546875,
+        1541.52001953125,
+        1540.8800048828125,
+        1541.4599609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-25 15:37 KST"
+      "status": "강세",
+      "freshness": "2026-06-25 18:56 KST"
     }
   ],
   "currentAction": {
