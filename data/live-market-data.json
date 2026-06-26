@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "collectedAt": "2026-06-26T06:40:34Z",
+  "collectedAt": "2026-06-26T10:00:01Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Silvercorp Metals (TSX",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Silvercorp Metals (TSX:SVM) has released updated technical reports for its Gaocheng and Ying mining properties in China, with substantial changes to measured and indicated mineral ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-metals-tsx-svm-extends-060918185.html?.tsrc=rss"
-    },
-    {
-      "title": "Is Alamos Gold (AGI) One of the Best",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Alamos Gold Inc. (NYSE:AGI) is included among the 10 Best Canadian Dividend Stocks to Buy for the Next 5 Years. On June 22, BofA lowered its price recommendation on Alamos Gold Inc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-agi-one-best-055415660.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Jones Futures Fall, Techs Tumble",
+      "title": "1 Bank Stock with Competitive",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
-      "link": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
+      "summary": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Furthermore, economic conditio",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-competitive-advantages-092825097.html?.tsrc=rss"
     },
     {
-      "title": "BofA Reaffirms Buy on Triple Flag",
+      "title": "3 Industrials Stocks We Approach",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Triple Flag Precious Metals Corp. (NYSE:TFPM) is included among the 10 Best Canadian Dividend Stocks to Buy for the Next 5 Years. On June 15, BofA lowered its price recommendation ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-reaffirms-buy-triple-flag-053457768.html?.tsrc=rss"
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-approach-caution-091225987.html?.tsrc=rss"
+    },
+    {
+      "title": "Silverco Mining mobilises",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The company has engaged Mafrissa and Rencer to carry out underground development and production mining activities at the site.",
+      "link": "https://www.mining-technology.com/news/silverco-mining-contractors-cusi-site-mexico/?.tsrc=rss"
+    },
+    {
+      "title": "Eldorado Gold Stock Was Diving This",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "No prizes for guessing which direction the gold price was heading in the past few days.",
+      "link": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Silvercorp Metals (TSX",
-      "summary": "Silvercorp Metals (TSX:SVM) has released updated technical reports for its Gaocheng and Ying mining properties in China, with substantial changes to measured and indicated mineral ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-metals-tsx-svm-extends-060918185.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 06:09:18 +0000"
-    },
-    {
-      "title": "Is Alamos Gold (AGI) One of the Best",
-      "summary": "Alamos Gold Inc. (NYSE:AGI) is included among the 10 Best Canadian Dividend Stocks to Buy for the Next 5 Years. On June 22, BofA lowered its price recommendation on Alamos Gold Inc",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-agi-one-best-055415660.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 05:54:15 +0000"
-    },
-    {
-      "title": "Dow Jones Futures Fall, Techs Tumble",
-      "summary": "The Nasdaq reversed lower again while the Dow came off record highs. Micron soared but Apple led other tech titans lower.",
+      "title": "1 Bank Stock with Competitive",
+      "summary": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Furthermore, economic conditio",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 05:44:21 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-competitive-advantages-092825097.html?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 09:28:25 +0000"
     },
     {
-      "title": "BofA Reaffirms Buy on Triple Flag",
-      "summary": "Triple Flag Precious Metals Corp. (NYSE:TFPM) is included among the 10 Best Canadian Dividend Stocks to Buy for the Next 5 Years. On June 15, BofA lowered its price recommendation ",
+      "title": "3 Industrials Stocks We Approach",
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-reaffirms-buy-triple-flag-053457768.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 05:34:57 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-approach-caution-091225987.html?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 09:12:25 +0000"
+    },
+    {
+      "title": "Silverco Mining mobilises",
+      "summary": "The company has engaged Mafrissa and Rencer to carry out underground development and production mining activities at the site.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.mining-technology.com/news/silverco-mining-contractors-cusi-site-mexico/?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 09:09:13 +0000"
+    },
+    {
+      "title": "Eldorado Gold Stock Was Diving This",
+      "summary": "No prizes for guessing which direction the gold price was heading in the past few days.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 09:03:52 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "70.64",
-          "change": "-0.04%",
+          "value": "69.24",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "74.34",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "72.81",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4039.70",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "4061.50",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.07",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.13",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        70.69000244140625,
-        70.70999908447266,
-        70.69999694824219,
-        70.69000244140625,
-        70.69999694824219,
-        70.69999694824219,
-        70.69999694824219,
-        70.72000122070312,
-        70.66000366210938,
-        70.66999816894531,
-        70.63999938964844
+        69.31999969482422,
+        69.38999938964844,
+        69.31999969482422,
+        69.33000183105469,
+        69.33000183105469,
+        69.31999969482422,
+        69.27999877929688,
+        69.30000305175781,
+        69.30000305175781,
+        69.26000213623047,
+        69.23999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-26 15:30 KST"
+      "freshness": "2026-06-26 18:49 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6264.24",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6222.67",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.37",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1538.18",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "161.69",
+          "value": "101.16",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1537.27",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "161.61",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7987",
+          "value": "6.7863",
           "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1531.8800048828125,
-        1531.97998046875,
-        1533.8800048828125,
-        1535.489990234375,
-        1534.780029296875,
-        1535.1400146484375,
-        1535.280029296875,
-        1535.6800537109375,
-        1536.6800537109375,
-        1537.780029296875,
-        1538.1800537109375
+        1535.68994140625,
+        1536.4300537109375,
+        1535.8299560546875,
+        1535.9599609375,
+        1536.25,
+        1535.8399658203125,
+        1536.239990234375,
+        1536.3499755859375,
+        1537.1700439453125,
+        1537.0899658203125,
+        1537.27001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-26 15:40 KST"
+      "status": "강세",
+      "freshness": "2026-06-26 18:59 KST"
     }
   ],
   "currentAction": {
