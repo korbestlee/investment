@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "collectedAt": "2026-06-26T10:00:01Z",
+  "date": "2026-06-27",
+  "collectedAt": "2026-06-26T21:38:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.12%",
+      "value": "-0.33%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.09%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "1 Bank Stock with Competitive",
+      "title": "Stock Market Today, June 26",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Furthermore, economic conditio",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-competitive-advantages-092825097.html?.tsrc=rss"
+      "summary": "Today, June 26, 2026, investors weighed tech volatility and shifting sentiment as memory costs come into focus.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/?.tsrc=rss"
     },
     {
-      "title": "3 Industrials Stocks We Approach",
+      "title": "Palantir Stock Soared Today",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Is the AI trade on course for another fundamental shift?",
+      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/?.tsrc=rss"
+    },
+    {
+      "title": "Tianci International and Greypole",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-approach-caution-091225987.html?.tsrc=rss"
+      "summary": "HONG KONG, HK / ACCESS Newswire / June 26, 2026 /Tianci International Inc. (NASDAQ:CIIT) today provided an update regarding progress made under the strategic memorandum of understa",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tianci-international-greypole-mining-strategic-210000698.html?.tsrc=rss"
     },
     {
-      "title": "Silverco Mining mobilises",
-      "impact": "시장 전반",
+      "title": "TNL Mediagene Receives Nasdaq",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The company has engaged Mafrissa and Rencer to carry out underground development and production mining activities at the site.",
-      "link": "https://www.mining-technology.com/news/silverco-mining-contractors-cusi-site-mexico/?.tsrc=rss"
-    },
-    {
-      "title": "Eldorado Gold Stock Was Diving This",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "No prizes for guessing which direction the gold price was heading in the past few days.",
-      "link": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/?.tsrc=rss"
+      "summary": "Tokyo, Japan--(Newsfile Corp. - June 26, 2026) - TNL Mediagene (NASDAQ: TNMG) (the \"Company\"), a technology and digital media company providing AI-driven advertising, marketing tec",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tnl-mediagene-receives-nasdaq-delisting-210000448.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "1 Bank Stock with Competitive",
-      "summary": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Furthermore, economic conditio",
+      "title": "Stock Market Today, June 26",
+      "summary": "Today, June 26, 2026, investors weighed tech volatility and shifting sentiment as memory costs come into focus.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-bank-stock-competitive-advantages-092825097.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 09:28:25 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 21:23:57 +0000"
     },
     {
-      "title": "3 Industrials Stocks We Approach",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. Their momentum is also rising as lower interest rates have incentivized higher capi",
+      "title": "Palantir Stock Soared Today",
+      "summary": "Is the AI trade on course for another fundamental shift?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 21:10:52 +0000"
+    },
+    {
+      "title": "Tianci International and Greypole",
+      "summary": "HONG KONG, HK / ACCESS Newswire / June 26, 2026 /Tianci International Inc. (NASDAQ:CIIT) today provided an update regarding progress made under the strategic memorandum of understa",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-approach-caution-091225987.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 09:12:25 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tianci-international-greypole-mining-strategic-210000698.html?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 21:00:00 +0000"
     },
     {
-      "title": "Silverco Mining mobilises",
-      "summary": "The company has engaged Mafrissa and Rencer to carry out underground development and production mining activities at the site.",
-      "impact": "시장 전반",
+      "title": "TNL Mediagene Receives Nasdaq",
+      "summary": "Tokyo, Japan--(Newsfile Corp. - June 26, 2026) - TNL Mediagene (NASDAQ: TNMG) (the \"Company\"), a technology and digital media company providing AI-driven advertising, marketing tec",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.mining-technology.com/news/silverco-mining-contractors-cusi-site-mexico/?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 09:09:13 +0000"
-    },
-    {
-      "title": "Eldorado Gold Stock Was Diving This",
-      "summary": "No prizes for guessing which direction the gold price was heading in the past few days.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/06/26/why-eldorado-gold-stock-was-diving-this-week/?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 09:03:52 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tnl-mediagene-receives-nasdaq-delisting-210000448.html?.tsrc=rss",
+      "published": "Fri, 26 Jun 2026 21:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.24",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "70.24",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "72.81",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "73.57",
+          "change": "+0.23%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4061.50",
+          "value": "4103.00",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.13",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.20",
+          "change": "-0.09%",
+          "direction": "down"
         }
       ],
       "trend": [
-        69.31999969482422,
-        69.38999938964844,
-        69.31999969482422,
-        69.33000183105469,
-        69.33000183105469,
-        69.31999969482422,
-        69.27999877929688,
-        69.30000305175781,
-        69.30000305175781,
-        69.26000213623047,
-        69.23999786376953
+        70.0,
+        69.9000015258789,
+        70.05999755859375,
+        70.12999725341797,
+        70.20999908447266,
+        70.29000091552734,
+        70.29000091552734,
+        70.31999969482422,
+        70.37999725341797,
+        70.22000122070312,
+        70.23999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-26 18:49 KST"
+      "status": "강세",
+      "freshness": "2026-06-27 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.680%",
+          "value": "3.663%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.163%",
+          "value": "4.130%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.392%",
+          "value": "4.372%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "4.858%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.864%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.395999908447266,
-        4.394000053405762,
-        4.394000053405762,
-        4.394000053405762,
-        4.394000053405762,
-        4.394000053405762,
-        4.3919997215271,
-        4.3919997215271,
-        4.3919997215271,
-        4.3919997215271,
-        4.3919997215271
+        4.375,
+        4.375,
+        4.375,
+        4.375,
+        4.375,
+        4.375999927520752,
+        4.375,
+        4.372000217437744,
+        4.372000217437744,
+        4.372000217437744,
+        4.372000217437744
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-06-26 03:59 KST"
+      "freshness": "2026-06-27 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7357.17",
-          "change": "+0.12%",
-          "direction": "up"
+          "value": "7337.81",
+          "change": "-0.33%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25356.57",
-          "change": "+0.16%",
-          "direction": "up"
+          "value": "25206.57",
+          "change": "-0.49%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6222.67",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6221.38",
+          "change": "+0.11%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7344.72021484375,
-        7343.9501953125,
-        7347.10986328125,
-        7350.08984375,
-        7351.81005859375,
-        7353.14990234375,
-        7351.43017578125,
-        7350.60009765625,
-        7350.7998046875,
-        7348.4501953125,
-        7357.169921875
+        7358.2001953125,
+        7356.259765625,
+        7357.56982421875,
+        7359.02001953125,
+        7357.81982421875,
+        7359.64013671875,
+        7359.509765625,
+        7359.240234375,
+        7361.7001953125,
+        7362.10009765625,
+        7337.81005859375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-06-26 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-06-27 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.16",
-          "change": "+0.00%",
+          "value": "101.37",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1537.27",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1535.00",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "161.61",
-          "change": "+0.01%",
+          "value": "161.73",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7863",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6.7897",
+          "change": "-0.11%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1535.68994140625,
-        1536.4300537109375,
-        1535.8299560546875,
-        1535.9599609375,
-        1536.25,
-        1535.8399658203125,
-        1536.239990234375,
-        1536.3499755859375,
-        1537.1700439453125,
-        1537.0899658203125,
-        1537.27001953125
+        1534.77001953125,
+        1534.77001953125,
+        1534.969970703125,
+        1534.8299560546875,
+        1534.969970703125,
+        1534.969970703125,
+        1535.0899658203125,
+        1535.6099853515625,
+        1535.0,
+        1535.0,
+        1535.0
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-26 18:59 KST"
+      "freshness": "2026-06-27 06:06 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
