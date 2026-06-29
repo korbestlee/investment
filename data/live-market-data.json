@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27",
-  "collectedAt": "2026-06-26T21:38:17Z",
+  "date": "2026-06-29",
+  "collectedAt": "2026-06-29T07:18:53Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.09%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, June 26",
+      "title": "S&P 500’s ‘June Swoon’ Reflects AI",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Today, June 26, 2026, investors weighed tech volatility and shifting sentiment as memory costs come into focus.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/?.tsrc=rss"
+      "summary": "The research firm said that the market was experiencing “AI Fatigue” following the massive AI investments by hyperscalers.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-june-swoon-reflects-ai-fatigue-not-market-weakness-yardeni-research/cZ1BCl6R7he?.tsrc=rss"
     },
     {
-      "title": "Palantir Stock Soared Today",
+      "title": "Danaher (DHR) Completes $9.9B",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Is the AI trade on course for another fundamental shift?",
-      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/?.tsrc=rss"
+      "summary": "Danaher Corporation (NYSE:DHR) is one of the best long term stocks to buy according to hedge funds. On June 10, Danaher completed its acquisition of Masimo Corporation, a specialis",
+      "link": "https://finance.yahoo.com/healthcare/articles/danaher-dhr-completes-9-9b-052800253.html?.tsrc=rss"
     },
     {
-      "title": "Tianci International and Greypole",
-      "impact": "채권, 금리",
+      "title": "Asian shares are mixed as tech",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "HONG KONG, HK / ACCESS Newswire / June 26, 2026 /Tianci International Inc. (NASDAQ:CIIT) today provided an update regarding progress made under the strategic memorandum of understa",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tianci-international-greypole-mining-strategic-210000698.html?.tsrc=rss"
+      "summary": "Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offse",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-tech-stocks-050807204.html?.tsrc=rss"
     },
     {
-      "title": "TNL Mediagene Receives Nasdaq",
+      "title": "Aktsiaselts Infortar own share",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Tokyo, Japan--(Newsfile Corp. - June 26, 2026) - TNL Mediagene (NASDAQ: TNMG) (the \"Company\"), a technology and digital media company providing AI-driven advertising, marketing tec",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tnl-mediagene-receives-nasdaq-delisting-210000448.html?.tsrc=rss"
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 22 June – 26 June 2026 as follows: DateAggregated volume (pcs)Weighted averag",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000602.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, June 26",
-      "summary": "Today, June 26, 2026, investors weighed tech volatility and shifting sentiment as memory costs come into focus.",
+      "title": "S&P 500’s ‘June Swoon’ Reflects AI",
+      "summary": "The research firm said that the market was experiencing “AI Fatigue” following the massive AI investments by hyperscalers.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/26/stock-market-today-june-26-sandisk-tumbles-and-tech-weakness-weighs-on-markets/?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 21:23:57 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-june-swoon-reflects-ai-fatigue-not-market-weakness-yardeni-research/cZ1BCl6R7he?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 06:04:25 +0000"
     },
     {
-      "title": "Palantir Stock Soared Today",
-      "summary": "Is the AI trade on course for another fundamental shift?",
+      "title": "Danaher (DHR) Completes $9.9B",
+      "summary": "Danaher Corporation (NYSE:DHR) is one of the best long term stocks to buy according to hedge funds. On June 10, Danaher completed its acquisition of Masimo Corporation, a specialis",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/26/why-palantir-stock-soared-today/?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 21:10:52 +0000"
+      "link": "https://finance.yahoo.com/healthcare/articles/danaher-dhr-completes-9-9b-052800253.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 05:28:00 +0000"
     },
     {
-      "title": "Tianci International and Greypole",
-      "summary": "HONG KONG, HK / ACCESS Newswire / June 26, 2026 /Tianci International Inc. (NASDAQ:CIIT) today provided an update regarding progress made under the strategic memorandum of understa",
-      "impact": "채권, 금리",
+      "title": "Asian shares are mixed as tech",
+      "summary": "Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offse",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tianci-international-greypole-mining-strategic-210000698.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 21:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-tech-stocks-050807204.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 05:08:07 +0000"
     },
     {
-      "title": "TNL Mediagene Receives Nasdaq",
-      "summary": "Tokyo, Japan--(Newsfile Corp. - June 26, 2026) - TNL Mediagene (NASDAQ: TNMG) (the \"Company\"), a technology and digital media company providing AI-driven advertising, marketing tec",
+      "title": "Aktsiaselts Infortar own share",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 22 June – 26 June 2026 as follows: DateAggregated volume (pcs)Weighted averag",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tnl-mediagene-receives-nasdaq-delisting-210000448.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 21:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000602.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 05:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "70.24",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "69.91",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "73.57",
-          "change": "+0.23%",
-          "direction": "up"
+          "value": "73.12",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4103.00",
-          "change": "-0.02%",
+          "value": "4074.20",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.20",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "6.21",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        70.0,
+        69.91999816894531,
+        69.94999694824219,
+        69.8499984741211,
+        69.97000122070312,
         69.9000015258789,
-        70.05999755859375,
-        70.12999725341797,
-        70.20999908447266,
-        70.29000091552734,
-        70.29000091552734,
-        70.31999969482422,
-        70.37999725341797,
-        70.22000122070312,
-        70.23999786376953
+        69.91999816894531,
+        69.94999694824219,
+        69.93000030517578,
+        69.95999908447266,
+        69.91999816894531,
+        69.91000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-27 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-06-29 16:08 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "8292.27",
-          "change": "-0.12%",
+          "value": "8516.30",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6221.38",
-          "change": "+0.11%",
-          "direction": "up"
+          "value": "6222.36",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.37",
+          "value": "101.21",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1535.00",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1542.32",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.73",
-          "change": "+0.03%",
+          "value": "161.81",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7897",
-          "change": "-0.11%",
-          "direction": "down"
+          "value": "6.7926",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1534.77001953125,
-        1534.77001953125,
-        1534.969970703125,
-        1534.8299560546875,
-        1534.969970703125,
-        1534.969970703125,
-        1535.0899658203125,
-        1535.6099853515625,
-        1535.0,
-        1535.0,
-        1535.0
+        1541.8699951171875,
+        1542.3599853515625,
+        1542.489990234375,
+        1542.1199951171875,
+        1542.3399658203125,
+        1542.3499755859375,
+        1542.3800048828125,
+        1542.199951171875,
+        1542.219970703125,
+        1542.219970703125,
+        1542.3199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-06-27 06:06 KST"
+      "freshness": "2026-06-29 16:18 KST"
     }
   ],
   "currentAction": {
