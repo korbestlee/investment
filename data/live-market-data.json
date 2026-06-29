@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "collectedAt": "2026-06-29T07:18:53Z",
+  "collectedAt": "2026-06-29T11:34:05Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "S&P 500’s ‘June Swoon’ Reflects AI",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The research firm said that the market was experiencing “AI Fatigue” following the massive AI investments by hyperscalers.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-june-swoon-reflects-ai-fatigue-not-market-weakness-yardeni-research/cZ1BCl6R7he?.tsrc=rss"
-    },
-    {
-      "title": "Danaher (DHR) Completes $9.9B",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Danaher Corporation (NYSE:DHR) is one of the best long term stocks to buy according to hedge funds. On June 10, Danaher completed its acquisition of Masimo Corporation, a specialis",
-      "link": "https://finance.yahoo.com/healthcare/articles/danaher-dhr-completes-9-9b-052800253.html?.tsrc=rss"
-    },
-    {
-      "title": "Asian shares are mixed as tech",
+      "title": "Daura Gold Announces High-Grade",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offse",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-tech-stocks-050807204.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 29, 2026) - Daura Gold Corp. (TSXV: DGC) (OTCQB: DGCOF) (the \"Company\" or \"Daura\") (the \"Company\" or \"Daura\") is pleased to anno",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/daura-gold-announces-high-grade-113000666.html?.tsrc=rss"
     },
     {
-      "title": "Aktsiaselts Infortar own share",
+      "title": "Oreterra Completes Airborne",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Toronto, Ontario--(Newsfile Corp. - June 29, 2026) - Oreterra Metals Corp. (TSXV: OTMC) (OTCID: OTMCF) (FSE: D4R0) (WKN: A421RQ) (\"Oreterra\" or the \"Company\") is pleased to report ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/oreterra-completes-airborne-geophysical-survey-113000838.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks Rise Pre-Bell as US-Iran",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 22 June – 26 June 2026 as follows: DateAggregated volume (pcs)Weighted averag",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000602.html?.tsrc=rss"
+      "summary": "The benchmark US stock measures were tracking in the green before the opening bell Monday as the US",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-us-112243590.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks mixed, oil edges up after",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Stocks diverged and oil prices edged higher on Monday after the US and Iran exchanged fire over the weekend, underscoring the fragility of their agreement to end the war. Oil price",
+      "link": "https://finance.yahoo.com/markets/articles/stocks-mixed-oil-rises-us-024127017.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500’s ‘June Swoon’ Reflects AI",
-      "summary": "The research firm said that the market was experiencing “AI Fatigue” following the massive AI investments by hyperscalers.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-june-swoon-reflects-ai-fatigue-not-market-weakness-yardeni-research/cZ1BCl6R7he?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 06:04:25 +0000"
-    },
-    {
-      "title": "Danaher (DHR) Completes $9.9B",
-      "summary": "Danaher Corporation (NYSE:DHR) is one of the best long term stocks to buy according to hedge funds. On June 10, Danaher completed its acquisition of Masimo Corporation, a specialis",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/danaher-dhr-completes-9-9b-052800253.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 05:28:00 +0000"
-    },
-    {
-      "title": "Asian shares are mixed as tech",
-      "summary": "Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offse",
+      "title": "Daura Gold Announces High-Grade",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 29, 2026) - Daura Gold Corp. (TSXV: DGC) (OTCQB: DGCOF) (the \"Company\" or \"Daura\") (the \"Company\" or \"Daura\") is pleased to anno",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-tech-stocks-050807204.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 05:08:07 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/daura-gold-announces-high-grade-113000666.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 11:30:00 +0000"
     },
     {
-      "title": "Aktsiaselts Infortar own share",
-      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 22 June – 26 June 2026 as follows: DateAggregated volume (pcs)Weighted averag",
+      "title": "Oreterra Completes Airborne",
+      "summary": "Toronto, Ontario--(Newsfile Corp. - June 29, 2026) - Oreterra Metals Corp. (TSXV: OTMC) (OTCID: OTMCF) (FSE: D4R0) (WKN: A421RQ) (\"Oreterra\" or the \"Company\") is pleased to report ",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/oreterra-completes-airborne-geophysical-survey-113000838.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Stocks Rise Pre-Bell as US-Iran",
+      "summary": "The benchmark US stock measures were tracking in the green before the opening bell Monday as the US",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000602.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 05:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-us-112243590.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 11:22:43 +0000"
+    },
+    {
+      "title": "Stocks mixed, oil edges up after",
+      "summary": "Stocks diverged and oil prices edged higher on Monday after the US and Iran exchanged fire over the weekend, underscoring the fragility of their agreement to end the war. Oil price",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/stocks-mixed-oil-rises-us-024127017.html?.tsrc=rss",
+      "published": "Mon, 29 Jun 2026 11:21:40 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.91",
-          "change": "-0.01%",
+          "value": "69.97",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "73.12",
-          "change": "-0.07%",
+          "value": "73.14",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4074.20",
-          "change": "-0.00%",
+          "value": "4043.50",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.21",
-          "change": "+0.03%",
+          "value": "6.19",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        69.91999816894531,
-        69.94999694824219,
-        69.8499984741211,
-        69.97000122070312,
-        69.9000015258789,
-        69.91999816894531,
-        69.94999694824219,
+        69.75,
+        69.79000091552734,
+        69.91000366210938,
         69.93000030517578,
-        69.95999908447266,
-        69.91999816894531,
-        69.91000366210938
+        69.86000061035156,
+        69.86000061035156,
+        69.97000122070312,
+        69.97000122070312,
+        70.0199966430664,
+        70.0,
+        69.97000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-06-29 16:08 KST"
+      "freshness": "2026-06-29 20:23 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6222.36",
-          "change": "-0.02%",
+          "value": "6219.32",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.21",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "101.24",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1542.32",
-          "change": "+0.01%",
+          "value": "1542.78",
+          "change": "+0.13%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.81",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "161.83",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7926",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7839",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1541.8699951171875,
-        1542.3599853515625,
-        1542.489990234375,
-        1542.1199951171875,
-        1542.3399658203125,
-        1542.3499755859375,
+        1542.97998046875,
+        1543.06005859375,
+        1542.93994140625,
+        1542.8800048828125,
+        1542.72998046875,
+        1542.8199462890625,
+        1542.9000244140625,
         1542.3800048828125,
-        1542.199951171875,
-        1542.219970703125,
-        1542.219970703125,
-        1542.3199462890625
+        1542.6199951171875,
+        1540.780029296875,
+        1542.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-29 16:18 KST"
+      "status": "중립",
+      "freshness": "2026-06-29 20:34 KST"
     }
   ],
   "currentAction": {
