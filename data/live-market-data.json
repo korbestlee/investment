@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "collectedAt": "2026-06-29T21:42:47Z",
+  "collectedAt": "2026-06-30T06:42:57Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.22%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Harrys Manufacturing Acquires 34",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 29, 2026) - Harrys Manufacturing Inc. (CSE: HARY) (the \"Company\", \"Harrys\", \"we\", \"our\" or \"us\") is pleased to announce that it ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/harrys-manufacturing-acquires-34-mineral-212000374.html?.tsrc=rss"
-    },
-    {
-      "title": "Stock Market Today, June 29",
+      "title": "The Stock Market Just Did Something",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Today, June 29, 2026, index fund rebalancing and new joint venture put fresh pressure on Verizon shares.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-verizon-drops-after-dow-removal-and-bt-group-joint-venture-drives-heavy-selling/?.tsrc=rss"
+      "summary": "The CAPE ratio just hit a level we've only seen once before -- right at the top of the dot-com bubble. But before you panic, consider the facts.",
+      "link": "https://www.fool.com/investing/2026/06/30/the-stock-market-just-did-something-for-the-2nd-ti/?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/communication-services-helps-boost-us-211032234.html?.tsrc=rss"
+      "title": "Dow Closes Above 52,000 for First",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The Dow Jones hit a record 52,182.74 as Alphabet joined the index and semiconductor stocks surged on June 29.",
+      "link": "https://beincrypto.com/dow-52000-record-alphabet-debut-semis/?.tsrc=rss"
     },
     {
-      "title": "Silvercorp Announces Filing of Form",
-      "impact": "원자재, 인플레 기대",
+      "title": "AOL Returns to Wall Street With a",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that it has today filed its Annual Report on Form 40-F for the fiscal year ended Ma",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-announces-filing-form-40-210500665.html?.tsrc=rss"
+      "summary": "Italian media conglomerate Bending Spoons is preparing for an IPO following its purchase of AOL earlier this year. The stock looks pricey.",
+      "link": "https://finance.yahoo.com/m/ec949a23-5857-32f0-be19-b474258b5313/aol-returns-to-wall-street.html?.tsrc=rss"
+    },
+    {
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "It will be a volatile ride for investors one way or another.",
+      "link": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Harrys Manufacturing Acquires 34",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 29, 2026) - Harrys Manufacturing Inc. (CSE: HARY) (the \"Company\", \"Harrys\", \"we\", \"our\" or \"us\") is pleased to announce that it ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/harrys-manufacturing-acquires-34-mineral-212000374.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 21:20:00 +0000"
-    },
-    {
-      "title": "Stock Market Today, June 29",
-      "summary": "Today, June 29, 2026, index fund rebalancing and new joint venture put fresh pressure on Verizon shares.",
+      "title": "The Stock Market Just Did Something",
+      "summary": "The CAPE ratio just hit a level we've only seen once before -- right at the top of the dot-com bubble. But before you panic, consider the facts.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-verizon-drops-after-dow-removal-and-bt-group-joint-venture-drives-heavy-selling/?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 21:13:44 +0000"
+      "link": "https://www.fool.com/investing/2026/06/30/the-stock-market-just-did-something-for-the-2nd-ti/?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 06:20:00 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/communication-services-helps-boost-us-211032234.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 21:10:32 +0000"
+      "title": "Dow Closes Above 52,000 for First",
+      "summary": "The Dow Jones hit a record 52,182.74 as Alphabet joined the index and semiconductor stocks surged on June 29.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://beincrypto.com/dow-52000-record-alphabet-debut-semis/?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 05:24:26 +0000"
     },
     {
-      "title": "Silvercorp Announces Filing of Form",
-      "summary": "Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that it has today filed its Annual Report on Form 40-F for the fiscal year ended Ma",
-      "impact": "원자재, 인플레 기대",
+      "title": "AOL Returns to Wall Street With a",
+      "summary": "Italian media conglomerate Bending Spoons is preparing for an IPO following its purchase of AOL earlier this year. The stock looks pricey.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-announces-filing-form-40-210500665.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 21:05:00 +0000"
+      "link": "https://finance.yahoo.com/m/ec949a23-5857-32f0-be19-b474258b5313/aol-returns-to-wall-street.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 05:01:00 +0000"
+    },
+    {
+      "title": "Prediction",
+      "summary": "It will be a volatile ride for investors one way or another.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 04:50:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "70.42",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "69.93",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "73.64",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "73.22",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4030.50",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4039.80",
+          "change": "+0.26%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.17",
-          "change": "+0.01%",
+          "value": "6.24",
+          "change": "+0.22%",
           "direction": "up"
         }
       ],
       "trend": [
-        70.48999786376953,
-        70.44000244140625,
-        70.43000030517578,
-        70.44999694824219,
-        70.4800033569336,
-        70.44999694824219,
-        70.45999908447266,
-        70.44999694824219,
-        70.45999908447266,
-        70.44000244140625,
-        70.41999816894531
+        69.87999725341797,
+        69.87999725341797,
+        69.87999725341797,
+        69.91000366210938,
+        69.91999816894531,
+        69.9000015258789,
+        69.87999725341797,
+        69.83999633789062,
+        69.8499984741211,
+        69.88999938964844,
+        69.93000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-06-30 05:59 KST"
+      "status": "강세",
+      "freshness": "2026-06-30 15:32 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8516.30",
-          "change": "-0.08%",
+          "value": "8569.15",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.11",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "101.32",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1540.65",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "1550.10",
+          "change": "+0.13%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.88",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "162.27",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7868",
-          "change": "-0.09%",
+          "value": "6.7761",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        1540.3599853515625,
-        1540.3900146484375,
-        1541.280029296875,
-        1541.1700439453125,
-        1540.4000244140625,
-        1540.6199951171875,
-        1540.5899658203125,
-        1540.6199951171875,
-        1540.6600341796875,
-        1541.31005859375,
-        1540.6500244140625
+        1541.489990234375,
+        1542.469970703125,
+        1542.0400390625,
+        1543.1800537109375,
+        1547.800048828125,
+        1548.5,
+        1547.5999755859375,
+        1546.300048828125,
+        1548.4000244140625,
+        1548.0999755859375,
+        1550.0999755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-06-30 06:22 KST"
+      "status": "완화",
+      "freshness": "2026-06-30 15:31 KST"
     }
   ],
   "currentAction": {
