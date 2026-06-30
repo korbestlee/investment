@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-30",
-  "collectedAt": "2026-06-30T10:10:09Z",
+  "date": "2026-07-01",
+  "collectedAt": "2026-06-30T21:44:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.08%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.05%",
+      "value": "+0.05%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Tech stocks on pace for best 6",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
-      "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html?.tsrc=rss"
-    },
-    {
-      "title": "Astra Provides Exploration Update",
+      "title": "360 Energy Pulse",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 30, 2026) - Astra Exploration Inc. (TSXV: ASTR) (OTCQB: ATEPF) (FSE: S3I) (\"Astra\" or the \"Company\") is pleased to provide an up",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/astra-provides-exploration-receives-independent-100000369.html?.tsrc=rss"
+      "summary": "(By Oil & Gas 360) Month Ending: June 2026 – June marked a turning point for global energy markets; the […]",
+      "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-month-213039014.html?.tsrc=rss"
     },
     {
-      "title": "Prediction",
+      "title": "Market Extends Rebound, Bloom Energy",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "International stocks have been outperforming the S&P 500 for the past 18 months. It's unlikely the momentum is over.",
-      "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/?.tsrc=rss"
+      "summary": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
+      "link": "https://finance.yahoo.com/m/62d97296-c021-3216-8366-b2927f9c377c/dow-jones-futures%3A-market.html?.tsrc=rss"
     },
     {
-      "title": "Metals One, EnergyPathways, Zephyr",
-      "impact": "채권, 금리",
+      "title": "Stock Market Today, June 30",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Metals One (AIM:MET1) is consolidating its South African gold strategy, with a deal that would lift its stake in Lions Bay Capital to 54.3%. The transaction implies a 237% unrealis",
-      "link": "https://finance.yahoo.com/video/metals-one-energypathways-zephyr-energy-091147108.html?.tsrc=rss"
+      "summary": "Tech and industrial stocks led advances while gold slipped, and investors eyed a strong quarter close, today, June 30, 2026.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/?.tsrc=rss"
+    },
+    {
+      "title": "Strong earnings, easing oil prices",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "U.S. stock investors brushed off any concerns from the Iran war to send major indexes to their best quarter since 2020.",
+      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tech stocks on pace for best 6",
-      "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Astra Provides Exploration Update",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 30, 2026) - Astra Exploration Inc. (TSXV: ASTR) (OTCQB: ATEPF) (FSE: S3I) (\"Astra\" or the \"Company\") is pleased to provide an up",
+      "title": "360 Energy Pulse",
+      "summary": "(By Oil & Gas 360) Month Ending: June 2026 – June marked a turning point for global energy markets; the […]",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/astra-provides-exploration-receives-independent-100000369.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-month-213039014.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 21:30:39 +0000"
     },
     {
-      "title": "Prediction",
-      "summary": "International stocks have been outperforming the S&P 500 for the past 18 months. It's unlikely the momentum is over.",
+      "title": "Market Extends Rebound, Bloom Energy",
+      "summary": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 09:33:00 +0000"
+      "link": "https://finance.yahoo.com/m/62d97296-c021-3216-8366-b2927f9c377c/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 21:27:23 +0000"
     },
     {
-      "title": "Metals One, EnergyPathways, Zephyr",
-      "summary": "Metals One (AIM:MET1) is consolidating its South African gold strategy, with a deal that would lift its stake in Lions Bay Capital to 54.3%. The transaction implies a 237% unrealis",
-      "impact": "채권, 금리",
+      "title": "Stock Market Today, June 30",
+      "summary": "Tech and industrial stocks led advances while gold slipped, and investors eyed a strong quarter close, today, June 30, 2026.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/metals-one-energypathways-zephyr-energy-091147108.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 09:11:47 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 21:23:28 +0000"
+    },
+    {
+      "title": "Strong earnings, easing oil prices",
+      "summary": "U.S. stock investors brushed off any concerns from the Iran war to send major indexes to their best quarter since 2020.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 21:10:05 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "71.05",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "70.03",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "74.27",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "73.37",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4038.00",
+          "value": "4021.80",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Copper",
           "value": "6.25",
-          "change": "+0.03%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        70.83000183105469,
-        70.80999755859375,
-        70.87000274658203,
-        70.81999969482422,
-        70.91999816894531,
-        70.91000366210938,
-        70.95999908447266,
-        70.9800033569336,
-        71.0,
-        71.0199966430664,
-        71.05000305175781
+        70.05000305175781,
+        70.05000305175781,
+        70.05000305175781,
+        70.05999755859375,
+        70.04000091552734,
+        70.05000305175781,
+        70.08999633789062,
+        70.0999984741211,
+        70.05999755859375,
+        70.06999969482422,
+        70.02999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-06-30 19:00 KST"
+      "status": "약세",
+      "freshness": "2026-07-01 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.680%",
-          "change": "+0.05%",
-          "direction": "up"
-        },
-        {
-          "name": "UST 5Y",
-          "value": "4.144%",
+          "value": "3.732%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "UST 5Y",
+          "value": "4.186%",
+          "change": "+0.12%",
+          "direction": "up"
+        },
+        {
           "name": "UST 10Y",
-          "value": "4.374%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.418%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "4.860%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.902%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.377999782562256,
-        4.377999782562256,
-        4.377999782562256,
-        4.377999782562256,
-        4.377999782562256,
-        4.377999782562256,
-        4.377999782562256,
-        4.375999927520752,
-        4.375999927520752,
-        4.375999927520752,
-        4.374000072479248
+        4.415999889373779,
+        4.415999889373779,
+        4.415999889373779,
+        4.415999889373779,
+        4.415999889373779,
+        4.418000221252441,
+        4.418000221252441,
+        4.418000221252441,
+        4.415999889373779,
+        4.415999889373779,
+        4.418000221252441
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-06-30 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-07-01 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7439.26",
-          "change": "-0.01%",
+          "value": "7496.31",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25815.14",
-          "change": "-0.00%",
+          "value": "26203.18",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6298.73",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6328.07",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7437.2099609375,
-        7433.7001953125,
-        7432.93017578125,
-        7432.16015625,
-        7432.81005859375,
-        7432.31982421875,
-        7433.06982421875,
-        7433.41015625,
-        7434.81982421875,
-        7439.64013671875,
-        7439.259765625
+        7497.43017578125,
+        7495.77001953125,
+        7497.64990234375,
+        7497.58984375,
+        7501.75,
+        7502.81982421875,
+        7504.10009765625,
+        7504.93017578125,
+        7506.47998046875,
+        7502.02001953125,
+        7496.31005859375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-06-30 04:59 KST"
+      "freshness": "2026-07-01 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.34",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1550.90",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "162.30",
+          "value": "101.17",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1546.74",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "162.51",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7728",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6.7783",
+          "change": "-0.09%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1547.5999755859375,
-        1546.300048828125,
-        1548.4000244140625,
-        1548.0999755859375,
-        1550.0999755859375,
-        1548.5,
-        1550.300048828125,
-        1553.0,
-        1552.4000244140625,
-        1550.4000244140625,
-        1550.9000244140625
+        1546.72998046875,
+        1546.6800537109375,
+        1546.8199462890625,
+        1546.780029296875,
+        1546.77001953125,
+        1546.9200439453125,
+        1546.6800537109375,
+        1546.760009765625,
+        1546.8399658203125,
+        1546.77001953125,
+        1546.739990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-06-30 18:35 KST"
+      "status": "완화",
+      "freshness": "2026-07-01 06:44 KST"
     }
   ],
   "currentAction": {
