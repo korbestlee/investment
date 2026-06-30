@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "collectedAt": "2026-06-30T06:42:57Z",
+  "collectedAt": "2026-06-30T10:10:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.22%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The Stock Market Just Did Something",
+      "title": "Tech stocks on pace for best 6",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The CAPE ratio just hit a level we've only seen once before -- right at the top of the dot-com bubble. But before you panic, consider the facts.",
-      "link": "https://www.fool.com/investing/2026/06/30/the-stock-market-just-did-something-for-the-2nd-ti/?.tsrc=rss"
+      "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
+      "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html?.tsrc=rss"
     },
     {
-      "title": "Dow Closes Above 52,000 for First",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Dow Jones hit a record 52,182.74 as Alphabet joined the index and semiconductor stocks surged on June 29.",
-      "link": "https://beincrypto.com/dow-52000-record-alphabet-debut-semis/?.tsrc=rss"
-    },
-    {
-      "title": "AOL Returns to Wall Street With a",
-      "impact": "채권, 금리",
+      "title": "Astra Provides Exploration Update",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Italian media conglomerate Bending Spoons is preparing for an IPO following its purchase of AOL earlier this year. The stock looks pricey.",
-      "link": "https://finance.yahoo.com/m/ec949a23-5857-32f0-be19-b474258b5313/aol-returns-to-wall-street.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 30, 2026) - Astra Exploration Inc. (TSXV: ASTR) (OTCQB: ATEPF) (FSE: S3I) (\"Astra\" or the \"Company\") is pleased to provide an up",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/astra-provides-exploration-receives-independent-100000369.html?.tsrc=rss"
     },
     {
       "title": "Prediction",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "It will be a volatile ride for investors one way or another.",
-      "link": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/?.tsrc=rss"
+      "summary": "International stocks have been outperforming the S&P 500 for the past 18 months. It's unlikely the momentum is over.",
+      "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/?.tsrc=rss"
+    },
+    {
+      "title": "Metals One, EnergyPathways, Zephyr",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Metals One (AIM:MET1) is consolidating its South African gold strategy, with a deal that would lift its stake in Lions Bay Capital to 54.3%. The transaction implies a 237% unrealis",
+      "link": "https://finance.yahoo.com/video/metals-one-energypathways-zephyr-energy-091147108.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Stock Market Just Did Something",
-      "summary": "The CAPE ratio just hit a level we've only seen once before -- right at the top of the dot-com bubble. But before you panic, consider the facts.",
+      "title": "Tech stocks on pace for best 6",
+      "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/30/the-stock-market-just-did-something-for-the-2nd-ti/?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 06:20:00 +0000"
+      "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 10:00:00 +0000"
     },
     {
-      "title": "Dow Closes Above 52,000 for First",
-      "summary": "The Dow Jones hit a record 52,182.74 as Alphabet joined the index and semiconductor stocks surged on June 29.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://beincrypto.com/dow-52000-record-alphabet-debut-semis/?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 05:24:26 +0000"
-    },
-    {
-      "title": "AOL Returns to Wall Street With a",
-      "summary": "Italian media conglomerate Bending Spoons is preparing for an IPO following its purchase of AOL earlier this year. The stock looks pricey.",
-      "impact": "채권, 금리",
+      "title": "Astra Provides Exploration Update",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - June 30, 2026) - Astra Exploration Inc. (TSXV: ASTR) (OTCQB: ATEPF) (FSE: S3I) (\"Astra\" or the \"Company\") is pleased to provide an up",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/ec949a23-5857-32f0-be19-b474258b5313/aol-returns-to-wall-street.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 05:01:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/astra-provides-exploration-receives-independent-100000369.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 10:00:00 +0000"
     },
     {
       "title": "Prediction",
-      "summary": "It will be a volatile ride for investors one way or another.",
+      "summary": "International stocks have been outperforming the S&P 500 for the past 18 months. It's unlikely the momentum is over.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/06/30/prediction-tesla-stock-could-go-parabolic-after-ju/?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 04:50:00 +0000"
+      "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 09:33:00 +0000"
+    },
+    {
+      "title": "Metals One, EnergyPathways, Zephyr",
+      "summary": "Metals One (AIM:MET1) is consolidating its South African gold strategy, with a deal that would lift its stake in Lions Bay Capital to 54.3%. The transaction implies a 237% unrealis",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/metals-one-energypathways-zephyr-energy-091147108.html?.tsrc=rss",
+      "published": "Tue, 30 Jun 2026 09:11:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.93",
-          "change": "+0.06%",
+          "value": "71.05",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "73.22",
+          "value": "74.27",
           "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4039.80",
-          "change": "+0.26%",
-          "direction": "up"
+          "value": "4038.00",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.24",
-          "change": "+0.22%",
+          "value": "6.25",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        69.87999725341797,
-        69.87999725341797,
-        69.87999725341797,
-        69.91000366210938,
-        69.91999816894531,
-        69.9000015258789,
-        69.87999725341797,
-        69.83999633789062,
-        69.8499984741211,
-        69.88999938964844,
-        69.93000030517578
+        70.83000183105469,
+        70.80999755859375,
+        70.87000274658203,
+        70.81999969482422,
+        70.91999816894531,
+        70.91000366210938,
+        70.95999908447266,
+        70.9800033569336,
+        71.0,
+        71.0199966430664,
+        71.05000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-06-30 15:32 KST"
+      "freshness": "2026-06-30 19:00 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6236.06",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6298.73",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.32",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "101.34",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1550.10",
-          "change": "+0.13%",
+          "value": "1550.90",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "162.27",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "162.30",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7761",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.7728",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1541.489990234375,
-        1542.469970703125,
-        1542.0400390625,
-        1543.1800537109375,
-        1547.800048828125,
-        1548.5,
         1547.5999755859375,
         1546.300048828125,
         1548.4000244140625,
         1548.0999755859375,
-        1550.0999755859375
+        1550.0999755859375,
+        1548.5,
+        1550.300048828125,
+        1553.0,
+        1552.4000244140625,
+        1550.4000244140625,
+        1550.9000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-06-30 15:31 KST"
+      "status": "강세",
+      "freshness": "2026-06-30 18:35 KST"
     }
   ],
   "currentAction": {
