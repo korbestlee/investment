@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "collectedAt": "2026-06-30T21:44:56Z",
+  "collectedAt": "2026-07-01T07:00:41Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.06%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "360 Energy Pulse",
-      "impact": "원자재, 인플레 기대",
+      "title": "FTSE 100 Live",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(By Oil & Gas 360) Month Ending: June 2026 – June marked a turning point for global energy markets; the […]",
-      "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-month-213039014.html?.tsrc=rss"
+      "summary": "FTSE 100 Live pre-open Expectations for the FTSE 100 are negative as a new month and the second half of the year begin on Wednesday, with futures mixed for other markets as a raft ",
+      "link": "https://www.proactiveinvestors.com/companies/news/1094763/ftse-100-live-london-blue-chips-called-lower-as-rate-expectations-shift-1094763.html?.tsrc=rss"
     },
     {
-      "title": "Market Extends Rebound, Bloom Energy",
+      "title": "This Bond Maven Is Worried About",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "DoubleLine’s Deputy CIO Jeffrey Sherman is managing bond portfolios defensively in an environment of heavy spending on artificial intelligence and potential for higher interest rat",
+      "link": "https://finance.yahoo.com/m/20bb45d5-9a3e-3f78-a3da-9dae54d36974/this-bond-maven-is-worried.html?.tsrc=rss"
+    },
+    {
+      "title": "Analyst Remains Positive On FedEx",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "FedEx Freight Holding Company, Inc. (NYSE:FDXF) is one of the stocks that were recently added to the S&P 500 index. The company was added to the index following a spinoff from FedE",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-remains-positive-fedex-freight-044304956.html?.tsrc=rss"
+    },
+    {
+      "title": "What Do Analysts Think About Casey’s",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
-      "link": "https://finance.yahoo.com/m/62d97296-c021-3216-8366-b2927f9c377c/dow-jones-futures%3A-market.html?.tsrc=rss"
-    },
-    {
-      "title": "Stock Market Today, June 30",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Tech and industrial stocks led advances while gold slipped, and investors eyed a strong quarter close, today, June 30, 2026.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/?.tsrc=rss"
-    },
-    {
-      "title": "Strong earnings, easing oil prices",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "U.S. stock investors brushed off any concerns from the Iran war to send major indexes to their best quarter since 2020.",
-      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss"
+      "summary": "Casey’s General Stores, Inc. (NASDAQ:CASY) has posted positive performance since its addition to the Index and ranks among the top stocks that were recently added to the S&P 500. C",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-casey-general-stores-044157667.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "360 Energy Pulse",
-      "summary": "(By Oil & Gas 360) Month Ending: June 2026 – June marked a turning point for global energy markets; the […]",
-      "impact": "원자재, 인플레 기대",
+      "title": "FTSE 100 Live",
+      "summary": "FTSE 100 Live pre-open Expectations for the FTSE 100 are negative as a new month and the second half of the year begin on Wednesday, with futures mixed for other markets as a raft ",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/360-energy-pulse-mattered-month-213039014.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 21:30:39 +0000"
+      "link": "https://www.proactiveinvestors.com/companies/news/1094763/ftse-100-live-london-blue-chips-called-lower-as-rate-expectations-shift-1094763.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 06:17:00 +0000"
     },
     {
-      "title": "Market Extends Rebound, Bloom Energy",
-      "summary": ": Techs continued to bounce Tuesday, with bullish moves for the Nasdaq and many AI stocks. SpaceX flashed a first buy signal.",
+      "title": "This Bond Maven Is Worried About",
+      "summary": "DoubleLine’s Deputy CIO Jeffrey Sherman is managing bond portfolios defensively in an environment of heavy spending on artificial intelligence and potential for higher interest rat",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/20bb45d5-9a3e-3f78-a3da-9dae54d36974/this-bond-maven-is-worried.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 05:30:00 +0000"
+    },
+    {
+      "title": "Analyst Remains Positive On FedEx",
+      "summary": "FedEx Freight Holding Company, Inc. (NYSE:FDXF) is one of the stocks that were recently added to the S&P 500 index. The company was added to the index following a spinoff from FedE",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-remains-positive-fedex-freight-044304956.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 04:43:04 +0000"
+    },
+    {
+      "title": "What Do Analysts Think About Casey’s",
+      "summary": "Casey’s General Stores, Inc. (NASDAQ:CASY) has posted positive performance since its addition to the Index and ranks among the top stocks that were recently added to the S&P 500. C",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/62d97296-c021-3216-8366-b2927f9c377c/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 21:27:23 +0000"
-    },
-    {
-      "title": "Stock Market Today, June 30",
-      "summary": "Tech and industrial stocks led advances while gold slipped, and investors eyed a strong quarter close, today, June 30, 2026.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/06/30/stock-market-today-june-30-rocket-lab-soars-on-acquisition-and-major-indexes-gain/?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 21:23:28 +0000"
-    },
-    {
-      "title": "Strong earnings, easing oil prices",
-      "summary": "U.S. stock investors brushed off any concerns from the Iran war to send major indexes to their best quarter since 2020.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.axios.com/2026/06/30/stocks-market-second-quarter-rally#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
-      "published": "Tue, 30 Jun 2026 21:10:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-casey-general-stores-044157667.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 04:41:57 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "70.03",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "69.47",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "73.37",
-          "change": "-0.04%",
+          "value": "72.97",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4021.80",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "3982.60",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.25",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.14",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        70.05000305175781,
-        70.05000305175781,
-        70.05000305175781,
-        70.05999755859375,
-        70.04000091552734,
-        70.05000305175781,
-        70.08999633789062,
-        70.0999984741211,
-        70.05999755859375,
-        70.06999969482422,
-        70.02999877929688
+        69.47000122070312,
+        69.56999969482422,
+        69.62999725341797,
+        69.61000061035156,
+        69.56999969482422,
+        69.58000183105469,
+        69.48999786376953,
+        69.48999786376953,
+        69.48999786376953,
+        69.47000122070312,
+        69.47000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-01 05:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-01 15:50 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8569.15",
-          "change": "-0.09%",
+          "value": "8316.02",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.17",
+          "value": "101.32",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1546.74",
-          "change": "-0.00%",
+          "value": "1555.58",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.51",
-          "change": "-0.03%",
+          "value": "162.67",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7783",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "6.7962",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1546.72998046875,
-        1546.6800537109375,
-        1546.8199462890625,
-        1546.780029296875,
-        1546.77001953125,
-        1546.9200439453125,
-        1546.6800537109375,
-        1546.760009765625,
-        1546.8399658203125,
-        1546.77001953125,
-        1546.739990234375
+        1556.1800537109375,
+        1556.280029296875,
+        1556.010009765625,
+        1555.97998046875,
+        1556.1099853515625,
+        1556.6800537109375,
+        1556.47998046875,
+        1556.780029296875,
+        1556.3800048828125,
+        1555.8800048828125,
+        1555.5799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-01 06:44 KST"
+      "freshness": "2026-07-01 16:00 KST"
     }
   ],
   "currentAction": {
