@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-01",
-  "collectedAt": "2026-07-01T10:31:44Z",
+  "date": "2026-07-02",
+  "collectedAt": "2026-07-01T21:45:03Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.08%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.05%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The Smartest S&P 500 ETF to Buy With",
+      "title": "Stock Market Today, July 1",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "When choosing between S&P 500 ETFs, the decision usually comes down to fees. This is one of the rare cases where Vanguard isn't the winner.",
-      "link": "https://www.fool.com/investing/2026/07/01/smartest-sp-500-etf-to-buy-with-1000-now-spym/?.tsrc=rss"
+      "summary": "Today, July 1, 2026, investors responded to stronger-than-expected earnings despite a cautious outlook from management.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/?.tsrc=rss"
     },
     {
-      "title": "US futures edge lower as investors",
+      "title": "Bridgewater's flagship macro fund",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Markets begin the second half cautiouslyUS stock futures traded lower on Wednesday ahead of the first session of the second half of the year, with investors preparing for comments ",
-      "link": "https://investorshub.advfn.com/market-news/article/31238/us-futures-edge-lower-as-investors-await-warsh-remarks-and-key-economic-data-dow-jones-sp-nasdaq-wall-street?.tsrc=rss"
+      "summary": "Bridgewater Associates' flagship Pure Alpha macro fund posted a gain of 8.1% after braving a volatile market backdrop during the first half of the year, people familiar with the ma",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewaters-flagship-macro-fund-gains-210946156.html?.tsrc=rss"
     },
     {
-      "title": "Lauren Cassidy, CFA, Named Chief",
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "DALLAS, July 01, 2026--Lauren Cassidy named CIO of Founders 100 ETF; leads active strategy targeting historically outperforming factor most U.S. equity ETFs overlook.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lauren-cassidy-cfa-named-chief-100000169.html?.tsrc=rss"
+      "summary": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-210459444.html?.tsrc=rss"
     },
     {
-      "title": "Oil's wild first half of the year",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "For the oil markets, the first half of 2026 has been a wild ride.",
-      "link": "https://finance.yahoo.com/markets/article/oils-wild-first-half-of-the-year-upended-everything-wall-street-expected-100000651.html?.tsrc=rss"
+      "title": "Meta Jumps But Hits SpaceX, Micron;",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
+      "link": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-meta-jumps.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Smartest S&P 500 ETF to Buy With",
-      "summary": "When choosing between S&P 500 ETFs, the decision usually comes down to fees. This is one of the rare cases where Vanguard isn't the winner.",
+      "title": "Stock Market Today, July 1",
+      "summary": "Today, July 1, 2026, investors responded to stronger-than-expected earnings despite a cautious outlook from management.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/01/smartest-sp-500-etf-to-buy-with-1000-now-spym/?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 10:20:00 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 21:19:40 +0000"
     },
     {
-      "title": "US futures edge lower as investors",
-      "summary": "Markets begin the second half cautiouslyUS stock futures traded lower on Wednesday ahead of the first session of the second half of the year, with investors preparing for comments ",
+      "title": "Bridgewater's flagship macro fund",
+      "summary": "Bridgewater Associates' flagship Pure Alpha macro fund posted a gain of 8.1% after braving a volatile market backdrop during the first half of the year, people familiar with the ma",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/31238/us-futures-edge-lower-as-investors-await-warsh-remarks-and-key-economic-data-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 10:12:17 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewaters-flagship-macro-fund-gains-210946156.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 21:09:46 +0000"
     },
     {
-      "title": "Lauren Cassidy, CFA, Named Chief",
-      "summary": "DALLAS, July 01, 2026--Lauren Cassidy named CIO of Founders 100 ETF; leads active strategy targeting historically outperforming factor most U.S. equity ETFs overlook.",
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lauren-cassidy-cfa-named-chief-100000169.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 10:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-210459444.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 21:04:59 +0000"
     },
     {
-      "title": "Oil's wild first half of the year",
-      "summary": "For the oil markets, the first half of 2026 has been a wild ride.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/oils-wild-first-half-of-the-year-upended-everything-wall-street-expected-100000651.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 10:00:00 +0000"
+      "title": "Meta Jumps But Hits SpaceX, Micron;",
+      "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-meta-jumps.html?.tsrc=rss",
+      "published": "Wed, 01 Jul 2026 21:01:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "68.70",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Brent",
-          "value": "72.19",
+          "value": "68.09",
           "change": "+0.03%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "3995.20",
-          "change": "-0.01%",
+          "name": "Brent",
+          "value": "71.14",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4044.60",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.10",
-          "change": "+0.05%",
+          "value": "6.16",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        68.94999694824219,
-        68.95999908447266,
-        68.97000122070312,
-        68.95999908447266,
-        68.94000244140625,
-        68.81999969482422,
-        68.72000122070312,
-        68.77999877929688,
-        68.79000091552734,
-        68.69999694824219,
-        68.69999694824219
+        68.11000061035156,
+        68.13999938964844,
+        68.08999633789062,
+        68.11000061035156,
+        68.11000061035156,
+        68.08000183105469,
+        68.08000183105469,
+        68.08000183105469,
+        68.06999969482422,
+        68.06999969482422,
+        68.08999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-07-01 19:21 KST"
+      "status": "강세",
+      "freshness": "2026-07-02 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.732%",
+          "value": "3.700%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.186%",
-          "change": "+0.12%",
-          "direction": "up"
+          "value": "4.232%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.418%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "4.475%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.902%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.966%",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.415999889373779,
-        4.415999889373779,
-        4.415999889373779,
-        4.415999889373779,
-        4.415999889373779,
-        4.418000221252441,
-        4.418000221252441,
-        4.418000221252441,
-        4.415999889373779,
-        4.415999889373779,
-        4.418000221252441
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.4770002365112305,
+        4.474999904632568,
+        4.4770002365112305,
+        4.474999904632568
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-07-01 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-02 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7496.31",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "7485.02",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26203.18",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "26049.16",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6318.12",
-          "change": "+0.01%",
+          "value": "6289.72",
+          "change": "+0.06%",
           "direction": "up"
         }
       ],
       "trend": [
-        7497.43017578125,
-        7495.77001953125,
-        7497.64990234375,
-        7497.58984375,
-        7501.75,
-        7502.81982421875,
-        7504.10009765625,
-        7504.93017578125,
-        7506.47998046875,
-        7502.02001953125,
-        7496.31005859375
+        7492.43994140625,
+        7492.419921875,
+        7489.52001953125,
+        7487.7099609375,
+        7490.06005859375,
+        7489.43994140625,
+        7488.72998046875,
+        7487.490234375,
+        7481.83984375,
+        7483.6298828125,
+        7485.02001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-07-01 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-02 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.37",
-          "change": "+0.01%",
+          "value": "101.40",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1557.68",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1552.27",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.69",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "162.51",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7828",
-          "change": "-0.00%",
+          "value": "6.7820",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        1557.4200439453125,
-        1557.3699951171875,
-        1557.4200439453125,
-        1557.3399658203125,
-        1557.3900146484375,
-        1557.6199951171875,
-        1557.6199951171875,
-        1557.550048828125,
-        1557.5799560546875,
-        1557.6099853515625,
-        1557.6800537109375
+        1553.550048828125,
+        1553.6199951171875,
+        1553.5899658203125,
+        1554.3599853515625,
+        1554.3800048828125,
+        1554.6300048828125,
+        1554.6400146484375,
+        1554.6500244140625,
+        1552.6300048828125,
+        1552.3199462890625,
+        1552.27001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-01 19:31 KST"
+      "freshness": "2026-07-02 06:45 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
