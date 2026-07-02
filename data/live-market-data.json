@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "collectedAt": "2026-07-01T21:45:03Z",
+  "collectedAt": "2026-07-02T06:28:03Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.09%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, July 1",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Today, July 1, 2026, investors responded to stronger-than-expected earnings despite a cautious outlook from management.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/?.tsrc=rss"
-    },
-    {
-      "title": "Bridgewater's flagship macro fund",
+      "title": "Are Investors Divided Over the Path",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Bridgewater Associates' flagship Pure Alpha macro fund posted a gain of 8.1% after braving a volatile market backdrop during the first half of the year, people familiar with the ma",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewaters-flagship-macro-fund-gains-210946156.html?.tsrc=rss"
+      "summary": "Inflation seems to be at the heart of whether Treasury yields head higher over lower.",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/why-investors-divided-over-path-060000841.html?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-210459444.html?.tsrc=rss"
-    },
-    {
-      "title": "Meta Jumps But Hits SpaceX, Micron;",
+      "title": "AMD Stock Is Having Its Best Year In",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
-      "link": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-meta-jumps.html?.tsrc=rss"
+      "summary": "AMD increased Su’s base salary from $1.32 million to $1.38 million.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-is-having-its-best-year-in-a-decade-and-ceo-lisa-su-gets-36-m-equity-reward-to-match/cZmeJJWR71H?.tsrc=rss"
+    },
+    {
+      "title": "Is The Crypto Market Up Today?",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The crypto market rose about 1%, reclaiming $2.05 trillion as large Bitcoin holders accumulated and Wall Street's red close spurred flows.",
+      "link": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss"
+    },
+    {
+      "title": "The Stock Market Is on the Verge of",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 Shiller CAPE ratio is hovering near its highest level in history.",
+      "link": "https://www.fool.com/investing/2026/07/02/the-stock-market-is-on-the-verge-of-doing-somethin/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, July 1",
-      "summary": "Today, July 1, 2026, investors responded to stronger-than-expected earnings despite a cautious outlook from management.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/01/stock-market-today-july-1-nike-jumps-after-quarterly-results-beat-analyst-estimates/?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 21:19:40 +0000"
-    },
-    {
-      "title": "Bridgewater's flagship macro fund",
-      "summary": "Bridgewater Associates' flagship Pure Alpha macro fund posted a gain of 8.1% after braving a volatile market backdrop during the first half of the year, people familiar with the ma",
+      "title": "Are Investors Divided Over the Path",
+      "summary": "Inflation seems to be at the heart of whether Treasury yields head higher over lower.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewaters-flagship-macro-fund-gains-210946156.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 21:09:46 +0000"
+      "link": "https://finance.yahoo.com/markets/currencies/articles/why-investors-divided-over-path-060000841.html?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 06:00:00 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-210459444.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 21:04:59 +0000"
-    },
-    {
-      "title": "Meta Jumps But Hits SpaceX, Micron;",
-      "summary": "Stocks fell as Meta buzz hit SpaceX, Micron and many AI stocks. Tesla is near a buy point with deliveries due. The June jobs report also is on tap.",
+      "title": "AMD Stock Is Having Its Best Year In",
+      "summary": "AMD increased Su’s base salary from $1.32 million to $1.38 million.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-meta-jumps.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 21:01:03 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-is-having-its-best-year-in-a-decade-and-ceo-lisa-su-gets-36-m-equity-reward-to-match/cZmeJJWR71H?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 05:29:26 +0000"
+    },
+    {
+      "title": "Is The Crypto Market Up Today?",
+      "summary": "The crypto market rose about 1%, reclaiming $2.05 trillion as large Bitcoin holders accumulated and Wall Street's red close spurred flows.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 05:20:56 +0000"
+    },
+    {
+      "title": "The Stock Market Is on the Verge of",
+      "summary": "The S&P 500 Shiller CAPE ratio is hovering near its highest level in history.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/02/the-stock-market-is-on-the-verge-of-doing-somethin/?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 05:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "68.09",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "67.80",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "71.14",
+          "value": "70.80",
           "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4044.60",
-          "change": "+0.01%",
+          "value": "4084.70",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.16",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.14",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        68.11000061035156,
-        68.13999938964844,
-        68.08999633789062,
-        68.11000061035156,
-        68.11000061035156,
-        68.08000183105469,
-        68.08000183105469,
-        68.08000183105469,
-        68.06999969482422,
-        68.06999969482422,
-        68.08999633789062
+        67.77999877929688,
+        67.73999786376953,
+        67.7699966430664,
+        67.72000122070312,
+        67.72000122070312,
+        67.69999694824219,
+        67.72000122070312,
+        67.69999694824219,
+        67.80999755859375,
+        67.86000061035156,
+        67.80000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-02 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-02 15:17 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "8316.02",
-          "change": "-0.03%",
+          "value": "7764.30",
+          "change": "-0.15%",
           "direction": "down"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.40",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1552.27",
+          "value": "101.30",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1555.18",
+          "change": "+0.03%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "162.51",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "162.24",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7820",
-          "change": "-0.17%",
-          "direction": "down"
+          "value": "6.7844",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1553.550048828125,
-        1553.6199951171875,
-        1553.5899658203125,
-        1554.3599853515625,
+        1554.47998046875,
+        1553.6800537109375,
+        1553.800048828125,
+        1554.0799560546875,
+        1554.47998046875,
+        1553.780029296875,
+        1554.5799560546875,
         1554.3800048828125,
-        1554.6300048828125,
-        1554.6400146484375,
+        1554.3800048828125,
         1554.6500244140625,
-        1552.6300048828125,
-        1552.3199462890625,
-        1552.27001953125
+        1555.1800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-02 06:45 KST"
+      "status": "완화",
+      "freshness": "2026-07-02 15:27 KST"
     }
   ],
   "currentAction": {
