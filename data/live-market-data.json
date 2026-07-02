@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "collectedAt": "2026-07-02T09:45:44Z",
+  "date": "2026-07-03",
+  "collectedAt": "2026-07-02T21:21:25Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "1 S&P 500 Stock with Promising",
+      "title": "Dow Hits High But AI Tumbles; Apple,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-promising-093224765.html?.tsrc=rss"
+      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss"
     },
     {
-      "title": "Chip stocks selloff extends on",
+      "title": "Dow Runs 590 Points To New High But",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday’s premarket trading as lofty valuations and heavy AI spending by tech companies weigh on investor ",
-      "link": "https://finance.yahoo.com/technology/articles/chip-stocks-selloff-extends-valuation-090937419.html?.tsrc=rss"
+      "summary": "Stock Market Today: The Dow Jones index bolts higher in a mixed finish Thursday. Tesla stock skids despite strong quarterly deliveries.",
+      "link": "https://finance.yahoo.com/m/0a954eac-e1d5-3f96-bc7a-92420fa6338c/stock-market-today%3A-dow-runs.html?.tsrc=rss"
     },
     {
-      "title": "The S&P 500 Just Had Its Best",
+      "title": "Update",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose to a rec",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-record-wall-street-205758332.html?.tsrc=rss"
+    },
+    {
+      "title": "Franklin Covey Stock Plummeted Today",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 just had its best quarter in nearly six years, and it hints at strong future returns.",
-      "link": "https://www.fool.com/investing/2026/07/02/sp-500-best-quarter-stock-market-big-move-next/?.tsrc=rss"
-    },
-    {
-      "title": "Should You Buy Chevron While It's",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "It isn't now or never with this high-yield oil stock.",
-      "link": "https://www.fool.com/investing/2026/07/02/should-you-buy-chevron-while-its-below-180-or-wait/?.tsrc=rss"
+      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
+      "link": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "1 S&P 500 Stock with Promising",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "title": "Dow Hits High But AI Tumbles; Apple,",
+      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-promising-093224765.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 09:32:24 +0000"
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 21:06:07 +0000"
     },
     {
-      "title": "Chip stocks selloff extends on",
-      "summary": "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday’s premarket trading as lofty valuations and heavy AI spending by tech companies weigh on investor ",
+      "title": "Dow Runs 590 Points To New High But",
+      "summary": "Stock Market Today: The Dow Jones index bolts higher in a mixed finish Thursday. Tesla stock skids despite strong quarterly deliveries.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/technology/articles/chip-stocks-selloff-extends-valuation-090937419.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 09:09:37 +0000"
+      "link": "https://finance.yahoo.com/m/0a954eac-e1d5-3f96-bc7a-92420fa6338c/stock-market-today%3A-dow-runs.html?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 21:02:06 +0000"
     },
     {
-      "title": "The S&P 500 Just Had Its Best",
-      "summary": "The S&P 500 just had its best quarter in nearly six years, and it hints at strong future returns.",
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose to a rec",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-record-wall-street-205758332.html?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 20:57:58 +0000"
+    },
+    {
+      "title": "Franklin Covey Stock Plummeted Today",
+      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/02/sp-500-best-quarter-stock-market-big-move-next/?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 09:08:00 +0000"
-    },
-    {
-      "title": "Should You Buy Chevron While It's",
-      "summary": "It isn't now or never with this high-yield oil stock.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/02/should-you-buy-chevron-while-its-below-180-or-wait/?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 09:04:00 +0000"
+      "link": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 20:52:32 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "67.55",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "70.59",
+          "value": "68.46",
           "change": "+0.03%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "71.54",
+          "change": "-0.06%",
+          "direction": "down"
+        },
+        {
           "name": "Gold",
-          "value": "4078.20",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4135.50",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.14",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.18",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        67.55000305175781,
-        67.5199966430664,
-        67.52999877929688,
-        67.5199966430664,
-        67.48999786376953,
-        67.4800033569336,
-        67.4800033569336,
-        67.51000213623047,
-        67.54000091552734,
-        67.56999969482422,
-        67.55000305175781
+        68.47000122070312,
+        68.44999694824219,
+        68.45999908447266,
+        68.44999694824219,
+        68.47000122070312,
+        68.45999908447266,
+        68.45999908447266,
+        68.44000244140625,
+        68.45999908447266,
+        68.44000244140625,
+        68.45999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-02 18:35 KST"
+      "status": "강세",
+      "freshness": "2026-07-03 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.700%",
+          "value": "3.668%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.232%",
+          "value": "4.230%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.475%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.485%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "4.966%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.985%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.4770002365112305,
-        4.474999904632568,
-        4.4770002365112305,
-        4.474999904632568
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246,
+        4.484999656677246
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-07-02 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-03 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7485.02",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "7477.63",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26049.16",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "25818.47",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6299.53",
-          "change": "-0.00%",
+          "value": "6358.10",
+          "change": "-0.07%",
           "direction": "down"
         }
       ],
       "trend": [
-        7492.43994140625,
-        7492.419921875,
-        7489.52001953125,
-        7487.7099609375,
-        7490.06005859375,
-        7489.43994140625,
-        7488.72998046875,
-        7487.490234375,
-        7481.83984375,
-        7483.6298828125,
-        7485.02001953125
+        7460.22021484375,
+        7467.22998046875,
+        7467.72021484375,
+        7467.93017578125,
+        7468.22998046875,
+        7472.27001953125,
+        7473.91015625,
+        7475.2001953125,
+        7479.259765625,
+        7482.14990234375,
+        7477.6298828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-02 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-03 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.02",
+          "value": "100.85",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1538.85",
+          "change": "+0.05%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "161.04",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1547.05",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "161.21",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.7773",
+          "value": "6.7881",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1547.68994140625,
-        1547.43994140625,
-        1547.489990234375,
-        1547.3299560546875,
-        1547.5799560546875,
-        1547.27001953125,
-        1546.780029296875,
-        1546.780029296875,
-        1547.0400390625,
-        1547.1800537109375,
-        1547.050048828125
+        1538.0,
+        1538.0699462890625,
+        1538.2099609375,
+        1538.02001953125,
+        1538.300048828125,
+        1538.1400146484375,
+        1538.050048828125,
+        1538.0699462890625,
+        1538.06005859375,
+        1538.050048828125,
+        1538.8499755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-02 18:45 KST"
+      "status": "중립",
+      "freshness": "2026-07-03 06:21 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
