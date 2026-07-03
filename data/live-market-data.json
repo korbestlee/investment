@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "collectedAt": "2026-07-02T21:21:25Z",
+  "collectedAt": "2026-07-03T06:18:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Dow Hits High But AI Tumbles; Apple,",
+      "title": "Sandisk Is the Best-Performing S&P",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Sandisk could stay on its monster run to finish 2026.",
+      "link": "https://www.fool.com/investing/2026/07/03/sandisk-is-the-best-performing-sp-500-stock-during/?.tsrc=rss"
+    },
+    {
+      "title": "Asian shares rally after Dow hits a",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Shares rallied in Asia on Friday after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses.  U.S. futures were mode",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html?.tsrc=rss"
+    },
+    {
+      "title": "Are Central Banks Buying So Much",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Central banks are increasingly turning to gold as protection against financial crises, inflation and geopolitical risks, according to a World Gold Council survey highlighted Tuesda",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/why-central-banks-buying-much-033111550.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow Jones Futures Rise After Tesla,",
       "impact": "지수, 위험선호",
       "importance": "mid",
       "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
-      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Runs 590 Points To New High But",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index bolts higher in a mixed finish Thursday. Tesla stock skids despite strong quarterly deliveries.",
-      "link": "https://finance.yahoo.com/m/0a954eac-e1d5-3f96-bc7a-92420fa6338c/stock-market-today%3A-dow-runs.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose to a rec",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-record-wall-street-205758332.html?.tsrc=rss"
-    },
-    {
-      "title": "Franklin Covey Stock Plummeted Today",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
-      "link": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures-rise-after.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Hits High But AI Tumbles; Apple,",
+      "title": "Sandisk Is the Best-Performing S&P",
+      "summary": "Sandisk could stay on its monster run to finish 2026.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/03/sandisk-is-the-best-performing-sp-500-stock-during/?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 04:50:00 +0000"
+    },
+    {
+      "title": "Asian shares rally after Dow hits a",
+      "summary": "Shares rallied in Asia on Friday after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses.  U.S. futures were mode",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 04:22:05 +0000"
+    },
+    {
+      "title": "Are Central Banks Buying So Much",
+      "summary": "Central banks are increasingly turning to gold as protection against financial crises, inflation and geopolitical risks, according to a World Gold Council survey highlighted Tuesda",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/why-central-banks-buying-much-033111550.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 03:31:11 +0000"
+    },
+    {
+      "title": "Dow Jones Futures Rise After Tesla,",
       "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-dow-hits.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 21:06:07 +0000"
-    },
-    {
-      "title": "Dow Runs 590 Points To New High But",
-      "summary": "Stock Market Today: The Dow Jones index bolts higher in a mixed finish Thursday. Tesla stock skids despite strong quarterly deliveries.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/0a954eac-e1d5-3f96-bc7a-92420fa6338c/stock-market-today%3A-dow-runs.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 21:02:06 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose to a rec",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-record-wall-street-205758332.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 20:57:58 +0000"
-    },
-    {
-      "title": "Franklin Covey Stock Plummeted Today",
-      "summary": "Franklin Covey's latest quarterly results and forward guidance disappointed investors.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/02/why-franklin-covey-stock-plummeted-today/?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 20:52:32 +0000"
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 03:00:28 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "68.46",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "69.01",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "71.54",
+          "value": "72.21",
           "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4135.50",
+          "value": "4188.50",
           "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.18",
+          "value": "6.25",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        68.47000122070312,
-        68.44999694824219,
-        68.45999908447266,
-        68.44999694824219,
-        68.47000122070312,
-        68.45999908447266,
-        68.45999908447266,
-        68.44000244140625,
-        68.45999908447266,
-        68.44000244140625,
-        68.45999908447266
+        68.98999786376953,
+        68.9800033569336,
+        68.98999786376953,
+        68.98999786376953,
+        69.0,
+        68.98999786376953,
+        69.0,
+        69.01000213623047,
+        69.02999877929688,
+        69.0199966430664,
+        69.01000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-03 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-03 12:58 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7764.30",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "8068.29",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.85",
+          "value": "100.80",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1538.85",
-          "change": "+0.05%",
+          "value": "1531.28",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.04",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "160.99",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7881",
+          "value": "6.7772",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1538.0,
-        1538.0699462890625,
-        1538.2099609375,
-        1538.02001953125,
-        1538.300048828125,
-        1538.1400146484375,
-        1538.050048828125,
-        1538.0699462890625,
-        1538.06005859375,
-        1538.050048828125,
-        1538.8499755859375
+        1534.97998046875,
+        1534.1800537109375,
+        1535.5799560546875,
+        1534.280029296875,
+        1533.1800537109375,
+        1532.0799560546875,
+        1530.97998046875,
+        1530.3800048828125,
+        1529.47998046875,
+        1530.6800537109375,
+        1531.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "중립",
-      "freshness": "2026-07-03 06:21 KST"
+      "freshness": "2026-07-03 15:18 KST"
     }
   ],
   "currentAction": {
