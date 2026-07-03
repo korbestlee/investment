@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "collectedAt": "2026-07-03T06:18:56Z",
+  "collectedAt": "2026-07-03T09:44:16Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Sandisk Is the Best-Performing S&P",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Sandisk could stay on its monster run to finish 2026.",
-      "link": "https://www.fool.com/investing/2026/07/03/sandisk-is-the-best-performing-sp-500-stock-during/?.tsrc=rss"
-    },
-    {
-      "title": "Asian shares rally after Dow hits a",
+      "title": "US Stock Market Today",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Shares rallied in Asia on Friday after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses.  U.S. futures were mode",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html?.tsrc=rss"
+      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 3 2026 US stock futures are slightly weaker this morning, with S&P 500 contracts edging down around 0.01%, as investors wei",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081507201.html?.tsrc=rss"
     },
     {
-      "title": "Are Central Banks Buying So Much",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Central banks are increasingly turning to gold as protection against financial crises, inflation and geopolitical risks, according to a World Gold Council survey highlighted Tuesda",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/why-central-banks-buying-much-033111550.html?.tsrc=rss"
+      "title": "Bull of the Day",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "America is about immigrants, innovation, and overcoming incredible odds. Bloom's success story has it all!",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise After Tesla,",
+      "title": "The Stock Market Is Flashing a Clear",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
-      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures-rise-after.html?.tsrc=rss"
+      "summary": "The S&P 500 index's trailing 10-year total return of 325% has resulted in what some believe is a frothy market environment.",
+      "link": "https://www.fool.com/investing/2026/07/03/stock-market-flashing-clear-warning-history-2026/?.tsrc=rss"
+    },
+    {
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Some of America's largest growth stocks are down this year, but a recovery might be on the way.",
+      "link": "https://www.fool.com/investing/2026/07/03/prediction-vanguard-etf-beat-sp-500-second-2026/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Sandisk Is the Best-Performing S&P",
-      "summary": "Sandisk could stay on its monster run to finish 2026.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/03/sandisk-is-the-best-performing-sp-500-stock-during/?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 04:50:00 +0000"
-    },
-    {
-      "title": "Asian shares rally after Dow hits a",
-      "summary": "Shares rallied in Asia on Friday after the Dow Jones Industrial Average set another record, as some key AI related stocks rose while others extended losses.  U.S. futures were mode",
+      "title": "US Stock Market Today",
+      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 3 2026 US stock futures are slightly weaker this morning, with S&P 500 contracts edging down around 0.01%, as investors wei",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rally-dow-hits-042205669.html?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 04:22:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081507201.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 08:15:07 +0000"
     },
     {
-      "title": "Are Central Banks Buying So Much",
-      "summary": "Central banks are increasingly turning to gold as protection against financial crises, inflation and geopolitical risks, according to a World Gold Council survey highlighted Tuesda",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/why-central-banks-buying-much-033111550.html?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 03:31:11 +0000"
+      "title": "Bull of the Day",
+      "summary": "America is about immigrants, innovation, and overcoming incredible odds. Bloom's success story has it all!",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 07:50:00 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise After Tesla,",
-      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "title": "The Stock Market Is Flashing a Clear",
+      "summary": "The S&P 500 index's trailing 10-year total return of 325% has resulted in what some believe is a frothy market environment.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 03:00:28 +0000"
+      "link": "https://www.fool.com/investing/2026/07/03/stock-market-flashing-clear-warning-history-2026/?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 06:58:00 +0000"
+    },
+    {
+      "title": "Prediction",
+      "summary": "Some of America's largest growth stocks are down this year, but a recovery might be on the way.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/03/prediction-vanguard-etf-beat-sp-500-second-2026/?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 06:20:00 +0000"
     }
   ],
   "criteria": [
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "8068.29",
-          "change": "+0.08%",
+          "value": "8063.05",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6358.10",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "6376.13",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1531.28",
-          "change": "+0.04%",
+          "value": "1529.67",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.99",
-          "change": "+0.02%",
+          "value": "161.03",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7772",
+          "value": "6.7700",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1534.97998046875,
-        1534.1800537109375,
-        1535.5799560546875,
-        1534.280029296875,
-        1533.1800537109375,
-        1532.0799560546875,
-        1530.97998046875,
-        1530.3800048828125,
-        1529.47998046875,
-        1530.6800537109375,
-        1531.280029296875
+        1529.6600341796875,
+        1529.9599609375,
+        1530.0899658203125,
+        1529.989990234375,
+        1529.9599609375,
+        1529.97998046875,
+        1529.72998046875,
+        1529.699951171875,
+        1529.72998046875,
+        1529.52001953125,
+        1529.6700439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "중립",
-      "freshness": "2026-07-03 15:18 KST"
+      "freshness": "2026-07-03 18:44 KST"
     }
   ],
   "currentAction": {
