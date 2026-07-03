@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-03",
-  "collectedAt": "2026-07-03T09:44:16Z",
+  "date": "2026-07-04",
+  "collectedAt": "2026-07-03T21:20:57Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "US Stock Market Today",
-      "impact": "채권, 금리",
+      "title": "McLaren Exploration Update McCool",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 3 2026 US stock futures are slightly weaker this morning, with S&P 500 contracts edging down around 0.01%, as investors wei",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081507201.html?.tsrc=rss"
+      "summary": "Toronto, Ontario--(Newsfile Corp. - July 3, 2026) - McLaren Resources Inc. (CSE: MCL) (FSE: 3ML) (\"McLaren\" / the \"Company\") has completed a Drone MAG geophysical survey over the M",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mclaren-exploration-mccool-gold-property-210300734.html?.tsrc=rss"
     },
     {
-      "title": "Bull of the Day",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "America is about immigrants, innovation, and overcoming incredible odds. Bloom's success story has it all!",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss"
-    },
-    {
-      "title": "The Stock Market Is Flashing a Clear",
+      "title": "Techs' Rise Signal AI Trend Isn't",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 index's trailing 10-year total return of 325% has resulted in what some believe is a frothy market environment.",
-      "link": "https://www.fool.com/investing/2026/07/03/stock-market-flashing-clear-warning-history-2026/?.tsrc=rss"
+      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-techs%27.html?.tsrc=rss"
     },
     {
-      "title": "Prediction",
+      "title": "TSX Closer",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Toronto Stock Exchange closed sharply higher on Friday as gains across all sectors were supporte",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-sharply-202653624.html?.tsrc=rss"
+    },
+    {
+      "title": "Conagra (CAG) Stock May Be Below",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Some of America's largest growth stocks are down this year, but a recovery might be on the way.",
-      "link": "https://www.fool.com/investing/2026/07/03/prediction-vanguard-etf-beat-sp-500-second-2026/?.tsrc=rss"
+      "summary": "Conagra Brands stock has had a tough run over the past few years, yet the current checks suggest the valuation now leans cheap rather than expensive. After years of weak share pric",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-stock-may-below-201129544.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "US Stock Market Today",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 3 2026 US stock futures are slightly weaker this morning, with S&P 500 contracts edging down around 0.01%, as investors wei",
-      "impact": "채권, 금리",
+      "title": "McLaren Exploration Update McCool",
+      "summary": "Toronto, Ontario--(Newsfile Corp. - July 3, 2026) - McLaren Resources Inc. (CSE: MCL) (FSE: 3ML) (\"McLaren\" / the \"Company\") has completed a Drone MAG geophysical survey over the M",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081507201.html?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 08:15:07 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mclaren-exploration-mccool-gold-property-210300734.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 21:03:00 +0000"
     },
     {
-      "title": "Bull of the Day",
-      "summary": "America is about immigrants, innovation, and overcoming incredible odds. Bloom's success story has it all!",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 07:50:00 +0000"
-    },
-    {
-      "title": "The Stock Market Is Flashing a Clear",
-      "summary": "The S&P 500 index's trailing 10-year total return of 325% has resulted in what some believe is a frothy market environment.",
+      "title": "Techs' Rise Signal AI Trend Isn't",
+      "summary": "The stock market had strong weekly gains, but it didn't feel that way with Sandisk and other AI plays selling off Thursday.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/03/stock-market-flashing-clear-warning-history-2026/?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 06:58:00 +0000"
+      "link": "https://finance.yahoo.com/m/c5c7ee9b-1c12-3518-9e81-d4125388c16f/dow-jones-futures%3A-techs%27.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 20:53:55 +0000"
     },
     {
-      "title": "Prediction",
-      "summary": "Some of America's largest growth stocks are down this year, but a recovery might be on the way.",
+      "title": "TSX Closer",
+      "summary": "The Toronto Stock Exchange closed sharply higher on Friday as gains across all sectors were supporte",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-sharply-202653624.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 20:26:53 +0000"
+    },
+    {
+      "title": "Conagra (CAG) Stock May Be Below",
+      "summary": "Conagra Brands stock has had a tough run over the past few years, yet the current checks suggest the valuation now leans cheap rather than expensive. After years of weak share pric",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/03/prediction-vanguard-etf-beat-sp-500-second-2026/?.tsrc=rss",
-      "published": "Fri, 03 Jul 2026 06:20:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/conagra-cag-stock-may-below-201129544.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 20:11:29 +0000"
     }
   ],
   "criteria": [
@@ -268,7 +268,7 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6376.13",
+          "value": "6416.85",
           "change": "+0.01%",
           "direction": "up"
         }
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1529.67",
+          "value": "1530.15",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "161.03",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "161.34",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7700",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7702",
+          "change": "-0.13%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1529.6600341796875,
+        1530.050048828125,
+        1530.030029296875,
+        1530.0400390625,
+        1529.719970703125,
+        1529.9000244140625,
+        1530.0,
+        1530.1500244140625,
+        1530.0699462890625,
+        1530.050048828125,
         1529.9599609375,
-        1530.0899658203125,
-        1529.989990234375,
-        1529.9599609375,
-        1529.97998046875,
-        1529.72998046875,
-        1529.699951171875,
-        1529.72998046875,
-        1529.52001953125,
-        1529.6700439453125
+        1530.1500244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "중립",
-      "freshness": "2026-07-03 18:44 KST"
+      "freshness": "2026-07-04 05:27 KST"
     }
   ],
   "currentAction": {
