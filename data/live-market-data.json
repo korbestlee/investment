@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-06",
-  "collectedAt": "2026-07-06T11:15:04Z",
+  "date": "2026-07-07",
+  "collectedAt": "2026-07-06T21:45:34Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.06%",
+      "value": "+0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.28%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.42%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Coast Copper Continues Non-Core",
+      "title": "Nvidia rivals get a rare break in AI",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Nvidia (NVDA) investors were more or less expecting another clean step forward in the AI upgrade cycle. Rubin was expected to continue pushing the roadmap ahead, customers would ke",
+      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race?.tsrc=rss"
+    },
+    {
+      "title": "VTES vs. VCSH",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Coast Copper Corp. (\"Coast Copper\" or the \"Company\"); (TSXV: COCO) is pleased to announce that it has entered into an asset purchase agreement (the \"Agreement\") on July 3, 2026 wit",
-      "link": "https://finance.yahoo.com/news/coast-copper-continues-non-core-110500294.html?.tsrc=rss"
+      "summary": "Explore how these two funds differ in risk, holdings, and income profile to help align your fixed-income strategy with your financial goals.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/?.tsrc=rss"
     },
     {
-      "title": "Oil drops more than 1% after Opec+",
+      "title": "S&P 500, Nasdaq End Higher On",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Shares of Microsoft fell almost 1% after the company said it’s cutting 4,800 jobs, or 2.1% of its global workforce.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU?.tsrc=rss"
+    },
+    {
+      "title": "Update",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "At 07:56 GMT on 6 July, Brent had fallen by $1.02 to $71.10/bbl, while US WTI had dropped $0.80 to $67.89/bbl.",
-      "link": "https://www.offshore-technology.com/news/oil-drops-opec-raises-august-output-targets/?.tsrc=rss"
-    },
-    {
-      "title": "These 3 Growth Stocks Can Outperform",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "These top tech stocks offer above-average earnings growth prospects at a reasonable price.",
-      "link": "https://www.fool.com/investing/2026/07/06/these-3-growth-stocks-can-outperform-through-ai-ta/?.tsrc=rss"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Nasdaq Set",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Dow Jones futures rose Monday morning, along with S&P 500 futures and especially Nasdaq futures.  Apple, SpaceX, Sandisk and Robinhood Markets are notable stocks to watch.  Last we",
-      "link": "https://finance.yahoo.com/m/ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8/dow-jones-futures-rise%2C.html?.tsrc=rss"
+      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-communication-211809818.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Coast Copper Continues Non-Core",
-      "summary": "Coast Copper Corp. (\"Coast Copper\" or the \"Company\"); (TSXV: COCO) is pleased to announce that it has entered into an asset purchase agreement (the \"Agreement\") on July 3, 2026 wit",
+      "title": "Nvidia rivals get a rare break in AI",
+      "summary": "Nvidia (NVDA) investors were more or less expecting another clean step forward in the AI upgrade cycle. Rubin was expected to continue pushing the roadmap ahead, customers would ke",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race?.tsrc=rss",
+      "published": "Mon, 06 Jul 2026 21:33:00 +0000"
+    },
+    {
+      "title": "VTES vs. VCSH",
+      "summary": "Explore how these two funds differ in risk, holdings, and income profile to help align your fixed-income strategy with your financial goals.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/news/coast-copper-continues-non-core-110500294.html?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 11:05:00 +0000"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/?.tsrc=rss",
+      "published": "Mon, 06 Jul 2026 21:26:01 +0000"
     },
     {
-      "title": "Oil drops more than 1% after Opec+",
-      "summary": "At 07:56 GMT on 6 July, Brent had fallen by $1.02 to $71.10/bbl, while US WTI had dropped $0.80 to $67.89/bbl.",
+      "title": "S&P 500, Nasdaq End Higher On",
+      "summary": "Shares of Microsoft fell almost 1% after the company said it’s cutting 4,800 jobs, or 2.1% of its global workforce.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU?.tsrc=rss",
+      "published": "Mon, 06 Jul 2026 21:24:38 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.offshore-technology.com/news/oil-drops-opec-raises-august-output-targets/?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 11:02:45 +0000"
-    },
-    {
-      "title": "These 3 Growth Stocks Can Outperform",
-      "summary": "These top tech stocks offer above-average earnings growth prospects at a reasonable price.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/06/these-3-growth-stocks-can-outperform-through-ai-ta/?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 11:02:00 +0000"
-    },
-    {
-      "title": "Dow Jones Futures Rise, Nasdaq Set",
-      "summary": "Dow Jones futures rose Monday morning, along with S&P 500 futures and especially Nasdaq futures.  Apple, SpaceX, Sandisk and Robinhood Markets are notable stocks to watch.  Last we",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8/dow-jones-futures-rise%2C.html?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 11:00:55 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-communication-211809818.html?.tsrc=rss",
+      "published": "Mon, 06 Jul 2026 21:18:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "68.71",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "72.11",
-          "change": "+0.07%",
+          "value": "68.78",
+          "change": "+0.28%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "72.13",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "Gold",
-          "value": "4165.20",
-          "change": "+0.01%",
+          "value": "4187.30",
+          "change": "+0.25%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.22",
-          "change": "-0.01%",
+          "change": "-0.42%",
           "direction": "down"
         }
       ],
       "trend": [
-        68.58999633789062,
-        68.62000274658203,
+        68.68000030517578,
+        68.66000366210938,
         68.66999816894531,
+        68.68000030517578,
+        68.68000030517578,
+        68.62000274658203,
+        68.62000274658203,
+        68.62000274658203,
         68.62000274658203,
         68.58999633789062,
-        68.62999725341797,
-        68.70999908447266,
-        68.69999694824219,
-        68.7300033569336,
-        68.7300033569336,
-        68.70999908447266
+        68.77999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-06 20:05 KST"
+      "status": "강세",
+      "freshness": "2026-07-07 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.668%",
+          "value": "3.690%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.230%",
+          "value": "4.211%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.485%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.479%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "4.985%",
+          "value": "4.993%",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246,
-        4.484999656677246
+        4.479000091552734,
+        4.479000091552734,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.480999946594238,
+        4.479000091552734
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-07-03 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-07 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7477.63",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "7538.34",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25818.47",
-          "change": "-0.07%",
+          "value": "26125.31",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6402.63",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6396.06",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7460.22021484375,
-        7467.22998046875,
-        7467.72021484375,
-        7467.93017578125,
-        7468.22998046875,
-        7472.27001953125,
-        7473.91015625,
-        7475.2001953125,
-        7479.259765625,
-        7482.14990234375,
-        7477.6298828125
+        7546.58984375,
+        7543.08984375,
+        7542.669921875,
+        7541.009765625,
+        7541.990234375,
+        7538.990234375,
+        7537.2001953125,
+        7536.02978515625,
+        7538.990234375,
+        7538.22998046875,
+        7538.33984375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-07-03 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-07 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.08",
+          "value": "100.87",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1530.88",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "162.30",
+          "value": "1528.06",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDJPY",
+          "value": "162.08",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7836",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7853",
+          "change": "-0.15%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1530.47998046875,
-        1531.3800048828125,
-        1531.3299560546875,
-        1530.8800048828125,
-        1530.9200439453125,
-        1531.260009765625,
-        1531.280029296875,
-        1531.0899658203125,
-        1531.5,
-        1530.47998046875,
-        1530.8800048828125
+        1528.68994140625,
+        1529.3800048828125,
+        1529.1500244140625,
+        1528.6600341796875,
+        1528.52001953125,
+        1528.219970703125,
+        1528.0699462890625,
+        1528.010009765625,
+        1528.0999755859375,
+        1528.1300048828125,
+        1528.06005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-06 20:15 KST"
+      "status": "중립",
+      "freshness": "2026-07-07 06:09 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
