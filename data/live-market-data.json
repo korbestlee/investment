@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "collectedAt": "2026-07-07T06:33:43Z",
+  "collectedAt": "2026-07-07T10:08:05Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dave & Buster’s Entertainment, Inc.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Dave & Buster’s Entertainment, Inc. (NASDAQ:PLAY) is among the best get rich quick stocks to buy right now. On June 29, Citizens started coverage on Dave & Buster’s Entertainment, ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-entertainment-inc-play-055358677.html?.tsrc=rss"
+      "title": "K2 Gold Provides Exploration Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 7, 2026) - K2 Gold Corporation (TSXV: KTOV) (OTCQX: KTGDF) (\"K2 Gold\" or the \"Company\") today announced an update on its fully f",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/k2-gold-provides-exploration-drill-100000243.html?.tsrc=rss"
     },
     {
-      "title": "Is Omeros Corporation (OMER) the",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Omeros Corporation (NASDAQ:OMER) is among the best get rich quick stocks to buy right now. On June 26, Brandon Folkes from H.C. Wainwright trimmed the price target on Omeros Corpor",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-corporation-omer-best-rich-055349381.html?.tsrc=rss"
-    },
-    {
-      "title": "Asia Stocks Drop on Chip Selloff,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Asian equities fell as renewed selling in technology stocks, including Samsung Electronics Co. and SK Hynix Inc., deepened concerns that the AI-driven rally may have run ahead of i",
-      "link": "https://finance.yahoo.com/video/asia-stocks-drop-chip-selloff-052618902.html?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow Futures Mixed",
+      "title": "The Dividend ETF Quietly",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "AI-driven momentum is keeping bulls in high spirits after the Dow’s record close, though investors are a bit cautious ahead of the Fed minutes and fresh corporate catalysts.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-mixed-after-record-session-why-mu-sndk-rivn-spcx-stocks-are-trending-overnight/cZmleiCR7ma?.tsrc=rss"
+      "summary": "This dividend ETF's focus beyond yield continues to pay off for investors.",
+      "link": "https://www.fool.com/investing/2026/07/07/the-dividend-etf-quietly-outperforming-the-sp-500/?.tsrc=rss"
+    },
+    {
+      "title": "Oil and gas prices rise after tanker",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil and gas prices have risen after a suspected Iranian attack on a ship in the Strait of Hormuz, underlining the fragility of peace talks between the US and Iran.",
+      "link": "https://uk.finance.yahoo.com/news/oil-gas-prices-rise-tanker-093851474.html?.tsrc=rss"
+    },
+    {
+      "title": "2 S&P 500 Stocks to Own for Decades",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-own-093812875.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dave & Buster’s Entertainment, Inc.",
-      "summary": "Dave & Buster’s Entertainment, Inc. (NASDAQ:PLAY) is among the best get rich quick stocks to buy right now. On June 29, Citizens started coverage on Dave & Buster’s Entertainment, ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-entertainment-inc-play-055358677.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 05:53:58 +0000"
+      "title": "K2 Gold Provides Exploration Update",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 7, 2026) - K2 Gold Corporation (TSXV: KTOV) (OTCQX: KTGDF) (\"K2 Gold\" or the \"Company\") today announced an update on its fully f",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/k2-gold-provides-exploration-drill-100000243.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000"
     },
     {
-      "title": "Is Omeros Corporation (OMER) the",
-      "summary": "Omeros Corporation (NASDAQ:OMER) is among the best get rich quick stocks to buy right now. On June 26, Brandon Folkes from H.C. Wainwright trimmed the price target on Omeros Corpor",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-corporation-omer-best-rich-055349381.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 05:53:49 +0000"
-    },
-    {
-      "title": "Asia Stocks Drop on Chip Selloff,",
-      "summary": "Asian equities fell as renewed selling in technology stocks, including Samsung Electronics Co. and SK Hynix Inc., deepened concerns that the AI-driven rally may have run ahead of i",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/video/asia-stocks-drop-chip-selloff-052618902.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 05:26:18 +0000"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow Futures Mixed",
-      "summary": "AI-driven momentum is keeping bulls in high spirits after the Dow’s record close, though investors are a bit cautious ahead of the Fed minutes and fresh corporate catalysts.",
+      "title": "The Dividend ETF Quietly",
+      "summary": "This dividend ETF's focus beyond yield continues to pay off for investors.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-mixed-after-record-session-why-mu-sndk-rivn-spcx-stocks-are-trending-overnight/cZmleiCR7ma?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 05:09:06 +0000"
+      "link": "https://www.fool.com/investing/2026/07/07/the-dividend-etf-quietly-outperforming-the-sp-500/?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 09:50:00 +0000"
+    },
+    {
+      "title": "Oil and gas prices rise after tanker",
+      "summary": "Oil and gas prices have risen after a suspected Iranian attack on a ship in the Strait of Hormuz, underlining the fragility of peace talks between the US and Iran.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://uk.finance.yahoo.com/news/oil-gas-prices-rise-tanker-093851474.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 09:38:51 +0000"
+    },
+    {
+      "title": "2 S&P 500 Stocks to Own for Decades",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-own-093812875.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 09:38:12 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "69.33",
+          "value": "69.25",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "72.84",
-          "change": "+0.04%",
+          "value": "72.86",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4137.90",
+          "value": "4142.80",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.21",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.24",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        69.29000091552734,
-        69.27999877929688,
-        69.2300033569336,
         69.23999786376953,
-        69.20999908447266,
-        69.31999969482422,
-        69.33000183105469,
-        69.30999755859375,
-        69.31999969482422,
-        69.33000183105469,
-        69.33000183105469
+        69.26000213623047,
+        69.29000091552734,
+        69.23999786376953,
+        69.2300033569336,
+        69.26000213623047,
+        69.23999786376953,
+        69.27999877929688,
+        69.23999786376953,
+        69.25,
+        69.25
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-07-07 15:23 KST"
+      "freshness": "2026-07-07 18:58 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6396.06",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6372.04",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.95",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "100.97",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1526.78",
-          "change": "-0.07%",
+          "value": "1518.82",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.01",
-          "change": "-0.00%",
+          "value": "161.93",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7969",
-          "change": "-0.00%",
+          "value": "6.7826",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        1528.1800537109375,
-        1527.780029296875,
-        1527.6800537109375,
-        1527.5799560546875,
-        1528.1800537109375,
-        1528.0799560546875,
-        1528.0799560546875,
-        1527.780029296875,
-        1527.469970703125,
-        1527.8800048828125,
-        1526.780029296875
+        1518.8800048828125,
+        1518.8699951171875,
+        1518.97998046875,
+        1519.1800537109375,
+        1518.6700439453125,
+        1519.1099853515625,
+        1518.800048828125,
+        1519.1400146484375,
+        1518.97998046875,
+        1519.4100341796875,
+        1518.8199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-07 15:33 KST"
+      "status": "중립",
+      "freshness": "2026-07-07 19:07 KST"
     }
   ],
   "currentAction": {
