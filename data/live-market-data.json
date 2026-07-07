@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "collectedAt": "2026-07-06T21:45:34Z",
+  "collectedAt": "2026-07-07T06:33:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.28%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.42%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nvidia rivals get a rare break in AI",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Nvidia (NVDA) investors were more or less expecting another clean step forward in the AI upgrade cycle. Rubin was expected to continue pushing the roadmap ahead, customers would ke",
-      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race?.tsrc=rss"
-    },
-    {
-      "title": "VTES vs. VCSH",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Explore how these two funds differ in risk, holdings, and income profile to help align your fixed-income strategy with your financial goals.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq End Higher On",
+      "title": "Dave & Buster’s Entertainment, Inc.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Shares of Microsoft fell almost 1% after the company said it’s cutting 4,800 jobs, or 2.1% of its global workforce.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU?.tsrc=rss"
+      "summary": "Dave & Buster’s Entertainment, Inc. (NASDAQ:PLAY) is among the best get rich quick stocks to buy right now. On June 29, Citizens started coverage on Dave & Buster’s Entertainment, ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-entertainment-inc-play-055358677.html?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
+      "title": "Is Omeros Corporation (OMER) the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Omeros Corporation (NASDAQ:OMER) is among the best get rich quick stocks to buy right now. On June 26, Brandon Folkes from H.C. Wainwright trimmed the price target on Omeros Corpor",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-corporation-omer-best-rich-055349381.html?.tsrc=rss"
+    },
+    {
+      "title": "Asia Stocks Drop on Chip Selloff,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Asian equities fell as renewed selling in technology stocks, including Samsung Electronics Co. and SK Hynix Inc., deepened concerns that the AI-driven rally may have run ahead of i",
+      "link": "https://finance.yahoo.com/video/asia-stocks-drop-chip-selloff-052618902.html?.tsrc=rss"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Futures Mixed",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-communication-211809818.html?.tsrc=rss"
+      "summary": "AI-driven momentum is keeping bulls in high spirits after the Dow’s record close, though investors are a bit cautious ahead of the Fed minutes and fresh corporate catalysts.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-mixed-after-record-session-why-mu-sndk-rivn-spcx-stocks-are-trending-overnight/cZmleiCR7ma?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nvidia rivals get a rare break in AI",
-      "summary": "Nvidia (NVDA) investors were more or less expecting another clean step forward in the AI upgrade cycle. Rubin was expected to continue pushing the roadmap ahead, customers would ke",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.thestreet.com/technology/nvidia-rivals-get-a-rare-break-in-ai-race?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 21:33:00 +0000"
-    },
-    {
-      "title": "VTES vs. VCSH",
-      "summary": "Explore how these two funds differ in risk, holdings, and income profile to help align your fixed-income strategy with your financial goals.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/06/vtes-vs-vcsh-which-vanguard-bond-etf-is-the-better-fit-for-your-portfolio/?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 21:26:01 +0000"
-    },
-    {
-      "title": "S&P 500, Nasdaq End Higher On",
-      "summary": "Shares of Microsoft fell almost 1% after the company said it’s cutting 4,800 jobs, or 2.1% of its global workforce.",
+      "title": "Dave & Buster’s Entertainment, Inc.",
+      "summary": "Dave & Buster’s Entertainment, Inc. (NASDAQ:PLAY) is among the best get rich quick stocks to buy right now. On June 29, Citizens started coverage on Dave & Buster’s Entertainment, ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-on-support-from-strong-tech-gains-led-by-nvidia-dow-hits-record-highs-msft-nvda-lmt-avgo-spcx-in-focus/cZm1YfaR7lU?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 21:24:38 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-entertainment-inc-play-055358677.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 05:53:58 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
-      "impact": "원자재, 인플레 기대",
+      "title": "Is Omeros Corporation (OMER) the",
+      "summary": "Omeros Corporation (NASDAQ:OMER) is among the best get rich quick stocks to buy right now. On June 26, Brandon Folkes from H.C. Wainwright trimmed the price target on Omeros Corpor",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-corporation-omer-best-rich-055349381.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 05:53:49 +0000"
+    },
+    {
+      "title": "Asia Stocks Drop on Chip Selloff,",
+      "summary": "Asian equities fell as renewed selling in technology stocks, including Samsung Electronics Co. and SK Hynix Inc., deepened concerns that the AI-driven rally may have run ahead of i",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/video/asia-stocks-drop-chip-selloff-052618902.html?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 05:26:18 +0000"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Futures Mixed",
+      "summary": "AI-driven momentum is keeping bulls in high spirits after the Dow’s record close, though investors are a bit cautious ahead of the Fed minutes and fresh corporate catalysts.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-communication-211809818.html?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 21:18:09 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-mixed-after-record-session-why-mu-sndk-rivn-spcx-stocks-are-trending-overnight/cZmleiCR7ma?.tsrc=rss",
+      "published": "Tue, 07 Jul 2026 05:09:06 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "68.78",
-          "change": "+0.28%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "72.13",
+          "value": "69.33",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "Brent",
+          "value": "72.84",
+          "change": "+0.04%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4187.30",
-          "change": "+0.25%",
+          "value": "4137.90",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.22",
-          "change": "-0.42%",
-          "direction": "down"
+          "value": "6.21",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        68.68000030517578,
-        68.66000366210938,
-        68.66999816894531,
-        68.68000030517578,
-        68.68000030517578,
-        68.62000274658203,
-        68.62000274658203,
-        68.62000274658203,
-        68.62000274658203,
-        68.58999633789062,
-        68.77999877929688
+        69.29000091552734,
+        69.27999877929688,
+        69.2300033569336,
+        69.23999786376953,
+        69.20999908447266,
+        69.31999969482422,
+        69.33000183105469,
+        69.30999755859375,
+        69.31999969482422,
+        69.33000183105469,
+        69.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-07 05:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-07 15:23 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "8049.23",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7660.98",
+          "change": "+0.13%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.87",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1528.06",
+          "value": "100.95",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1526.78",
+          "change": "-0.07%",
+          "direction": "down"
+        },
+        {
           "name": "USDJPY",
-          "value": "162.08",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "162.01",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7853",
-          "change": "-0.15%",
+          "value": "6.7969",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        1528.68994140625,
-        1529.3800048828125,
-        1529.1500244140625,
-        1528.6600341796875,
-        1528.52001953125,
-        1528.219970703125,
-        1528.0699462890625,
-        1528.010009765625,
-        1528.0999755859375,
-        1528.1300048828125,
-        1528.06005859375
+        1528.1800537109375,
+        1527.780029296875,
+        1527.6800537109375,
+        1527.5799560546875,
+        1528.1800537109375,
+        1528.0799560546875,
+        1528.0799560546875,
+        1527.780029296875,
+        1527.469970703125,
+        1527.8800048828125,
+        1526.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-07 06:09 KST"
+      "status": "완화",
+      "freshness": "2026-07-07 15:33 KST"
     }
   ],
   "currentAction": {
