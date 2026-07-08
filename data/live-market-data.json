@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-08",
-  "collectedAt": "2026-07-08T09:10:19Z",
+  "date": "2026-07-09",
+  "collectedAt": "2026-07-08T21:21:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.08%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.11%",
+      "value": "+0.20%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "BB Energy Secures Three Additional",
+      "title": "Oil Spikes On Iran News, But Nvidia,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "BB Energy secures three additional crude oil cargos from the Republic of South Sudan.",
-      "link": "https://finance.yahoo.com/energy/articles/bb-energy-secures-three-additional-090000357.html?.tsrc=rss"
+      "summary": "The Dow Jones slid with most stocks as oil prices jumped. The Nasdaq rose as Nvidia, Dell and AI plays bounced. SpaceX hit a new low.",
+      "link": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%3A-oil-spikes.html?.tsrc=rss"
     },
     {
-      "title": "J2 Metals Mobilizes UAV Drone Mag",
+      "title": "Hertz and Saia Shares Plummet, What",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 8, 2026) - J2 Metals Inc. (TSXV: JTWO) (OTCQB: JTWOF) (FSE: OO10) (\"J2\" or the \"Company\") is pleased to announce that crews have",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/j2-metals-mobilizes-uav-drone-090000689.html?.tsrc=rss"
+      "summary": "A number of stocks fell in the afternoon session after President Trump declared the Iran ceasefire \"over\" and vowed renewed strikes, reversing the fuel relief the sector had enjoye",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hertz-saia-shares-plummet-know-205844881.html?.tsrc=rss"
     },
     {
-      "title": "2 Reasons to Avoid ACVA and 1 Stock",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Over the last six months, ACV Auctions’s shares have sunk to $7.30, producing a disappointing 16.4% loss - a stark contrast to the S&P 500’s 9% gain. This may have investors wonder",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-acva-1-084244920.html?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices rising after fresh round",
+      "title": "Blue Gold Receives Nasdaq Deficiency",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The price of Brent crude oil was up by as much as 3% on Wednesday morning to around 76 US dollars a barrel.",
-      "link": "https://uk.finance.yahoo.com/news/oil-prices-rising-fresh-round-084243606.html?.tsrc=rss"
+      "summary": "NEW YORK, July 08, 2026 (GLOBE NEWSWIRE) -- Blue Gold Limited (Nasdaq: BGL) (Nasdaq: BGLWW) (“Blue Gold” or the “Company”), a gold mining company with the infrastructure to deliver",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-gold-receives-nasdaq-deficiency-205600596.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil surges, stocks slide as Trump",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices briefly soared back above $80 per barrel while stock markets slid Wednesday, after US President Donald Trump said Washington's ceasefire with Iran was over following ren",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-extend-rally-us-022604256.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "BB Energy Secures Three Additional",
-      "summary": "BB Energy secures three additional crude oil cargos from the Republic of South Sudan.",
+      "title": "Oil Spikes On Iran News, But Nvidia,",
+      "summary": "The Dow Jones slid with most stocks as oil prices jumped. The Nasdaq rose as Nvidia, Dell and AI plays bounced. SpaceX hit a new low.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/bb-energy-secures-three-additional-090000357.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 09:00:00 +0000"
+      "link": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%3A-oil-spikes.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 21:07:41 +0000"
     },
     {
-      "title": "J2 Metals Mobilizes UAV Drone Mag",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 8, 2026) - J2 Metals Inc. (TSXV: JTWO) (OTCQB: JTWOF) (FSE: OO10) (\"J2\" or the \"Company\") is pleased to announce that crews have",
+      "title": "Hertz and Saia Shares Plummet, What",
+      "summary": "A number of stocks fell in the afternoon session after President Trump declared the Iran ceasefire \"over\" and vowed renewed strikes, reversing the fuel relief the sector had enjoye",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/j2-metals-mobilizes-uav-drone-090000689.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 09:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hertz-saia-shares-plummet-know-205844881.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 20:58:44 +0000"
     },
     {
-      "title": "2 Reasons to Avoid ACVA and 1 Stock",
-      "summary": "Over the last six months, ACV Auctions’s shares have sunk to $7.30, producing a disappointing 16.4% loss - a stark contrast to the S&P 500’s 9% gain. This may have investors wonder",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-acva-1-084244920.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 08:42:44 +0000"
-    },
-    {
-      "title": "Oil prices rising after fresh round",
-      "summary": "The price of Brent crude oil was up by as much as 3% on Wednesday morning to around 76 US dollars a barrel.",
+      "title": "Blue Gold Receives Nasdaq Deficiency",
+      "summary": "NEW YORK, July 08, 2026 (GLOBE NEWSWIRE) -- Blue Gold Limited (Nasdaq: BGL) (Nasdaq: BGLWW) (“Blue Gold” or the “Company”), a gold mining company with the infrastructure to deliver",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/oil-prices-rising-fresh-round-084243606.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 08:42:43 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-gold-receives-nasdaq-deficiency-205600596.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 20:56:00 +0000"
+    },
+    {
+      "title": "Oil surges, stocks slide as Trump",
+      "summary": "Oil prices briefly soared back above $80 per barrel while stock markets slid Wednesday, after US President Donald Trump said Washington's ceasefire with Iran was over following ren",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-extend-rally-us-022604256.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 20:53:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "74.93",
-          "change": "+0.11%",
+          "value": "74.76",
+          "change": "+0.20%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "78.77",
-          "change": "+0.08%",
+          "value": "79.25",
+          "change": "+0.18%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4062.60",
-          "change": "-0.10%",
+          "value": "4086.60",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.10",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.12",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        74.56999969482422,
-        74.5199966430664,
-        74.51000213623047,
-        74.5,
+        74.79000091552734,
+        74.69999694824219,
+        74.61000061035156,
+        74.62000274658203,
+        74.72000122070312,
+        74.72000122070312,
+        74.68000030517578,
         74.69000244140625,
-        74.66000366210938,
-        74.73999786376953,
-        74.83999633789062,
-        74.83999633789062,
-        74.8499984741211,
-        74.93000030517578
+        74.70999908447266,
+        74.61000061035156,
+        74.76000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-08 18:00 KST"
+      "freshness": "2026-07-09 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.725%",
+          "value": "3.723%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.257%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.308%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.529%",
+          "value": "4.569%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.043%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.065%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.5269999504089355,
-        4.5269999504089355,
-        4.531000137329102,
-        4.531000137329102,
-        4.531000137329102,
-        4.531000137329102,
-        4.5329999923706055,
-        4.531000137329102,
-        4.531000137329102,
-        4.529000282287598,
-        4.529000282287598
+        4.566999912261963,
+        4.566999912261963,
+        4.566999912261963,
+        4.565000057220459,
+        4.566999912261963,
+        4.566999912261963,
+        4.566999912261963,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-08 03:59 KST"
+      "freshness": "2026-07-09 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7503.36",
-          "change": "-0.01%",
+          "value": "7481.46",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25819.59",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "25868.29",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6202.32",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "6189.28",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7496.35986328125,
-        7500.0498046875,
-        7499.27001953125,
-        7498.56005859375,
-        7500.81005859375,
-        7503.759765625,
-        7505.31005859375,
-        7503.68994140625,
-        7502.52978515625,
-        7504.35009765625,
-        7503.35986328125
+        7474.77001953125,
+        7478.64013671875,
+        7479.77001953125,
+        7480.27978515625,
+        7481.7900390625,
+        7483.35009765625,
+        7483.77001953125,
+        7484.35986328125,
+        7487.64013671875,
+        7487.330078125,
+        7481.4599609375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-07-08 04:59 KST"
+      "freshness": "2026-07-09 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.14",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "101.04",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1512.28",
-          "change": "-0.01%",
+          "value": "1504.66",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.48",
-          "change": "+0.00%",
+          "value": "162.55",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.8001",
-          "change": "+0.00%",
+          "value": "6.8020",
+          "change": "+0.08%",
           "direction": "up"
         }
       ],
       "trend": [
-        1511.5899658203125,
-        1511.780029296875,
-        1511.3800048828125,
-        1512.3800048828125,
-        1511.93994140625,
-        1511.469970703125,
-        1511.81005859375,
-        1511.6800537109375,
-        1511.5799560546875,
-        1512.4300537109375,
-        1512.280029296875
+        1505.1400146484375,
+        1504.489990234375,
+        1504.510009765625,
+        1504.489990234375,
+        1504.6300048828125,
+        1504.3499755859375,
+        1504.8199462890625,
+        1505.1500244140625,
+        1504.7900390625,
+        1504.6700439453125,
+        1504.6600341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-08 18:10 KST"
+      "status": "완화",
+      "freshness": "2026-07-09 06:21 KST"
     }
   ],
   "currentAction": {
