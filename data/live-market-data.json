@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "collectedAt": "2026-07-08T05:39:46Z",
+  "collectedAt": "2026-07-08T09:10:19Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The S&P 500 Returned 10% in the",
+      "title": "BB Energy Secures Three Additional",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "BB Energy secures three additional crude oil cargos from the Republic of South Sudan.",
+      "link": "https://finance.yahoo.com/energy/articles/bb-energy-secures-three-additional-090000357.html?.tsrc=rss"
+    },
+    {
+      "title": "J2 Metals Mobilizes UAV Drone Mag",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 8, 2026) - J2 Metals Inc. (TSXV: JTWO) (OTCQB: JTWOF) (FSE: OO10) (\"J2\" or the \"Company\") is pleased to announce that crews have",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/j2-metals-mobilizes-uav-drone-090000689.html?.tsrc=rss"
+    },
+    {
+      "title": "2 Reasons to Avoid ACVA and 1 Stock",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Historically, a strong first half for the S&P 500 tends to lead to a strong second half.",
-      "link": "https://www.fool.com/investing/2026/07/08/sp-500-return-first-half-2026-history-says-next/?.tsrc=rss"
+      "summary": "Over the last six months, ACV Auctions’s shares have sunk to $7.30, producing a disappointing 16.4% loss - a stark contrast to the S&P 500’s 9% gain. This may have investors wonder",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-acva-1-084244920.html?.tsrc=rss"
     },
     {
-      "title": "Jefferies Boosts Price Target on EOG",
-      "impact": "채권, 금리",
+      "title": "Oil prices rising after fresh round",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "With an annual dividend yield of 3.12%, EOG Resources, Inc. (NYSE:EOG) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. EOG Resources, Inc. ",
-      "link": "https://finance.yahoo.com/energy/articles/jefferies-boosts-price-target-eog-051100717.html?.tsrc=rss"
-    },
-    {
-      "title": "Exxon Mobil (XOM) Price Target",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "With an annual dividend yield of 3.01%, Exxon Mobil Corporation (NYSE:XOM) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. Exxon Mobil Corp",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-price-target-050508533.html?.tsrc=rss"
-    },
-    {
-      "title": "TD Cowen Cuts Price Target on",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "With an average upside potential of 32.15% according to Wall Street analysts, TotalEnergies SE (NYSE:TTE) is included among the 10 Most Promising Energy Stocks to Buy Now. TotalEne",
-      "link": "https://finance.yahoo.com/energy/articles/td-cowen-cuts-price-target-050039593.html?.tsrc=rss"
+      "summary": "The price of Brent crude oil was up by as much as 3% on Wednesday morning to around 76 US dollars a barrel.",
+      "link": "https://uk.finance.yahoo.com/news/oil-prices-rising-fresh-round-084243606.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The S&P 500 Returned 10% in the",
-      "summary": "Historically, a strong first half for the S&P 500 tends to lead to a strong second half.",
+      "title": "BB Energy Secures Three Additional",
+      "summary": "BB Energy secures three additional crude oil cargos from the Republic of South Sudan.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/bb-energy-secures-three-additional-090000357.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "title": "J2 Metals Mobilizes UAV Drone Mag",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 8, 2026) - J2 Metals Inc. (TSXV: JTWO) (OTCQB: JTWOF) (FSE: OO10) (\"J2\" or the \"Company\") is pleased to announce that crews have",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/j2-metals-mobilizes-uav-drone-090000689.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "title": "2 Reasons to Avoid ACVA and 1 Stock",
+      "summary": "Over the last six months, ACV Auctions’s shares have sunk to $7.30, producing a disappointing 16.4% loss - a stark contrast to the S&P 500’s 9% gain. This may have investors wonder",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/08/sp-500-return-first-half-2026-history-says-next/?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 05:22:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-avoid-acva-1-084244920.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 08:42:44 +0000"
     },
     {
-      "title": "Jefferies Boosts Price Target on EOG",
-      "summary": "With an annual dividend yield of 3.12%, EOG Resources, Inc. (NYSE:EOG) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. EOG Resources, Inc. ",
-      "impact": "채권, 금리",
+      "title": "Oil prices rising after fresh round",
+      "summary": "The price of Brent crude oil was up by as much as 3% on Wednesday morning to around 76 US dollars a barrel.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/jefferies-boosts-price-target-eog-051100717.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 05:11:00 +0000"
-    },
-    {
-      "title": "Exxon Mobil (XOM) Price Target",
-      "summary": "With an annual dividend yield of 3.01%, Exxon Mobil Corporation (NYSE:XOM) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. Exxon Mobil Corp",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-price-target-050508533.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 05:05:08 +0000"
-    },
-    {
-      "title": "TD Cowen Cuts Price Target on",
-      "summary": "With an average upside potential of 32.15% according to Wall Street analysts, TotalEnergies SE (NYSE:TTE) is included among the 10 Most Promising Energy Stocks to Buy Now. TotalEne",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/td-cowen-cuts-price-target-050039593.html?.tsrc=rss",
-      "published": "Wed, 08 Jul 2026 05:00:39 +0000"
+      "link": "https://uk.finance.yahoo.com/news/oil-prices-rising-fresh-round-084243606.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 08:42:43 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.73",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "74.93",
+          "change": "+0.11%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "76.57",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "78.77",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4133.90",
-          "change": "-0.01%",
+          "value": "4062.60",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.20",
-          "change": "-0.02%",
+          "value": "6.10",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        72.61000061035156,
-        72.79000091552734,
-        72.80999755859375,
-        72.83999633789062,
-        72.8499984741211,
-        72.83999633789062,
-        72.76000213623047,
-        72.73999786376953,
-        72.70999908447266,
-        72.75,
-        72.7300033569336
+        74.56999969482422,
+        74.5199966430664,
+        74.51000213623047,
+        74.5,
+        74.69000244140625,
+        74.66000366210938,
+        74.73999786376953,
+        74.83999633789062,
+        74.83999633789062,
+        74.8499984741211,
+        74.93000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-08 14:29 KST"
+      "status": "강세",
+      "freshness": "2026-07-08 18:00 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "7260.55",
-          "change": "-0.02%",
+          "value": "7303.03",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6325.00",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6202.32",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.10",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1505.38",
+          "value": "101.14",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "162.29",
-          "change": "-0.00%",
+          "name": "USDKRW",
+          "value": "1512.28",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "USDJPY",
+          "value": "162.48",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7962",
+          "value": "6.8001",
           "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1507.550048828125,
-        1507.0799560546875,
-        1507.0799560546875,
-        1506.8800048828125,
-        1507.0799560546875,
-        1505.8800048828125,
-        1505.8800048828125,
-        1505.1800537109375,
-        1505.280029296875,
-        1505.280029296875,
-        1505.3800048828125
+        1511.5899658203125,
+        1511.780029296875,
+        1511.3800048828125,
+        1512.3800048828125,
+        1511.93994140625,
+        1511.469970703125,
+        1511.81005859375,
+        1511.6800537109375,
+        1511.5799560546875,
+        1512.4300537109375,
+        1512.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-08 14:39 KST"
+      "freshness": "2026-07-08 18:10 KST"
     }
   ],
   "currentAction": {
