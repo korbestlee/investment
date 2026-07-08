@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "collectedAt": "2026-07-07T21:38:46Z",
+  "collectedAt": "2026-07-08T05:39:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, July 7",
+      "title": "The S&P 500 Returned 10% in the",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Today, July 7, 2026, the battery storage maker fell 6.32% despite premarket momentum and progress with its Frontier Power USA venture.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-eos-energy-slides-after-power-project-selection-news/?.tsrc=rss"
+      "summary": "Historically, a strong first half for the S&P 500 tends to lead to a strong second half.",
+      "link": "https://www.fool.com/investing/2026/07/08/sp-500-return-first-half-2026-history-says-next/?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Slumps As Samsung Fans AI",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The Nasdaq led the stock market lower Tuesday, as Samsung earnings slammed AI names. Oil prices jumped on U.S.-Iran news.",
-      "link": "https://finance.yahoo.com/m/066551de-6a59-3094-97bf-62396c58c1ae/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
-    },
-    {
-      "title": "JELD-WEN, Federal Signal, and VSE",
+      "title": "Jefferies Boosts Price Target on EOG",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "A number of stocks fell in the afternoon session after Iran's missile attack on commercial tankers near the Strait of Hormuz pushed oil prices higher and revived inflation fears, a",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jeld-wen-federal-signal-vse-212152278.html?.tsrc=rss"
+      "summary": "With an annual dividend yield of 3.12%, EOG Resources, Inc. (NYSE:EOG) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. EOG Resources, Inc. ",
+      "link": "https://finance.yahoo.com/energy/articles/jefferies-boosts-price-target-eog-051100717.html?.tsrc=rss"
     },
     {
-      "title": "Guanajuato Silver Announces Officer",
+      "title": "Exxon Mobil (XOM) Price Target",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / July 7, 2026 / Guanajuato Silver Company Ltd. (the \"Company\" or \"GSilver\") (TSXV:GSVR)(OTCQX:GSVRF) reports the resignation of Richard Silas, VP C",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guanajuato-silver-announces-officer-resignation-211500293.html?.tsrc=rss"
+      "summary": "With an annual dividend yield of 3.01%, Exxon Mobil Corporation (NYSE:XOM) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. Exxon Mobil Corp",
+      "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-price-target-050508533.html?.tsrc=rss"
+    },
+    {
+      "title": "TD Cowen Cuts Price Target on",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "With an average upside potential of 32.15% according to Wall Street analysts, TotalEnergies SE (NYSE:TTE) is included among the 10 Most Promising Energy Stocks to Buy Now. TotalEne",
+      "link": "https://finance.yahoo.com/energy/articles/td-cowen-cuts-price-target-050039593.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, July 7",
-      "summary": "Today, July 7, 2026, the battery storage maker fell 6.32% despite premarket momentum and progress with its Frontier Power USA venture.",
+      "title": "The S&P 500 Returned 10% in the",
+      "summary": "Historically, a strong first half for the S&P 500 tends to lead to a strong second half.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/07/stock-market-today-july-7-eos-energy-slides-after-power-project-selection-news/?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 21:25:46 +0000"
+      "link": "https://www.fool.com/investing/2026/07/08/sp-500-return-first-half-2026-history-says-next/?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 05:22:00 +0000"
     },
     {
-      "title": "Nasdaq Slumps As Samsung Fans AI",
-      "summary": "The Nasdaq led the stock market lower Tuesday, as Samsung earnings slammed AI names. Oil prices jumped on U.S.-Iran news.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/066551de-6a59-3094-97bf-62396c58c1ae/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 21:25:25 +0000"
-    },
-    {
-      "title": "JELD-WEN, Federal Signal, and VSE",
-      "summary": "A number of stocks fell in the afternoon session after Iran's missile attack on commercial tankers near the Strait of Hormuz pushed oil prices higher and revived inflation fears, a",
+      "title": "Jefferies Boosts Price Target on EOG",
+      "summary": "With an annual dividend yield of 3.12%, EOG Resources, Inc. (NYSE:EOG) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. EOG Resources, Inc. ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jeld-wen-federal-signal-vse-212152278.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 21:21:52 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/jefferies-boosts-price-target-eog-051100717.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 05:11:00 +0000"
     },
     {
-      "title": "Guanajuato Silver Announces Officer",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / July 7, 2026 / Guanajuato Silver Company Ltd. (the \"Company\" or \"GSilver\") (TSXV:GSVR)(OTCQX:GSVRF) reports the resignation of Richard Silas, VP C",
+      "title": "Exxon Mobil (XOM) Price Target",
+      "summary": "With an annual dividend yield of 3.01%, Exxon Mobil Corporation (NYSE:XOM) is included among the 14 Best Blue Chip Dividend Stocks to Buy According to Hedge Funds. Exxon Mobil Corp",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/guanajuato-silver-announces-officer-resignation-211500293.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 21:15:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-price-target-050508533.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 05:05:08 +0000"
+    },
+    {
+      "title": "TD Cowen Cuts Price Target on",
+      "summary": "With an average upside potential of 32.15% according to Wall Street analysts, TotalEnergies SE (NYSE:TTE) is included among the 10 Most Promising Energy Stocks to Buy Now. TotalEne",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/td-cowen-cuts-price-target-050039593.html?.tsrc=rss",
+      "published": "Wed, 08 Jul 2026 05:00:39 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.20",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "72.73",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "75.86",
-          "change": "-0.08%",
+          "value": "76.57",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4116.60",
+          "value": "4133.90",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.18",
-          "change": "-0.01%",
+          "value": "6.20",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        72.30000305175781,
-        72.2699966430664,
-        72.2300033569336,
-        72.22000122070312,
-        72.23999786376953,
-        72.20999908447266,
-        72.1500015258789,
-        72.16000366210938,
-        72.19999694824219,
-        72.18000030517578,
-        72.19999694824219
+        72.61000061035156,
+        72.79000091552734,
+        72.80999755859375,
+        72.83999633789062,
+        72.8499984741211,
+        72.83999633789062,
+        72.76000213623047,
+        72.73999786376953,
+        72.70999908447266,
+        72.75,
+        72.7300033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-08 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-08 14:29 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7660.98",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "7260.55",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.11",
+          "value": "101.10",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1513.22",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "162.12",
-          "change": "+0.00%",
+          "value": "1505.38",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7868",
-          "change": "-0.09%",
+          "name": "USDJPY",
+          "value": "162.29",
+          "change": "-0.00%",
           "direction": "down"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7962",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1513.5400390625,
-        1514.3399658203125,
-        1513.9000244140625,
-        1513.4599609375,
-        1513.510009765625,
-        1513.6600341796875,
-        1513.6300048828125,
-        1513.5699462890625,
-        1513.4200439453125,
-        1513.31005859375,
-        1513.219970703125
+        1507.550048828125,
+        1507.0799560546875,
+        1507.0799560546875,
+        1506.8800048828125,
+        1507.0799560546875,
+        1505.8800048828125,
+        1505.8800048828125,
+        1505.1800537109375,
+        1505.280029296875,
+        1505.280029296875,
+        1505.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-08 06:38 KST"
+      "freshness": "2026-07-08 14:39 KST"
     }
   ],
   "currentAction": {
