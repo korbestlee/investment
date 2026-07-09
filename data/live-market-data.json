@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "collectedAt": "2026-07-09T06:31:06Z",
+  "collectedAt": "2026-07-09T10:06:16Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Valeura Energy Inc.",
+      "title": "Equinox Gold Reports 176,836 Ounces",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "SINGAPORE, July 09, 2026 (GLOBE NEWSWIRE) -- Valeura Energy Inc. (TSX:VLE, OTCQX:VLERF) (“Valeura” or the “Company”) provides an operations and financial update for Q2 2026. Highli",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-q2-2026-060000135.html?.tsrc=rss"
+      "summary": "VANCOUVER, British Columbia, July 09, 2026 (GLOBE NEWSWIRE) -- Equinox Gold Corp. (TSX: EQX, NYSE American: EQX) (“Equinox Gold” or the “Company”) is pleased to announce production",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/equinox-gold-reports-176-836-100000325.html?.tsrc=rss"
     },
     {
-      "title": "Valeura Energy Inc. Announces Q2",
+      "title": "Oil's rally looks more like a reset",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "CALGARY, AB / ACCESS Newswire / July 9, 2026 / Valeura Energy Inc. (TSX:VLE)(OTCQX:VLERF) (\"Valeura\" or the \"Company\") provides an operations and financial update for Q2 2026. High",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-announces-q2-060000038.html?.tsrc=rss"
+      "summary": "Oil has rallied as the US-Iran ceasefire gets shakier — yet the move still looks contained.",
+      "link": "https://finance.yahoo.com/markets/article/oils-rally-looks-more-like-a-reset-than-a-shock-chart-of-the-day-100000519.html?.tsrc=rss"
     },
     {
-      "title": "S&P 500 Has Survived Wars,",
+      "title": "2 Services Stocks to Consider Right",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Bank of New York Mellon said in a post on its website published Wednesday that the S&P 500’s performance is defined by resilience rather than continuous gains.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-has-survived-wars-recessions-and-bubbles-bny-says/cZmoVJdR7VN?.tsrc=rss"
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Market leaders have certainly capitalized on outsourcing trends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-consider-now-095700321.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures, Oil Prices Rise",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
-      "link": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%2C-oil-prices.html?.tsrc=rss"
+      "title": "Sandisk's Memory Prices Could Double",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Investors need to consider whether Sandisk can exceed expectations from here.",
+      "link": "https://www.fool.com/investing/2026/07/09/sandisks-memory-prices-could-double-again-in-fisca/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Valeura Energy Inc.",
-      "summary": "SINGAPORE, July 09, 2026 (GLOBE NEWSWIRE) -- Valeura Energy Inc. (TSX:VLE, OTCQX:VLERF) (“Valeura” or the “Company”) provides an operations and financial update for Q2 2026. Highli",
+      "title": "Equinox Gold Reports 176,836 Ounces",
+      "summary": "VANCOUVER, British Columbia, July 09, 2026 (GLOBE NEWSWIRE) -- Equinox Gold Corp. (TSX: EQX, NYSE American: EQX) (“Equinox Gold” or the “Company”) is pleased to announce production",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-q2-2026-060000135.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 06:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/equinox-gold-reports-176-836-100000325.html?.tsrc=rss",
+      "published": "Thu, 09 Jul 2026 10:00:00 +0000"
     },
     {
-      "title": "Valeura Energy Inc. Announces Q2",
-      "summary": "CALGARY, AB / ACCESS Newswire / July 9, 2026 / Valeura Energy Inc. (TSX:VLE)(OTCQX:VLERF) (\"Valeura\" or the \"Company\") provides an operations and financial update for Q2 2026. High",
+      "title": "Oil's rally looks more like a reset",
+      "summary": "Oil has rallied as the US-Iran ceasefire gets shakier — yet the move still looks contained.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-announces-q2-060000038.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 06:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/article/oils-rally-looks-more-like-a-reset-than-a-shock-chart-of-the-day-100000519.html?.tsrc=rss",
+      "published": "Thu, 09 Jul 2026 10:00:00 +0000"
     },
     {
-      "title": "S&P 500 Has Survived Wars,",
-      "summary": "The Bank of New York Mellon said in a post on its website published Wednesday that the S&P 500’s performance is defined by resilience rather than continuous gains.",
+      "title": "2 Services Stocks to Consider Right",
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Market leaders have certainly capitalized on outsourcing trends",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-has-survived-wars-recessions-and-bubbles-bny-says/cZmoVJdR7VN?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 05:28:34 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-consider-now-095700321.html?.tsrc=rss",
+      "published": "Thu, 09 Jul 2026 09:57:00 +0000"
     },
     {
-      "title": "Dow Jones Futures, Oil Prices Rise",
-      "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%2C-oil-prices.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 05:19:03 +0000"
+      "title": "Sandisk's Memory Prices Could Double",
+      "summary": "Investors need to consider whether Sandisk can exceed expectations from here.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/09/sandisks-memory-prices-could-double-again-in-fisca/?.tsrc=rss",
+      "published": "Thu, 09 Jul 2026 09:12:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "73.28",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "73.50",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "77.82",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "78.03",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4104.80",
-          "change": "+0.05%",
+          "value": "4115.40",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.19",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6.22",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
+        73.55999755859375,
+        73.62999725341797,
+        73.61000061035156,
+        73.62000274658203,
+        73.56999969482422,
+        73.41000366210938,
         73.44999694824219,
+        73.55999755859375,
         73.48999786376953,
         73.4800033569336,
-        73.41999816894531,
-        73.38999938964844,
-        73.48999786376953,
-        73.2699966430664,
-        73.3499984741211,
-        73.30999755859375,
-        73.30999755859375,
-        73.27999877929688
+        73.5
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-09 15:21 KST"
+      "status": "강세",
+      "freshness": "2026-07-09 18:56 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6189.28",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6235.69",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.88",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "100.96",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1506.08",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1512.28",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "162.27",
+          "value": "162.41",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7932",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7933",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1506.3800048828125,
-        1505.6800537109375,
-        1505.6800537109375,
-        1505.8800048828125,
-        1505.1800537109375,
-        1505.4200439453125,
-        1505.25,
-        1505.47998046875,
-        1505.5799560546875,
-        1505.780029296875,
-        1506.0799560546875
+        1512.47998046875,
+        1512.6700439453125,
+        1512.47998046875,
+        1512.1199951171875,
+        1512.3199462890625,
+        1512.18994140625,
+        1512.300048828125,
+        1512.1400146484375,
+        1512.3800048828125,
+        1512.280029296875,
+        1512.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-09 15:31 KST"
+      "status": "강세",
+      "freshness": "2026-07-09 19:06 KST"
     }
   ],
   "currentAction": {
