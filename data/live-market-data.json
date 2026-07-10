@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "collectedAt": "2026-07-09T21:40:02Z",
+  "collectedAt": "2026-07-10T06:30:48Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,13 +46,13 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-washington-212353210.html?.tsrc=rss"
-    },
-    {
-      "title": "Crypto Market Today, July 9",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "On July 9, 2026, leading cryptocurrencies posted gains as news reports sparked hope that digital asset legislation may reach the Senate this month.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/09/crypto-market-today-july-9-bitcoin-holds-firm-as-risk-appetite-returns-despite-geopolitical-noise/?.tsrc=rss"
-    },
-    {
-      "title": "Micron, Sandisk Jump As Nasdaq Tops",
+      "title": "Is Diamondback Energy (FANG) Fairly",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
-      "link": "https://finance.yahoo.com/m/6e8baca0-b324-3166-b745-36b306c19567/dow-jones-futures%3A-micron%2C.html?.tsrc=rss"
+      "summary": "Diamondback Energy (FANG) has just been added to both the Russell 1000 Defensive Index and the Russell 1000 Value-Defensive Index, a classification shift that may influence how ins",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-fairly-valued-061202442.html?.tsrc=rss"
     },
     {
-      "title": "IYF vs. KRE",
+      "title": "Yimutian Inc. Receives Positive",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "BEIJING, July 10, 2026 (GLOBE NEWSWIRE) -- Yimutian Inc. (Nasdaq: YMT) (“Yimutian” or the “Company”), a leading agricultural digital service company in China, today announced that,",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-inc-receives-positive-nasdaq-061100449.html?.tsrc=rss"
+    },
+    {
+      "title": "These Precious Metals ETFs Beat The",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The World Bank projects that its precious metals price index will rise by 42% in 2026, but decline by 8% in 2027.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/these-precious-metals-etfs-beat-the-sp500-over-the-past-year/cZmAMRFR7FW?.tsrc=rss"
+    },
+    {
+      "title": "The AI Revolution Comes to the",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "These bank ETFs offer different risk/reward trade-offs for investing in the financial services sector.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/09/iyf-vs-kre-which-financials-etf-is-the-better-buy-in-2026/?.tsrc=rss"
+      "summary": "The gallery roared as Hovland sank a birdie putt to clinch his eighth PGA Tour title.  Congratulations, too, came from Travelers CEO Alan Schnitzer, who handed Hovland the trophy (",
+      "link": "https://finance.yahoo.com/m/5acd50de-7d9c-3f15-aa3e-2d17df69ec65/the-ai-revolution-comes-to.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-washington-212353210.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 21:23:53 +0000"
-    },
-    {
-      "title": "Crypto Market Today, July 9",
-      "summary": "On July 9, 2026, leading cryptocurrencies posted gains as news reports sparked hope that digital asset legislation may reach the Senate this month.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/09/crypto-market-today-july-9-bitcoin-holds-firm-as-risk-appetite-returns-despite-geopolitical-noise/?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 21:22:43 +0000"
-    },
-    {
-      "title": "Micron, Sandisk Jump As Nasdaq Tops",
-      "summary": "Micron and Sandisk soared as the Nasdaq reclaimed key support, but are they actionable? Delta, Taiwan Semi, SK Hynix loom.",
+      "title": "Is Diamondback Energy (FANG) Fairly",
+      "summary": "Diamondback Energy (FANG) has just been added to both the Russell 1000 Defensive Index and the Russell 1000 Value-Defensive Index, a classification shift that may influence how ins",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/6e8baca0-b324-3166-b745-36b306c19567/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 21:21:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-fairly-valued-061202442.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 06:12:02 +0000"
     },
     {
-      "title": "IYF vs. KRE",
-      "summary": "These bank ETFs offer different risk/reward trade-offs for investing in the financial services sector.",
+      "title": "Yimutian Inc. Receives Positive",
+      "summary": "BEIJING, July 10, 2026 (GLOBE NEWSWIRE) -- Yimutian Inc. (Nasdaq: YMT) (“Yimutian” or the “Company”), a leading agricultural digital service company in China, today announced that,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yimutian-inc-receives-positive-nasdaq-061100449.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 06:11:00 +0000"
+    },
+    {
+      "title": "These Precious Metals ETFs Beat The",
+      "summary": "The World Bank projects that its precious metals price index will rise by 42% in 2026, but decline by 8% in 2027.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/these-precious-metals-etfs-beat-the-sp500-over-the-past-year/cZmAMRFR7FW?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 05:15:00 +0000"
+    },
+    {
+      "title": "The AI Revolution Comes to the",
+      "summary": "The gallery roared as Hovland sank a birdie putt to clinch his eighth PGA Tour title.  Congratulations, too, came from Travelers CEO Alan Schnitzer, who handed Hovland the trophy (",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/09/iyf-vs-kre-which-financials-etf-is-the-better-buy-in-2026/?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 21:21:01 +0000"
+      "link": "https://finance.yahoo.com/m/5acd50de-7d9c-3f15-aa3e-2d17df69ec65/the-ai-revolution-comes-to.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "71.81",
-          "change": "-0.04%",
+          "value": "71.89",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "76.04",
+          "value": "76.11",
+          "change": "+0.07%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4126.10",
           "change": "-0.07%",
           "direction": "down"
         },
         {
-          "name": "Gold",
-          "value": "4132.60",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
           "name": "Copper",
-          "value": "6.25",
+          "value": "6.30",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        71.80999755859375,
-        71.7699966430664,
-        71.80000305175781,
-        71.7699966430664,
-        71.79000091552734,
-        71.79000091552734,
+        71.97000122070312,
+        71.94000244140625,
+        71.94999694824219,
+        71.93000030517578,
+        71.87999725341797,
+        71.94000244140625,
+        71.87000274658203,
         71.77999877929688,
-        71.77999877929688,
-        71.7699966430664,
         71.83999633789062,
-        71.80999755859375
+        71.9000015258789,
+        71.88999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-10 05:59 KST"
+      "freshness": "2026-07-10 15:20 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7320.03",
-          "change": "+0.18%",
-          "direction": "up"
+          "value": "7581.35",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.95",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "100.73",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1506.56",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "1501.98",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "162.34",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "161.57",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7837",
-          "change": "-0.12%",
-          "direction": "down"
+          "value": "6.7788",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1506.3199462890625,
-        1506.68994140625,
-        1507.3499755859375,
-        1507.3199462890625,
-        1507.2900390625,
-        1506.5,
-        1506.6099853515625,
-        1507.0799560546875,
-        1506.739990234375,
-        1507.0799560546875,
-        1506.56005859375
+        1499.97998046875,
+        1499.97998046875,
+        1500.47998046875,
+        1502.0799560546875,
+        1500.97998046875,
+        1500.97998046875,
+        1501.3800048828125,
+        1501.47998046875,
+        1500.97998046875,
+        1501.280029296875,
+        1501.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-10 06:39 KST"
+      "status": "강세",
+      "freshness": "2026-07-10 15:30 KST"
     }
   ],
   "currentAction": {
