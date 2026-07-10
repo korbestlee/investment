@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "collectedAt": "2026-07-10T10:02:55Z",
+  "date": "2026-07-11",
+  "collectedAt": "2026-07-10T21:17:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "3 Consumer Stocks Walking a Fine",
+      "title": "Frontier Nuclear Announces Receipt",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Retailers are overhauling their operations as technology redefines the shopping experience. Still, secular trends are working against them as e-commerce continues to take share fro",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-walking-fine-095120485.html?.tsrc=rss"
+      "summary": "Winnipeg, Manitoba--(Newsfile Corp. - July 10, 2026) - Frontier Nuclear and Minerals Inc. (NASDAQ: FNUC) (\"Frontier\"), a nuclear fuel cycle company, announces that on July 6, 2026,",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-nuclear-announces-receipt-nasdaq-210000095.html?.tsrc=rss"
     },
     {
-      "title": "3 Hypergrowth Tech Stocks to Buy",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "There are several hypergrowth stocks available in the tech space.",
-      "link": "https://www.fool.com/investing/2026/07/10/3-hypergrowth-tech-stocks-to-buy-with-3000-right-n/?.tsrc=rss"
+      "title": "XLE vs ICLN ETF Showdown Traditional",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "XLE's lower costs and higher yields appeal to value investors, while ICLN's global renewable exposure attracts those betting on the energy transition.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?.tsrc=rss"
     },
     {
-      "title": "Best 3 Tech ETF Picks for the 2nd",
+      "title": "S&P 500 Posts Weekly Gain as",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Tech stocks continue to rally, yet valuations aren't really out of whack. That means there's still more upside possible.",
-      "link": "https://www.fool.com/investing/2026/07/10/best-3-tech-etf-picks-for-2nd-half-2026/?.tsrc=rss"
+      "summary": "The Standard & Poor's 500 index rose 1.2% this week, lifted by a fresh burst of AI enthusiasm amid g",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html?.tsrc=rss"
     },
     {
-      "title": "World's Hottest Index Ends Week Down",
+      "title": "Dow Ends Higher; SK Hynix Jumps In",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The world's hottest index finished the week down 7.6% amid artificial-intelligence jitters. South Korea's KOSPI is a hostage to its two biggest constituents—SK Hynix and Samsung. T",
-      "link": "https://finance.yahoo.com/m/c5b48a11-248e-3c22-bb8b-4696eb93ecd4/world%27s-hottest-index-ends.html?.tsrc=rss"
+      "summary": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
+      "link": "https://finance.yahoo.com/m/44707f93-df29-35bc-8649-28477f0b5b59/stock-market-today%3A-dow-ends.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "3 Consumer Stocks Walking a Fine",
-      "summary": "Retailers are overhauling their operations as technology redefines the shopping experience. Still, secular trends are working against them as e-commerce continues to take share fro",
+      "title": "Frontier Nuclear Announces Receipt",
+      "summary": "Winnipeg, Manitoba--(Newsfile Corp. - July 10, 2026) - Frontier Nuclear and Minerals Inc. (NASDAQ: FNUC) (\"Frontier\"), a nuclear fuel cycle company, announces that on July 6, 2026,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-walking-fine-095120485.html?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 09:51:20 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-nuclear-announces-receipt-nasdaq-210000095.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 21:00:00 +0000"
     },
     {
-      "title": "3 Hypergrowth Tech Stocks to Buy",
-      "summary": "There are several hypergrowth stocks available in the tech space.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/10/3-hypergrowth-tech-stocks-to-buy-with-3000-right-n/?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 09:30:00 +0000"
+      "title": "XLE vs ICLN ETF Showdown Traditional",
+      "summary": "XLE's lower costs and higher yields appeal to value investors, while ICLN's global renewable exposure attracts those betting on the energy transition.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 20:57:01 +0000"
     },
     {
-      "title": "Best 3 Tech ETF Picks for the 2nd",
-      "summary": "Tech stocks continue to rally, yet valuations aren't really out of whack. That means there's still more upside possible.",
+      "title": "S&P 500 Posts Weekly Gain as",
+      "summary": "The Standard & Poor's 500 index rose 1.2% this week, lifted by a fresh burst of AI enthusiasm amid g",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/10/best-3-tech-etf-picks-for-2nd-half-2026/?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 09:05:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 20:55:35 +0000"
     },
     {
-      "title": "World's Hottest Index Ends Week Down",
-      "summary": "The world's hottest index finished the week down 7.6% amid artificial-intelligence jitters. South Korea's KOSPI is a hostage to its two biggest constituents—SK Hynix and Samsung. T",
+      "title": "Dow Ends Higher; SK Hynix Jumps In",
+      "summary": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/c5b48a11-248e-3c22-bb8b-4696eb93ecd4/world%27s-hottest-index-ends.html?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 08:47:57 +0000"
+      "link": "https://finance.yahoo.com/m/44707f93-df29-35bc-8649-28477f0b5b59/stock-market-today%3A-dow-ends.html?.tsrc=rss",
+      "published": "Fri, 10 Jul 2026 20:44:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "71.93",
-          "change": "+0.06%",
+          "value": "71.51",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "76.19",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "76.00",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4111.80",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4128.90",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.26",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.28",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        71.83999633789062,
-        71.87999725341797,
-        71.8499984741211,
-        71.91999816894531,
-        71.91000366210938,
-        71.8499984741211,
-        71.91000366210938,
-        71.9000015258789,
-        71.91000366210938,
-        71.88999938964844,
-        71.93000030517578
+        71.54000091552734,
+        71.54000091552734,
+        71.5199966430664,
+        71.48999786376953,
+        71.51000213623047,
+        71.48999786376953,
+        71.47000122070312,
+        71.4800033569336,
+        71.47000122070312,
+        71.5,
+        71.51000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-10 18:52 KST"
+      "freshness": "2026-07-11 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.682%",
+          "value": "3.695%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.269%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.308%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.539%",
+          "value": "4.569%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.053%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.071%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.536999702453613,
-        4.539000034332275,
-        4.536999702453613,
-        4.536999702453613,
-        4.536999702453613,
-        4.536999702453613,
-        4.536999702453613,
-        4.536999702453613,
-        4.536999702453613,
-        4.539000034332275,
-        4.539000034332275
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.566999912261963,
+        4.566999912261963,
+        4.568999767303467,
+        4.566999912261963,
+        4.568999767303467,
+        4.568999767303467
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-10 03:59 KST"
+      "freshness": "2026-07-11 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7542.28",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "7575.38",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26203.48",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "26278.70",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6271.45",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6267.09",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7539.43994140625,
-        7538.169921875,
-        7537.77978515625,
-        7538.1298828125,
-        7536.75,
-        7535.47998046875,
-        7538.7998046875,
-        7539.0400390625,
-        7540.4501953125,
-        7541.22021484375,
-        7542.27978515625
+        7577.39013671875,
+        7579.35986328125,
+        7578.85986328125,
+        7578.0400390625,
+        7576.89990234375,
+        7577.31982421875,
+        7577.009765625,
+        7576.169921875,
+        7575.85986328125,
+        7575.43994140625,
+        7575.3798828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-10 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-11 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.89",
-          "change": "+0.01%",
+          "value": "100.96",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1504.57",
+          "value": "1498.87",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDJPY",
+          "value": "161.67",
           "change": "-0.01%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "161.79",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.7759",
-          "change": "+0.16%",
+          "value": "6.7761",
+          "change": "+0.14%",
           "direction": "up"
         }
       ],
       "trend": [
-        1504.3499755859375,
-        1504.469970703125,
-        1504.780029296875,
-        1504.510009765625,
-        1504.6400146484375,
-        1504.199951171875,
-        1504.8499755859375,
-        1504.5,
-        1504.4000244140625,
-        1504.6600341796875,
-        1504.5699462890625
+        1499.3699951171875,
+        1499.760009765625,
+        1499.77001953125,
+        1499.7900390625,
+        1499.800048828125,
+        1499.780029296875,
+        1499.81005859375,
+        1499.510009765625,
+        1498.93994140625,
+        1498.8699951171875,
+        1498.8699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-10 19:02 KST"
+      "freshness": "2026-07-11 06:06 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
