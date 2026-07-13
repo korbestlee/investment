@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-11",
-  "collectedAt": "2026-07-10T21:17:33Z",
+  "date": "2026-07-13",
+  "collectedAt": "2026-07-13T05:56:24Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Frontier Nuclear Announces Receipt",
+      "title": "Avoid This Hidden Risk of Index",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Winnipeg, Manitoba--(Newsfile Corp. - July 10, 2026) - Frontier Nuclear and Minerals Inc. (NASDAQ: FNUC) (\"Frontier\"), a nuclear fuel cycle company, announces that on July 6, 2026,",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-nuclear-announces-receipt-nasdaq-210000095.html?.tsrc=rss"
+      "summary": "Investing in index funds is a good way to gain exposure to a broad range of stocks, but it's not without risk.",
+      "link": "https://www.fool.com/investing/2026/07/13/avoid-this-hidden-risk-of-index-funds/?.tsrc=rss"
     },
     {
-      "title": "XLE vs ICLN ETF Showdown Traditional",
-      "impact": "채권, 금리",
+      "title": "Aktsiaselts Infortar own share",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 6 July – 10 July 2026 as follows: DateAggregated volume (pcs)Weighted average",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000761.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices climb as Strait of Hormuz",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "XLE's lower costs and higher yields appeal to value investors, while ICLN's global renewable exposure attracts those betting on the energy transition.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?.tsrc=rss"
+      "summary": "Oil prices jumped and Asian shares were mostly lower on Monday after the US carried out airstrikes and Iran retaliated.View on euronews",
+      "link": "https://www.euronews.com/2026/07/13/oil-prices-climb-as-strait-of-hormuz-tensions-reignite-supply-concerns?.tsrc=rss"
     },
     {
-      "title": "S&P 500 Posts Weekly Gain as",
+      "title": "INTC, AMD, NVDA, AVGO",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Standard & Poor's 500 index rose 1.2% this week, lifted by a fresh burst of AI enthusiasm amid g",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Ends Higher; SK Hynix Jumps In",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
-      "link": "https://finance.yahoo.com/m/44707f93-df29-35bc-8649-28477f0b5b59/stock-market-today%3A-dow-ends.html?.tsrc=rss"
+      "summary": "The selloff in chip stocks comes amid a broader rotation within the tech sector, with investor money flowing out of chip names and back into Big Tech.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-nvda-avgo-chip-stocks-slide-as-fresh-us-iran-strikes-test-peace-deal/cZmzgG5R7oh?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Frontier Nuclear Announces Receipt",
-      "summary": "Winnipeg, Manitoba--(Newsfile Corp. - July 10, 2026) - Frontier Nuclear and Minerals Inc. (NASDAQ: FNUC) (\"Frontier\"), a nuclear fuel cycle company, announces that on July 6, 2026,",
+      "title": "Avoid This Hidden Risk of Index",
+      "summary": "Investing in index funds is a good way to gain exposure to a broad range of stocks, but it's not without risk.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/frontier-nuclear-announces-receipt-nasdaq-210000095.html?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 21:00:00 +0000"
+      "link": "https://www.fool.com/investing/2026/07/13/avoid-this-hidden-risk-of-index-funds/?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 05:20:00 +0000"
     },
     {
-      "title": "XLE vs ICLN ETF Showdown Traditional",
-      "summary": "XLE's lower costs and higher yields appeal to value investors, while ICLN's global renewable exposure attracts those betting on the energy transition.",
-      "impact": "채권, 금리",
+      "title": "Aktsiaselts Infortar own share",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 6 July – 10 July 2026 as follows: DateAggregated volume (pcs)Weighted average",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000761.html?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Oil prices climb as Strait of Hormuz",
+      "summary": "Oil prices jumped and Asian shares were mostly lower on Monday after the US carried out airstrikes and Iran retaliated.View on euronews",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/10/xle-vs-icln-etf-showdown-traditional-energy-meets-clean-energy-which-etf-is-the-better-buy/?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 20:57:01 +0000"
+      "link": "https://www.euronews.com/2026/07/13/oil-prices-climb-as-strait-of-hormuz-tensions-reignite-supply-concerns?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 04:59:37 +0000"
     },
     {
-      "title": "S&P 500 Posts Weekly Gain as",
-      "summary": "The Standard & Poor's 500 index rose 1.2% this week, lifted by a fresh burst of AI enthusiasm amid g",
+      "title": "INTC, AMD, NVDA, AVGO",
+      "summary": "The selloff in chip stocks comes amid a broader rotation within the tech sector, with investor money flowing out of chip names and back into Big Tech.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 20:55:35 +0000"
-    },
-    {
-      "title": "Dow Ends Higher; SK Hynix Jumps In",
-      "summary": "Stock Market Today: The Dow Jones index rises Friday while SK Hynix spikes in its U.S. debut. Chili's stock breaks out.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/44707f93-df29-35bc-8649-28477f0b5b59/stock-market-today%3A-dow-ends.html?.tsrc=rss",
-      "published": "Fri, 10 Jul 2026 20:44:02 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-nvda-avgo-chip-stocks-slide-as-fresh-us-iran-strikes-test-peace-deal/cZmzgG5R7oh?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 04:58:19 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "71.51",
+          "value": "74.99",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "76.00",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4128.90",
+          "value": "79.72",
           "change": "+0.03%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "4068.70",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.28",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6.21",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        71.54000091552734,
-        71.54000091552734,
-        71.5199966430664,
-        71.48999786376953,
-        71.51000213623047,
-        71.48999786376953,
-        71.47000122070312,
-        71.4800033569336,
-        71.47000122070312,
-        71.5,
-        71.51000213623047
+        74.6500015258789,
+        74.69000244140625,
+        74.69999694824219,
+        74.68000030517578,
+        74.66000366210938,
+        74.66000366210938,
+        74.72000122070312,
+        74.83999633789062,
+        74.94999694824219,
+        74.9800033569336,
+        74.98999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-11 05:59 KST"
+      "freshness": "2026-07-13 14:46 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7581.35",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "6894.31",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.96",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1498.87",
+          "value": "101.11",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "USDKRW",
+          "value": "1507.68",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
           "name": "USDJPY",
-          "value": "161.67",
-          "change": "-0.01%",
+          "value": "162.28",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7761",
-          "change": "+0.14%",
+          "value": "6.7843",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1499.3699951171875,
-        1499.760009765625,
-        1499.77001953125,
-        1499.7900390625,
-        1499.800048828125,
-        1499.780029296875,
-        1499.81005859375,
-        1499.510009765625,
-        1498.93994140625,
-        1498.8699951171875,
-        1498.8699951171875
+        1506.1800537109375,
+        1506.6400146484375,
+        1506.800048828125,
+        1506.3800048828125,
+        1506.2099609375,
+        1506.0799560546875,
+        1506.780029296875,
+        1507.4300537109375,
+        1507.93994140625,
+        1508.02001953125,
+        1507.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-11 06:06 KST"
+      "status": "중립",
+      "freshness": "2026-07-13 14:56 KST"
     }
   ],
   "currentAction": {
