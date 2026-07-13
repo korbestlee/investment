@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "collectedAt": "2026-07-13T09:56:22Z",
+  "date": "2026-07-14",
+  "collectedAt": "2026-07-13T21:10:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.00%",
+      "value": "-0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.07%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.09%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.06%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil rally, chip selloff, earnings",
+      "title": "Goldman Sachs does an about-face on",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com - Renewed fighting between the United States and Iran rattled markets at the start of the week, sending oil prices sharply higher and weighing on stock futures.",
-      "link": "https://finance.yahoo.com/markets/articles/oil-rally-chip-selloff-earnings-092413807.html?.tsrc=rss"
+      "summary": "Toast (TOST) has been one of the market's overlooked names this year. While AI stocks pulled in more investor money, Toast, the company behind the tablets at your local restaurant,",
+      "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-upgrades-toast-tost-stock-buy-rating-price-target?.tsrc=rss"
     },
     {
-      "title": "Will the Stock Market Crash in 2026?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The stock market could decline sharply as midterm elections approach.",
-      "link": "https://www.fool.com/investing/2026/07/13/stock-market-crash-2026-may-happen-this-event/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq, S&P 500 Futures Slip As Iran",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stocktwits data showed retail sentiment remained ‘bullish’ around SPY and ‘neutral’ on QQQ.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-iran-tensions-rattle-markets-again-why-mu-tsla-batl-skhyv-msft-tsm-sls-are-in-focus/cZmzj6qR7op?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices jump after weekend US and",
+      "title": "Cardinal Energy Ltd. Announces",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Benchmark Brent crude rose 4% to 79 US dollars a barrel as America and Iran both claimed control over the vital Strait of Hormuz.",
-      "link": "https://uk.finance.yahoo.com/news/oil-prices-jump-weekend-us-083136040.html?.tsrc=rss"
+      "summary": "Calgary, Alberta--(Newsfile Corp. - July 13, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") confirms that our July dividend of $0.06 per common share will be ",
+      "link": "https://finance.yahoo.com/energy/articles/cardinal-energy-ltd-announces-monthly-210100311.html?.tsrc=rss"
+    },
+    {
+      "title": "Investors Buy the Semiconductor Dip",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "<p>Year-to-date inflows topped $1.1 trillion as fixed income led categories and SOXX led individual funds.</p>",
+      "link": "http://www.etf.com/sections/weekly-etf-flows/investors-buy-semiconductor-dip-40-billion-flows-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss"
+    },
+    {
+      "title": "Auro Metals Intersects 625.12m",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 13, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the second batch of",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-metals-intersects-625-12m-210000542.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil rally, chip selloff, earnings",
-      "summary": "Investing.com - Renewed fighting between the United States and Iran rattled markets at the start of the week, sending oil prices sharply higher and weighing on stock futures.",
+      "title": "Goldman Sachs does an about-face on",
+      "summary": "Toast (TOST) has been one of the market's overlooked names this year. While AI stocks pulled in more investor money, Toast, the company behind the tablets at your local restaurant,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/oil-rally-chip-selloff-earnings-092413807.html?.tsrc=rss",
-      "published": "Mon, 13 Jul 2026 09:24:13 +0000"
+      "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-upgrades-toast-tost-stock-buy-rating-price-target?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 21:03:00 +0000"
     },
     {
-      "title": "Will the Stock Market Crash in 2026?",
-      "summary": "The stock market could decline sharply as midterm elections approach.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/13/stock-market-crash-2026-may-happen-this-event/?.tsrc=rss",
-      "published": "Mon, 13 Jul 2026 09:08:00 +0000"
-    },
-    {
-      "title": "Nasdaq, S&P 500 Futures Slip As Iran",
-      "summary": "Stocktwits data showed retail sentiment remained ‘bullish’ around SPY and ‘neutral’ on QQQ.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-iran-tensions-rattle-markets-again-why-mu-tsla-batl-skhyv-msft-tsm-sls-are-in-focus/cZmzj6qR7op?.tsrc=rss",
-      "published": "Mon, 13 Jul 2026 08:42:35 +0000"
-    },
-    {
-      "title": "Oil prices jump after weekend US and",
-      "summary": "Benchmark Brent crude rose 4% to 79 US dollars a barrel as America and Iran both claimed control over the vital Strait of Hormuz.",
+      "title": "Cardinal Energy Ltd. Announces",
+      "summary": "Calgary, Alberta--(Newsfile Corp. - July 13, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") confirms that our July dividend of $0.06 per common share will be ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/oil-prices-jump-weekend-us-083136040.html?.tsrc=rss",
-      "published": "Mon, 13 Jul 2026 08:31:36 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/cardinal-energy-ltd-announces-monthly-210100311.html?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 21:01:00 +0000"
+    },
+    {
+      "title": "Investors Buy the Semiconductor Dip",
+      "summary": "<p>Year-to-date inflows topped $1.1 trillion as fixed income led categories and SOXX led individual funds.</p>",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "http://www.etf.com/sections/weekly-etf-flows/investors-buy-semiconductor-dip-40-billion-flows-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 21:00:18 +0000"
+    },
+    {
+      "title": "Auro Metals Intersects 625.12m",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 13, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the second batch of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-metals-intersects-625-12m-210000542.html?.tsrc=rss",
+      "published": "Mon, 13 Jul 2026 21:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "72.69",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "78.00",
+          "change": "+0.09%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "77.38",
-          "change": "+0.10%",
+          "value": "83.18",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4082.00",
+          "value": "4008.70",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.26",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.28",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
-        72.70999908447266,
-        72.63999938964844,
-        72.75,
-        72.72000122070312,
-        72.70999908447266,
-        72.80000305175781,
-        72.79000091552734,
-        72.77999877929688,
-        72.63999938964844,
-        72.69000244140625,
-        72.69000244140625
+        78.11000061035156,
+        78.12000274658203,
+        78.08000183105469,
+        78.08999633789062,
+        77.98999786376953,
+        77.98999786376953,
+        77.97000122070312,
+        77.94000244140625,
+        77.98999786376953,
+        77.93000030517578,
+        78.0
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-07-13 18:46 KST"
+      "status": "강세",
+      "freshness": "2026-07-14 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.695%",
+          "value": "3.728%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.308%",
+          "value": "4.363%",
           "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.569%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.609%",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.071%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.098%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.566999912261963,
-        4.566999912261963,
-        4.568999767303467,
-        4.566999912261963,
-        4.568999767303467,
-        4.568999767303467
+        4.611999988555908,
+        4.611999988555908,
+        4.613999843597412,
+        4.613999843597412,
+        4.611999988555908,
+        4.611999988555908,
+        4.611999988555908,
+        4.611999988555908,
+        4.611999988555908,
+        4.611999988555908,
+        4.609000205993652
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-07-11 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-14 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7575.38",
-          "change": "-0.00%",
+          "value": "7515.90",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26278.70",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "25878.79",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6277.83",
+          "value": "6266.01",
           "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        7577.39013671875,
-        7579.35986328125,
-        7578.85986328125,
-        7578.0400390625,
-        7576.89990234375,
-        7577.31982421875,
-        7577.009765625,
-        7576.169921875,
-        7575.85986328125,
-        7575.43994140625,
-        7575.3798828125
+        7513.97998046875,
+        7517.27978515625,
+        7519.0,
+        7519.08984375,
+        7517.33984375,
+        7516.419921875,
+        7518.9501953125,
+        7518.6201171875,
+        7519.85986328125,
+        7520.68017578125,
+        7515.89990234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-07-11 04:59 KST"
+      "freshness": "2026-07-14 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.90",
+          "value": "101.29",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1493.33",
-          "change": "-0.01%",
+          "value": "1497.02",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.00",
-          "change": "+0.00%",
+          "value": "162.39",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7777",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.7709",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1493.6700439453125,
-        1493.8199462890625,
-        1493.8800048828125,
-        1493.719970703125,
-        1493.97998046875,
-        1493.8699951171875,
-        1493.8299560546875,
-        1493.739990234375,
-        1493.81005859375,
-        1493.5,
-        1493.3299560546875
+        1498.0400390625,
+        1497.9599609375,
+        1497.9200439453125,
+        1497.8699951171875,
+        1497.77001953125,
+        1497.75,
+        1497.4300537109375,
+        1497.7900390625,
+        1497.1700439453125,
+        1497.469970703125,
+        1497.02001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-13 18:56 KST"
+      "freshness": "2026-07-14 06:06 KST"
     }
   ],
   "currentAction": {
