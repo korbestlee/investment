@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "collectedAt": "2026-07-14T05:18:38Z",
+  "collectedAt": "2026-07-14T08:39:45Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.24%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Paramount Resources (TSX",
-      "impact": "지수, 위험선호",
+      "title": "Prediction",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Paramount Resources (TSX:POU) has announced a normal course issuer bid to repurchase up to 7,711,129 common shares, representing about 5.28% of its outstanding stock, with all repu",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-resources-tsx-pou-buyback-043210382.html?.tsrc=rss"
+      "summary": "An expected decline in headline inflation for June doesn't tell the full story.",
+      "link": "https://www.fool.com/investing/2026/07/14/prediction-june-inflation-silver-lining-sinister/?.tsrc=rss"
     },
     {
-      "title": "Oil prices jump as fighting flares",
+      "title": "BP set for further boost from oil",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.  Oil prices ar",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-jump-fighting-flares-040753908.html?.tsrc=rss"
+      "summary": "The oil giant will report second quarter figures on August 4.",
+      "link": "https://uk.finance.yahoo.com/news/bp-set-further-boost-oil-082133899.html?.tsrc=rss"
     },
     {
-      "title": "Goldman Sachs drops new warning on",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Stock market investors are heading into CPI week with a familiar playbook. The hope is that inflation cools off further and the Fed stays on hold, with robust earnings taking over ",
-      "link": "https://www.thestreet.com/fed/goldman-sachs-drops-new-warning-on-interest-rate-hikes?.tsrc=rss"
-    },
-    {
-      "title": "Big Bank Earnings Today",
+      "title": "BP Flags Stronger Q2 Refining and",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "JPMorgan, BofA, Wells Fargo, and Goldman report Q2 earnings today as investors watch for signs the economy can hold up.",
-      "link": "https://beincrypto.com/bank-earnings-economy-fears-2026/?.tsrc=rss"
+      "summary": "BP expects stronger second-quarter earnings from higher oil prices and refining margins despite lower upstream production.",
+      "link": "https://finance.yahoo.com/energy/articles/bp-flags-stronger-q2-refining-073500650.html?.tsrc=rss"
+    },
+    {
+      "title": "Zacks.com featured highlights",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Ternium, Everus, TAT and Sunstone Hotel have been highlighted in this Screen of The Week article.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-ternium-072600631.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Paramount Resources (TSX",
-      "summary": "Paramount Resources (TSX:POU) has announced a normal course issuer bid to repurchase up to 7,711,129 common shares, representing about 5.28% of its outstanding stock, with all repu",
-      "impact": "지수, 위험선호",
+      "title": "Prediction",
+      "summary": "An expected decline in headline inflation for June doesn't tell the full story.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-resources-tsx-pou-buyback-043210382.html?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 04:32:10 +0000"
+      "link": "https://www.fool.com/investing/2026/07/14/prediction-june-inflation-silver-lining-sinister/?.tsrc=rss",
+      "published": "Tue, 14 Jul 2026 08:26:00 +0000"
     },
     {
-      "title": "Oil prices jump as fighting flares",
-      "summary": "Oil prices climbed early Tuesday as fighting intensified in the Middle East, while Asian shares declined, dragged lower by losses for artificial-intelligence stocks.  Oil prices ar",
+      "title": "BP set for further boost from oil",
+      "summary": "The oil giant will report second quarter figures on August 4.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-jump-fighting-flares-040753908.html?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 04:07:53 +0000"
+      "link": "https://uk.finance.yahoo.com/news/bp-set-further-boost-oil-082133899.html?.tsrc=rss",
+      "published": "Tue, 14 Jul 2026 08:21:33 +0000"
     },
     {
-      "title": "Goldman Sachs drops new warning on",
-      "summary": "Stock market investors are heading into CPI week with a familiar playbook. The hope is that inflation cools off further and the Fed stays on hold, with robust earnings taking over ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.thestreet.com/fed/goldman-sachs-drops-new-warning-on-interest-rate-hikes?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 03:07:00 +0000"
-    },
-    {
-      "title": "Big Bank Earnings Today",
-      "summary": "JPMorgan, BofA, Wells Fargo, and Goldman report Q2 earnings today as investors watch for signs the economy can hold up.",
+      "title": "BP Flags Stronger Q2 Refining and",
+      "summary": "BP expects stronger second-quarter earnings from higher oil prices and refining margins despite lower upstream production.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://beincrypto.com/bank-earnings-economy-fears-2026/?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 02:37:31 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/bp-flags-stronger-q2-refining-073500650.html?.tsrc=rss",
+      "published": "Tue, 14 Jul 2026 07:35:00 +0000"
+    },
+    {
+      "title": "Zacks.com featured highlights",
+      "summary": "Ternium, Everus, TAT and Sunstone Hotel have been highlighted in this Screen of The Week article.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-ternium-072600631.html?.tsrc=rss",
+      "published": "Tue, 14 Jul 2026 07:26:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.81",
-          "change": "+0.01%",
+          "value": "80.33",
+          "change": "+0.24%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "84.91",
-          "change": "+0.02%",
+          "value": "86.23",
+          "change": "+0.26%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4029.10",
+          "value": "4029.70",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.37",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.38",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        79.75,
-        79.77999877929688,
-        79.80000305175781,
-        79.83000183105469,
-        79.87000274658203,
-        79.79000091552734,
-        79.8499984741211,
-        79.88999938964844,
-        79.79000091552734,
-        79.80000305175781,
-        79.80999755859375
+        80.20999908447266,
+        80.08000183105469,
+        80.13999938964844,
+        80.1500015258789,
+        80.16000366210938,
+        80.19999694824219,
+        80.08999633789062,
+        80.12000274658203,
+        80.01000213623047,
+        80.13999938964844,
+        80.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-14 14:08 KST"
+      "freshness": "2026-07-14 17:29 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6852.87",
-          "change": "+0.21%",
-          "direction": "up"
+          "value": "6836.90",
+          "change": "-0.35%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6266.01",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6222.69",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,15 +298,15 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.19",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "101.12",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1488.21",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1493.99",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
@@ -316,27 +316,27 @@
         },
         {
           "name": "USDCNY",
-          "value": "6.7799",
+          "value": "6.7768",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1488.469970703125,
-        1488.5799560546875,
-        1488.5999755859375,
-        1489.0799560546875,
-        1488.800048828125,
-        1489.0799560546875,
-        1489.1800537109375,
-        1488.77001953125,
-        1488.3800048828125,
-        1488.3299560546875,
-        1488.2099609375
+        1493.75,
+        1493.8800048828125,
+        1494.1400146484375,
+        1494.5799560546875,
+        1494.1700439453125,
+        1493.969970703125,
+        1493.9599609375,
+        1493.8800048828125,
+        1494.0799560546875,
+        1493.969970703125,
+        1493.989990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-14 14:18 KST"
+      "status": "완화",
+      "freshness": "2026-07-14 17:39 KST"
     }
   ],
   "currentAction": {
