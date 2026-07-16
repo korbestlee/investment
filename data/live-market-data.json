@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "collectedAt": "2026-07-15T21:12:27Z",
+  "collectedAt": "2026-07-16T05:29:23Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Apple, Google Mask Dell, Sandisk,",
+      "title": "ISCB vs. SCHA",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "SCHA has outperformed over the last year, but ISCB offers a higher dividend yield and industrial exposure.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/16/iscb-vs-scha-which-small-cap-etf-should-you-buy-in-2026/?.tsrc=rss"
+    },
+    {
+      "title": "Europe Inc heads into strongest",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "European companies are heading for their strongest earnings season in more than three years, but investors remain concerned that the region lacks enough AI-powered growth engines t",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/europe-inc-heads-strongest-earnings-040450039.html?.tsrc=rss"
+    },
+    {
+      "title": "Lululemon backs nylon recycling",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
-      "link": "https://finance.yahoo.com/m/9b2a3551-5bcd-34f5-9f61-00ac74d553c1/dow-jones-futures%3A-apple%2C.html?.tsrc=rss"
+      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "link": "https://finance.yahoo.com/technology/articles/lululemon-backs-nylon-recycling-startup-040000929.html?.tsrc=rss"
     },
     {
-      "title": "ArrowMark Financial Corp. Releases",
-      "impact": "지수, 위험선호",
+      "title": "Is Johnson & Johnson a Buy After Its",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "DENVER, July 15, 2026 (GLOBE NEWSWIRE) -- ArrowMark Financial Corp., (NASDAQ: BANX) (\"ArrowMark Financial\"), today announced that BANX’s estimated and unaudited Net Asset Value (“N",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arrowmark-financial-corp-releases-month-210000277.html?.tsrc=rss"
-    },
-    {
-      "title": "SPDR Gold Shares vs Sprott Gold",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Mining stocks delivered 41% returns over one year, but with 45% maximum drawdown. Physical gold offers stability with lower volatility.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/15/spdr-gold-shares-vs-sprott-gold-miners-etf-should-investors-go-for-bullion-or-mining-stocks-to-play-the-comnmodity-boom/?.tsrc=rss"
-    },
-    {
-      "title": "Pentair Stock Tanked on an Alarming",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Shares of water technology company  Pentair  plummeted Wednesday after the company slashed full-year guidance, reported lower-than-expected earnings, and said its chief financial o",
-      "link": "https://finance.yahoo.com/m/8cfee09c-595e-3e1e-b712-fa92dac63045/pentair-stock-tanked-on-an.html?.tsrc=rss"
+      "summary": "Investors didn't seem to think so after the company published it.",
+      "link": "https://www.fool.com/investing/2026/07/15/is-johnson-johnson-a-buy-after-its-latest-earnings/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Apple, Google Mask Dell, Sandisk,",
-      "summary": "Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
+      "title": "ISCB vs. SCHA",
+      "summary": "SCHA has outperformed over the last year, but ISCB offers a higher dividend yield and industrial exposure.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/16/iscb-vs-scha-which-small-cap-etf-should-you-buy-in-2026/?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 04:20:01 +0000"
+    },
+    {
+      "title": "Europe Inc heads into strongest",
+      "summary": "European companies are heading for their strongest earnings season in more than three years, but investors remain concerned that the region lacks enough AI-powered growth engines t",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/europe-inc-heads-strongest-earnings-040450039.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 04:04:50 +0000"
+    },
+    {
+      "title": "Lululemon backs nylon recycling",
+      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/9b2a3551-5bcd-34f5-9f61-00ac74d553c1/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-      "published": "Wed, 15 Jul 2026 21:04:36 +0000"
+      "link": "https://finance.yahoo.com/technology/articles/lululemon-backs-nylon-recycling-startup-040000929.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 04:00:00 +0000"
     },
     {
-      "title": "ArrowMark Financial Corp. Releases",
-      "summary": "DENVER, July 15, 2026 (GLOBE NEWSWIRE) -- ArrowMark Financial Corp., (NASDAQ: BANX) (\"ArrowMark Financial\"), today announced that BANX’s estimated and unaudited Net Asset Value (“N",
-      "impact": "지수, 위험선호",
+      "title": "Is Johnson & Johnson a Buy After Its",
+      "summary": "Investors didn't seem to think so after the company published it.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arrowmark-financial-corp-releases-month-210000277.html?.tsrc=rss",
-      "published": "Wed, 15 Jul 2026 21:00:00 +0000"
-    },
-    {
-      "title": "SPDR Gold Shares vs Sprott Gold",
-      "summary": "Mining stocks delivered 41% returns over one year, but with 45% maximum drawdown. Physical gold offers stability with lower volatility.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/15/spdr-gold-shares-vs-sprott-gold-miners-etf-should-investors-go-for-bullion-or-mining-stocks-to-play-the-comnmodity-boom/?.tsrc=rss",
-      "published": "Wed, 15 Jul 2026 20:58:01 +0000"
-    },
-    {
-      "title": "Pentair Stock Tanked on an Alarming",
-      "summary": "Shares of water technology company  Pentair  plummeted Wednesday after the company slashed full-year guidance, reported lower-than-expected earnings, and said its chief financial o",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/8cfee09c-595e-3e1e-b712-fa92dac63045/pentair-stock-tanked-on-an.html?.tsrc=rss",
-      "published": "Wed, 15 Jul 2026 20:52:00 +0000"
+      "link": "https://www.fool.com/investing/2026/07/15/is-johnson-johnson-a-buy-after-its-latest-earnings/?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 03:39:27 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.24",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "85.63",
-          "change": "-0.05%",
+          "value": "79.39",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "84.57",
+          "change": "+0.13%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4066.90",
-          "change": "-0.00%",
+          "value": "4034.80",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.38",
-          "change": "-0.02%",
+          "value": "6.41",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        80.3499984741211,
-        80.2699966430664,
-        80.23999786376953,
-        80.26000213623047,
-        80.2699966430664,
-        80.20999908447266,
-        80.19999694824219,
-        80.2300033569336,
-        80.23999786376953,
-        80.22000122070312,
-        80.23999786376953
+        79.33000183105469,
+        79.25,
+        79.30000305175781,
+        79.30000305175781,
+        79.31999969482422,
+        79.33999633789062,
+        79.27999877929688,
+        79.30000305175781,
+        79.29000091552734,
+        79.4000015258789,
+        79.38999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-16 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-16 14:19 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7347.23",
-          "change": "+0.16%",
-          "direction": "up"
+          "value": "6804.36",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.51",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "100.50",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1486.44",
-          "change": "+0.00%",
+          "value": "1480.84",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "162.15",
+          "value": "162.11",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7579",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.7654",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1484.9599609375,
-        1485.0,
-        1484.949951171875,
-        1485.0,
-        1485.010009765625,
-        1484.969970703125,
-        1485.0,
-        1484.969970703125,
-        1486.0400390625,
-        1486.4200439453125,
-        1486.43994140625
+        1482.3800048828125,
+        1482.5799560546875,
+        1482.3699951171875,
+        1481.780029296875,
+        1481.0799560546875,
+        1481.1800537109375,
+        1481.3900146484375,
+        1481.3900146484375,
+        1480.6800537109375,
+        1480.6800537109375,
+        1480.8399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-16 06:11 KST"
+      "status": "완화",
+      "freshness": "2026-07-16 14:29 KST"
     }
   ],
   "currentAction": {
