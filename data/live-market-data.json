@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-16",
-  "collectedAt": "2026-07-16T08:57:45Z",
+  "date": "2026-07-17",
+  "collectedAt": "2026-07-16T21:13:14Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.07%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.10%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "TSMC scores record profit, eyes on",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com - U.S. stock futures were largely steady on Thursday as softer inflation data continued to support hopes that the Federal Reserve can keep interest rates on hold.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-scores-record-profit-eyes-083108375.html?.tsrc=rss"
-    },
-    {
-      "title": "Baidu to Pursue Voluntary Conversion",
+      "title": "Micron, Sandisk, Google Lead AI",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-pursue-voluntary-conversion-dual-083000261.html?.tsrc=rss"
+      "summary": "The Nasdaq tumbled on Sandisk, Micron, other AI stocks, but regional banks and transports rose. SpaceX has a big launch coming.",
+      "link": "https://finance.yahoo.com/m/b5c1ad7a-e72b-3a9b-bb20-11f0979acb67/dow-jones-futures%3A-micron%2C.html?.tsrc=rss"
     },
     {
-      "title": "Fed Chair Kevin Warsh Just Drove a",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Warsh's hardline stance on inflation is a wake-up call for the second-priciest stock market in history.",
-      "link": "https://www.fool.com/investing/2026/07/16/fed-kevin-warsh-dagger-wall-st-15-word-statement/?.tsrc=rss"
-    },
-    {
-      "title": "SpaceX vs the \"Magnificent Seven\"",
-      "impact": "시장 전반",
+      "title": "Adams Natural Resources Fund",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "All of these tech players have delivered significant gains.",
-      "link": "https://www.fool.com/investing/2026/07/16/spacex-vs-the-magnificent-seven-which-is-the-bette/?.tsrc=rss"
+      "summary": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- Adams Natural Resources Fund, Inc. (NYSE: PEO) today announced the Fund’s investment returns for the first half of 2026. The total retu",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adams-natural-resources-fund-announces-205700854.html?.tsrc=rss"
+    },
+    {
+      "title": "Adams Diversified Equity Fund",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- Adams Diversified Equity Fund, Inc. (NYSE: ADX) today announced the Fund’s investment returns for the first half of 2026. The total ret",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adams-diversified-equity-fund-announces-205700355.html?.tsrc=rss"
+    },
+    {
+      "title": "Should You Buy Tesla Stock Before",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Investors will be listening to every single word founder and CEO Elon Musk says during the upcoming earnings call.",
+      "link": "https://www.fool.com/investing/2026/07/16/should-you-buy-tesla-stock-before-july-22/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "TSMC scores record profit, eyes on",
-      "summary": "Investing.com - U.S. stock futures were largely steady on Thursday as softer inflation data continued to support hopes that the Federal Reserve can keep interest rates on hold.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-scores-record-profit-eyes-083108375.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 08:31:08 +0000"
-    },
-    {
-      "title": "Baidu to Pursue Voluntary Conversion",
-      "summary": "Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that ",
+      "title": "Micron, Sandisk, Google Lead AI",
+      "summary": "The Nasdaq tumbled on Sandisk, Micron, other AI stocks, but regional banks and transports rose. SpaceX has a big launch coming.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-pursue-voluntary-conversion-dual-083000261.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 08:30:00 +0000"
+      "link": "https://finance.yahoo.com/m/b5c1ad7a-e72b-3a9b-bb20-11f0979acb67/dow-jones-futures%3A-micron%2C.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 20:58:40 +0000"
     },
     {
-      "title": "Fed Chair Kevin Warsh Just Drove a",
-      "summary": "Warsh's hardline stance on inflation is a wake-up call for the second-priciest stock market in history.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/16/fed-kevin-warsh-dagger-wall-st-15-word-statement/?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 08:26:00 +0000"
-    },
-    {
-      "title": "SpaceX vs the \"Magnificent Seven\"",
-      "summary": "All of these tech players have delivered significant gains.",
-      "impact": "시장 전반",
+      "title": "Adams Natural Resources Fund",
+      "summary": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- Adams Natural Resources Fund, Inc. (NYSE: PEO) today announced the Fund’s investment returns for the first half of 2026. The total retu",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/16/spacex-vs-the-magnificent-seven-which-is-the-bette/?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 08:22:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adams-natural-resources-fund-announces-205700854.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 20:57:00 +0000"
+    },
+    {
+      "title": "Adams Diversified Equity Fund",
+      "summary": "BALTIMORE, July 16, 2026 (GLOBE NEWSWIRE) -- Adams Diversified Equity Fund, Inc. (NYSE: ADX) today announced the Fund’s investment returns for the first half of 2026. The total ret",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adams-diversified-equity-fund-announces-205700355.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 20:57:00 +0000"
+    },
+    {
+      "title": "Should You Buy Tesla Stock Before",
+      "summary": "Investors will be listening to every single word founder and CEO Elon Musk says during the upcoming earnings call.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/16/should-you-buy-tesla-stock-before-july-22/?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 20:50:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.56",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "78.89",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "84.62",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "84.86",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4041.20",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "3979.90",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.39",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.28",
+          "change": "-0.10%",
+          "direction": "down"
         }
       ],
       "trend": [
-        79.5999984741211,
-        79.62999725341797,
-        79.63999938964844,
-        79.58999633789062,
-        79.55000305175781,
-        79.58000183105469,
-        79.55000305175781,
-        79.58000183105469,
-        79.55999755859375,
-        79.54000091552734,
-        79.55999755859375
+        78.9800033569336,
+        78.91000366210938,
+        78.93000030517578,
+        78.95999908447266,
+        78.95999908447266,
+        78.87999725341797,
+        78.87999725341797,
+        78.93000030517578,
+        78.88999938964844,
+        78.9000015258789,
+        78.88999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-16 17:47 KST"
+      "status": "약세",
+      "freshness": "2026-07-17 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.688%",
+          "value": "3.697%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.255%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "4.282%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.545%",
+          "value": "4.569%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.083%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.098%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945,
-        4.545000076293945
+        4.566999912261963,
+        4.566999912261963,
+        4.566999912261963,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467,
+        4.568999767303467
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-16 03:59 KST"
+      "freshness": "2026-07-17 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7572.20",
-          "change": "+0.01%",
+          "value": "7534.62",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26263.05",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "25889.14",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6256.28",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6269.31",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7561.31982421875,
-        7563.759765625,
-        7565.14990234375,
-        7565.97998046875,
-        7566.02978515625,
-        7566.8701171875,
-        7570.43017578125,
-        7570.080078125,
-        7570.0400390625,
-        7571.64990234375,
-        7572.2001953125
+        7506.9501953125,
+        7514.9599609375,
+        7519.33984375,
+        7521.02978515625,
+        7522.740234375,
+        7524.419921875,
+        7529.009765625,
+        7528.169921875,
+        7527.259765625,
+        7529.6201171875,
+        7534.6201171875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-07-16 04:59 KST"
+      "freshness": "2026-07-17 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.53",
+          "value": "100.73",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1479.04",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "162.35",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDKRW",
-          "value": "1479.34",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "162.15",
+          "name": "USDCNY",
+          "value": "6.7721",
           "change": "-0.01%",
           "direction": "down"
-        },
-        {
-          "name": "USDCNY",
-          "value": "6.7672",
-          "change": "+0.00%",
-          "direction": "neutral"
         }
       ],
       "trend": [
-        1478.47998046875,
-        1478.47998046875,
-        1479.0400390625,
-        1479.050048828125,
-        1479.1800537109375,
-        1479.27001953125,
-        1479.31005859375,
-        1479.3800048828125,
-        1479.6800537109375,
-        1479.3800048828125,
-        1479.3399658203125
+        1479.1500244140625,
+        1479.3599853515625,
+        1479.3499755859375,
+        1479.489990234375,
+        1479.3499755859375,
+        1478.989990234375,
+        1479.0999755859375,
+        1479.1600341796875,
+        1479.1600341796875,
+        1478.81005859375,
+        1479.0400390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-16 17:57 KST"
+      "status": "중립",
+      "freshness": "2026-07-17 06:12 KST"
     }
   ],
   "currentAction": {
