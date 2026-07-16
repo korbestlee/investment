@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "collectedAt": "2026-07-16T05:29:23Z",
+  "collectedAt": "2026-07-16T08:57:45Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "ISCB vs. SCHA",
+      "title": "TSMC scores record profit, eyes on",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "SCHA has outperformed over the last year, but ISCB offers a higher dividend yield and industrial exposure.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/16/iscb-vs-scha-which-small-cap-etf-should-you-buy-in-2026/?.tsrc=rss"
+      "summary": "Investing.com - U.S. stock futures were largely steady on Thursday as softer inflation data continued to support hopes that the Federal Reserve can keep interest rates on hold.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-scores-record-profit-eyes-083108375.html?.tsrc=rss"
     },
     {
-      "title": "Europe Inc heads into strongest",
+      "title": "Baidu to Pursue Voluntary Conversion",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "European companies are heading for their strongest earnings season in more than three years, but investors remain concerned that the region lacks enough AI-powered growth engines t",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/europe-inc-heads-strongest-earnings-040450039.html?.tsrc=rss"
+      "summary": "Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-pursue-voluntary-conversion-dual-083000261.html?.tsrc=rss"
     },
     {
-      "title": "Lululemon backs nylon recycling",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "link": "https://finance.yahoo.com/technology/articles/lululemon-backs-nylon-recycling-startup-040000929.html?.tsrc=rss"
+      "title": "Fed Chair Kevin Warsh Just Drove a",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Warsh's hardline stance on inflation is a wake-up call for the second-priciest stock market in history.",
+      "link": "https://www.fool.com/investing/2026/07/16/fed-kevin-warsh-dagger-wall-st-15-word-statement/?.tsrc=rss"
     },
     {
-      "title": "Is Johnson & Johnson a Buy After Its",
+      "title": "SpaceX vs the \"Magnificent Seven\"",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Investors didn't seem to think so after the company published it.",
-      "link": "https://www.fool.com/investing/2026/07/15/is-johnson-johnson-a-buy-after-its-latest-earnings/?.tsrc=rss"
+      "summary": "All of these tech players have delivered significant gains.",
+      "link": "https://www.fool.com/investing/2026/07/16/spacex-vs-the-magnificent-seven-which-is-the-bette/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "ISCB vs. SCHA",
-      "summary": "SCHA has outperformed over the last year, but ISCB offers a higher dividend yield and industrial exposure.",
+      "title": "TSMC scores record profit, eyes on",
+      "summary": "Investing.com - U.S. stock futures were largely steady on Thursday as softer inflation data continued to support hopes that the Federal Reserve can keep interest rates on hold.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/16/iscb-vs-scha-which-small-cap-etf-should-you-buy-in-2026/?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 04:20:01 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-scores-record-profit-eyes-083108375.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 08:31:08 +0000"
     },
     {
-      "title": "Europe Inc heads into strongest",
-      "summary": "European companies are heading for their strongest earnings season in more than three years, but investors remain concerned that the region lacks enough AI-powered growth engines t",
+      "title": "Baidu to Pursue Voluntary Conversion",
+      "summary": "Baidu, Inc. (\"Baidu\" or the \"Company\") (Nasdaq: BIDU; HKEX: 9888 (HKD Counter) and 89888 (RMB Counter)), a leading AI company with strong Internet foundation, today announced that ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/europe-inc-heads-strongest-earnings-040450039.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 04:04:50 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-pursue-voluntary-conversion-dual-083000261.html?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 08:30:00 +0000"
     },
     {
-      "title": "Lululemon backs nylon recycling",
-      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/technology/articles/lululemon-backs-nylon-recycling-startup-040000929.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000"
+      "title": "Fed Chair Kevin Warsh Just Drove a",
+      "summary": "Warsh's hardline stance on inflation is a wake-up call for the second-priciest stock market in history.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/07/16/fed-kevin-warsh-dagger-wall-st-15-word-statement/?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 08:26:00 +0000"
     },
     {
-      "title": "Is Johnson & Johnson a Buy After Its",
-      "summary": "Investors didn't seem to think so after the company published it.",
+      "title": "SpaceX vs the \"Magnificent Seven\"",
+      "summary": "All of these tech players have delivered significant gains.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/15/is-johnson-johnson-a-buy-after-its-latest-earnings/?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 03:39:27 +0000"
+      "link": "https://www.fool.com/investing/2026/07/16/spacex-vs-the-magnificent-seven-which-is-the-bette/?.tsrc=rss",
+      "published": "Thu, 16 Jul 2026 08:22:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.39",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "79.56",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "84.57",
-          "change": "+0.13%",
+          "value": "84.62",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4034.80",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4041.20",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.41",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6.39",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        79.33000183105469,
-        79.25,
-        79.30000305175781,
-        79.30000305175781,
-        79.31999969482422,
-        79.33999633789062,
-        79.27999877929688,
-        79.30000305175781,
-        79.29000091552734,
-        79.4000015258789,
-        79.38999938964844
+        79.5999984741211,
+        79.62999725341797,
+        79.63999938964844,
+        79.58999633789062,
+        79.55000305175781,
+        79.58000183105469,
+        79.55000305175781,
+        79.58000183105469,
+        79.55999755859375,
+        79.54000091552734,
+        79.55999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-16 14:19 KST"
+      "status": "강세",
+      "freshness": "2026-07-16 17:47 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6804.36",
-          "change": "-0.03%",
+          "value": "6835.21",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6266.64",
-          "change": "+0.02%",
+          "value": "6256.28",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.50",
+          "value": "100.53",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1479.34",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1480.84",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
           "name": "USDJPY",
-          "value": "162.11",
-          "change": "-0.00%",
+          "value": "162.15",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7654",
+          "value": "6.7672",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1482.3800048828125,
-        1482.5799560546875,
-        1482.3699951171875,
-        1481.780029296875,
-        1481.0799560546875,
-        1481.1800537109375,
-        1481.3900146484375,
-        1481.3900146484375,
-        1480.6800537109375,
-        1480.6800537109375,
-        1480.8399658203125
+        1478.47998046875,
+        1478.47998046875,
+        1479.0400390625,
+        1479.050048828125,
+        1479.1800537109375,
+        1479.27001953125,
+        1479.31005859375,
+        1479.3800048828125,
+        1479.6800537109375,
+        1479.3800048828125,
+        1479.3399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-16 14:29 KST"
+      "status": "강세",
+      "freshness": "2026-07-16 17:57 KST"
     }
   ],
   "currentAction": {
