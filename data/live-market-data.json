@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "collectedAt": "2026-07-17T05:30:47Z",
+  "collectedAt": "2026-07-17T08:38:22Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "3 High-Yield Dividend Stocks to Buy",
+      "title": "US Stock Market Today",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "All three can be bought on the dip.",
-      "link": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/?.tsrc=rss"
+      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 17 2026 US stock futures are drifting slightly lower this morning, with key index contracts such as the E-mini S&P 500 and ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html?.tsrc=rss"
     },
     {
-      "title": "Asia stocks slip amid tech losses,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com-- Most Asian stock markets fell on Friday, with Japan’s Nikkei leading regional losses as technology shares extended a global selloff and investors remained cautious ",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slip-amid-tech-044313893.html?.tsrc=rss"
+      "title": "The ECB Holds Next Week",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Economists expect the ECB to pause next week, then hike to 2.5% in September, with the US-Iran war still a key factor.",
+      "link": "https://beincrypto.com/ecb-rate-hike-september-global-tightening/?.tsrc=rss"
     },
     {
-      "title": "Asian shares sink, with Tokyo down",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Asian shares skidded Friday, with Tokyo’s Nikkei 225 down 5% as heavy selling of computer chipmakers and other AI-related shares dragged markets lower.  Stocks related to artificia",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-sink-tokyo-down-043403906.html?.tsrc=rss"
+      "title": "History Might Be Telling Us Why",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "A forgotten historical trend related to capital expenditures could weigh on the tech giant.",
+      "link": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/?.tsrc=rss"
     },
     {
-      "title": "United Airlines stark warning could",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Anyone who has booked a flight lately knows fares are not cheap. The airlines' pricing data pattern over the last few months is unmistakable. Oil goes up, fuel costs surge, and air",
-      "link": "https://www.thestreet.com/travel/ual-united-airlines-oil-price-surge-6-billion-fuel-costs-iata-forecasts-7-7-higher-airfares?.tsrc=rss"
+      "title": "SK hynix (KOSE",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "SK hynix (KOSE:A000660) has been added to the NASDAQ Composite Index. The inclusion follows the company’s major US listing. Index membership means SK hynix will now be part of a wi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-kose-a000660-joins-071313774.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "3 High-Yield Dividend Stocks to Buy",
-      "summary": "All three can be bought on the dip.",
+      "title": "US Stock Market Today",
+      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 17 2026 US stock futures are drifting slightly lower this morning, with key index contracts such as the E-mini S&P 500 and ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 05:20:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 08:09:28 +0000"
     },
     {
-      "title": "Asia stocks slip amid tech losses,",
-      "summary": "Investing.com-- Most Asian stock markets fell on Friday, with Japan’s Nikkei leading regional losses as technology shares extended a global selloff and investors remained cautious ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-slip-amid-tech-044313893.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 04:43:13 +0000"
+      "title": "The ECB Holds Next Week",
+      "summary": "Economists expect the ECB to pause next week, then hike to 2.5% in September, with the US-Iran war still a key factor.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://beincrypto.com/ecb-rate-hike-september-global-tightening/?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 08:02:44 +0000"
     },
     {
-      "title": "Asian shares sink, with Tokyo down",
-      "summary": "Asian shares skidded Friday, with Tokyo’s Nikkei 225 down 5% as heavy selling of computer chipmakers and other AI-related shares dragged markets lower.  Stocks related to artificia",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-sink-tokyo-down-043403906.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 04:34:03 +0000"
+      "title": "History Might Be Telling Us Why",
+      "summary": "A forgotten historical trend related to capital expenditures could weigh on the tech giant.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 07:45:00 +0000"
     },
     {
-      "title": "United Airlines stark warning could",
-      "summary": "Anyone who has booked a flight lately knows fares are not cheap. The airlines' pricing data pattern over the last few months is unmistakable. Oil goes up, fuel costs surge, and air",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.thestreet.com/travel/ual-united-airlines-oil-price-surge-6-billion-fuel-costs-iata-forecasts-7-7-higher-airfares?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 03:33:00 +0000"
+      "title": "SK hynix (KOSE",
+      "summary": "SK hynix (KOSE:A000660) has been added to the NASDAQ Composite Index. The inclusion follows the company’s major US listing. Index membership means SK hynix will now be part of a wi",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-kose-a000660-joins-071313774.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 07:13:13 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.05",
+          "value": "79.02",
           "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "84.96",
-          "change": "-0.01%",
+          "value": "84.69",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3981.50",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "3992.60",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.22",
+          "value": "6.21",
           "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        79.06999969482422,
-        79.05999755859375,
-        79.06999969482422,
-        79.06999969482422,
-        79.05999755859375,
-        79.08000183105469,
-        79.05999755859375,
+        78.61000061035156,
+        78.62000274658203,
+        78.58999633789062,
+        78.62000274658203,
+        78.86000061035156,
+        78.87999725341797,
+        78.9000015258789,
+        79.0,
         79.08999633789062,
-        79.06999969482422,
-        79.06999969482422,
-        79.05000305175781
+        79.04000091552734,
+        79.0199966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-17 14:20 KST"
+      "freshness": "2026-07-17 17:28 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6269.31",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6215.93",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.78",
+          "value": "100.76",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1479.68",
+          "value": "1484.27",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.41",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "162.36",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7727",
+          "value": "6.7762",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1480.22998046875,
-        1480.030029296875,
-        1480.0999755859375,
-        1480.0899658203125,
-        1480.4100341796875,
-        1480.489990234375,
-        1480.4000244140625,
-        1480.02001953125,
-        1479.8299560546875,
-        1479.8399658203125,
-        1479.6800537109375
+        1483.489990234375,
+        1483.489990234375,
+        1483.81005859375,
+        1483.77001953125,
+        1484.1600341796875,
+        1484.2900390625,
+        1483.8800048828125,
+        1484.3800048828125,
+        1483.949951171875,
+        1484.3499755859375,
+        1484.27001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-17 14:30 KST"
+      "freshness": "2026-07-17 17:38 KST"
     }
   ],
   "currentAction": {
