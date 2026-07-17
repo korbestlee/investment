@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-17",
-  "collectedAt": "2026-07-17T08:38:22Z",
+  "date": "2026-07-18",
+  "collectedAt": "2026-07-17T21:05:42Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.07%",
+      "value": "-0.10%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "US Stock Market Today",
+      "title": "Vista Energy SAB de CV (VIST) Q2",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 17 2026 US stock futures are drifting slightly lower this morning, with key index contracts such as the E-mini S&P 500 and ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html?.tsrc=rss"
+      "summary": "Vista Energy SAB de CV (VIST) reports an impressive 89% revenue growth and a 32% increase in total production, marking a robust quarter amid strategic acquisitions and operational ",
+      "link": "https://finance.yahoo.com/energy/articles/vista-energy-sab-cv-vist-210021575.html?.tsrc=rss"
     },
     {
-      "title": "The ECB Holds Next Week",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Economists expect the ECB to pause next week, then hike to 2.5% in September, with the US-Iran war still a key factor.",
-      "link": "https://beincrypto.com/ecb-rate-hike-september-global-tightening/?.tsrc=rss"
+      "title": "Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html?.tsrc=rss"
     },
     {
-      "title": "History Might Be Telling Us Why",
+      "title": "Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-amid-netflix-sell-204656661.html?.tsrc=rss"
+    },
+    {
+      "title": "S&P 500 Posts Weekly Decline Amid",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "A forgotten historical trend related to capital expenditures could weigh on the tech giant.",
-      "link": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/?.tsrc=rss"
-    },
-    {
-      "title": "SK hynix (KOSE",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "SK hynix (KOSE:A000660) has been added to the NASDAQ Composite Index. The inclusion follows the company’s major US listing. Index membership means SK hynix will now be part of a wi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-kose-a000660-joins-071313774.html?.tsrc=rss"
+      "summary": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204601881.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "US Stock Market Today",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Jul, 17 2026 US stock futures are drifting slightly lower this morning, with key index contracts such as the E-mini S&P 500 and ",
+      "title": "Vista Energy SAB de CV (VIST) Q2",
+      "summary": "Vista Energy SAB de CV (VIST) reports an impressive 89% revenue growth and a 32% increase in total production, marking a robust quarter amid strategic acquisitions and operational ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 08:09:28 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/vista-energy-sab-cv-vist-210021575.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 21:00:21 +0000"
     },
     {
-      "title": "The ECB Holds Next Week",
-      "summary": "Economists expect the ECB to pause next week, then hike to 2.5% in September, with the US-Iran war still a key factor.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://beincrypto.com/ecb-rate-hike-september-global-tightening/?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 08:02:44 +0000"
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 20:51:29 +0000"
     },
     {
-      "title": "History Might Be Telling Us Why",
-      "summary": "A forgotten historical trend related to capital expenditures could weigh on the tech giant.",
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-amid-netflix-sell-204656661.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 20:46:56 +0000"
+    },
+    {
+      "title": "S&P 500 Posts Weekly Decline Amid",
+      "summary": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/17/history-might-be-telling-us-why-nvidia-stock-is-so/?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 07:45:00 +0000"
-    },
-    {
-      "title": "SK hynix (KOSE",
-      "summary": "SK hynix (KOSE:A000660) has been added to the NASDAQ Composite Index. The inclusion follows the company’s major US listing. Index membership means SK hynix will now be part of a wi",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-kose-a000660-joins-071313774.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 07:13:13 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204601881.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 20:46:01 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.02",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "81.77",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "84.69",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "88.10",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3992.60",
-          "change": "-0.09%",
+          "value": "4020.70",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.21",
-          "change": "+0.02%",
+          "value": "6.27",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        78.61000061035156,
-        78.62000274658203,
-        78.58999633789062,
-        78.62000274658203,
-        78.86000061035156,
-        78.87999725341797,
-        78.9000015258789,
-        79.0,
-        79.08999633789062,
-        79.04000091552734,
-        79.0199966430664
+        81.81999969482422,
+        81.81999969482422,
+        81.75,
+        81.73999786376953,
+        81.72000122070312,
+        81.7300033569336,
+        81.75,
+        81.76000213623047,
+        81.72000122070312,
+        81.70999908447266,
+        81.7699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-17 17:28 KST"
+      "status": "강세",
+      "freshness": "2026-07-18 05:55 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.697%",
+          "value": "3.707%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.282%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.273%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.569%",
+          "value": "4.541%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.098%",
+          "value": "5.064%",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        4.566999912261963,
-        4.566999912261963,
-        4.566999912261963,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467,
-        4.568999767303467
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779,
+        4.543000221252441,
+        4.540999889373779,
+        4.540999889373779,
+        4.540999889373779
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-17 03:59 KST"
+      "freshness": "2026-07-18 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7534.62",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "7457.78",
+          "change": "-0.10%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25889.14",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "25519.48",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6215.93",
-          "change": "+0.00%",
+          "value": "6229.00",
+          "change": "+0.08%",
           "direction": "up"
         }
       ],
       "trend": [
-        7506.9501953125,
-        7514.9599609375,
-        7519.33984375,
-        7521.02978515625,
-        7522.740234375,
-        7524.419921875,
-        7529.009765625,
-        7528.169921875,
-        7527.259765625,
-        7529.6201171875,
-        7534.6201171875
+        7465.43017578125,
+        7462.740234375,
+        7467.2998046875,
+        7462.31005859375,
+        7463.0400390625,
+        7465.58984375,
+        7465.43994140625,
+        7468.72021484375,
+        7465.6298828125,
+        7465.02978515625,
+        7457.77978515625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-17 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-18 04:59 KST"
     },
     {
       "id": "fx",
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "100.76",
-          "change": "-0.00%",
-          "direction": "down"
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1484.27",
+          "value": "1487.46",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.36",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "162.35",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7762",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6.7677",
+          "change": "-0.12%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1483.489990234375,
-        1483.489990234375,
-        1483.81005859375,
-        1483.77001953125,
-        1484.1600341796875,
-        1484.2900390625,
-        1483.8800048828125,
-        1484.3800048828125,
-        1483.949951171875,
-        1484.3499755859375,
-        1484.27001953125
+        1487.239990234375,
+        1487.6199951171875,
+        1487.6099853515625,
+        1487.8399658203125,
+        1487.5400390625,
+        1487.550048828125,
+        1487.8399658203125,
+        1487.6199951171875,
+        1487.5699462890625,
+        1487.5899658203125,
+        1487.4599609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-17 17:38 KST"
+      "status": "강세",
+      "freshness": "2026-07-18 05:59 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
