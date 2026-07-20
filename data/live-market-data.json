@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "collectedAt": "2026-07-20T05:57:17Z",
+  "collectedAt": "2026-07-20T09:43:51Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Aktsiaselts Infortar own share",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 13 July – 17 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000482.html?.tsrc=rss"
+      "title": "Gold holds near $4,000 as Fed rate",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Gold prices were broadly stable on Monday as investors balanced rising geopolitical tensions between the United States and Iran against expectations that higher energy prices could",
+      "link": "https://investorshub.advfn.com/market-news/article/32164/gold-holds-near-4000-as-fed-rate-expectations-offset-safe-haven-demand?.tsrc=rss"
     },
     {
-      "title": "South Korea's Kospi drops nearly 5%",
+      "title": "US futures edge higher as Middle",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "U. S. stock index futures traded modestly higher on Monday as investors balanced escalating geopolitical tensions in the Middle East against a busy week of corporate earnings led b",
+      "link": "https://investorshub.advfn.com/market-news/article/32162/us-futures-edge-higher-as-middle-east-tensions-oil-prices-and-big-tech-earnings-dominate-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss"
+    },
+    {
+      "title": "President Trump Just Reimposed the",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as investors unloaded more stocks linked to artificial intelligence.  Oil prices jumped more than 2",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html?.tsrc=rss"
+      "summary": "The president's stance will likely change, but the trajectory of oil stocks should remain the same.",
+      "link": "https://www.fool.com/investing/2026/07/20/president-trump-just-reimposed-the-iran-blockade-h/?.tsrc=rss"
     },
     {
-      "title": "Are BATL, TPET, XOM, CVX, USO, UCO",
-      "impact": "원자재, 인플레 기대",
+      "title": "2 Services Stocks Worth Your",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Battalion Oil, Trio Petroleum, United States Oil Fund, and ProShares Ultra Bloomberg Crude Oil stocks jumped overnight after oil prices surged to over $90 a barrel.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-batl-tpet-xom-cvx-uso-uco-stocks-rising-overnight/cZZLqW1R7Mp?.tsrc=rss"
-    },
-    {
-      "title": "Contango ORE Fireside Chat",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "A panel of mining executives said recent volatility in precious and critical metals should be viewed in the context of still-elevated prices, while pointing to defense demand, arti",
-      "link": "https://www.marketbeat.com/instant-alerts/contango-ore-fireside-chat-metals-pullback-meets-defense-ai-demand-tailwinds-2026-07-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Still, investors are uneasy as firms face challenges from AI-dr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-worth-attention-091933560.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Aktsiaselts Infortar own share",
-      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 13 July – 17 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000482.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 05:00:00 +0000"
+      "title": "Gold holds near $4,000 as Fed rate",
+      "summary": "Gold prices were broadly stable on Monday as investors balanced rising geopolitical tensions between the United States and Iran against expectations that higher energy prices could",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/32164/gold-holds-near-4000-as-fed-rate-expectations-offset-safe-haven-demand?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 09:23:17 +0000"
     },
     {
-      "title": "South Korea's Kospi drops nearly 5%",
-      "summary": "Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as investors unloaded more stocks linked to artificial intelligence.  Oil prices jumped more than 2",
+      "title": "US futures edge higher as Middle",
+      "summary": "U. S. stock index futures traded modestly higher on Monday as investors balanced escalating geopolitical tensions in the Middle East against a busy week of corporate earnings led b",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/32162/us-futures-edge-higher-as-middle-east-tensions-oil-prices-and-big-tech-earnings-dominate-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 09:20:04 +0000"
+    },
+    {
+      "title": "President Trump Just Reimposed the",
+      "summary": "The president's stance will likely change, but the trajectory of oil stocks should remain the same.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 04:35:30 +0000"
+      "link": "https://www.fool.com/investing/2026/07/20/president-trump-just-reimposed-the-iran-blockade-h/?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 09:20:00 +0000"
     },
     {
-      "title": "Are BATL, TPET, XOM, CVX, USO, UCO",
-      "summary": "Battalion Oil, Trio Petroleum, United States Oil Fund, and ProShares Ultra Bloomberg Crude Oil stocks jumped overnight after oil prices surged to over $90 a barrel.",
-      "impact": "원자재, 인플레 기대",
+      "title": "2 Services Stocks Worth Your",
+      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Still, investors are uneasy as firms face challenges from AI-dr",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-batl-tpet-xom-cvx-uso-uco-stocks-rising-overnight/cZZLqW1R7Mp?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 04:34:10 +0000"
-    },
-    {
-      "title": "Contango ORE Fireside Chat",
-      "summary": "A panel of mining executives said recent volatility in precious and critical metals should be viewed in the context of still-elevated prices, while pointing to defense demand, arti",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.marketbeat.com/instant-alerts/contango-ore-fireside-chat-metals-pullback-meets-defense-ai-demand-tailwinds-2026-07-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 04:02:12 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-worth-attention-091933560.html?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 09:19:33 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.73",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "81.13",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "90.46",
-          "change": "-0.10%",
+          "value": "87.75",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4013.00",
-          "change": "+0.00%",
+          "value": "4022.90",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.26",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.31",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        83.62000274658203,
-        83.5,
-        83.55000305175781,
-        83.55000305175781,
-        83.61000061035156,
-        83.5999984741211,
-        83.6500015258789,
-        83.7300033569336,
-        83.7300033569336,
-        83.69000244140625,
-        83.7300033569336
+        81.22000122070312,
+        81.23999786376953,
+        81.30000305175781,
+        81.30999755859375,
+        81.29000091552734,
+        81.2699966430664,
+        81.33999633789062,
+        81.18000030517578,
+        81.1500015258789,
+        81.16000366210938,
+        81.12999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-20 14:47 KST"
+      "status": "약세",
+      "freshness": "2026-07-20 18:33 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6514.34",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6519.60",
+          "change": "-0.28%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6229.00",
-          "change": "+0.08%",
+          "value": "6247.30",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.72",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1478.82",
+          "value": "100.79",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1481.58",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "162.37",
+          "value": "162.41",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7721",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.7662",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1478.8800048828125,
-        1479.300048828125,
-        1479.4599609375,
-        1479.47998046875,
-        1479.3699951171875,
-        1479.280029296875,
-        1479.6099853515625,
-        1479.3800048828125,
-        1478.8599853515625,
-        1478.97998046875,
-        1478.8199462890625
+        1481.6300048828125,
+        1481.6800537109375,
+        1481.280029296875,
+        1481.550048828125,
+        1481.780029296875,
+        1481.8699951171875,
+        1481.77001953125,
+        1481.7900390625,
+        1481.6099853515625,
+        1481.47998046875,
+        1481.5799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-20 14:57 KST"
+      "status": "완화",
+      "freshness": "2026-07-20 18:43 KST"
     }
   ],
   "currentAction": {
