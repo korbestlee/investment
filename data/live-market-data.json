@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-18",
-  "collectedAt": "2026-07-17T21:05:42Z",
+  "date": "2026-07-20",
+  "collectedAt": "2026-07-20T05:57:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.07%",
+      "value": "+0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Vista Energy SAB de CV (VIST) Q2",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Vista Energy SAB de CV (VIST) reports an impressive 89% revenue growth and a 32% increase in total production, marking a robust quarter amid strategic acquisitions and operational ",
-      "link": "https://finance.yahoo.com/energy/articles/vista-energy-sab-cv-vist-210021575.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-amid-netflix-sell-204656661.html?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Decline Amid",
+      "title": "Aktsiaselts Infortar own share",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204601881.html?.tsrc=rss"
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 13 July – 17 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000482.html?.tsrc=rss"
+    },
+    {
+      "title": "South Korea's Kospi drops nearly 5%",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as investors unloaded more stocks linked to artificial intelligence.  Oil prices jumped more than 2",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html?.tsrc=rss"
+    },
+    {
+      "title": "Are BATL, TPET, XOM, CVX, USO, UCO",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Battalion Oil, Trio Petroleum, United States Oil Fund, and ProShares Ultra Bloomberg Crude Oil stocks jumped overnight after oil prices surged to over $90 a barrel.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-batl-tpet-xom-cvx-uso-uco-stocks-rising-overnight/cZZLqW1R7Mp?.tsrc=rss"
+    },
+    {
+      "title": "Contango ORE Fireside Chat",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "A panel of mining executives said recent volatility in precious and critical metals should be viewed in the context of still-elevated prices, while pointing to defense demand, arti",
+      "link": "https://www.marketbeat.com/instant-alerts/contango-ore-fireside-chat-metals-pullback-meets-defense-ai-demand-tailwinds-2026-07-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Vista Energy SAB de CV (VIST) Q2",
-      "summary": "Vista Energy SAB de CV (VIST) reports an impressive 89% revenue growth and a 32% increase in total production, marking a robust quarter amid strategic acquisitions and operational ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/vista-energy-sab-cv-vist-210021575.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 21:00:21 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-chipmakers-205129832.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 20:51:29 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-amid-netflix-sell-204656661.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 20:46:56 +0000"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Decline Amid",
-      "summary": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w",
+      "title": "Aktsiaselts Infortar own share",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 13 July – 17 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204601881.html?.tsrc=rss",
-      "published": "Fri, 17 Jul 2026 20:46:01 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000482.html?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 05:00:00 +0000"
+    },
+    {
+      "title": "South Korea's Kospi drops nearly 5%",
+      "summary": "Asian shares were mostly higher on Monday but South Korea’s Kospi fell nearly 5% as investors unloaded more stocks linked to artificial intelligence.  Oil prices jumped more than 2",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-koreas-kospi-drops-nearly-043530052.html?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 04:35:30 +0000"
+    },
+    {
+      "title": "Are BATL, TPET, XOM, CVX, USO, UCO",
+      "summary": "Battalion Oil, Trio Petroleum, United States Oil Fund, and ProShares Ultra Bloomberg Crude Oil stocks jumped overnight after oil prices surged to over $90 a barrel.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-batl-tpet-xom-cvx-uso-uco-stocks-rising-overnight/cZZLqW1R7Mp?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 04:34:10 +0000"
+    },
+    {
+      "title": "Contango ORE Fireside Chat",
+      "summary": "A panel of mining executives said recent volatility in precious and critical metals should be viewed in the context of still-elevated prices, while pointing to defense demand, arti",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.marketbeat.com/instant-alerts/contango-ore-fireside-chat-metals-pullback-meets-defense-ai-demand-tailwinds-2026-07-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 04:02:12 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.77",
-          "change": "+0.07%",
+          "value": "83.73",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.10",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4020.70",
-          "change": "-0.00%",
+          "value": "90.46",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4013.00",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.27",
-          "change": "+0.01%",
+          "value": "6.26",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        81.81999969482422,
-        81.81999969482422,
-        81.75,
-        81.73999786376953,
-        81.72000122070312,
-        81.7300033569336,
-        81.75,
-        81.76000213623047,
-        81.72000122070312,
-        81.70999908447266,
-        81.7699966430664
+        83.62000274658203,
+        83.5,
+        83.55000305175781,
+        83.55000305175781,
+        83.61000061035156,
+        83.5999984741211,
+        83.6500015258789,
+        83.7300033569336,
+        83.7300033569336,
+        83.69000244140625,
+        83.7300033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-18 05:55 KST"
+      "freshness": "2026-07-20 14:47 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6835.21",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6514.34",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.76",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "100.72",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1487.46",
+          "value": "1478.82",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.35",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "162.37",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7677",
-          "change": "-0.12%",
-          "direction": "down"
+          "value": "6.7721",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1487.239990234375,
-        1487.6199951171875,
-        1487.6099853515625,
-        1487.8399658203125,
-        1487.5400390625,
-        1487.550048828125,
-        1487.8399658203125,
-        1487.6199951171875,
-        1487.5699462890625,
-        1487.5899658203125,
-        1487.4599609375
+        1478.8800048828125,
+        1479.300048828125,
+        1479.4599609375,
+        1479.47998046875,
+        1479.3699951171875,
+        1479.280029296875,
+        1479.6099853515625,
+        1479.3800048828125,
+        1478.8599853515625,
+        1478.97998046875,
+        1478.8199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-18 05:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-20 14:57 KST"
     }
   ],
   "currentAction": {
