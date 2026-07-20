@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "collectedAt": "2026-07-20T09:43:51Z",
+  "date": "2026-07-21",
+  "collectedAt": "2026-07-20T21:20:16Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.10%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Gold holds near $4,000 as Fed rate",
+      "title": "Stock Market Today, July 20",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold prices were broadly stable on Monday as investors balanced rising geopolitical tensions between the United States and Iran against expectations that higher energy prices could",
-      "link": "https://investorshub.advfn.com/market-news/article/32164/gold-holds-near-4000-as-fed-rate-expectations-offset-safe-haven-demand?.tsrc=rss"
+      "summary": "On July 20, 2026, a California federal judge halted the $110 billion acquisition for at least 14 days, extending legal uncertainty around the merger.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/?.tsrc=rss"
     },
     {
-      "title": "US futures edge higher as Middle",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "U. S. stock index futures traded modestly higher on Monday as investors balanced escalating geopolitical tensions in the Middle East against a busy week of corporate earnings led b",
-      "link": "https://investorshub.advfn.com/market-news/article/32162/us-futures-edge-higher-as-middle-east-tensions-oil-prices-and-big-tech-earnings-dominate-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss"
+      "title": "GM Earnings Are Coming. Are",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "General Motors  reports second-quarter earnings on Tuesday morning, with investors seemingly confused about what to do with the stock.  Coming into Tuesday trading, GM shares were ",
+      "link": "https://finance.yahoo.com/m/96a252f0-b5c1-3cce-aedb-d8e927079f51/gm-earnings-are-coming.-are.html?.tsrc=rss"
     },
     {
-      "title": "President Trump Just Reimposed the",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The president's stance will likely change, but the trajectory of oil stocks should remain the same.",
-      "link": "https://www.fool.com/investing/2026/07/20/president-trump-just-reimposed-the-iran-blockade-h/?.tsrc=rss"
+      "title": "TSX Closer",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P/TSX Composite Index fell on Monday as a decline in financial shares outweighed gains in tech",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-lower-210158453.html?.tsrc=rss"
     },
     {
-      "title": "2 Services Stocks Worth Your",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Still, investors are uneasy as firms face challenges from AI-dr",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-worth-attention-091933560.html?.tsrc=rss"
+      "title": "When The Stock Market Fell JEPI ETF",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "A fund that actually holds its ground when stocks are falling is what real portfolio diversification looks like.",
+      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Gold holds near $4,000 as Fed rate",
-      "summary": "Gold prices were broadly stable on Monday as investors balanced rising geopolitical tensions between the United States and Iran against expectations that higher energy prices could",
+      "title": "Stock Market Today, July 20",
+      "summary": "On July 20, 2026, a California federal judge halted the $110 billion acquisition for at least 14 days, extending legal uncertainty around the merger.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/32164/gold-holds-near-4000-as-fed-rate-expectations-offset-safe-haven-demand?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 09:23:17 +0000"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 21:12:18 +0000"
     },
     {
-      "title": "US futures edge higher as Middle",
-      "summary": "U. S. stock index futures traded modestly higher on Monday as investors balanced escalating geopolitical tensions in the Middle East against a busy week of corporate earnings led b",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/32162/us-futures-edge-higher-as-middle-east-tensions-oil-prices-and-big-tech-earnings-dominate-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 09:20:04 +0000"
+      "title": "GM Earnings Are Coming. Are",
+      "summary": "General Motors  reports second-quarter earnings on Tuesday morning, with investors seemingly confused about what to do with the stock.  Coming into Tuesday trading, GM shares were ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/96a252f0-b5c1-3cce-aedb-d8e927079f51/gm-earnings-are-coming.-are.html?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 21:05:00 +0000"
     },
     {
-      "title": "President Trump Just Reimposed the",
-      "summary": "The president's stance will likely change, but the trajectory of oil stocks should remain the same.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/20/president-trump-just-reimposed-the-iran-blockade-h/?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 09:20:00 +0000"
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index fell on Monday as a decline in financial shares outweighed gains in tech",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-lower-210158453.html?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 21:01:58 +0000"
     },
     {
-      "title": "2 Services Stocks Worth Your",
-      "summary": "Business services providers use their specialized expertise to help enterprises streamline operations and cut costs. Still, investors are uneasy as firms face challenges from AI-dr",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-worth-attention-091933560.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 09:19:33 +0000"
+      "title": "When The Stock Market Fell JEPI ETF",
+      "summary": "A fund that actually holds its ground when stocks are falling is what real portfolio diversification looks like.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20?.tsrc=rss",
+      "published": "Mon, 20 Jul 2026 21:00:31 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.13",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "82.42",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "87.75",
-          "change": "-0.06%",
+          "value": "88.92",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4022.90",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "4011.80",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.31",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.34",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        81.22000122070312,
-        81.23999786376953,
-        81.30000305175781,
-        81.30999755859375,
-        81.29000091552734,
-        81.2699966430664,
-        81.33999633789062,
-        81.18000030517578,
-        81.1500015258789,
-        81.16000366210938,
-        81.12999725341797
+        82.5,
+        82.44999694824219,
+        82.44999694824219,
+        82.43000030517578,
+        82.43000030517578,
+        82.44000244140625,
+        82.43000030517578,
+        82.41000366210938,
+        82.41000366210938,
+        82.41999816894531,
+        82.41999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-20 18:33 KST"
+      "status": "중립",
+      "freshness": "2026-07-21 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.707%",
+          "value": "3.705%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.273%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "4.328%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.541%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.598%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.064%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.118%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779,
-        4.543000221252441,
-        4.540999889373779,
-        4.540999889373779,
-        4.540999889373779
+        4.5980000495910645,
+        4.599999904632568,
+        4.5980000495910645,
+        4.599999904632568,
+        4.5980000495910645,
+        4.5980000495910645,
+        4.599999904632568,
+        4.599999904632568,
+        4.599999904632568,
+        4.599999904632568,
+        4.5980000495910645
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-07-18 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-21 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7457.78",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "7444.73",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25519.48",
-          "change": "-0.14%",
+          "value": "25510.27",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6247.30",
-          "change": "+0.02%",
+          "value": "6233.83",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7465.43017578125,
-        7462.740234375,
-        7467.2998046875,
-        7462.31005859375,
-        7463.0400390625,
-        7465.58984375,
-        7465.43994140625,
-        7468.72021484375,
-        7465.6298828125,
-        7465.02978515625,
-        7457.77978515625
+        7455.990234375,
+        7449.3701171875,
+        7447.64013671875,
+        7447.02001953125,
+        7445.0,
+        7446.740234375,
+        7443.52978515625,
+        7445.75,
+        7444.68994140625,
+        7444.259765625,
+        7444.72998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-07-18 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-21 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.79",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1481.58",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "162.41",
+          "value": "100.97",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1475.46",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "162.46",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7662",
+          "value": "6.7663",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1481.6300048828125,
-        1481.6800537109375,
-        1481.280029296875,
-        1481.550048828125,
-        1481.780029296875,
-        1481.8699951171875,
-        1481.77001953125,
-        1481.7900390625,
-        1481.6099853515625,
-        1481.47998046875,
-        1481.5799560546875
+        1475.449951171875,
+        1475.4599609375,
+        1475.6199951171875,
+        1475.5899658203125,
+        1475.5,
+        1475.3599853515625,
+        1475.43994140625,
+        1475.47998046875,
+        1475.3499755859375,
+        1475.47998046875,
+        1475.4599609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-20 18:43 KST"
+      "status": "강세",
+      "freshness": "2026-07-21 06:19 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
