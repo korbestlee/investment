@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "collectedAt": "2026-07-20T21:20:16Z",
+  "collectedAt": "2026-07-21T05:38:48Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, July 20",
+      "title": "Maurel & Prom",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "PARIS, July 21, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
+      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-half-053000643.html?.tsrc=rss"
+    },
+    {
+      "title": "Goldman Says Brent Oil Could Near",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Goldman Sachs says Brent crude could near its $120 war-era peak if Strait of Hormuz disruptions persist into Q4.",
+      "link": "https://beincrypto.com/goldman-brent-120-war-era-peak/?.tsrc=rss"
+    },
+    {
+      "title": "Asia stocks up as chip stocks",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian stocks mostly rebounded after days of losses on Tuesday led by technology shares, while oil prices eased slightly even as Iran said it had struck hit US military targets in B",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss"
+    },
+    {
+      "title": "Jamie Dimon Won’t Buy S&P 500 or",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "On July 20, 2026, a California federal judge halted the $110 billion acquisition for at least 14 days, extending legal uncertainty around the merger.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/?.tsrc=rss"
-    },
-    {
-      "title": "GM Earnings Are Coming. Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "General Motors  reports second-quarter earnings on Tuesday morning, with investors seemingly confused about what to do with the stock.  Coming into Tuesday trading, GM shares were ",
-      "link": "https://finance.yahoo.com/m/96a252f0-b5c1-3cce-aedb-d8e927079f51/gm-earnings-are-coming.-are.html?.tsrc=rss"
-    },
-    {
-      "title": "TSX Closer",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P/TSX Composite Index fell on Monday as a decline in financial shares outweighed gains in tech",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-lower-210158453.html?.tsrc=rss"
-    },
-    {
-      "title": "When The Stock Market Fell JEPI ETF",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "A fund that actually holds its ground when stocks are falling is what real portfolio diversification looks like.",
-      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20?.tsrc=rss"
+      "summary": "Jamie Dimon says he would not buy stocks or long bonds at current prices. Here are the four warnings behind that call.",
+      "link": "https://beincrypto.com/jamie-dimon-warnings-investors-missing/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, July 20",
-      "summary": "On July 20, 2026, a California federal judge halted the $110 billion acquisition for at least 14 days, extending legal uncertainty around the merger.",
+      "title": "Maurel & Prom",
+      "summary": "PARIS, July 21, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-half-053000643.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 05:30:00 +0000"
+    },
+    {
+      "title": "Goldman Says Brent Oil Could Near",
+      "summary": "Goldman Sachs says Brent crude could near its $120 war-era peak if Strait of Hormuz disruptions persist into Q4.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/goldman-brent-120-war-era-peak/?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 04:21:03 +0000"
+    },
+    {
+      "title": "Asia stocks up as chip stocks",
+      "summary": "Asian stocks mostly rebounded after days of losses on Tuesday led by technology shares, while oil prices eased slightly even as Iran said it had struck hit US military targets in B",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 03:29:02 +0000"
+    },
+    {
+      "title": "Jamie Dimon Won’t Buy S&P 500 or",
+      "summary": "Jamie Dimon says he would not buy stocks or long bonds at current prices. Here are the four warnings behind that call.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-warner-bros-discovery-falls-4-as-judge-pauses-usd110-billion-paramount-skydance-deal/?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 21:12:18 +0000"
-    },
-    {
-      "title": "GM Earnings Are Coming. Are",
-      "summary": "General Motors  reports second-quarter earnings on Tuesday morning, with investors seemingly confused about what to do with the stock.  Coming into Tuesday trading, GM shares were ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/96a252f0-b5c1-3cce-aedb-d8e927079f51/gm-earnings-are-coming.-are.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 21:05:00 +0000"
-    },
-    {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index fell on Monday as a decline in financial shares outweighed gains in tech",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-lower-210158453.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 21:01:58 +0000"
-    },
-    {
-      "title": "When The Stock Market Fell JEPI ETF",
-      "summary": "A fund that actually holds its ground when stocks are falling is what real portfolio diversification looks like.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.trefis.com/articles/607978/when-the-stock-market-fell-jepi-etf-did-not/2026-07-20?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 21:00:31 +0000"
+      "link": "https://beincrypto.com/jamie-dimon-warnings-investors-missing/?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 01:54:28 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.42",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Brent",
-          "value": "88.92",
-          "change": "-0.02%",
+          "value": "82.33",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "88.71",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4011.80",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4059.30",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.34",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.42",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        82.5,
-        82.44999694824219,
-        82.44999694824219,
-        82.43000030517578,
-        82.43000030517578,
-        82.44000244140625,
-        82.43000030517578,
-        82.41000366210938,
-        82.41000366210938,
-        82.41999816894531,
-        82.41999816894531
+        82.25,
+        82.2699966430664,
+        82.2699966430664,
+        82.2699966430664,
+        82.30999755859375,
+        82.31999969482422,
+        82.30999755859375,
+        82.30000305175781,
+        82.33999633789062,
+        82.33999633789062,
+        82.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-07-21 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-21 14:28 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "6519.60",
-          "change": "-0.28%",
+          "value": "6703.85",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.97",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "100.94",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1475.46",
+          "value": "1472.48",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "162.46",
+          "value": "162.49",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7663",
+          "value": "6.7646",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1475.449951171875,
-        1475.4599609375,
-        1475.6199951171875,
-        1475.5899658203125,
-        1475.5,
-        1475.3599853515625,
-        1475.43994140625,
-        1475.47998046875,
-        1475.3499755859375,
-        1475.47998046875,
-        1475.4599609375
+        1473.780029296875,
+        1472.780029296875,
+        1472.5799560546875,
+        1472.780029296875,
+        1473.0799560546875,
+        1472.6800537109375,
+        1472.31005859375,
+        1472.199951171875,
+        1472.3800048828125,
+        1472.530029296875,
+        1472.47998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-21 06:19 KST"
+      "status": "완화",
+      "freshness": "2026-07-21 14:38 KST"
     }
   ],
   "currentAction": {
