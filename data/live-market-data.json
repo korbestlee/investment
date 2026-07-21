@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "collectedAt": "2026-07-21T09:13:27Z",
+  "date": "2026-07-22",
+  "collectedAt": "2026-07-21T21:23:06Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq leads Dow, S&P 500 futures",
+      "title": "Warren Buffett’s $140 Billion",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html?.tsrc=rss"
+      "summary": "Bloomberg analyst Eric Balchunas urges Warren Buffett to donate Berkshire stock through Trump Accounts for US children.",
+      "link": "https://beincrypto.com/buffett-berkshire-stock-trump-accounts/?.tsrc=rss"
     },
     {
-      "title": "Kevin Warsh Made His First Big Move",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The new Fed chair can impact interest rates without lifting a finger.",
-      "link": "https://www.fool.com/investing/2026/07/21/kevin-warsh-big-move-fed-bond-market-take-action/?.tsrc=rss"
+      "title": "Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-big-211103575.html?.tsrc=rss"
     },
     {
-      "title": "Asia stocks up as chip stocks",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Technology shares helped Asian stock markets rebound on Tuesday, while oil prices eased slightly even as Iran targeted US radar and air defence installations in the Gulf.Hours late",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss"
+      "title": "TFS Financial (TFSL)",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "TFS Financial’s 25.9% return over the past six months has outpaced the S&P 500 by 17.5%, and its stock price has climbed to $18.30 per share. This run-up might have investors conte",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tfs-financial-tfsl-buy-sell-211026983.html?.tsrc=rss"
     },
     {
-      "title": "Silver Range Advances East Goldfield",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / July 21, 2026 /Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to announce recent results from exploration pro",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-range-advances-east-goldfield-082000605.html?.tsrc=rss"
+      "title": "S&P 500 Regains 50-Day As Sandisk,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
+      "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq leads Dow, S&P 500 futures",
-      "summary": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
+      "title": "Warren Buffett’s $140 Billion",
+      "summary": "Bloomberg analyst Eric Balchunas urges Warren Buffett to donate Berkshire stock through Trump Accounts for US children.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 08:46:31 +0000"
+      "link": "https://beincrypto.com/buffett-berkshire-stock-trump-accounts/?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 21:16:30 +0000"
     },
     {
-      "title": "Kevin Warsh Made His First Big Move",
-      "summary": "The new Fed chair can impact interest rates without lifting a finger.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/21/kevin-warsh-big-move-fed-bond-market-take-action/?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 08:26:00 +0000"
+      "title": "Update",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-big-211103575.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 21:11:03 +0000"
     },
     {
-      "title": "Asia stocks up as chip stocks",
-      "summary": "Technology shares helped Asian stock markets rebound on Tuesday, while oil prices eased slightly even as Iran targeted US radar and air defence installations in the Gulf.Hours late",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 08:20:40 +0000"
+      "title": "TFS Financial (TFSL)",
+      "summary": "TFS Financial’s 25.9% return over the past six months has outpaced the S&P 500 by 17.5%, and its stock price has climbed to $18.30 per share. This run-up might have investors conte",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tfs-financial-tfsl-buy-sell-211026983.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 21:10:26 +0000"
     },
     {
-      "title": "Silver Range Advances East Goldfield",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / July 21, 2026 /Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to announce recent results from exploration pro",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-range-advances-east-goldfield-082000605.html?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 08:20:00 +0000"
+      "title": "S&P 500 Regains 50-Day As Sandisk,",
+      "summary": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 21:09:16 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.20",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "84.54",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "88.77",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "91.44",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4069.70",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4082.20",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.53",
-          "change": "-0.01%",
-          "direction": "down"
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        82.30000305175781,
-        82.27999877929688,
-        82.27999877929688,
-        82.18000030517578,
-        82.1500015258789,
-        82.1500015258789,
-        82.23999786376953,
-        82.2300033569336,
-        82.2300033569336,
-        82.23999786376953,
-        82.19999694824219
+        84.44000244140625,
+        84.47000122070312,
+        84.5,
+        84.5199966430664,
+        84.5199966430664,
+        84.51000213623047,
+        84.5,
+        84.51000213623047,
+        84.51000213623047,
+        84.54000091552734,
+        84.54000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-21 18:03 KST"
+      "status": "중립",
+      "freshness": "2026-07-22 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.705%",
+          "value": "3.730%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.328%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.370%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.598%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.628%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.118%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.130%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.5980000495910645,
-        4.599999904632568,
-        4.5980000495910645,
-        4.599999904632568,
-        4.5980000495910645,
-        4.5980000495910645,
-        4.599999904632568,
-        4.599999904632568,
-        4.599999904632568,
-        4.599999904632568,
-        4.5980000495910645
+        4.627999782562256,
+        4.630000114440918,
+        4.630000114440918,
+        4.627999782562256,
+        4.627999782562256,
+        4.630000114440918,
+        4.627999782562256,
+        4.627999782562256,
+        4.627999782562256,
+        4.627999782562256,
+        4.627999782562256
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-07-21 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-22 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7444.73",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "7507.32",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25510.27",
-          "change": "-0.03%",
+          "value": "25829.61",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6260.51",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6282.20",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7455.990234375,
-        7449.3701171875,
-        7447.64013671875,
-        7447.02001953125,
-        7445.0,
-        7446.740234375,
-        7443.52978515625,
-        7445.75,
-        7444.68994140625,
-        7444.259765625,
-        7444.72998046875
+        7511.10986328125,
+        7509.25,
+        7509.2900390625,
+        7509.89013671875,
+        7509.97998046875,
+        7509.2099609375,
+        7508.56982421875,
+        7510.740234375,
+        7510.27978515625,
+        7508.91015625,
+        7507.31982421875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-21 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-22 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.94",
+          "value": "101.20",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1480.11",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1476.08",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
           "name": "USDJPY",
-          "value": "162.69",
+          "value": "163.16",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7660",
+          "value": "6.7651",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1475.4300537109375,
-        1475.550048828125,
-        1475.72998046875,
-        1475.489990234375,
-        1475.780029296875,
-        1475.77001953125,
-        1476.02001953125,
-        1476.1800537109375,
-        1476.3299560546875,
-        1476.0799560546875,
-        1476.0799560546875
+        1480.3800048828125,
+        1480.010009765625,
+        1480.3299560546875,
+        1480.1199951171875,
+        1480.199951171875,
+        1480.1300048828125,
+        1480.239990234375,
+        1480.0699462890625,
+        1480.0699462890625,
+        1480.1700439453125,
+        1480.1099853515625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-21 18:13 KST"
+      "status": "강세",
+      "freshness": "2026-07-22 06:22 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
