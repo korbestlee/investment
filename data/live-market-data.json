@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "collectedAt": "2026-07-21T05:38:48Z",
+  "collectedAt": "2026-07-21T09:13:27Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Maurel & Prom",
-      "impact": "시장 전반",
+      "title": "Nasdaq leads Dow, S&P 500 futures",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "PARIS, July 21, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
-      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-half-053000643.html?.tsrc=rss"
+      "summary": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html?.tsrc=rss"
     },
     {
-      "title": "Goldman Says Brent Oil Could Near",
-      "impact": "원자재, 인플레 기대",
+      "title": "Kevin Warsh Made His First Big Move",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Goldman Sachs says Brent crude could near its $120 war-era peak if Strait of Hormuz disruptions persist into Q4.",
-      "link": "https://beincrypto.com/goldman-brent-120-war-era-peak/?.tsrc=rss"
+      "summary": "The new Fed chair can impact interest rates without lifting a finger.",
+      "link": "https://www.fool.com/investing/2026/07/21/kevin-warsh-big-move-fed-bond-market-take-action/?.tsrc=rss"
     },
     {
       "title": "Asia stocks up as chip stocks",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian stocks mostly rebounded after days of losses on Tuesday led by technology shares, while oil prices eased slightly even as Iran said it had struck hit US military targets in B",
+      "summary": "Technology shares helped Asian stock markets rebound on Tuesday, while oil prices eased slightly even as Iran targeted US radar and air defence installations in the Gulf.Hours late",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss"
     },
     {
-      "title": "Jamie Dimon Won’t Buy S&P 500 or",
-      "impact": "채권, 금리",
+      "title": "Silver Range Advances East Goldfield",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Jamie Dimon says he would not buy stocks or long bonds at current prices. Here are the four warnings behind that call.",
-      "link": "https://beincrypto.com/jamie-dimon-warnings-investors-missing/?.tsrc=rss"
+      "summary": "VANCOUVER, BC / ACCESS Newswire / July 21, 2026 /Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to announce recent results from exploration pro",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-range-advances-east-goldfield-082000605.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Maurel & Prom",
-      "summary": "PARIS, July 21, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
-      "impact": "시장 전반",
+      "title": "Nasdaq leads Dow, S&P 500 futures",
+      "summary": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-half-053000643.html?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 05:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 08:46:31 +0000"
     },
     {
-      "title": "Goldman Says Brent Oil Could Near",
-      "summary": "Goldman Sachs says Brent crude could near its $120 war-era peak if Strait of Hormuz disruptions persist into Q4.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Kevin Warsh Made His First Big Move",
+      "summary": "The new Fed chair can impact interest rates without lifting a finger.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://beincrypto.com/goldman-brent-120-war-era-peak/?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 04:21:03 +0000"
+      "link": "https://www.fool.com/investing/2026/07/21/kevin-warsh-big-move-fed-bond-market-take-action/?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 08:26:00 +0000"
     },
     {
       "title": "Asia stocks up as chip stocks",
-      "summary": "Asian stocks mostly rebounded after days of losses on Tuesday led by technology shares, while oil prices eased slightly even as Iran said it had struck hit US military targets in B",
+      "summary": "Technology shares helped Asian stock markets rebound on Tuesday, while oil prices eased slightly even as Iran targeted US radar and air defence installations in the Gulf.Hours late",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-chip-stocks-recover-032902299.html?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 03:29:02 +0000"
+      "published": "Tue, 21 Jul 2026 08:20:40 +0000"
     },
     {
-      "title": "Jamie Dimon Won’t Buy S&P 500 or",
-      "summary": "Jamie Dimon says he would not buy stocks or long bonds at current prices. Here are the four warnings behind that call.",
-      "impact": "채권, 금리",
+      "title": "Silver Range Advances East Goldfield",
+      "summary": "VANCOUVER, BC / ACCESS Newswire / July 21, 2026 /Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to announce recent results from exploration pro",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://beincrypto.com/jamie-dimon-warnings-investors-missing/?.tsrc=rss",
-      "published": "Tue, 21 Jul 2026 01:54:28 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-range-advances-east-goldfield-082000605.html?.tsrc=rss",
+      "published": "Tue, 21 Jul 2026 08:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.33",
-          "change": "-0.01%",
+          "value": "82.20",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "88.71",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "88.77",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4059.30",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4069.70",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.42",
+          "value": "6.53",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        82.25,
-        82.2699966430664,
-        82.2699966430664,
-        82.2699966430664,
-        82.30999755859375,
-        82.31999969482422,
-        82.30999755859375,
         82.30000305175781,
-        82.33999633789062,
-        82.33999633789062,
-        82.33000183105469
+        82.27999877929688,
+        82.27999877929688,
+        82.18000030517578,
+        82.1500015258789,
+        82.1500015258789,
+        82.23999786376953,
+        82.2300033569336,
+        82.2300033569336,
+        82.23999786376953,
+        82.19999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-21 14:28 KST"
+      "freshness": "2026-07-21 18:03 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "6703.85",
-          "change": "-0.10%",
+          "value": "6747.18",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6233.83",
+          "value": "6260.51",
           "change": "+0.00%",
           "direction": "up"
         }
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1472.48",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "1476.08",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "162.49",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "162.69",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7646",
+          "value": "6.7660",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1473.780029296875,
-        1472.780029296875,
-        1472.5799560546875,
-        1472.780029296875,
-        1473.0799560546875,
-        1472.6800537109375,
-        1472.31005859375,
-        1472.199951171875,
-        1472.3800048828125,
-        1472.530029296875,
-        1472.47998046875
+        1475.4300537109375,
+        1475.550048828125,
+        1475.72998046875,
+        1475.489990234375,
+        1475.780029296875,
+        1475.77001953125,
+        1476.02001953125,
+        1476.1800537109375,
+        1476.3299560546875,
+        1476.0799560546875,
+        1476.0799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-21 14:38 KST"
+      "freshness": "2026-07-21 18:13 KST"
     }
   ],
   "currentAction": {
