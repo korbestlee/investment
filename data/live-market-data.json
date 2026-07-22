@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "collectedAt": "2026-07-22T05:37:41Z",
+  "collectedAt": "2026-07-22T09:12:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "S&P 500 Regains 50-Day As Sandisk,",
+      "title": "Independence Gold Discovers New",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 22, 2026) - Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF) (FSE: 625) (the \"Company\") is pleased to announce the discovery o",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/independence-gold-discovers-high-grade-090000808.html?.tsrc=rss"
+    },
+    {
+      "title": "3 Industrials Stocks with",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
-      "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
+      "summary": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of econom",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-questionable-fundamentals-085427002.html?.tsrc=rss"
     },
     {
-      "title": "Asian shares edge higher after Wall",
+      "title": "Stock Futures Fall as Inflation",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian shares were mostly higher Wednesday following a rally on Wall Street, despite concerns about higher oil prices and inflation.  Japan's benchmark Nikkei 225 rose 1.9% to 67,51",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-edge-higher-wall-043033766.html?.tsrc=rss"
+      "summary": "Stocks were on track to open lower on Wednesday after a jump in oil prices revived fears that a flare-up in inflation could drag down the market.  Nasdaq 100 futures fell 0.8%.  St",
+      "link": "https://finance.yahoo.com/m/294de24d-078f-3677-b78f-25511d437d87/stock-futures-fall-as.html?.tsrc=rss"
     },
     {
-      "title": "Oil Prices Climb as U.S.-Iran",
+      "title": "OXY, BATL, USO, UCO Stocks Surge",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices rose to five-week highs as escalating U.S.-Iran hostilities and mounting threats to key Middle East shipping routes heightened fears of supply disruptions.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-iran-030820121.html?.tsrc=rss"
-    },
-    {
-      "title": "Tech lifts Asia stocks, Brent crude",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Enthusiasm for tech shares boosted Asian stocks for a second day Wednesday, as more mayhem in the Middle East lifted Brent crude back above $92 a barrel and the yen came under rene",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-lifts-asia-stocks-brent-030301738.html?.tsrc=rss"
+      "summary": "Brent crude futures expiring in September rose to $94.25 per barrel at the time of writing, while WTI crude futures expiring in September were at $87.54 per barrel.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/oxy-batl-uso-uco-stocks-surge-premarket-as-brent-breaks-above-94-a-barrel/cZZmaEpR7wN?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500 Regains 50-Day As Sandisk,",
-      "summary": "The S&P 500 reclaimed key support as Sandisk, Micron and AI stocks led a broad rally. Google, Tesla earnings loom.",
+      "title": "Independence Gold Discovers New",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 22, 2026) - Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF) (FSE: 625) (the \"Company\") is pleased to announce the discovery o",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/independence-gold-discovers-high-grade-090000808.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 09:00:00 +0000"
+    },
+    {
+      "title": "3 Industrials Stocks with",
+      "summary": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of econom",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 05:33:20 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-questionable-fundamentals-085427002.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 08:54:27 +0000"
     },
     {
-      "title": "Asian shares edge higher after Wall",
-      "summary": "Asian shares were mostly higher Wednesday following a rally on Wall Street, despite concerns about higher oil prices and inflation.  Japan's benchmark Nikkei 225 rose 1.9% to 67,51",
+      "title": "Stock Futures Fall as Inflation",
+      "summary": "Stocks were on track to open lower on Wednesday after a jump in oil prices revived fears that a flare-up in inflation could drag down the market.  Nasdaq 100 futures fell 0.8%.  St",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-edge-higher-wall-043033766.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 04:30:33 +0000"
+      "link": "https://finance.yahoo.com/m/294de24d-078f-3677-b78f-25511d437d87/stock-futures-fall-as.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 08:40:30 +0000"
     },
     {
-      "title": "Oil Prices Climb as U.S.-Iran",
-      "summary": "Oil prices rose to five-week highs as escalating U.S.-Iran hostilities and mounting threats to key Middle East shipping routes heightened fears of supply disruptions.",
+      "title": "OXY, BATL, USO, UCO Stocks Surge",
+      "summary": "Brent crude futures expiring in September rose to $94.25 per barrel at the time of writing, while WTI crude futures expiring in September were at $87.54 per barrel.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-iran-030820121.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 03:08:20 +0000"
-    },
-    {
-      "title": "Tech lifts Asia stocks, Brent crude",
-      "summary": "Enthusiasm for tech shares boosted Asian stocks for a second day Wednesday, as more mayhem in the Middle East lifted Brent crude back above $92 a barrel and the yen came under rene",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-lifts-asia-stocks-brent-030301738.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 03:03:01 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/oxy-batl-uso-uco-stocks-surge-premarket-as-brent-breaks-above-94-a-barrel/cZZmaEpR7wN?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 08:37:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "85.41",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "92.26",
-          "change": "-0.14%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4129.40",
+          "value": "87.65",
           "change": "-0.02%",
           "direction": "down"
         },
         {
-          "name": "Copper",
-          "value": "6.51",
-          "change": "-0.05%",
+          "name": "Brent",
+          "value": "94.38",
+          "change": "-0.03%",
           "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4124.60",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
+          "name": "Copper",
+          "value": "6.53",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        85.4800033569336,
-        85.4800033569336,
-        85.5199966430664,
-        85.51000213623047,
-        85.4800033569336,
-        85.41000366210938,
-        85.43000030517578,
-        85.41999816894531,
-        85.44999694824219,
-        85.38999938964844,
-        85.41000366210938
+        87.52999877929688,
+        87.61000061035156,
+        87.62999725341797,
+        87.73999786376953,
+        87.62000274658203,
+        87.62000274658203,
+        87.58000183105469,
+        87.62000274658203,
+        87.58999633789062,
+        87.66999816894531,
+        87.6500015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-22 14:27 KST"
+      "status": "약세",
+      "freshness": "2026-07-22 18:02 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6933.48",
-          "change": "+0.18%",
-          "direction": "up"
+          "value": "6882.87",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6282.20",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6308.44",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.14",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1480.60",
-          "change": "-0.12%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "163.16",
+          "value": "101.10",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1479.20",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "162.99",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7627",
+          "value": "6.7603",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1483.780029296875,
-        1483.6800537109375,
-        1483.6800537109375,
-        1483.8800048828125,
-        1483.780029296875,
-        1483.81005859375,
-        1483.8399658203125,
-        1483.0999755859375,
-        1483.4000244140625,
-        1482.4000244140625,
-        1480.5999755859375
+        1480.5999755859375,
+        1480.800048828125,
+        1479.5,
+        1479.5,
+        1479.5,
+        1478.800048828125,
+        1478.5999755859375,
+        1478.199951171875,
+        1479.9000244140625,
+        1479.699951171875,
+        1479.199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-22 14:16 KST"
+      "status": "완화",
+      "freshness": "2026-07-22 18:03 KST"
     }
   ],
   "currentAction": {
