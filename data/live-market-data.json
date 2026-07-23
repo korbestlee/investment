@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-23",
-  "collectedAt": "2026-07-23T09:12:01Z",
+  "date": "2026-07-24",
+  "collectedAt": "2026-07-23T21:18:48Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.06%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.02%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.06%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Prediction",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Sandisk is one of the hottest AI stocks on the market.",
-      "link": "https://www.fool.com/investing/2026/07/23/this-will-be-sandisk-stock-price-2027-big-move/?.tsrc=rss"
-    },
-    {
-      "title": "Tiger Gold Drills 685 m @ 0.6 g/t Au",
+      "title": "Imperial Reports Production Update",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 23, 2026) - Tiger Gold Corp. (TSXV: TIGR) (FSE: D150) (OTCQB: TGRGF) (\"Tiger\" or the \"Company\") is pleased to report assay resul",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tiger-gold-drills-685-m-090000670.html?.tsrc=rss"
+      "summary": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 fro",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/imperial-reports-production-red-chris-210700303.html?.tsrc=rss"
     },
     {
-      "title": "Fed Chair Kevin Warsh Just Threw",
-      "impact": "채권, 금리",
+      "title": "Market Sells Off On Oil Prices,",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The June Inflation report doesn't reverse a 63-month (and counting) trend of above-target price increases.",
-      "link": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/?.tsrc=rss"
+      "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
+      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss"
     },
     {
-      "title": "Inflation set to have cooled in June",
+      "title": "Freeport-McMoRan Inc (FCX) Q2 2026",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Most economists think a sharp drop in petrol and diesel prices will have helped pull the CPI inflation rate down to 2.7% in June, from 2.8% in May.",
-      "link": "https://uk.finance.yahoo.com/news/inflation-set-cooled-june-ahead-151323866.html?.tsrc=rss"
+      "summary": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-inc-fcx-q2-210446739.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-210304104.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Prediction",
-      "summary": "Sandisk is one of the hottest AI stocks on the market.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/23/this-will-be-sandisk-stock-price-2027-big-move/?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 09:08:00 +0000"
-    },
-    {
-      "title": "Tiger Gold Drills 685 m @ 0.6 g/t Au",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 23, 2026) - Tiger Gold Corp. (TSXV: TIGR) (FSE: D150) (OTCQB: TGRGF) (\"Tiger\" or the \"Company\") is pleased to report assay resul",
+      "title": "Imperial Reports Production Update",
+      "summary": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 fro",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tiger-gold-drills-685-m-090000670.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 09:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/imperial-reports-production-red-chris-210700303.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 21:07:00 +0000"
     },
     {
-      "title": "Fed Chair Kevin Warsh Just Threw",
-      "summary": "The June Inflation report doesn't reverse a 63-month (and counting) trend of above-target price increases.",
-      "impact": "채권, 금리",
+      "title": "Market Sells Off On Oil Prices,",
+      "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 08:27:00 +0000"
+      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 21:05:05 +0000"
     },
     {
-      "title": "Inflation set to have cooled in June",
-      "summary": "Most economists think a sharp drop in petrol and diesel prices will have helped pull the CPI inflation rate down to 2.7% in June, from 2.8% in May.",
+      "title": "Freeport-McMoRan Inc (FCX) Q2 2026",
+      "summary": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/inflation-set-cooled-june-ahead-151323866.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 08:15:47 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-inc-fcx-q2-210446739.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 21:04:46 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-210304104.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 21:03:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.60",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "92.36",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "86.30",
-          "change": "+0.28%",
-          "direction": "up"
+          "value": "100.55",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4097.70",
-          "change": "+0.05%",
+          "value": "4052.30",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.47",
-          "change": "+0.06%",
+          "value": "6.34",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        89.36000061035156,
-        89.44999694824219,
-        89.4000015258789,
-        89.41999816894531,
-        89.43000030517578,
-        89.38999938964844,
-        89.47000122070312,
-        89.48999786376953,
-        89.5,
-        89.58000183105469,
-        89.5999984741211
+        92.20999908447266,
+        92.30000305175781,
+        92.38999938964844,
+        92.33000183105469,
+        92.37000274658203,
+        92.33000183105469,
+        92.41999816894531,
+        92.4000015258789,
+        92.38999938964844,
+        92.4000015258789,
+        92.36000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-23 18:01 KST"
+      "status": "약세",
+      "freshness": "2026-07-24 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.745%",
+          "value": "3.800%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.407%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.461%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.657%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.703%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.147%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.171%",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.654000282287598,
-        4.6570000648498535,
-        4.6570000648498535
+        4.697000026702881,
+        4.697000026702881,
+        4.704999923706055,
+        4.704999923706055,
+        4.704999923706055,
+        4.703000068664551,
+        4.704999923706055,
+        4.703000068664551,
+        4.703000068664551,
+        4.704999923706055,
+        4.703000068664551
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-07-23 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-24 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7499.44",
-          "change": "-0.06%",
+          "value": "7408.18",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25694.27",
-          "change": "-0.06%",
+          "value": "25138.57",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6276.01",
-          "change": "+0.01%",
+          "value": "6197.62",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7504.5400390625,
-        7502.830078125,
-        7502.22021484375,
-        7503.7099609375,
-        7504.330078125,
-        7503.06005859375,
-        7501.18017578125,
-        7502.39990234375,
-        7504.14013671875,
-        7504.1201171875,
-        7499.43994140625
+        7383.5,
+        7390.89013671875,
+        7391.85986328125,
+        7390.14990234375,
+        7387.0,
+        7390.3798828125,
+        7398.419921875,
+        7399.85009765625,
+        7404.31005859375,
+        7408.85986328125,
+        7408.18017578125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-07-23 04:59 KST"
+      "freshness": "2026-07-24 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.13",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1470.27",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "163.33",
+          "value": "101.45",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7689",
+          "name": "USDKRW",
+          "value": "1473.99",
           "change": "+0.00%",
           "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "163.81",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7696",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1470.8499755859375,
-        1470.68994140625,
-        1470.3699951171875,
-        1469.72998046875,
-        1469.8900146484375,
-        1469.8399658203125,
-        1470.43994140625,
-        1470.3199462890625,
-        1470.43994140625,
-        1470.1800537109375,
-        1470.27001953125
+        1474.25,
+        1473.969970703125,
+        1473.81005859375,
+        1473.8199462890625,
+        1473.8499755859375,
+        1473.8299560546875,
+        1473.77001953125,
+        1473.800048828125,
+        1473.9100341796875,
+        1473.949951171875,
+        1473.989990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-23 18:11 KST"
+      "freshness": "2026-07-24 06:18 KST"
     }
   ],
   "currentAction": {
