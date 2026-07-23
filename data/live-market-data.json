@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "collectedAt": "2026-07-22T21:19:12Z",
+  "collectedAt": "2026-07-23T05:42:20Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.07%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Coinbase Wants to Be Canada's",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-      "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets?.tsrc=rss"
+      "title": "Asian shares are mostly higher and",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares were mostly higher on Thursday, while the intensifying war with Iran pushed Brent crude past $96 a barrel.  Samsung Electronics gained 3%, while memory chipmaker SK Hy",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Slides, Nvidia Can't Lift The",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index dips slightly Wednesday. SMCI is the biggest gainer on the S&P 500.",
-      "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-nasdaq.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Jones Futures Rise Amid Google,",
+      "title": "Kinder Morgan Inc (KMI) Q2 2026",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Google and Tesla headlined earnings late after stocks largely retreated Wednesday amid rising oil prices and Treasury yields.",
-      "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures-rise-amid.html?.tsrc=rss"
+      "summary": "Kinder Morgan Inc (KMI) reports robust earnings growth and strategic advancements, driven by increased natural gas demand and disciplined capital management.",
+      "link": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-kmi-q2-050152411.html?.tsrc=rss"
     },
     {
-      "title": "S&P 500 Stock Chugs Past Buy Point;",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Wabtec was the No. 2 S&P 500 stock on Wednesday after the supplier of locomotives and railcars for freight and passenger service topped Q2 earnings estimates and raised its full-ye",
-      "link": "https://finance.yahoo.com/m/8631d763-a86c-35e9-aca8-15cda3d9639e/s%26p-500-stock-chugs-past-buy.html?.tsrc=rss"
+      "title": "Reports Q2-2026 Production &",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Reports Q2-2026 Production & Operational Highlights Serabi Gold plc (“Serabi” or the “Company”) (AIM: SRB, TSX: SBI, OTCQX: SRBIF), the Brazilian focused gold mining and developmen",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/reports-q2-2026-production-operational-050000004.html?.tsrc=rss"
+    },
+    {
+      "title": "Concentrated Pharma Exposure or",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The VanEck Pharmaceutical ETF (PPH) gives investors a concentrated way to own major drugmakers, while the iShares Global Healthcare ETF (IXJ) spreads exposure across the wider heal",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/22/concentrated-pharma-exposure-or-broader-global-healthcare-pph-vs-ixj/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Coinbase Wants to Be Canada's",
-      "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 21:13:04 +0000"
+      "title": "Asian shares are mostly higher and",
+      "summary": "Asian shares were mostly higher on Thursday, while the intensifying war with Iran pushed Brent crude past $96 a barrel.  Samsung Electronics gained 3%, while memory chipmaker SK Hy",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 05:25:37 +0000"
     },
     {
-      "title": "Nasdaq Slides, Nvidia Can't Lift The",
-      "summary": "Stock Market Today: The Dow Jones index dips slightly Wednesday. SMCI is the biggest gainer on the S&P 500.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 21:09:54 +0000"
-    },
-    {
-      "title": "Dow Jones Futures Rise Amid Google,",
-      "summary": "Google and Tesla headlined earnings late after stocks largely retreated Wednesday amid rising oil prices and Treasury yields.",
+      "title": "Kinder Morgan Inc (KMI) Q2 2026",
+      "summary": "Kinder Morgan Inc (KMI) reports robust earnings growth and strategic advancements, driven by increased natural gas demand and disciplined capital management.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures-rise-amid.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 21:09:20 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-kmi-q2-050152411.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 05:01:52 +0000"
     },
     {
-      "title": "S&P 500 Stock Chugs Past Buy Point;",
-      "summary": "Wabtec was the No. 2 S&P 500 stock on Wednesday after the supplier of locomotives and railcars for freight and passenger service topped Q2 earnings estimates and raised its full-ye",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/8631d763-a86c-35e9-aca8-15cda3d9639e/s%26p-500-stock-chugs-past-buy.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 21:09:18 +0000"
+      "title": "Reports Q2-2026 Production &",
+      "summary": "Reports Q2-2026 Production & Operational Highlights Serabi Gold plc (“Serabi” or the “Company”) (AIM: SRB, TSX: SBI, OTCQX: SRBIF), the Brazilian focused gold mining and developmen",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/reports-q2-2026-production-operational-050000004.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Concentrated Pharma Exposure or",
+      "summary": "The VanEck Pharmaceutical ETF (PPH) gives investors a concentrated way to own major drugmakers, while the iShares Global Healthcare ETF (IXJ) spreads exposure across the wider heal",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/22/concentrated-pharma-exposure-or-broader-global-healthcare-pph-vs-ixj/?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 04:13:48 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.48",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "87.82",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "93.88",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "95.55",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4135.00",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4128.50",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.49",
-          "change": "-0.02%",
+          "value": "6.52",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        86.47000122070312,
-        86.41000366210938,
-        86.41999816894531,
-        86.47000122070312,
-        86.45999908447266,
-        86.41999816894531,
-        86.41000366210938,
-        86.43000030517578,
-        86.41999816894531,
-        86.41999816894531,
-        86.4800033569336
+        88.26000213623047,
+        88.25,
+        88.16000366210938,
+        88.16000366210938,
+        88.16000366210938,
+        88.16999816894531,
+        88.0999984741211,
+        88.0,
+        87.80000305175781,
+        87.87000274658203,
+        87.81999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-23 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-23 14:32 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6882.87",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "7060.31",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.13",
+          "value": "100.99",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1477.12",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1466.78",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.10",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "163.08",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7720",
+          "value": "6.7685",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1477.0999755859375,
-        1476.6400146484375,
-        1477.0899658203125,
-        1476.93994140625,
-        1477.0400390625,
-        1477.0799560546875,
-        1477.050048828125,
-        1477.0899658203125,
-        1477.0799560546875,
-        1477.0999755859375,
-        1477.1199951171875
+        1465.780029296875,
+        1466.27001953125,
+        1466.199951171875,
+        1465.9599609375,
+        1465.8199462890625,
+        1466.0400390625,
+        1466.0799560546875,
+        1466.280029296875,
+        1466.47998046875,
+        1466.9000244140625,
+        1466.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-23 06:08 KST"
+      "freshness": "2026-07-23 14:42 KST"
     }
   ],
   "currentAction": {
