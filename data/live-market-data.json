@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "collectedAt": "2026-07-23T05:42:20Z",
+  "collectedAt": "2026-07-23T09:12:01Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.06%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Asian shares are mostly higher and",
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Sandisk is one of the hottest AI stocks on the market.",
+      "link": "https://www.fool.com/investing/2026/07/23/this-will-be-sandisk-stock-price-2027-big-move/?.tsrc=rss"
+    },
+    {
+      "title": "Tiger Gold Drills 685 m @ 0.6 g/t Au",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian shares were mostly higher on Thursday, while the intensifying war with Iran pushed Brent crude past $96 a barrel.  Samsung Electronics gained 3%, while memory chipmaker SK Hy",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 23, 2026) - Tiger Gold Corp. (TSXV: TIGR) (FSE: D150) (OTCQB: TGRGF) (\"Tiger\" or the \"Company\") is pleased to report assay resul",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tiger-gold-drills-685-m-090000670.html?.tsrc=rss"
     },
     {
-      "title": "Kinder Morgan Inc (KMI) Q2 2026",
+      "title": "Fed Chair Kevin Warsh Just Threw",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Kinder Morgan Inc (KMI) reports robust earnings growth and strategic advancements, driven by increased natural gas demand and disciplined capital management.",
-      "link": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-kmi-q2-050152411.html?.tsrc=rss"
+      "summary": "The June Inflation report doesn't reverse a 63-month (and counting) trend of above-target price increases.",
+      "link": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/?.tsrc=rss"
     },
     {
-      "title": "Reports Q2-2026 Production &",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Reports Q2-2026 Production & Operational Highlights Serabi Gold plc (“Serabi” or the “Company”) (AIM: SRB, TSX: SBI, OTCQX: SRBIF), the Brazilian focused gold mining and developmen",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/reports-q2-2026-production-operational-050000004.html?.tsrc=rss"
-    },
-    {
-      "title": "Concentrated Pharma Exposure or",
+      "title": "Inflation set to have cooled in June",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The VanEck Pharmaceutical ETF (PPH) gives investors a concentrated way to own major drugmakers, while the iShares Global Healthcare ETF (IXJ) spreads exposure across the wider heal",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/22/concentrated-pharma-exposure-or-broader-global-healthcare-pph-vs-ixj/?.tsrc=rss"
+      "summary": "Most economists think a sharp drop in petrol and diesel prices will have helped pull the CPI inflation rate down to 2.7% in June, from 2.8% in May.",
+      "link": "https://uk.finance.yahoo.com/news/inflation-set-cooled-june-ahead-151323866.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Asian shares are mostly higher and",
-      "summary": "Asian shares were mostly higher on Thursday, while the intensifying war with Iran pushed Brent crude past $96 a barrel.  Samsung Electronics gained 3%, while memory chipmaker SK Hy",
+      "title": "Prediction",
+      "summary": "Sandisk is one of the hottest AI stocks on the market.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/23/this-will-be-sandisk-stock-price-2027-big-move/?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 09:08:00 +0000"
+    },
+    {
+      "title": "Tiger Gold Drills 685 m @ 0.6 g/t Au",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 23, 2026) - Tiger Gold Corp. (TSXV: TIGR) (FSE: D150) (OTCQB: TGRGF) (\"Tiger\" or the \"Company\") is pleased to report assay resul",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 05:25:37 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tiger-gold-drills-685-m-090000670.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 09:00:00 +0000"
     },
     {
-      "title": "Kinder Morgan Inc (KMI) Q2 2026",
-      "summary": "Kinder Morgan Inc (KMI) reports robust earnings growth and strategic advancements, driven by increased natural gas demand and disciplined capital management.",
+      "title": "Fed Chair Kevin Warsh Just Threw",
+      "summary": "The June Inflation report doesn't reverse a 63-month (and counting) trend of above-target price increases.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-kmi-q2-050152411.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 05:01:52 +0000"
+      "link": "https://www.fool.com/investing/2026/07/23/fed-chair-kevin-warsh-the-worst-inflation-not-over/?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 08:27:00 +0000"
     },
     {
-      "title": "Reports Q2-2026 Production &",
-      "summary": "Reports Q2-2026 Production & Operational Highlights Serabi Gold plc (“Serabi” or the “Company”) (AIM: SRB, TSX: SBI, OTCQX: SRBIF), the Brazilian focused gold mining and developmen",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/reports-q2-2026-production-operational-050000004.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 05:00:00 +0000"
-    },
-    {
-      "title": "Concentrated Pharma Exposure or",
-      "summary": "The VanEck Pharmaceutical ETF (PPH) gives investors a concentrated way to own major drugmakers, while the iShares Global Healthcare ETF (IXJ) spreads exposure across the wider heal",
+      "title": "Inflation set to have cooled in June",
+      "summary": "Most economists think a sharp drop in petrol and diesel prices will have helped pull the CPI inflation rate down to 2.7% in June, from 2.8% in May.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/22/concentrated-pharma-exposure-or-broader-global-healthcare-pph-vs-ixj/?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 04:13:48 +0000"
+      "link": "https://uk.finance.yahoo.com/news/inflation-set-cooled-june-ahead-151323866.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 08:15:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "87.82",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "89.60",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "95.55",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "86.30",
+          "change": "+0.28%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4128.50",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4097.70",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.52",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.47",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
-        88.26000213623047,
-        88.25,
-        88.16000366210938,
-        88.16000366210938,
-        88.16000366210938,
-        88.16999816894531,
-        88.0999984741211,
-        88.0,
-        87.80000305175781,
-        87.87000274658203,
-        87.81999969482422
+        89.36000061035156,
+        89.44999694824219,
+        89.4000015258789,
+        89.41999816894531,
+        89.43000030517578,
+        89.38999938964844,
+        89.47000122070312,
+        89.48999786376953,
+        89.5,
+        89.58000183105469,
+        89.5999984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-23 14:32 KST"
+      "status": "강세",
+      "freshness": "2026-07-23 18:01 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "7060.31",
-          "change": "+0.07%",
+          "value": "7050.86",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6319.65",
-          "change": "+0.03%",
+          "value": "6276.01",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.99",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1466.78",
-          "change": "-0.01%",
+          "value": "101.13",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1470.27",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "163.08",
+          "value": "163.33",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7685",
+          "value": "6.7689",
           "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1465.780029296875,
-        1466.27001953125,
-        1466.199951171875,
-        1465.9599609375,
-        1465.8199462890625,
-        1466.0400390625,
-        1466.0799560546875,
-        1466.280029296875,
-        1466.47998046875,
-        1466.9000244140625,
-        1466.780029296875
+        1470.8499755859375,
+        1470.68994140625,
+        1470.3699951171875,
+        1469.72998046875,
+        1469.8900146484375,
+        1469.8399658203125,
+        1470.43994140625,
+        1470.3199462890625,
+        1470.43994140625,
+        1470.1800537109375,
+        1470.27001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-23 14:42 KST"
+      "status": "완화",
+      "freshness": "2026-07-23 18:11 KST"
     }
   ],
   "currentAction": {
