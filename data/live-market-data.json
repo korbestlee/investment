@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-24",
-  "collectedAt": "2026-07-24T09:06:00Z",
+  "date": "2026-07-25",
+  "collectedAt": "2026-07-24T21:17:50Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "+0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.08%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stocks suffer fresh blow as markets",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Asian markets sank Friday to track a selloff on Wall Street as world markets were battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past $100",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-suffer-fresh-blow-markets-031038662.html?.tsrc=rss"
+      "title": "Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US stocks closed mixe",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html?.tsrc=rss"
     },
     {
-      "title": "The Probability of a July Fed Rate",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "These inflationary concerns can't be swept under the rug.",
-      "link": "https://www.fool.com/investing/2026/07/24/probability-july-fed-rate-hike-tripled-last-week/?.tsrc=rss"
+      "title": "Mdxhealth Announces Receipt of",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Mdxhealth Announces Receipt of Nasdaq Notification Regarding Minimum Market Value of Listed Securities Deficiency IRVINE, California – July 24, 2026 (GlobeNewswire) – Mdxhealth SA ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mdxhealth-announces-receipt-nasdaq-notification-205900657.html?.tsrc=rss"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated ",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html?.tsrc=rss"
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html?.tsrc=rss"
     },
     {
-      "title": "Consumer confidence remains",
-      "impact": "원자재, 인플레 기대",
+      "title": "S&P 500 Posts Weekly Decline Amid",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "ASEAN consumers remained optimistic about both the macroeconomic environment and their personal finances in 2026, with the UOB ASEAN Consumer Sentiment Index (the Index)[1] holding",
-      "link": "https://finance.yahoo.com/economy/articles/consumer-confidence-remains-resilient-across-081800325.html?.tsrc=rss"
+      "summary": "The Standard & Poor's 500 index shed 0.6% this week amid mixed corporate earnings and continued worr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204502613.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stocks suffer fresh blow as markets",
-      "summary": "Asian markets sank Friday to track a selloff on Wall Street as world markets were battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past $100",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-suffer-fresh-blow-markets-031038662.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 08:30:15 +0000"
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US stocks closed mixe",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 21:10:25 +0000"
     },
     {
-      "title": "The Probability of a July Fed Rate",
-      "summary": "These inflationary concerns can't be swept under the rug.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/24/probability-july-fed-rate-hike-tripled-last-week/?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 08:26:00 +0000"
+      "title": "Mdxhealth Announces Receipt of",
+      "summary": "Mdxhealth Announces Receipt of Nasdaq Notification Regarding Minimum Market Value of Listed Securities Deficiency IRVINE, California – July 24, 2026 (GlobeNewswire) – Mdxhealth SA ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mdxhealth-announces-receipt-nasdaq-notification-205900657.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 20:59:00 +0000"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq futures steady",
-      "summary": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated ",
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 08:18:54 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 20:47:57 +0000"
     },
     {
-      "title": "Consumer confidence remains",
-      "summary": "ASEAN consumers remained optimistic about both the macroeconomic environment and their personal finances in 2026, with the UOB ASEAN Consumer Sentiment Index (the Index)[1] holding",
-      "impact": "원자재, 인플레 기대",
+      "title": "S&P 500 Posts Weekly Decline Amid",
+      "summary": "The Standard & Poor's 500 index shed 0.6% this week amid mixed corporate earnings and continued worr",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/articles/consumer-confidence-remains-resilient-across-081800325.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 08:18:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204502613.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 20:45:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.54",
-          "change": "-0.08%",
+          "value": "90.47",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.57",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "98.38",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4059.50",
+          "value": "4055.70",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.34",
-          "change": "-0.03%",
-          "direction": "down"
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        89.75,
-        89.83999633789062,
-        89.93000030517578,
-        89.81999969482422,
-        89.62000274658203,
-        89.54000091552734,
-        89.55000305175781,
-        89.58999633789062,
-        89.5999984741211,
-        89.61000061035156,
-        89.54000091552734
+        90.51000213623047,
+        90.5999984741211,
+        90.56999969482422,
+        90.63999938964844,
+        90.55000305175781,
+        90.5199966430664,
+        90.5199966430664,
+        90.5199966430664,
+        90.4800033569336,
+        90.5,
+        90.47000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-24 17:55 KST"
+      "freshness": "2026-07-25 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.800%",
+          "value": "3.805%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.461%",
-          "change": "-0.04%",
+          "value": "4.426%",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.703%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.679%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.171%",
-          "change": "-0.04%",
+          "value": "5.162%",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.697000026702881,
-        4.697000026702881,
-        4.704999923706055,
-        4.704999923706055,
-        4.704999923706055,
-        4.703000068664551,
-        4.704999923706055,
-        4.703000068664551,
-        4.703000068664551,
-        4.704999923706055,
-        4.703000068664551
+        4.683000087738037,
+        4.681000232696533,
+        4.678999900817871,
+        4.678999900817871,
+        4.683000087738037,
+        4.683000087738037,
+        4.683000087738037,
+        4.681000232696533,
+        4.678999900817871,
+        4.678999900817871,
+        4.678999900817871
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-07-24 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-07-25 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7408.18",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7412.88",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25138.57",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "24981.71",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6254.79",
-          "change": "+0.05%",
+          "value": "6280.88",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        7383.5,
-        7390.89013671875,
-        7391.85986328125,
-        7390.14990234375,
-        7387.0,
-        7390.3798828125,
-        7398.419921875,
-        7399.85009765625,
-        7404.31005859375,
-        7408.85986328125,
-        7408.18017578125
+        7406.47998046875,
+        7401.77001953125,
+        7400.89013671875,
+        7400.68994140625,
+        7403.47998046875,
+        7408.02001953125,
+        7404.25,
+        7405.5498046875,
+        7407.64990234375,
+        7408.35986328125,
+        7412.8798828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-07-24 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-25 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.38",
+          "value": "101.46",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1463.88",
-          "change": "+0.03%",
+          "value": "1459.42",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.76",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "163.79",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7730",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7617",
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1463.3800048828125,
-        1463.6199951171875,
-        1463.6300048828125,
-        1463.6099853515625,
-        1463.469970703125,
-        1463.3800048828125,
-        1463.6600341796875,
-        1462.6800537109375,
-        1463.52001953125,
-        1463.4200439453125,
-        1463.8800048828125
+        1459.5899658203125,
+        1458.9300537109375,
+        1459.3699951171875,
+        1459.3599853515625,
+        1459.3800048828125,
+        1459.2099609375,
+        1459.2900390625,
+        1459.2099609375,
+        1459.31005859375,
+        1459.239990234375,
+        1459.4200439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-24 18:05 KST"
+      "freshness": "2026-07-25 05:59 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
