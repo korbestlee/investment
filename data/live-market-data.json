@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "collectedAt": "2026-07-23T21:18:48Z",
+  "collectedAt": "2026-07-24T05:38:39Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Imperial Reports Production Update",
+      "title": "Shares skid in Asia in sell-off of",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 fro",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/imperial-reports-production-red-chris-210700303.html?.tsrc=rss"
+      "summary": "Shares skidded Friday in Asia after Brent crude shot to its highest price since May as heavy fighting in the Middle East again threatened to slow the global flow of oil and gas.  U",
+      "link": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html?.tsrc=rss"
     },
     {
-      "title": "Market Sells Off On Oil Prices,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
-      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss"
-    },
-    {
-      "title": "Freeport-McMoRan Inc (FCX) Q2 2026",
+      "title": "Newmont Corp (NEM) Q2 2026 Earnings",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-inc-fcx-q2-210446739.html?.tsrc=rss"
+      "summary": "Newmont Corp (NEM) reports a robust second quarter with record free cash flow and strategic project progress, despite facing rising operational costs.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corp-nem-q2-2026-050155908.html?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-210304104.html?.tsrc=rss"
+      "title": "Nvidia Stock Is Barely Beating the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Investors have been conditioned to expect monster returns from this top artificial intelligence business.",
+      "link": "https://www.fool.com/investing/2026/07/24/nvidia-stock-is-barely-beating-the-sp-500-index-in/?.tsrc=rss"
+    },
+    {
+      "title": "MU Stock Loses Some Steam After",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Alphabet’s capex forecast raise and a hat tip from Elon Musk boosted sentiment for MU stock.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Imperial Reports Production Update",
-      "summary": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 fro",
+      "title": "Shares skid in Asia in sell-off of",
+      "summary": "Shares skidded Friday in Asia after Brent crude shot to its highest price since May as heavy fighting in the Middle East again threatened to slow the global flow of oil and gas.  U",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/imperial-reports-production-red-chris-210700303.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 21:07:00 +0000"
+      "link": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 05:13:38 +0000"
     },
     {
-      "title": "Market Sells Off On Oil Prices,",
-      "summary": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 21:05:05 +0000"
-    },
-    {
-      "title": "Freeport-McMoRan Inc (FCX) Q2 2026",
-      "summary": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals.",
+      "title": "Newmont Corp (NEM) Q2 2026 Earnings",
+      "summary": "Newmont Corp (NEM) reports a robust second quarter with record free cash flow and strategic project progress, despite facing rising operational costs.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-inc-fcx-q2-210446739.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 21:04:46 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corp-nem-q2-2026-050155908.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 05:01:55 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-210304104.html?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 21:03:04 +0000"
+      "title": "Nvidia Stock Is Barely Beating the",
+      "summary": "Investors have been conditioned to expect monster returns from this top artificial intelligence business.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/24/nvidia-stock-is-barely-beating-the-sp-500-index-in/?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 04:20:00 +0000"
+    },
+    {
+      "title": "MU Stock Loses Some Steam After",
+      "summary": "Alphabet’s capex forecast raise and a hat tip from Elon Musk boosted sentiment for MU stock.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 04:11:21 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.36",
-          "change": "-0.04%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "100.55",
-          "change": "-0.14%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4052.30",
+          "value": "91.72",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "100.38",
+          "change": "-0.05%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4028.40",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.34",
-          "change": "+0.03%",
+          "value": "6.33",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        92.20999908447266,
-        92.30000305175781,
-        92.38999938964844,
-        92.33000183105469,
-        92.37000274658203,
-        92.33000183105469,
-        92.41999816894531,
-        92.4000015258789,
-        92.38999938964844,
-        92.4000015258789,
-        92.36000061035156
+        91.80999755859375,
+        91.80000305175781,
+        91.83000183105469,
+        91.8499984741211,
+        91.76000213623047,
+        91.7699966430664,
+        91.76000213623047,
+        91.77999877929688,
+        91.79000091552734,
+        91.70999908447266,
+        91.72000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-24 05:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-24 14:28 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "7050.86",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6771.27",
+          "change": "-0.11%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.45",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.41",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1473.99",
+          "value": "1464.28",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "163.82",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "163.81",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.7696",
+          "value": "6.7743",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1474.25,
-        1473.969970703125,
-        1473.81005859375,
-        1473.8199462890625,
-        1473.8499755859375,
-        1473.8299560546875,
-        1473.77001953125,
-        1473.800048828125,
-        1473.9100341796875,
-        1473.949951171875,
-        1473.989990234375
+        1464.1800537109375,
+        1463.780029296875,
+        1463.81005859375,
+        1463.3800048828125,
+        1463.47998046875,
+        1463.780029296875,
+        1464.199951171875,
+        1464.0799560546875,
+        1464.1800537109375,
+        1464.5699462890625,
+        1464.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-24 06:18 KST"
+      "status": "중립",
+      "freshness": "2026-07-24 14:38 KST"
     }
   ],
   "currentAction": {
