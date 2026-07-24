@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "collectedAt": "2026-07-24T05:38:39Z",
+  "collectedAt": "2026-07-24T09:06:00Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Shares skid in Asia in sell-off of",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Shares skidded Friday in Asia after Brent crude shot to its highest price since May as heavy fighting in the Middle East again threatened to slow the global flow of oil and gas.  U",
-      "link": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html?.tsrc=rss"
-    },
-    {
-      "title": "Newmont Corp (NEM) Q2 2026 Earnings",
+      "title": "Stocks suffer fresh blow as markets",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Newmont Corp (NEM) reports a robust second quarter with record free cash flow and strategic project progress, despite facing rising operational costs.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corp-nem-q2-2026-050155908.html?.tsrc=rss"
+      "summary": "Asian markets sank Friday to track a selloff on Wall Street as world markets were battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past $100",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-suffer-fresh-blow-markets-031038662.html?.tsrc=rss"
     },
     {
-      "title": "Nvidia Stock Is Barely Beating the",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Investors have been conditioned to expect monster returns from this top artificial intelligence business.",
-      "link": "https://www.fool.com/investing/2026/07/24/nvidia-stock-is-barely-beating-the-sp-500-index-in/?.tsrc=rss"
+      "title": "The Probability of a July Fed Rate",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "These inflationary concerns can't be swept under the rug.",
+      "link": "https://www.fool.com/investing/2026/07/24/probability-july-fed-rate-hike-tripled-last-week/?.tsrc=rss"
     },
     {
-      "title": "MU Stock Loses Some Steam After",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Alphabet’s capex forecast raise and a hat tip from Elon Musk boosted sentiment for MU stock.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC?.tsrc=rss"
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated ",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html?.tsrc=rss"
+    },
+    {
+      "title": "Consumer confidence remains",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "ASEAN consumers remained optimistic about both the macroeconomic environment and their personal finances in 2026, with the UOB ASEAN Consumer Sentiment Index (the Index)[1] holding",
+      "link": "https://finance.yahoo.com/economy/articles/consumer-confidence-remains-resilient-across-081800325.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Shares skid in Asia in sell-off of",
-      "summary": "Shares skidded Friday in Asia after Brent crude shot to its highest price since May as heavy fighting in the Middle East again threatened to slow the global flow of oil and gas.  U",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/shares-skid-asia-sell-off-051338979.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 05:13:38 +0000"
-    },
-    {
-      "title": "Newmont Corp (NEM) Q2 2026 Earnings",
-      "summary": "Newmont Corp (NEM) reports a robust second quarter with record free cash flow and strategic project progress, despite facing rising operational costs.",
+      "title": "Stocks suffer fresh blow as markets",
+      "summary": "Asian markets sank Friday to track a selloff on Wall Street as world markets were battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past $100",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corp-nem-q2-2026-050155908.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 05:01:55 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-suffer-fresh-blow-markets-031038662.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 08:30:15 +0000"
     },
     {
-      "title": "Nvidia Stock Is Barely Beating the",
-      "summary": "Investors have been conditioned to expect monster returns from this top artificial intelligence business.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/24/nvidia-stock-is-barely-beating-the-sp-500-index-in/?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 04:20:00 +0000"
+      "title": "The Probability of a July Fed Rate",
+      "summary": "These inflationary concerns can't be swept under the rug.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/07/24/probability-july-fed-rate-hike-tripled-last-week/?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 08:26:00 +0000"
     },
     {
-      "title": "MU Stock Loses Some Steam After",
-      "summary": "Alphabet’s capex forecast raise and a hat tip from Elon Musk boosted sentiment for MU stock.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-loses-some-steam-after-korea-chip-selloff-but-retail-is-eyeing-clean-rebound-above-1-000/cZZYSgYR7UC?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 04:11:21 +0000"
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "summary": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated ",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 08:18:54 +0000"
+    },
+    {
+      "title": "Consumer confidence remains",
+      "summary": "ASEAN consumers remained optimistic about both the macroeconomic environment and their personal finances in 2026, with the UOB ASEAN Consumer Sentiment Index (the Index)[1] holding",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/articles/consumer-confidence-remains-resilient-across-081800325.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 08:18:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.72",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "89.54",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "100.38",
-          "change": "-0.05%",
+          "value": "91.57",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4028.40",
-          "change": "+0.02%",
+          "value": "4059.50",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.33",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.34",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        91.80999755859375,
-        91.80000305175781,
-        91.83000183105469,
-        91.8499984741211,
-        91.76000213623047,
-        91.7699966430664,
-        91.76000213623047,
-        91.77999877929688,
-        91.79000091552734,
-        91.70999908447266,
-        91.72000122070312
+        89.75,
+        89.83999633789062,
+        89.93000030517578,
+        89.81999969482422,
+        89.62000274658203,
+        89.54000091552734,
+        89.55000305175781,
+        89.58999633789062,
+        89.5999984741211,
+        89.61000061035156,
+        89.54000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-24 14:28 KST"
+      "status": "약세",
+      "freshness": "2026-07-24 17:55 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6771.27",
-          "change": "-0.11%",
-          "direction": "down"
+          "value": "6718.50",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6197.62",
-          "change": "+0.00%",
+          "value": "6254.79",
+          "change": "+0.05%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.41",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "101.38",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1464.28",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1463.88",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.82",
+          "value": "163.76",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7743",
+          "value": "6.7730",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1464.1800537109375,
-        1463.780029296875,
-        1463.81005859375,
         1463.3800048828125,
-        1463.47998046875,
-        1463.780029296875,
-        1464.199951171875,
-        1464.0799560546875,
-        1464.1800537109375,
-        1464.5699462890625,
-        1464.280029296875
+        1463.6199951171875,
+        1463.6300048828125,
+        1463.6099853515625,
+        1463.469970703125,
+        1463.3800048828125,
+        1463.6600341796875,
+        1462.6800537109375,
+        1463.52001953125,
+        1463.4200439453125,
+        1463.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-24 14:38 KST"
+      "status": "강세",
+      "freshness": "2026-07-24 18:05 KST"
     }
   ],
   "currentAction": {
