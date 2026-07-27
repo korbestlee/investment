@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25",
-  "collectedAt": "2026-07-24T21:17:50Z",
+  "date": "2026-07-27",
+  "collectedAt": "2026-07-27T06:14:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.12%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Update",
+      "title": "Oil prices sink 4% while Asian",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Shares were mostly higher Monday in Asia as oil prices slipped more than 4% after the U.S. and Iran refrained from fighting while discussing a possible resumption of negotiations o",
+      "link": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html?.tsrc=rss"
+    },
+    {
+      "title": "Is The Crypto Market Down Today?",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The crypto market slipped 0.94% from Sunday's high as the CLARITY Act stalls in the Senate and ETFs post two days of outflows.",
+      "link": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices plunge as US and Iran",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the ",
+      "link": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz?.tsrc=rss"
+    },
+    {
+      "title": "Warren Buffett's Favorite Stock",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US stocks closed mixe",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html?.tsrc=rss"
-    },
-    {
-      "title": "Mdxhealth Announces Receipt of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Mdxhealth Announces Receipt of Nasdaq Notification Regarding Minimum Market Value of Listed Securities Deficiency IRVINE, California – July 24, 2026 (GlobeNewswire) – Mdxhealth SA ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mdxhealth-announces-receipt-nasdaq-notification-205900657.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Decline Amid",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Standard & Poor's 500 index shed 0.6% this week amid mixed corporate earnings and continued worr",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204502613.html?.tsrc=rss"
+      "summary": "Investors may want to be careful.",
+      "link": "https://www.fool.com/investing/2026/07/27/warren-buffetts-favorite-stock-market-indicator-is/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Update",
-      "summary": "(Updates with market moves at the end of the day and weekly index changes.) US stocks closed mixe",
+      "title": "Oil prices sink 4% while Asian",
+      "summary": "Shares were mostly higher Monday in Asia as oil prices slipped more than 4% after the U.S. and Iran refrained from fighting while discussing a possible resumption of negotiations o",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 05:35:06 +0000"
+    },
+    {
+      "title": "Is The Crypto Market Down Today?",
+      "summary": "The crypto market slipped 0.94% from Sunday's high as the CLARITY Act stalls in the Senate and ETFs post two days of outflows.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 05:34:01 +0000"
+    },
+    {
+      "title": "Oil prices plunge as US and Iran",
+      "summary": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 05:26:13 +0000"
+    },
+    {
+      "title": "Warren Buffett's Favorite Stock",
+      "summary": "Investors may want to be careful.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-amid-middle-east-211025749.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 21:10:25 +0000"
-    },
-    {
-      "title": "Mdxhealth Announces Receipt of",
-      "summary": "Mdxhealth Announces Receipt of Nasdaq Notification Regarding Minimum Market Value of Listed Securities Deficiency IRVINE, California – July 24, 2026 (GlobeNewswire) – Mdxhealth SA ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mdxhealth-announces-receipt-nasdaq-notification-205900657.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 20:59:00 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-media-204757092.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 20:47:57 +0000"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Decline Amid",
-      "summary": "The Standard & Poor's 500 index shed 0.6% this week amid mixed corporate earnings and continued worr",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204502613.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 20:45:02 +0000"
+      "link": "https://www.fool.com/investing/2026/07/27/warren-buffetts-favorite-stock-market-indicator-is/?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 05:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.47",
-          "change": "-0.03%",
+          "value": "84.15",
+          "change": "-0.12%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "98.38",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "91.35",
+          "change": "-0.11%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4055.70",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4094.80",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.34",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6.36",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        90.51000213623047,
-        90.5999984741211,
-        90.56999969482422,
-        90.63999938964844,
-        90.55000305175781,
-        90.5199966430664,
-        90.5199966430664,
-        90.5199966430664,
-        90.4800033569336,
-        90.5,
-        90.47000122070312
+        84.41000366210938,
+        84.41000366210938,
+        84.47000122070312,
+        84.4800033569336,
+        84.54000091552734,
+        84.58000183105469,
+        84.45999908447266,
+        84.36000061035156,
+        84.30000305175781,
+        84.25,
+        84.1500015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-25 05:59 KST"
+      "freshness": "2026-07-27 15:04 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "6718.50",
-          "change": "+0.00%",
+          "value": "6725.63",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.46",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "101.16",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1459.42",
-          "change": "+0.01%",
+          "value": "1466.28",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.79",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "163.56",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7617",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "6.7673",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1459.5899658203125,
-        1458.9300537109375,
-        1459.3699951171875,
-        1459.3599853515625,
-        1459.3800048828125,
-        1459.2099609375,
-        1459.2900390625,
-        1459.2099609375,
-        1459.31005859375,
-        1459.239990234375,
-        1459.4200439453125
+        1466.2900390625,
+        1466.280029296875,
+        1466.3399658203125,
+        1465.47998046875,
+        1465.7099609375,
+        1466.1199951171875,
+        1464.4200439453125,
+        1465.47998046875,
+        1464.300048828125,
+        1465.97998046875,
+        1466.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-25 05:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-27 15:14 KST"
     }
   ],
   "currentAction": {
