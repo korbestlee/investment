@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-27",
-  "collectedAt": "2026-07-27T10:27:52Z",
+  "date": "2026-07-28",
+  "collectedAt": "2026-07-27T21:21:18Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.06%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.23%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Commerzbank Says Brent Falls 7% as",
+      "title": "3 S&P 500 Stocks with Exciting",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-210102695.html?.tsrc=rss"
+    },
+    {
+      "title": "Lundin Gold Reports Further",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Brent crude prices fell by about 7%, reaching around $92 per barrel, as tensions in the Middle East",
-      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-brent-falls-7-101548169.html?.tsrc=rss"
+      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report strong results from its ongoing conversion and near‑mine ex",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-further-high-210000044.html?.tsrc=rss"
     },
     {
-      "title": "US Equity Investors to Focus on",
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "US equity investors will focus on big-tech earnings, inflation, and the Federal Reserve policy meeti",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-mag-095700133.html?.tsrc=rss"
+      "summary": "(Updates with market moves at the end of the day.) US stocks ended mixed in what turned out to be",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html?.tsrc=rss"
     },
     {
-      "title": "U.S. markets eye earnings season as",
-      "impact": "채권, 금리",
+      "title": "U.S.-Iran Peace Hopes Send Oil",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "U. S. stock futures moved higher on Monday as investors welcomed signs of a pause in hostilities between the United States and Iran, helping to ease pressure on energy markets ahea",
-      "link": "https://investorshub.advfn.com/market-news/article/32676/u-s-markets-eye-earnings-season-as-middle-east-tensions-ease-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss"
-    },
-    {
-      "title": "If I Could Tell Every Investor 1",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "A bear market is coming eventually. Here's how to prepare.",
-      "link": "https://www.fool.com/investing/2026/07/27/if-i-could-tell-every-investor-1-thing-about-the-n/?.tsrc=rss"
+      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
+      "link": "https://finance.yahoo.com/m/f6a0377f-20ac-3aa0-a98d-a97312e14871/dow-jones-futures%3A-u.s.-iran.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Commerzbank Says Brent Falls 7% as",
-      "summary": "Brent crude prices fell by about 7%, reaching around $92 per barrel, as tensions in the Middle East",
+      "title": "3 S&P 500 Stocks with Exciting",
+      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-210102695.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 21:01:02 +0000"
+    },
+    {
+      "title": "Lundin Gold Reports Further",
+      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report strong results from its ongoing conversion and near‑mine ex",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-brent-falls-7-101548169.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 10:15:48 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-further-high-210000044.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 21:00:00 +0000"
     },
     {
-      "title": "US Equity Investors to Focus on",
-      "summary": "US equity investors will focus on big-tech earnings, inflation, and the Federal Reserve policy meeti",
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day.) US stocks ended mixed in what turned out to be",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-mag-095700133.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 09:57:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 20:47:59 +0000"
     },
     {
-      "title": "U.S. markets eye earnings season as",
-      "summary": "U. S. stock futures moved higher on Monday as investors welcomed signs of a pause in hostilities between the United States and Iran, helping to ease pressure on energy markets ahea",
-      "impact": "채권, 금리",
+      "title": "U.S.-Iran Peace Hopes Send Oil",
+      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/32676/u-s-markets-eye-earnings-season-as-middle-east-tensions-ease-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 09:53:26 +0000"
-    },
-    {
-      "title": "If I Could Tell Every Investor 1",
-      "summary": "A bear market is coming eventually. Here's how to prepare.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/27/if-i-could-tell-every-investor-1-thing-about-the-n/?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 09:50:00 +0000"
+      "link": "https://finance.yahoo.com/m/f6a0377f-20ac-3aa0-a98d-a97312e14871/dow-jones-futures%3A-u.s.-iran.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 20:45:34 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.00",
-          "change": "-0.23%",
-          "direction": "down"
+          "value": "81.91",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.52",
-          "change": "-0.21%",
-          "direction": "down"
+          "value": "87.68",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4093.50",
-          "change": "+0.00%",
+          "value": "4078.60",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.39",
-          "change": "+0.04%",
+          "value": "6.40",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        82.69999694824219,
-        82.72000122070312,
-        82.91999816894531,
-        83.27999877929688,
-        83.51000213623047,
-        83.45999908447266,
-        83.4000015258789,
-        83.29000091552734,
-        83.36000061035156,
-        83.19000244140625,
-        83.0
+        81.94999694824219,
+        81.83000183105469,
+        81.8499984741211,
+        81.87999725341797,
+        81.8499984741211,
+        81.73999786376953,
+        81.69000244140625,
+        81.6500015258789,
+        81.83000183105469,
+        81.88999938964844,
+        81.91000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-27 19:17 KST"
+      "status": "강세",
+      "freshness": "2026-07-28 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.805%",
+          "value": "3.797%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.426%",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "4.397%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.679%",
+          "value": "4.641%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.162%",
+          "value": "5.125%",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.683000087738037,
-        4.681000232696533,
-        4.678999900817871,
-        4.678999900817871,
-        4.683000087738037,
-        4.683000087738037,
-        4.683000087738037,
-        4.681000232696533,
-        4.678999900817871,
-        4.678999900817871,
-        4.678999900817871
+        4.64300012588501,
+        4.644999980926514,
+        4.64300012588501,
+        4.64300012588501,
+        4.64300012588501,
+        4.64300012588501,
+        4.64300012588501,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-25 03:59 KST"
+      "freshness": "2026-07-28 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7412.88",
-          "change": "+0.06%",
+          "value": "7413.43",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24981.71",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "24926.11",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6354.08",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6297.21",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7406.47998046875,
-        7401.77001953125,
-        7400.89013671875,
-        7400.68994140625,
-        7403.47998046875,
-        7408.02001953125,
-        7404.25,
-        7405.5498046875,
-        7407.64990234375,
-        7408.35986328125,
-        7412.8798828125
+        7413.85009765625,
+        7412.33984375,
+        7409.89013671875,
+        7410.7900390625,
+        7410.31005859375,
+        7411.35009765625,
+        7411.25,
+        7413.97021484375,
+        7411.2900390625,
+        7411.830078125,
+        7413.43017578125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-07-25 04:59 KST"
+      "freshness": "2026-07-28 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.26",
-          "change": "-0.01%",
+          "value": "101.51",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1468.77",
+          "value": "1465.79",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.55",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "163.68",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7544",
+          "value": "6.7652",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1468.7099609375,
-        1468.72998046875,
-        1468.0799560546875,
-        1468.81005859375,
-        1468.780029296875,
-        1468.6700439453125,
-        1468.280029296875,
-        1468.81005859375,
-        1468.800048828125,
-        1468.8299560546875,
-        1468.77001953125
+        1464.6600341796875,
+        1464.9200439453125,
+        1464.7099609375,
+        1465.050048828125,
+        1464.97998046875,
+        1464.1300048828125,
+        1465.9100341796875,
+        1465.260009765625,
+        1465.9100341796875,
+        1465.8399658203125,
+        1465.7900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-27 19:27 KST"
+      "freshness": "2026-07-28 05:13 KST"
     }
   ],
   "currentAction": {
