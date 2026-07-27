@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "collectedAt": "2026-07-27T06:14:52Z",
+  "collectedAt": "2026-07-27T10:27:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.12%",
+      "value": "-0.23%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices sink 4% while Asian",
+      "title": "Commerzbank Says Brent Falls 7% as",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Shares were mostly higher Monday in Asia as oil prices slipped more than 4% after the U.S. and Iran refrained from fighting while discussing a possible resumption of negotiations o",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html?.tsrc=rss"
+      "summary": "Brent crude prices fell by about 7%, reaching around $92 per barrel, as tensions in the Middle East",
+      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-brent-falls-7-101548169.html?.tsrc=rss"
     },
     {
-      "title": "Is The Crypto Market Down Today?",
+      "title": "US Equity Investors to Focus on",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "US equity investors will focus on big-tech earnings, inflation, and the Federal Reserve policy meeti",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-mag-095700133.html?.tsrc=rss"
+    },
+    {
+      "title": "U.S. markets eye earnings season as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "U. S. stock futures moved higher on Monday as investors welcomed signs of a pause in hostilities between the United States and Iran, helping to ease pressure on energy markets ahea",
+      "link": "https://investorshub.advfn.com/market-news/article/32676/u-s-markets-eye-earnings-season-as-middle-east-tensions-ease-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss"
+    },
+    {
+      "title": "If I Could Tell Every Investor 1",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "The crypto market slipped 0.94% from Sunday's high as the CLARITY Act stalls in the Senate and ETFs post two days of outflows.",
-      "link": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices plunge as US and Iran",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the ",
-      "link": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz?.tsrc=rss"
-    },
-    {
-      "title": "Warren Buffett's Favorite Stock",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Investors may want to be careful.",
-      "link": "https://www.fool.com/investing/2026/07/27/warren-buffetts-favorite-stock-market-indicator-is/?.tsrc=rss"
+      "summary": "A bear market is coming eventually. Here's how to prepare.",
+      "link": "https://www.fool.com/investing/2026/07/27/if-i-could-tell-every-investor-1-thing-about-the-n/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices sink 4% while Asian",
-      "summary": "Shares were mostly higher Monday in Asia as oil prices slipped more than 4% after the U.S. and Iran refrained from fighting while discussing a possible resumption of negotiations o",
+      "title": "Commerzbank Says Brent Falls 7% as",
+      "summary": "Brent crude prices fell by about 7%, reaching around $92 per barrel, as tensions in the Middle East",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 05:35:06 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/commerzbank-says-brent-falls-7-101548169.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 10:15:48 +0000"
     },
     {
-      "title": "Is The Crypto Market Down Today?",
-      "summary": "The crypto market slipped 0.94% from Sunday's high as the CLARITY Act stalls in the Senate and ETFs post two days of outflows.",
+      "title": "US Equity Investors to Focus on",
+      "summary": "US equity investors will focus on big-tech earnings, inflation, and the Federal Reserve policy meeti",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-mag-095700133.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 09:57:00 +0000"
+    },
+    {
+      "title": "U.S. markets eye earnings season as",
+      "summary": "U. S. stock futures moved higher on Monday as investors welcomed signs of a pause in hostilities between the United States and Iran, helping to ease pressure on energy markets ahea",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/32676/u-s-markets-eye-earnings-season-as-middle-east-tensions-ease-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 09:53:26 +0000"
+    },
+    {
+      "title": "If I Could Tell Every Investor 1",
+      "summary": "A bear market is coming eventually. Here's how to prepare.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 05:34:01 +0000"
-    },
-    {
-      "title": "Oil prices plunge as US and Iran",
-      "summary": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 05:26:13 +0000"
-    },
-    {
-      "title": "Warren Buffett's Favorite Stock",
-      "summary": "Investors may want to be careful.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/27/warren-buffetts-favorite-stock-market-indicator-is/?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 05:20:00 +0000"
+      "link": "https://www.fool.com/investing/2026/07/27/if-i-could-tell-every-investor-1-thing-about-the-n/?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 09:50:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.15",
-          "change": "-0.12%",
+          "value": "83.00",
+          "change": "-0.23%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.35",
-          "change": "-0.11%",
+          "value": "88.52",
+          "change": "-0.21%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4094.80",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4093.50",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.36",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.39",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        84.41000366210938,
-        84.41000366210938,
-        84.47000122070312,
-        84.4800033569336,
-        84.54000091552734,
-        84.58000183105469,
-        84.45999908447266,
-        84.36000061035156,
-        84.30000305175781,
-        84.25,
-        84.1500015258789
+        82.69999694824219,
+        82.72000122070312,
+        82.91999816894531,
+        83.27999877929688,
+        83.51000213623047,
+        83.45999908447266,
+        83.4000015258789,
+        83.29000091552734,
+        83.36000061035156,
+        83.19000244140625,
+        83.0
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-27 15:04 KST"
+      "freshness": "2026-07-27 19:17 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6725.63",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "6720.55",
+          "change": "-0.19%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6280.88",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6354.08",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.16",
-          "change": "-0.00%",
+          "value": "101.26",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1466.28",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1468.77",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.56",
-          "change": "+0.01%",
+          "value": "163.55",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7673",
+          "value": "6.7544",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1466.2900390625,
-        1466.280029296875,
-        1466.3399658203125,
-        1465.47998046875,
-        1465.7099609375,
-        1466.1199951171875,
-        1464.4200439453125,
-        1465.47998046875,
-        1464.300048828125,
-        1465.97998046875,
-        1466.280029296875
+        1468.7099609375,
+        1468.72998046875,
+        1468.0799560546875,
+        1468.81005859375,
+        1468.780029296875,
+        1468.6700439453125,
+        1468.280029296875,
+        1468.81005859375,
+        1468.800048828125,
+        1468.8299560546875,
+        1468.77001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-07-27 15:14 KST"
+      "freshness": "2026-07-27 19:27 KST"
     }
   ],
   "currentAction": {
