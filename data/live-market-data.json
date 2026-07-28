@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "collectedAt": "2026-07-28T05:36:02Z",
+  "collectedAt": "2026-07-28T09:20:28Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.12%",
+      "value": "+0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.18%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "SCHH Offers Low-Cost U.S. REITs",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio t",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/28/schh-offers-low-cost-u-s-reits-while-reet-adds-global-reach/?.tsrc=rss"
-    },
-    {
-      "title": "Asian shares slip and South Korea’s",
+      "title": "Nasdaq, S&P 500 Futures Slip As",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "South Korea’s Kospi index plunged more than 10% on Tuesday on heavy selling of chipmaking stocks that have gyrated recently due to concerns over the sustainability of the boom in a",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html?.tsrc=rss"
+      "summary": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss"
     },
     {
-      "title": "Devon Energy (DVN) Pulls Back",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Devon Energy (DVN) has drawn fresh attention after recent price moves, with the stock down about 4.2% over the past day and modestly lower over the past week despite a small gain t",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-pulls-back-031702824.html?.tsrc=rss"
-    },
-    {
-      "title": "How CME’s New 24/7 Gold and",
+      "title": "S&P 500, Nasdaq futures slide as",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "CME Group reported its second-quarter 2026 results in the past week, with revenue of US$1,706.2 million and net income of US$1,041.8 million, alongside updated share repurchase act",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cme-24-7-gold-single-031630330.html?.tsrc=rss"
+      "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html?.tsrc=rss"
+    },
+    {
+      "title": "Jerome Powell's Inflation Warning",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Who's ready for another round of tariffs?",
+      "link": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss"
+    },
+    {
+      "title": "Firefly Metals' Resource update to",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "FireFly Metals Ltd managing director Steve Parsons talked with Proactive about the company’s progress at the Green Bay Copper-Gold Project during the June 2026 quarter, including h",
+      "link": "https://finance.yahoo.com/video/firefly-metals-feed-august-economic-063932167.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "SCHH Offers Low-Cost U.S. REITs",
-      "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio t",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/28/schh-offers-low-cost-u-s-reits-while-reet-adds-global-reach/?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 05:20:10 +0000"
-    },
-    {
-      "title": "Asian shares slip and South Korea’s",
-      "summary": "South Korea’s Kospi index plunged more than 10% on Tuesday on heavy selling of chipmaking stocks that have gyrated recently due to concerns over the sustainability of the boom in a",
+      "title": "Nasdaq, S&P 500 Futures Slip As",
+      "summary": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 04:06:23 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 08:46:55 +0000"
     },
     {
-      "title": "Devon Energy (DVN) Pulls Back",
-      "summary": "Devon Energy (DVN) has drawn fresh attention after recent price moves, with the stock down about 4.2% over the past day and modestly lower over the past week despite a small gain t",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-pulls-back-031702824.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 03:17:02 +0000"
-    },
-    {
-      "title": "How CME’s New 24/7 Gold and",
-      "summary": "CME Group reported its second-quarter 2026 results in the past week, with revenue of US$1,706.2 million and net income of US$1,041.8 million, alongside updated share repurchase act",
+      "title": "S&P 500, Nasdaq futures slide as",
+      "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cme-24-7-gold-single-031630330.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 03:16:30 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 08:28:32 +0000"
+    },
+    {
+      "title": "Jerome Powell's Inflation Warning",
+      "summary": "Who's ready for another round of tariffs?",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 08:26:00 +0000"
+    },
+    {
+      "title": "Firefly Metals' Resource update to",
+      "summary": "FireFly Metals Ltd managing director Steve Parsons talked with Proactive about the company’s progress at the Green Bay Copper-Gold Project during the June 2026 quarter, including h",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/firefly-metals-feed-august-economic-063932167.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 06:39:32 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.61",
-          "change": "+0.12%",
+          "value": "80.81",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "87.08",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "86.01",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4040.90",
-          "change": "-0.05%",
+          "value": "4042.10",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.33",
-          "change": "-0.18%",
+          "value": "6.34",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        81.5999984741211,
-        81.5999984741211,
-        81.58999633789062,
-        81.62999725341797,
-        81.6500015258789,
-        81.54000091552734,
-        81.55999755859375,
-        81.54000091552734,
-        81.5199966430664,
-        81.51000213623047,
-        81.61000061035156
+        80.36000061035156,
+        80.45999908447266,
+        80.58999633789062,
+        80.58999633789062,
+        80.61000061035156,
+        80.55999755859375,
+        80.58999633789062,
+        80.56999969482422,
+        80.72000122070312,
+        80.75,
+        80.80999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-28 14:25 KST"
+      "freshness": "2026-07-28 18:10 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6068.46",
-          "change": "-0.26%",
+          "value": "6019.06",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6297.21",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6294.67",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.57",
-          "change": "+0.00%",
+          "value": "101.53",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1462.47",
-          "change": "+0.03%",
+          "value": "1460.84",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.73",
+          "value": "163.82",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7670",
+          "value": "6.7672",
           "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1464.5799560546875,
-        1463.43994140625,
-        1462.5799560546875,
-        1462.280029296875,
-        1462.1800537109375,
-        1462.280029296875,
-        1462.1600341796875,
-        1461.5799560546875,
-        1461.5799560546875,
-        1462.0799560546875,
-        1462.469970703125
+        1461.3499755859375,
+        1461.3900146484375,
+        1461.43994140625,
+        1461.4200439453125,
+        1461.0799560546875,
+        1461.2900390625,
+        1461.3499755859375,
+        1461.300048828125,
+        1460.699951171875,
+        1460.6800537109375,
+        1460.8399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-07-28 14:35 KST"
+      "freshness": "2026-07-28 18:20 KST"
     }
   ],
   "currentAction": {
