@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-28",
-  "collectedAt": "2026-07-28T09:20:28Z",
+  "date": "2026-07-29",
+  "collectedAt": "2026-07-28T21:18:44Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.09%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.07%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq, S&P 500 Futures Slip As",
+      "title": "Market Strong Outside AI; Seagate,",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss"
+      "summary": "The stock market is fine outside AI. Seagate, SK Hynix, KLA and Bloom Energy are key earnings late. Will the Federal Reserve surprise?",
+      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-market.html?.tsrc=rss"
     },
     {
-      "title": "S&P 500, Nasdaq futures slide as",
+      "title": "Auro Intersects 542m Grading 0.60",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss"
     },
     {
-      "title": "Jerome Powell's Inflation Warning",
+      "title": "Asia is rewriting the global energy",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]",
+      "link": "https://finance.yahoo.com/energy/articles/asia-rewriting-global-energy-map-210034600.html?.tsrc=rss"
+    },
+    {
+      "title": "Is Vanguard Financials or State",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Who's ready for another round of tariffs?",
-      "link": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss"
-    },
-    {
-      "title": "Firefly Metals' Resource update to",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "FireFly Metals Ltd managing director Steve Parsons talked with Proactive about the company’s progress at the Green Bay Copper-Gold Project during the June 2026 quarter, including h",
-      "link": "https://finance.yahoo.com/video/firefly-metals-feed-august-economic-063932167.html?.tsrc=rss"
+      "summary": "KBE targets banks exclusively with higher recent returns, while VFH offers broader financial sector exposure at a fraction of the cost.",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq, S&P 500 Futures Slip As",
-      "summary": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks.",
+      "title": "Market Strong Outside AI; Seagate,",
+      "summary": "The stock market is fine outside AI. Seagate, SK Hynix, KLA and Bloom Energy are key earnings late. Will the Federal Reserve surprise?",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 08:46:55 +0000"
+      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:02:57 +0000"
     },
     {
-      "title": "S&P 500, Nasdaq futures slide as",
-      "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
+      "title": "Auro Intersects 542m Grading 0.60",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 08:28:32 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:01:00 +0000"
     },
     {
-      "title": "Jerome Powell's Inflation Warning",
-      "summary": "Who's ready for another round of tariffs?",
+      "title": "Asia is rewriting the global energy",
+      "summary": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/asia-rewriting-global-energy-map-210034600.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:00:34 +0000"
+    },
+    {
+      "title": "Is Vanguard Financials or State",
+      "summary": "KBE targets banks exclusively with higher recent returns, while VFH offers broader financial sector exposure at a fraction of the cost.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 08:26:00 +0000"
-    },
-    {
-      "title": "Firefly Metals' Resource update to",
-      "summary": "FireFly Metals Ltd managing director Steve Parsons talked with Proactive about the company’s progress at the Green Bay Copper-Gold Project during the June 2026 quarter, including h",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/video/firefly-metals-feed-august-economic-063932167.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 06:39:32 +0000"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:00:01 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.81",
-          "change": "+0.07%",
+          "value": "79.13",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "86.01",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "83.76",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4042.10",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4028.80",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.34",
-          "change": "-0.01%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        80.36000061035156,
-        80.45999908447266,
-        80.58999633789062,
-        80.58999633789062,
-        80.61000061035156,
-        80.55999755859375,
-        80.58999633789062,
-        80.56999969482422,
-        80.72000122070312,
-        80.75,
-        80.80999755859375
+        79.22000122070312,
+        79.06999969482422,
+        79.04000091552734,
+        79.08000183105469,
+        79.19999694824219,
+        79.19999694824219,
+        79.16999816894531,
+        79.1500015258789,
+        79.12000274658203,
+        79.0999984741211,
+        79.12999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-28 18:10 KST"
+      "freshness": "2026-07-29 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.797%",
+          "value": "3.760%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.397%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "4.361%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.641%",
+          "value": "4.604%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.125%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.096%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.64300012588501,
-        4.644999980926514,
-        4.64300012588501,
-        4.64300012588501,
-        4.64300012588501,
-        4.64300012588501,
-        4.64300012588501,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734,
+        4.604000091552734
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-28 03:59 KST"
+      "freshness": "2026-07-29 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7413.43",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "7427.26",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "24926.11",
-          "change": "-0.02%",
+          "value": "24874.45",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6294.67",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6291.54",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7413.85009765625,
-        7412.33984375,
-        7409.89013671875,
-        7410.7900390625,
-        7410.31005859375,
-        7411.35009765625,
-        7411.25,
-        7413.97021484375,
-        7411.2900390625,
-        7411.830078125,
-        7413.43017578125
+        7434.60986328125,
+        7432.56005859375,
+        7432.06982421875,
+        7433.56982421875,
+        7434.9501953125,
+        7439.669921875,
+        7435.10986328125,
+        7434.31982421875,
+        7434.509765625,
+        7433.97998046875,
+        7427.259765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-28 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-29 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.53",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "101.39",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1460.84",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1453.54",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.82",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "163.83",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7672",
-          "change": "+0.00%",
+          "value": "6.7710",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        1461.3499755859375,
-        1461.3900146484375,
-        1461.43994140625,
-        1461.4200439453125,
-        1461.0799560546875,
-        1461.2900390625,
-        1461.3499755859375,
-        1461.300048828125,
-        1460.699951171875,
-        1460.6800537109375,
-        1460.8399658203125
+        1451.93994140625,
+        1452.260009765625,
+        1452.969970703125,
+        1453.1300048828125,
+        1453.6800537109375,
+        1453.6099853515625,
+        1453.6099853515625,
+        1453.8499755859375,
+        1453.5400390625,
+        1453.8699951171875,
+        1453.5400390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-28 18:20 KST"
+      "status": "완화",
+      "freshness": "2026-07-29 06:18 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
