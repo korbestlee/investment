@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "collectedAt": "2026-07-27T21:21:18Z",
+  "collectedAt": "2026-07-28T05:36:02Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.12%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.18%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "3 S&P 500 Stocks with Exciting",
+      "title": "SCHH Offers Low-Cost U.S. REITs",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-210102695.html?.tsrc=rss"
+      "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio t",
+      "link": "https://www.fool.com/coverage/etfs/2026/07/28/schh-offers-low-cost-u-s-reits-while-reet-adds-global-reach/?.tsrc=rss"
     },
     {
-      "title": "Lundin Gold Reports Further",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report strong results from its ongoing conversion and near‑mine ex",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-further-high-210000044.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
+      "title": "Asian shares slip and South Korea’s",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Updates with market moves at the end of the day.) US stocks ended mixed in what turned out to be",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html?.tsrc=rss"
+      "summary": "South Korea’s Kospi index plunged more than 10% on Tuesday on heavy selling of chipmaking stocks that have gyrated recently due to concerns over the sustainability of the boom in a",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html?.tsrc=rss"
     },
     {
-      "title": "U.S.-Iran Peace Hopes Send Oil",
+      "title": "Devon Energy (DVN) Pulls Back",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Devon Energy (DVN) has drawn fresh attention after recent price moves, with the stock down about 4.2% over the past day and modestly lower over the past week despite a small gain t",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-pulls-back-031702824.html?.tsrc=rss"
+    },
+    {
+      "title": "How CME’s New 24/7 Gold and",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
-      "link": "https://finance.yahoo.com/m/f6a0377f-20ac-3aa0-a98d-a97312e14871/dow-jones-futures%3A-u.s.-iran.html?.tsrc=rss"
+      "summary": "CME Group reported its second-quarter 2026 results in the past week, with revenue of US$1,706.2 million and net income of US$1,041.8 million, alongside updated share repurchase act",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cme-24-7-gold-single-031630330.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "3 S&P 500 Stocks with Exciting",
-      "summary": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting ",
+      "title": "SCHH Offers Low-Cost U.S. REITs",
+      "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio t",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-exciting-210102695.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 21:01:02 +0000"
+      "link": "https://www.fool.com/coverage/etfs/2026/07/28/schh-offers-low-cost-u-s-reits-while-reet-adds-global-reach/?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 05:20:10 +0000"
     },
     {
-      "title": "Lundin Gold Reports Further",
-      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") is pleased to report strong results from its ongoing conversion and near‑mine ex",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lundin-gold-reports-further-high-210000044.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 21:00:00 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with market moves at the end of the day.) US stocks ended mixed in what turned out to be",
+      "title": "Asian shares slip and South Korea’s",
+      "summary": "South Korea’s Kospi index plunged more than 10% on Tuesday on heavy selling of chipmaking stocks that have gyrated recently due to concerns over the sustainability of the boom in a",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 20:47:59 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 04:06:23 +0000"
     },
     {
-      "title": "U.S.-Iran Peace Hopes Send Oil",
-      "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
+      "title": "Devon Energy (DVN) Pulls Back",
+      "summary": "Devon Energy (DVN) has drawn fresh attention after recent price moves, with the stock down about 4.2% over the past day and modestly lower over the past week despite a small gain t",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-pulls-back-031702824.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 03:17:02 +0000"
+    },
+    {
+      "title": "How CME’s New 24/7 Gold and",
+      "summary": "CME Group reported its second-quarter 2026 results in the past week, with revenue of US$1,706.2 million and net income of US$1,041.8 million, alongside updated share repurchase act",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/f6a0377f-20ac-3aa0-a98d-a97312e14871/dow-jones-futures%3A-u.s.-iran.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 20:45:34 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cme-24-7-gold-single-031630330.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 03:16:30 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.91",
-          "change": "+0.02%",
+          "value": "81.61",
+          "change": "+0.12%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "87.68",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "87.08",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4078.60",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4040.90",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.40",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.33",
+          "change": "-0.18%",
+          "direction": "down"
         }
       ],
       "trend": [
-        81.94999694824219,
-        81.83000183105469,
-        81.8499984741211,
-        81.87999725341797,
-        81.8499984741211,
-        81.73999786376953,
-        81.69000244140625,
+        81.5999984741211,
+        81.5999984741211,
+        81.58999633789062,
+        81.62999725341797,
         81.6500015258789,
-        81.83000183105469,
-        81.88999938964844,
-        81.91000366210938
+        81.54000091552734,
+        81.55999755859375,
+        81.54000091552734,
+        81.5199966430664,
+        81.51000213623047,
+        81.61000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-28 05:59 KST"
+      "freshness": "2026-07-28 14:25 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "6720.55",
-          "change": "-0.19%",
+          "value": "6068.46",
+          "change": "-0.26%",
           "direction": "down"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.51",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.57",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1465.79",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "1462.47",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.68",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "163.73",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7652",
+          "value": "6.7670",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1464.6600341796875,
-        1464.9200439453125,
-        1464.7099609375,
-        1465.050048828125,
-        1464.97998046875,
-        1464.1300048828125,
-        1465.9100341796875,
-        1465.260009765625,
-        1465.9100341796875,
-        1465.8399658203125,
-        1465.7900390625
+        1464.5799560546875,
+        1463.43994140625,
+        1462.5799560546875,
+        1462.280029296875,
+        1462.1800537109375,
+        1462.280029296875,
+        1462.1600341796875,
+        1461.5799560546875,
+        1461.5799560546875,
+        1462.0799560546875,
+        1462.469970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-28 05:13 KST"
+      "status": "강세",
+      "freshness": "2026-07-28 14:35 KST"
     }
   ],
   "currentAction": {
