@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "collectedAt": "2026-07-28T21:18:44Z",
+  "collectedAt": "2026-07-29T05:40:26Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.07%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Market Strong Outside AI; Seagate,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The stock market is fine outside AI. Seagate, SK Hynix, KLA and Bloom Energy are key earnings late. Will the Federal Reserve surprise?",
-      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-market.html?.tsrc=rss"
-    },
-    {
-      "title": "Auro Intersects 542m Grading 0.60",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss"
-    },
-    {
-      "title": "Asia is rewriting the global energy",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]",
-      "link": "https://finance.yahoo.com/energy/articles/asia-rewriting-global-energy-map-210034600.html?.tsrc=rss"
-    },
-    {
-      "title": "Is Vanguard Financials or State",
-      "impact": "시장 전반",
+      "title": "The S&P 500 and Dow Are on Track to",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "KBE targets banks exclusively with higher recent returns, while VFH offers broader financial sector exposure at a fraction of the cost.",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/?.tsrc=rss"
+      "summary": "The tech-driven Nasdaq is selling off amid shifting investor sentiment toward artificial intelligence (AI) spending.",
+      "link": "https://www.fool.com/investing/2026/07/29/the-sp-500-and-dow-are-on-track-to-beat-the-nasdaq/?.tsrc=rss"
+    },
+    {
+      "title": "South Korean stocks collapse amid",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "South Korean stocks suffered one of their steepest plunges Wednesday, with the blood-letting that has battered chip firms over the past month deepening as nervous investors unwound",
+      "link": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss"
+    },
+    {
+      "title": "Phillips 66 (PSX) Gains On Refining",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Phillips 66 (PSX) is back in focus as Iran related disruptions in oil markets and record crack spreads support U.S. refiners, while the company’s earnings, buybacks, and dividend p",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-gains-refining-050703079.html?.tsrc=rss"
+    },
+    {
+      "title": "A Tired Tech Trade Looks Set to Sink",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The stock market is doubting everything it once held true, and it has the potential to end the years of easy returns.",
+      "link": "https://finance.yahoo.com/m/1d5af187-c9ad-3635-bb86-7e61a0e8e64f/a-tired-tech-trade-looks-set.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Market Strong Outside AI; Seagate,",
-      "summary": "The stock market is fine outside AI. Seagate, SK Hynix, KLA and Bloom Energy are key earnings late. Will the Federal Reserve surprise?",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 21:02:57 +0000"
-    },
-    {
-      "title": "Auro Intersects 542m Grading 0.60",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 21:01:00 +0000"
-    },
-    {
-      "title": "Asia is rewriting the global energy",
-      "summary": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/asia-rewriting-global-energy-map-210034600.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 21:00:34 +0000"
-    },
-    {
-      "title": "Is Vanguard Financials or State",
-      "summary": "KBE targets banks exclusively with higher recent returns, while VFH offers broader financial sector exposure at a fraction of the cost.",
-      "impact": "시장 전반",
+      "title": "The S&P 500 and Dow Are on Track to",
+      "summary": "The tech-driven Nasdaq is selling off amid shifting investor sentiment toward artificial intelligence (AI) spending.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/28/is-vanguard-financials-or-state-street-bank-the-superior-etf-for-your-evolving-portfolio/?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 21:00:01 +0000"
+      "link": "https://www.fool.com/investing/2026/07/29/the-sp-500-and-dow-are-on-track-to-beat-the-nasdaq/?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 05:20:00 +0000"
+    },
+    {
+      "title": "South Korean stocks collapse amid",
+      "summary": "South Korean stocks suffered one of their steepest plunges Wednesday, with the blood-letting that has battered chip firms over the past month deepening as nervous investors unwound",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 05:16:14 +0000"
+    },
+    {
+      "title": "Phillips 66 (PSX) Gains On Refining",
+      "summary": "Phillips 66 (PSX) is back in focus as Iran related disruptions in oil markets and record crack spreads support U.S. refiners, while the company’s earnings, buybacks, and dividend p",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-gains-refining-050703079.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 05:07:03 +0000"
+    },
+    {
+      "title": "A Tired Tech Trade Looks Set to Sink",
+      "summary": "The stock market is doubting everything it once held true, and it has the potential to end the years of easy returns.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/1d5af187-c9ad-3635-bb86-7e61a0e8e64f/a-tired-tech-trade-looks-set.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.13",
-          "change": "+0.04%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "83.76",
-          "change": "-0.06%",
+          "value": "81.87",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "87.17",
+          "change": "+0.03%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4028.80",
-          "change": "+0.01%",
+          "value": "4031.40",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.34",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.32",
+          "change": "+0.07%",
+          "direction": "up"
         }
       ],
       "trend": [
-        79.22000122070312,
-        79.06999969482422,
-        79.04000091552734,
-        79.08000183105469,
-        79.19999694824219,
-        79.19999694824219,
-        79.16999816894531,
-        79.1500015258789,
-        79.12000274658203,
-        79.0999984741211,
-        79.12999725341797
+        81.83000183105469,
+        81.98999786376953,
+        82.05000305175781,
+        81.98999786376953,
+        81.9800033569336,
+        81.98999786376953,
+        81.94999694824219,
+        81.95999908447266,
+        81.9000015258789,
+        81.91000366210938,
+        81.87000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-07-29 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-29 14:30 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6019.06",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "5504.56",
+          "change": "+0.09%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.39",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.28",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1453.54",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1446.68",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "163.83",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "163.44",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7710",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.7696",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1451.93994140625,
-        1452.260009765625,
-        1452.969970703125,
-        1453.1300048828125,
-        1453.6800537109375,
-        1453.6099853515625,
-        1453.6099853515625,
-        1453.8499755859375,
-        1453.5400390625,
-        1453.8699951171875,
-        1453.5400390625
+        1445.8800048828125,
+        1445.97998046875,
+        1445.8800048828125,
+        1446.030029296875,
+        1446.5999755859375,
+        1446.5799560546875,
+        1446.6400146484375,
+        1446.5,
+        1446.5799560546875,
+        1446.5799560546875,
+        1446.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-29 06:18 KST"
+      "status": "강세",
+      "freshness": "2026-07-29 14:40 KST"
     }
   ],
   "currentAction": {
