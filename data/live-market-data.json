@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "collectedAt": "2026-07-29T05:40:26Z",
+  "collectedAt": "2026-07-29T09:24:10Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.07%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The S&P 500 and Dow Are on Track to",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The tech-driven Nasdaq is selling off amid shifting investor sentiment toward artificial intelligence (AI) spending.",
-      "link": "https://www.fool.com/investing/2026/07/29/the-sp-500-and-dow-are-on-track-to-beat-the-nasdaq/?.tsrc=rss"
-    },
-    {
-      "title": "South Korean stocks collapse amid",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "South Korean stocks suffered one of their steepest plunges Wednesday, with the blood-letting that has battered chip firms over the past month deepening as nervous investors unwound",
-      "link": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss"
-    },
-    {
-      "title": "Phillips 66 (PSX) Gains On Refining",
-      "impact": "원자재, 인플레 기대",
+      "title": "Stock Market Investors Just Got Bad",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Phillips 66 (PSX) is back in focus as Iran related disruptions in oil markets and record crack spreads support U.S. refiners, while the company’s earnings, buybacks, and dividend p",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-gains-refining-050703079.html?.tsrc=rss"
+      "summary": "The Federal Reserve is expected to raise interest rates twice by year-end -- history suggests that tighter monetary policy could trigger a stock market correction.",
+      "link": "https://www.fool.com/investing/2026/07/29/stock-market-investors-bad-news-trumps-economy/?.tsrc=rss"
     },
     {
-      "title": "A Tired Tech Trade Looks Set to Sink",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The stock market is doubting everything it once held true, and it has the potential to end the years of easy returns.",
-      "link": "https://finance.yahoo.com/m/1d5af187-c9ad-3635-bb86-7e61a0e8e64f/a-tired-tech-trade-looks-set.html?.tsrc=rss"
+      "title": "Stock Futures Edge Higher as Fed",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Stocks were on track to open a touch higher Wednesday as investors shrugged off a rally in oil prices ahead of the Federal Reserve’s July interest-rate decision.  Dow Jones Industr",
+      "link": "https://finance.yahoo.com/m/36f77ec3-7459-326d-b85b-5cd84431137d/stock-futures-edge-higher-as.html?.tsrc=rss"
+    },
+    {
+      "title": "The Federal Reserve Should Raise",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Hard economic data, not proactive guesswork, drive Federal Open Market Committee (FOMC) policy decisions.",
+      "link": "https://www.fool.com/investing/2026/07/29/fed-should-raise-interest-rates-but-wont-1-reason/?.tsrc=rss"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investors braced for a Fed decision, a flood of earnings, and a potential reescalation in the war with Iran.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The S&P 500 and Dow Are on Track to",
-      "summary": "The tech-driven Nasdaq is selling off amid shifting investor sentiment toward artificial intelligence (AI) spending.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/07/29/the-sp-500-and-dow-are-on-track-to-beat-the-nasdaq/?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 05:20:00 +0000"
-    },
-    {
-      "title": "South Korean stocks collapse amid",
-      "summary": "South Korean stocks suffered one of their steepest plunges Wednesday, with the blood-letting that has battered chip firms over the past month deepening as nervous investors unwound",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 05:16:14 +0000"
-    },
-    {
-      "title": "Phillips 66 (PSX) Gains On Refining",
-      "summary": "Phillips 66 (PSX) is back in focus as Iran related disruptions in oil markets and record crack spreads support U.S. refiners, while the company’s earnings, buybacks, and dividend p",
-      "impact": "원자재, 인플레 기대",
+      "title": "Stock Market Investors Just Got Bad",
+      "summary": "The Federal Reserve is expected to raise interest rates twice by year-end -- history suggests that tighter monetary policy could trigger a stock market correction.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-gains-refining-050703079.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 05:07:03 +0000"
+      "link": "https://www.fool.com/investing/2026/07/29/stock-market-investors-bad-news-trumps-economy/?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 09:08:00 +0000"
     },
     {
-      "title": "A Tired Tech Trade Looks Set to Sink",
-      "summary": "The stock market is doubting everything it once held true, and it has the potential to end the years of easy returns.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/1d5af187-c9ad-3635-bb86-7e61a0e8e64f/a-tired-tech-trade-looks-set.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 05:00:00 +0000"
+      "title": "Stock Futures Edge Higher as Fed",
+      "summary": "Stocks were on track to open a touch higher Wednesday as investors shrugged off a rally in oil prices ahead of the Federal Reserve’s July interest-rate decision.  Dow Jones Industr",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/36f77ec3-7459-326d-b85b-5cd84431137d/stock-futures-edge-higher-as.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 08:31:56 +0000"
+    },
+    {
+      "title": "The Federal Reserve Should Raise",
+      "summary": "Hard economic data, not proactive guesswork, drive Federal Open Market Committee (FOMC) policy decisions.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/07/29/fed-should-raise-interest-rates-but-wont-1-reason/?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 08:26:00 +0000"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "summary": "Investors braced for a Fed decision, a flood of earnings, and a potential reescalation in the war with Iran.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 08:20:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.87",
+          "value": "81.96",
           "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.17",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "87.15",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4031.40",
-          "change": "+0.07%",
+          "value": "4095.50",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.32",
-          "change": "+0.07%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        81.83000183105469,
-        81.98999786376953,
-        82.05000305175781,
-        81.98999786376953,
-        81.9800033569336,
-        81.98999786376953,
-        81.94999694824219,
-        81.95999908447266,
-        81.9000015258789,
-        81.91000366210938,
-        81.87000274658203
+        82.13999938964844,
+        82.11000061035156,
+        82.05999755859375,
+        82.02999877929688,
+        82.0,
+        81.97000122070312,
+        81.91999816894531,
+        81.97000122070312,
+        82.01000213623047,
+        82.0,
+        81.95999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-29 14:30 KST"
+      "freshness": "2026-07-29 18:14 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5504.56",
-          "change": "+0.09%",
+          "value": "5634.66",
+          "change": "+0.23%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6291.54",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6254.18",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.28",
+          "value": "101.33",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1446.68",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1451.18",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "163.44",
+          "value": "163.54",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7696",
+          "value": "6.7649",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1445.8800048828125,
-        1445.97998046875,
-        1445.8800048828125,
-        1446.030029296875,
-        1446.5999755859375,
-        1446.5799560546875,
-        1446.6400146484375,
-        1446.5,
-        1446.5799560546875,
-        1446.5799560546875,
-        1446.6800537109375
+        1450.760009765625,
+        1450.6400146484375,
+        1450.3800048828125,
+        1450.6099853515625,
+        1450.6300048828125,
+        1450.6199951171875,
+        1450.6300048828125,
+        1450.9300537109375,
+        1451.3199462890625,
+        1451.1800537109375,
+        1451.1800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-29 14:40 KST"
+      "status": "중립",
+      "freshness": "2026-07-29 18:23 KST"
     }
   ],
   "currentAction": {
