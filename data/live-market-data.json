@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "collectedAt": "2026-07-29T09:24:10Z",
+  "date": "2026-07-30",
+  "collectedAt": "2026-07-29T21:09:59Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.09%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Investors Just Got Bad",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Federal Reserve is expected to raise interest rates twice by year-end -- history suggests that tighter monetary policy could trigger a stock market correction.",
-      "link": "https://www.fool.com/investing/2026/07/29/stock-market-investors-bad-news-trumps-economy/?.tsrc=rss"
+      "title": "Stock Market Today, July 29",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "On July 29, 2026, the automaker's adjusted profit of $0.42 per share and higher full-year outlook kept investors focused on margin execution.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-ford-beats-earnings-raises-2026-guidance-on-production-strength/?.tsrc=rss"
     },
     {
-      "title": "Stock Futures Edge Higher as Fed",
+      "title": "Centerra Gold Inc (CGAU) Q2 2026",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks were on track to open a touch higher Wednesday as investors shrugged off a rally in oil prices ahead of the Federal Reserve’s July interest-rate decision.  Dow Jones Industr",
-      "link": "https://finance.yahoo.com/m/36f77ec3-7459-326d-b85b-5cd84431137d/stock-futures-edge-higher-as.html?.tsrc=rss"
+      "summary": "Centerra Gold Inc (CGAU) raises its gold production outlook and enhances shareholder returns amid financial flexibility and strategic growth initiatives.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centerra-gold-inc-cgau-q2-210059925.html?.tsrc=rss"
     },
     {
-      "title": "The Federal Reserve Should Raise",
-      "impact": "채권, 금리",
+      "title": "Kinross declares quarterly dividend",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Hard economic data, not proactive guesswork, drive Federal Open Market Committee (FOMC) policy decisions.",
-      "link": "https://www.fool.com/investing/2026/07/29/fed-should-raise-interest-rates-but-wont-1-reason/?.tsrc=rss"
+      "summary": "TORONTO, July 29, 2026 (GLOBE NEWSWIRE) -- Kinross Gold Corporation (TSX: K; NYSE: KGC) (the “Company”) today announced that the Company’s Board of Directors has declared a dividen",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-declares-quarterly-dividend-210000278.html?.tsrc=rss"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "title": "Nasdaq Tumbles As Fed's Warsh Notes",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investors braced for a Fed decision, a flood of earnings, and a potential reescalation in the war with Iran.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html?.tsrc=rss"
+      "summary": "The Nasdaq erased a brief venture into the black Wednesday afternoon following the Federal Reserve's decision to keep its benchmark rate unchanged while Fed Chair Kevin Warsh addre",
+      "link": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-nasdaq.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Investors Just Got Bad",
-      "summary": "The Federal Reserve is expected to raise interest rates twice by year-end -- history suggests that tighter monetary policy could trigger a stock market correction.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/29/stock-market-investors-bad-news-trumps-economy/?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 09:08:00 +0000"
+      "title": "Stock Market Today, July 29",
+      "summary": "On July 29, 2026, the automaker's adjusted profit of $0.42 per share and higher full-year outlook kept investors focused on margin execution.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-ford-beats-earnings-raises-2026-guidance-on-production-strength/?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 21:05:07 +0000"
     },
     {
-      "title": "Stock Futures Edge Higher as Fed",
-      "summary": "Stocks were on track to open a touch higher Wednesday as investors shrugged off a rally in oil prices ahead of the Federal Reserve’s July interest-rate decision.  Dow Jones Industr",
+      "title": "Centerra Gold Inc (CGAU) Q2 2026",
+      "summary": "Centerra Gold Inc (CGAU) raises its gold production outlook and enhances shareholder returns amid financial flexibility and strategic growth initiatives.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/36f77ec3-7459-326d-b85b-5cd84431137d/stock-futures-edge-higher-as.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 08:31:56 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centerra-gold-inc-cgau-q2-210059925.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 21:00:59 +0000"
     },
     {
-      "title": "The Federal Reserve Should Raise",
-      "summary": "Hard economic data, not proactive guesswork, drive Federal Open Market Committee (FOMC) policy decisions.",
-      "impact": "채권, 금리",
+      "title": "Kinross declares quarterly dividend",
+      "summary": "TORONTO, July 29, 2026 (GLOBE NEWSWIRE) -- Kinross Gold Corporation (TSX: K; NYSE: KGC) (the “Company”) today announced that the Company’s Board of Directors has declared a dividen",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/29/fed-should-raise-interest-rates-but-wont-1-reason/?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 08:26:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinross-declares-quarterly-dividend-210000278.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 21:00:00 +0000"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq futures steady",
-      "summary": "Investors braced for a Fed decision, a flood of earnings, and a potential reescalation in the war with Iran.",
+      "title": "Nasdaq Tumbles As Fed's Warsh Notes",
+      "summary": "The Nasdaq erased a brief venture into the black Wednesday afternoon following the Federal Reserve's decision to keep its benchmark rate unchanged while Fed Chair Kevin Warsh addre",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 08:20:09 +0000"
+      "link": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 20:59:56 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.96",
-          "change": "-0.05%",
+          "value": "84.60",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.15",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "90.54",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4095.50",
-          "change": "+0.00%",
+          "value": "4126.50",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.32",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.35",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        82.13999938964844,
-        82.11000061035156,
-        82.05999755859375,
-        82.02999877929688,
-        82.0,
-        81.97000122070312,
-        81.91999816894531,
-        81.97000122070312,
-        82.01000213623047,
-        82.0,
-        81.95999908447266
+        84.66999816894531,
+        84.58000183105469,
+        84.61000061035156,
+        84.68000030517578,
+        84.55999755859375,
+        84.54000091552734,
+        84.54000091552734,
+        84.55000305175781,
+        84.61000061035156,
+        84.6500015258789,
+        84.5999984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-29 18:14 KST"
+      "freshness": "2026-07-30 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.760%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "3.658%",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "UST 5Y",
-          "value": "4.361%",
+          "value": "4.352%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.604%",
+          "value": "4.622%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.096%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.143%",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734,
-        4.604000091552734
+        4.609999656677246,
+        4.618000030517578,
+        4.618000030517578,
+        4.616000175476074,
+        4.613999843597412,
+        4.616000175476074,
+        4.622000217437744,
+        4.622000217437744,
+        4.625,
+        4.622000217437744,
+        4.622000217437744
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-07-29 03:59 KST"
+      "freshness": "2026-07-30 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7427.26",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "7320.23",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24874.45",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "24465.52",
+          "change": "+0.11%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6254.18",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6244.62",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7434.60986328125,
-        7432.56005859375,
-        7432.06982421875,
-        7433.56982421875,
-        7434.9501953125,
-        7439.669921875,
-        7435.10986328125,
-        7434.31982421875,
-        7434.509765625,
-        7433.97998046875,
-        7427.259765625
+        7341.47021484375,
+        7333.330078125,
+        7333.22021484375,
+        7330.52001953125,
+        7329.68017578125,
+        7331.4501953125,
+        7323.66015625,
+        7320.39990234375,
+        7319.9599609375,
+        7319.64990234375,
+        7320.22998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-07-29 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-07-30 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.33",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "100.81",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1451.18",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1443.40",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.54",
+          "value": "163.38",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.7649",
-          "change": "+0.00%",
+          "value": "6.7544",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        1450.760009765625,
-        1450.6400146484375,
-        1450.3800048828125,
-        1450.6099853515625,
-        1450.6300048828125,
-        1450.6199951171875,
-        1450.6300048828125,
-        1450.9300537109375,
-        1451.3199462890625,
-        1451.1800537109375,
-        1451.1800537109375
+        1442.239990234375,
+        1442.5,
+        1443.1400146484375,
+        1443.1500244140625,
+        1442.5699462890625,
+        1443.1300048828125,
+        1443.5699462890625,
+        1443.4200439453125,
+        1443.489990234375,
+        1443.699951171875,
+        1443.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-29 18:23 KST"
+      "status": "완화",
+      "freshness": "2026-07-30 06:08 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
