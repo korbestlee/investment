@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-30",
-  "collectedAt": "2026-07-30T09:15:36Z",
+  "date": "2026-07-31",
+  "collectedAt": "2026-07-30T21:20:07Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.07%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Resolute Mining Q2 Earnings Call",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Resolute Mining (LON:RSG) said its second-quarter operations performed strongly in Senegal, Côte d’Ivoire and Guinea, while continued logistical, security and regulatory challenges",
-      "link": "https://www.marketbeat.com/instant-alerts/resolute-mining-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+      "title": "Franklin BSP Realty Trust Inc (FBRT)",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Book value per share rises to $14.24 as the company navigates a challenging commercial real estate environment with a strong multifamily focus.",
+      "link": "https://finance.yahoo.com/real-estate/articles/franklin-bsp-realty-trust-inc-210833841.html?.tsrc=rss"
     },
     {
-      "title": "Quarterly Activities Report for",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "QUEBEC CITY, July 30, 2026 (GLOBE NEWSWIRE) -- Predictive Discovery Limited (ASX:PDI, TSX:PDI) (“PDI” or the “Company”) is pleased to announce its Quarterly Activities Report for t",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/quarterly-activities-report-period-ended-090400608.html?.tsrc=rss"
+      "title": "PBF Energy Inc (PBF) (Q2 2026)",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "PBF Energy slashes net debt by over $1.4 billion and expects elevated refining margins to persist into 2027, while navigating geopolitical risks and operational challenges.",
+      "link": "https://finance.yahoo.com/energy/articles/pbf-energy-inc-pbf-q2-210407262.html?.tsrc=rss"
     },
     {
-      "title": "These 3 Oil Stocks Surged in the",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "This oil stock offers an especially attractive risk-reward proposition.",
-      "link": "https://www.fool.com/investing/2026/07/30/these-3-oil-stocks-surged-in-the-first-half-of-202/?.tsrc=rss"
+      "title": "Apple, Amazon Lead Big Earnings",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
+      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss"
     },
     {
-      "title": "Independence Gold Discovers New",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 30, 2026) - Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF) (FSE: 625) (the \"Company\") is pleased to announce the discovery o",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/independence-gold-discovers-dixie-vein-090000698.html?.tsrc=rss"
+      "title": "Bajaj Finance Ltd (BOM",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Bajaj Finance Ltd (BOM:500034) reports a 28% profit surge and record 5 million customer additions, while management signals caution on revising FY27 guidance despite broad-based gr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finance-ltd-bom-500034-210105931.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Resolute Mining Q2 Earnings Call",
-      "summary": "Resolute Mining (LON:RSG) said its second-quarter operations performed strongly in Senegal, Côte d’Ivoire and Guinea, while continued logistical, security and regulatory challenges",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.marketbeat.com/instant-alerts/resolute-mining-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 09:04:05 +0000"
+      "title": "Franklin BSP Realty Trust Inc (FBRT)",
+      "summary": "Book value per share rises to $14.24 as the company navigates a challenging commercial real estate environment with a strong multifamily focus.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/real-estate/articles/franklin-bsp-realty-trust-inc-210833841.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 21:08:33 +0000"
     },
     {
-      "title": "Quarterly Activities Report for",
-      "summary": "QUEBEC CITY, July 30, 2026 (GLOBE NEWSWIRE) -- Predictive Discovery Limited (ASX:PDI, TSX:PDI) (“PDI” or the “Company”) is pleased to announce its Quarterly Activities Report for t",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/quarterly-activities-report-period-ended-090400608.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 09:04:00 +0000"
+      "title": "PBF Energy Inc (PBF) (Q2 2026)",
+      "summary": "PBF Energy slashes net debt by over $1.4 billion and expects elevated refining margins to persist into 2027, while navigating geopolitical risks and operational challenges.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/pbf-energy-inc-pbf-q2-210407262.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 21:04:07 +0000"
     },
     {
-      "title": "These 3 Oil Stocks Surged in the",
-      "summary": "This oil stock offers an especially attractive risk-reward proposition.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/30/these-3-oil-stocks-surged-in-the-first-half-of-202/?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 09:04:00 +0000"
+      "title": "Apple, Amazon Lead Big Earnings",
+      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 21:03:02 +0000"
     },
     {
-      "title": "Independence Gold Discovers New",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - July 30, 2026) - Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF) (FSE: 625) (the \"Company\") is pleased to announce the discovery o",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/independence-gold-discovers-dixie-vein-090000698.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 09:00:00 +0000"
+      "title": "Bajaj Finance Ltd (BOM",
+      "summary": "Bajaj Finance Ltd (BOM:500034) reports a 28% profit surge and record 5 million customer additions, while management signals caution on revising FY27 guidance despite broad-based gr",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finance-ltd-bom-500034-210105931.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 21:01:05 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.56",
-          "change": "+0.05%",
+          "value": "83.96",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "91.40",
-          "change": "-0.12%",
+          "value": "89.45",
+          "change": "-0.16%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4124.20",
+          "value": "4162.80",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.44",
-          "change": "-0.07%",
+          "value": "6.50",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        84.9800033569336,
-        85.04000091552734,
-        85.01000213623047,
-        84.91000366210938,
-        84.76000213623047,
-        84.7300033569336,
-        84.68000030517578,
-        84.6500015258789,
-        84.63999938964844,
-        84.5199966430664,
-        84.55999755859375
+        83.94000244140625,
+        83.88999938964844,
+        83.94999694824219,
+        83.93000030517578,
+        83.87999725341797,
+        83.91999816894531,
+        83.95999908447266,
+        83.93000030517578,
+        83.97000122070312,
+        83.93000030517578,
+        83.95999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-07-30 18:05 KST"
+      "freshness": "2026-07-31 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.658%",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "3.675%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.352%",
+          "value": "4.375%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.622%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.663%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.143%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "5.208%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.609999656677246,
-        4.618000030517578,
-        4.618000030517578,
-        4.616000175476074,
-        4.613999843597412,
-        4.616000175476074,
-        4.622000217437744,
-        4.622000217437744,
-        4.625,
-        4.622000217437744,
-        4.622000217437744
+        4.666999816894531,
+        4.664999961853027,
+        4.664999961853027,
+        4.666999816894531,
+        4.664999961853027,
+        4.664999961853027,
+        4.663000106811523,
+        4.663000106811523,
+        4.664999961853027,
+        4.664999961853027,
+        4.663000106811523
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-07-30 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-07-31 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7320.23",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "7437.53",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "24465.52",
-          "change": "+0.11%",
-          "direction": "up"
+          "value": "25114.99",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6276.91",
-          "change": "+0.00%",
+          "value": "6334.67",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7341.47021484375,
-        7333.330078125,
-        7333.22021484375,
-        7330.52001953125,
-        7329.68017578125,
-        7331.4501953125,
-        7323.66015625,
-        7320.39990234375,
-        7319.9599609375,
-        7319.64990234375,
-        7320.22998046875
+        7439.52978515625,
+        7438.009765625,
+        7437.3798828125,
+        7438.330078125,
+        7435.85009765625,
+        7437.68017578125,
+        7435.0,
+        7437.27978515625,
+        7439.1201171875,
+        7438.0400390625,
+        7437.52978515625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-07-30 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-07-31 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.92",
+          "value": "100.00",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1437.74",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "1422.03",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "163.53",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "159.49",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7560",
+          "value": "6.7545",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1436.9599609375,
-        1436.780029296875,
-        1437.3800048828125,
-        1437.8699951171875,
-        1437.1800537109375,
-        1437.239990234375,
-        1437.2099609375,
-        1437.31005859375,
-        1437.22998046875,
-        1436.47998046875,
-        1437.739990234375
+        1423.3599853515625,
+        1421.9599609375,
+        1423.280029296875,
+        1423.2099609375,
+        1422.5999755859375,
+        1423.3299560546875,
+        1423.0799560546875,
+        1422.5799560546875,
+        1422.6099853515625,
+        1422.780029296875,
+        1422.030029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-07-30 18:15 KST"
+      "status": "중립",
+      "freshness": "2026-07-31 06:19 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
