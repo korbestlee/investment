@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-31",
-  "collectedAt": "2026-07-31T09:27:03Z",
+  "date": "2026-08-01",
+  "collectedAt": "2026-07-31T21:17:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,25 +34,25 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.22%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.03%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.58%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Apple, Amazon Diverge Late; What To",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
-      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss"
-    },
-    {
-      "title": "The Federal Reserve's Latest",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Federal Open Market Committee (FOMC) dissension just reached a new (and dubious) milestone.",
-      "link": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq, Dow, S&P 500, Nasdaq set for",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stocks were on track to end the week on an upbeat note after Big Tech earnings revived optimism in the artificial intelligence trade.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html?.tsrc=rss"
-    },
-    {
-      "title": "Tire Pyrolysis Oil Market Size,",
+      "title": "DPM Metals Inc (DPMLF) (Q2 2026)",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Opportunities include converting tire waste into lower-cost industrial fuels and chemical feedstocks, expanding efficient continuous and fast pyrolysis systems, improving oil quali",
-      "link": "https://finance.yahoo.com/energy/articles/tire-pyrolysis-oil-market-size-081000071.html?.tsrc=rss"
+      "summary": "DPM Metals Inc (DPMLF) posts 94% revenue surge to $362 million, unveils high-grade copper-gold discovery at Breveni South while advancing key projects.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-inc-dpmlf-q2-210212846.html?.tsrc=rss"
+    },
+    {
+      "title": "Anglogold Ashanti PLC (AU) (Q2 2026)",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "EBITDA surges 46% to $2 billion as the miner boosts shareholder returns and outlines a low-capEx organic growth pipeline.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-q2-210032787.html?.tsrc=rss"
+    },
+    {
+      "title": "Uni-Fuels Announces Receipt of",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "SINGAPORE, July 31, 2026 (GLOBE NEWSWIRE) -- Uni-Fuels Holdings Limited (“Uni-Fuels” or the “Company”) (Nasdaq: UFG), a global provider of marine fuel solutions headquartered in Si",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uni-fuels-announces-receipt-nasdaq-210000077.html?.tsrc=rss"
+    },
+    {
+      "title": "Market Rebounds, Now Watch For This;",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
+      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Apple, Amazon Diverge Late; What To",
-      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 09:17:28 +0000"
-    },
-    {
-      "title": "The Federal Reserve's Latest",
-      "summary": "Federal Open Market Committee (FOMC) dissension just reached a new (and dubious) milestone.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 08:26:00 +0000"
-    },
-    {
-      "title": "Nasdaq, Dow, S&P 500, Nasdaq set for",
-      "summary": "Stocks were on track to end the week on an upbeat note after Big Tech earnings revived optimism in the artificial intelligence trade.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 08:12:27 +0000"
-    },
-    {
-      "title": "Tire Pyrolysis Oil Market Size,",
-      "summary": "Opportunities include converting tire waste into lower-cost industrial fuels and chemical feedstocks, expanding efficient continuous and fast pyrolysis systems, improving oil quali",
+      "title": "DPM Metals Inc (DPMLF) (Q2 2026)",
+      "summary": "DPM Metals Inc (DPMLF) posts 94% revenue surge to $362 million, unveils high-grade copper-gold discovery at Breveni South while advancing key projects.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/tire-pyrolysis-oil-market-size-081000071.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 08:10:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-inc-dpmlf-q2-210212846.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 21:02:12 +0000"
+    },
+    {
+      "title": "Anglogold Ashanti PLC (AU) (Q2 2026)",
+      "summary": "EBITDA surges 46% to $2 billion as the miner boosts shareholder returns and outlines a low-capEx organic growth pipeline.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-q2-210032787.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 21:00:32 +0000"
+    },
+    {
+      "title": "Uni-Fuels Announces Receipt of",
+      "summary": "SINGAPORE, July 31, 2026 (GLOBE NEWSWIRE) -- Uni-Fuels Holdings Limited (“Uni-Fuels” or the “Company”) (Nasdaq: UFG), a global provider of marine fuel solutions headquartered in Si",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uni-fuels-announces-receipt-nasdaq-210000077.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Market Rebounds, Now Watch For This;",
+      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 20:53:08 +0000"
     }
   ],
   "criteria": [
@@ -154,20 +154,20 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.02",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "88.70",
+          "value": "86.80",
           "change": "+0.58%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "90.12",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "Gold",
-          "value": "4113.50",
-          "change": "-0.00%",
+          "value": "4098.60",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
@@ -178,21 +178,21 @@
         }
       ],
       "trend": [
-        82.83000183105469,
-        82.86000061035156,
-        82.87999725341797,
-        82.86000061035156,
-        82.86000061035156,
-        82.91000366210938,
-        82.93000030517578,
-        82.94000244140625,
-        83.08000183105469,
-        83.05999755859375,
-        83.0199966430664
+        84.55000305175781,
+        84.56999969482422,
+        84.56999969482422,
+        84.58000183105469,
+        85.45999908447266,
+        85.94000244140625,
+        85.93000030517578,
+        86.20999908447266,
+        86.58999633789062,
+        86.30000305175781,
+        86.80000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-07-31 18:16 KST"
+      "status": "강세",
+      "freshness": "2026-08-01 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.675%",
+          "value": "3.682%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.375%",
+          "value": "4.460%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.663%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.745%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.208%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.275%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.666999816894531,
-        4.664999961853027,
-        4.664999961853027,
-        4.666999816894531,
-        4.664999961853027,
-        4.664999961853027,
-        4.663000106811523,
-        4.663000106811523,
-        4.664999961853027,
-        4.664999961853027,
-        4.663000106811523
+        4.741000175476074,
+        4.741000175476074,
+        4.741000175476074,
+        4.743000030517578,
+        4.743000030517578,
+        4.744999885559082,
+        4.744999885559082,
+        4.744999885559082,
+        4.744999885559082,
+        4.744999885559082,
+        4.744999885559082
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-07-31 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-01 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7437.53",
-          "change": "-0.01%",
+          "value": "7489.52",
+          "change": "-0.22%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25114.99",
-          "change": "-0.04%",
+          "value": "25372.54",
+          "change": "-0.23%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6409.97",
-          "change": "+0.09%",
+          "value": "6354.63",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7439.52978515625,
-        7438.009765625,
-        7437.3798828125,
-        7438.330078125,
-        7435.85009765625,
-        7437.68017578125,
-        7435.0,
-        7437.27978515625,
-        7439.1201171875,
-        7438.0400390625,
-        7437.52978515625
+        7508.60986328125,
+        7506.68994140625,
+        7503.97998046875,
+        7506.9599609375,
+        7510.72998046875,
+        7510.2099609375,
+        7504.89013671875,
+        7505.3798828125,
+        7503.3798828125,
+        7505.740234375,
+        7489.52001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-07-31 04:59 KST"
+      "freshness": "2026-08-01 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.04",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "99.80",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1431.40",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "1442.07",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.75",
-          "change": "-0.01%",
+          "value": "157.40",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7389",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.7448",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1439.300048828125,
-        1438.800048828125,
-        1435.699951171875,
-        1436.699951171875,
-        1428.5999755859375,
-        1429.800048828125,
-        1432.5,
-        1431.4000244140625,
-        1430.199951171875,
-        1432.0,
-        1431.4000244140625
+        1442.219970703125,
+        1441.5799560546875,
+        1441.6500244140625,
+        1441.7900390625,
+        1441.9100341796875,
+        1441.8199462890625,
+        1442.06005859375,
+        1442.199951171875,
+        1442.6099853515625,
+        1441.77001953125,
+        1442.0699462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-07-31 18:16 KST"
+      "status": "강세",
+      "freshness": "2026-08-01 05:59 KST"
     }
   ],
   "currentAction": {
