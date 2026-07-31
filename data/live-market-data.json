@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "collectedAt": "2026-07-31T05:53:36Z",
+  "collectedAt": "2026-07-31T09:27:03Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,13 +46,13 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,13 +65,6 @@
   ],
   "issues": [
     {
-      "title": "Vanguard VONG vs. iShares IWO",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "VONG targets large-cap tech leaders, while IWO offers well-diversified exposure to small-cap stocks. Which fits your portfolio?",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/31/vanguard-vong-vs-ishares-iwo-is-large-cap-or-small-cap-growth-the-better-buy-for-investors/?.tsrc=rss"
-    },
-    {
       "title": "Apple, Amazon Diverge Late; What To",
       "impact": "지수, 위험선호",
       "importance": "mid",
@@ -79,52 +72,59 @@
       "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss"
     },
     {
-      "title": "Cathie Wood buys $14.3 million of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Cathie Wood, chief of Ark Investment Management, often buys her highest-conviction stocks during sharp pullbacks. That's exactly what she's doing with Nvidia (NVDA), adding more sh",
-      "link": "https://www.thestreet.com/investing/cathie-wood-buys-14-3-million-of-tumbling-semiconductor-stock-nvidia-nvda?.tsrc=rss"
+      "title": "The Federal Reserve's Latest",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Federal Open Market Committee (FOMC) dissension just reached a new (and dubious) milestone.",
+      "link": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/?.tsrc=rss"
     },
     {
-      "title": "PayPal's $17 Billion Bet Against",
-      "impact": "시장 전반",
+      "title": "Nasdaq, Dow, S&P 500, Nasdaq set for",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "A large bet on its own shares has so far been a losing one, creating a quiet standoff between management's conviction and the market's deep-seated skepticism.",
-      "link": "https://www.trefis.com/articles/609491/paypals-17-billion-bet-against-wall-street/2026-07-30?.tsrc=rss"
+      "summary": "Stocks were on track to end the week on an upbeat note after Big Tech earnings revived optimism in the artificial intelligence trade.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html?.tsrc=rss"
+    },
+    {
+      "title": "Tire Pyrolysis Oil Market Size,",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Opportunities include converting tire waste into lower-cost industrial fuels and chemical feedstocks, expanding efficient continuous and fast pyrolysis systems, improving oil quali",
+      "link": "https://finance.yahoo.com/energy/articles/tire-pyrolysis-oil-market-size-081000071.html?.tsrc=rss"
     }
   ],
   "newsItems": [
-    {
-      "title": "Vanguard VONG vs. iShares IWO",
-      "summary": "VONG targets large-cap tech leaders, while IWO offers well-diversified exposure to small-cap stocks. Which fits your portfolio?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/etfs/2026/07/31/vanguard-vong-vs-ishares-iwo-is-large-cap-or-small-cap-growth-the-better-buy-for-investors/?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 04:58:20 +0000"
-    },
     {
       "title": "Apple, Amazon Diverge Late; What To",
       "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
       "impact": "지수, 위험선호",
       "importance": "mid",
       "link": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 03:04:56 +0000"
+      "published": "Fri, 31 Jul 2026 09:17:28 +0000"
     },
     {
-      "title": "Cathie Wood buys $14.3 million of",
-      "summary": "Cathie Wood, chief of Ark Investment Management, often buys her highest-conviction stocks during sharp pullbacks. That's exactly what she's doing with Nvidia (NVDA), adding more sh",
+      "title": "The Federal Reserve's Latest",
+      "summary": "Federal Open Market Committee (FOMC) dissension just reached a new (and dubious) milestone.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/07/31/fed-interest-rate-decision-first-10-years-wall-st/?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 08:26:00 +0000"
+    },
+    {
+      "title": "Nasdaq, Dow, S&P 500, Nasdaq set for",
+      "summary": "Stocks were on track to end the week on an upbeat note after Big Tech earnings revived optimism in the artificial intelligence trade.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.thestreet.com/investing/cathie-wood-buys-14-3-million-of-tumbling-semiconductor-stock-nvidia-nvda?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 02:07:00 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 08:12:27 +0000"
     },
     {
-      "title": "PayPal's $17 Billion Bet Against",
-      "summary": "A large bet on its own shares has so far been a losing one, creating a quiet standoff between management's conviction and the market's deep-seated skepticism.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.trefis.com/articles/609491/paypals-17-billion-bet-against-wall-street/2026-07-30?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 01:40:53 +0000"
+      "title": "Tire Pyrolysis Oil Market Size,",
+      "summary": "Opportunities include converting tire waste into lower-cost industrial fuels and chemical feedstocks, expanding efficient continuous and fast pyrolysis systems, improving oil quali",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/tire-pyrolysis-oil-market-size-081000071.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 08:10:00 +0000"
     }
   ],
   "criteria": [
@@ -154,21 +154,21 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.40",
-          "change": "-0.06%",
+          "value": "83.02",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.00",
-          "change": "-0.39%",
-          "direction": "down"
+          "value": "88.70",
+          "change": "+0.58%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4135.80",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4113.50",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Copper",
@@ -178,21 +178,21 @@
         }
       ],
       "trend": [
-        81.33999633789062,
-        81.48999786376953,
-        81.5199966430664,
-        81.45999908447266,
-        81.41000366210938,
-        81.33999633789062,
-        81.25,
-        81.36000061035156,
-        81.43000030517578,
-        81.44999694824219,
-        81.4000015258789
+        82.83000183105469,
+        82.86000061035156,
+        82.87999725341797,
+        82.86000061035156,
+        82.86000061035156,
+        82.91000366210938,
+        82.93000030517578,
+        82.94000244140625,
+        83.08000183105469,
+        83.05999755859375,
+        83.0199966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-07-31 14:43 KST"
+      "freshness": "2026-07-31 18:16 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6572.40",
-          "change": "+0.08%",
+          "value": "6620.25",
+          "change": "+0.14%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6334.67",
-          "change": "+0.01%",
+          "value": "6409.97",
+          "change": "+0.09%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.22",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "100.04",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1435.70",
-          "change": "-0.22%",
+          "value": "1431.40",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "160.63",
+          "value": "159.75",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7364",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7389",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1437.0799560546875,
-        1436.8800048828125,
-        1437.3800048828125,
-        1437.780029296875,
-        1437.3800048828125,
-        1437.5799560546875,
-        1437.780029296875,
-        1438.5799560546875,
         1439.300048828125,
         1438.800048828125,
-        1435.699951171875
+        1435.699951171875,
+        1436.699951171875,
+        1428.5999755859375,
+        1429.800048828125,
+        1432.5,
+        1431.4000244140625,
+        1430.199951171875,
+        1432.0,
+        1431.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-07-31 14:28 KST"
+      "status": "완화",
+      "freshness": "2026-07-31 18:16 KST"
     }
   ],
   "currentAction": {
