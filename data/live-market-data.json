@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-01",
-  "collectedAt": "2026-07-31T21:17:40Z",
+  "date": "2026-08-03",
+  "collectedAt": "2026-08-03T06:01:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.03%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.58%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "DPM Metals Inc (DPMLF) (Q2 2026)",
+      "title": "Oil prices lower on Middle East",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "DPM Metals Inc (DPMLF) posts 94% revenue surge to $362 million, unveils high-grade copper-gold discovery at Breveni South while advancing key projects.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-inc-dpmlf-q2-210212846.html?.tsrc=rss"
+      "summary": "Oil prices were lower on Monday morning after OPEC+ boosted production for September and US President Donald Trump called off a planned strike on Iran, putting downward pressure on",
+      "link": "https://www.euronews.com/2026/08/03/oil-prices-lower-on-middle-east-hopes-and-as-opec-boosts-production?.tsrc=rss"
     },
     {
-      "title": "Anglogold Ashanti PLC (AU) (Q2 2026)",
+      "title": "Aktsiaselts Infortar own share",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 27 July – 31 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000526.html?.tsrc=rss"
+    },
+    {
+      "title": "Iran Talks to Begin Monday, Trump",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "EBITDA surges 46% to $2 billion as the miner boosts shareholder returns and outlines a low-capEx organic growth pipeline.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-q2-210032787.html?.tsrc=rss"
+      "summary": "President Donald Trump said new Iran talks would begin Monday afternoon after he called off a planned attack on Iran. Bloomberg's Stuart Livingstone-Wallace shares what we know abo",
+      "link": "https://finance.yahoo.com/video/iran-talks-begin-monday-trump-044843116.html?.tsrc=rss"
     },
     {
-      "title": "Uni-Fuels Announces Receipt of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "SINGAPORE, July 31, 2026 (GLOBE NEWSWIRE) -- Uni-Fuels Holdings Limited (“Uni-Fuels” or the “Company”) (Nasdaq: UFG), a global provider of marine fuel solutions headquartered in Si",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uni-fuels-announces-receipt-nasdaq-210000077.html?.tsrc=rss"
-    },
-    {
-      "title": "Market Rebounds, Now Watch For This;",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
-      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html?.tsrc=rss"
+      "title": "Asian stocks are mixed as yen jumps",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares were mixed Monday after the U.S. and Japan confirmed they had acted to prop up the value of the Japanese yen against the U.S. dollar, causing the yen to rise to its hi",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-yen-jumps-042218113.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "DPM Metals Inc (DPMLF) (Q2 2026)",
-      "summary": "DPM Metals Inc (DPMLF) posts 94% revenue surge to $362 million, unveils high-grade copper-gold discovery at Breveni South while advancing key projects.",
+      "title": "Oil prices lower on Middle East",
+      "summary": "Oil prices were lower on Monday morning after OPEC+ boosted production for September and US President Donald Trump called off a planned strike on Iran, putting downward pressure on",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dpm-metals-inc-dpmlf-q2-210212846.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 21:02:12 +0000"
+      "link": "https://www.euronews.com/2026/08/03/oil-prices-lower-on-middle-east-hopes-and-as-opec-boosts-production?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 05:50:51 +0000"
     },
     {
-      "title": "Anglogold Ashanti PLC (AU) (Q2 2026)",
-      "summary": "EBITDA surges 46% to $2 billion as the miner boosts shareholder returns and outlines a low-capEx organic growth pipeline.",
+      "title": "Aktsiaselts Infortar own share",
+      "summary": "Aktsiaselts Infortar acquired its own shares on the Nasdaq Tallinn Stock Exchange during the period of 27 July – 31 July 2026 as follows: DateAggregated volume (pcs)Weighted averag",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aktsiaselts-infortar-own-share-acquisition-050000526.html?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Iran Talks to Begin Monday, Trump",
+      "summary": "President Donald Trump said new Iran talks would begin Monday afternoon after he called off a planned attack on Iran. Bloomberg's Stuart Livingstone-Wallace shares what we know abo",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-q2-210032787.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 21:00:32 +0000"
+      "link": "https://finance.yahoo.com/video/iran-talks-begin-monday-trump-044843116.html?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 04:48:43 +0000"
     },
     {
-      "title": "Uni-Fuels Announces Receipt of",
-      "summary": "SINGAPORE, July 31, 2026 (GLOBE NEWSWIRE) -- Uni-Fuels Holdings Limited (“Uni-Fuels” or the “Company”) (Nasdaq: UFG), a global provider of marine fuel solutions headquartered in Si",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uni-fuels-announces-receipt-nasdaq-210000077.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 21:00:00 +0000"
-    },
-    {
-      "title": "Market Rebounds, Now Watch For This;",
-      "summary": "The stock market bounced but hasn't taken this step while a key risk is growing. SpaceX, AMD, Sandisk, Eli Lilly earnings loom.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 20:53:08 +0000"
+      "title": "Asian stocks are mixed as yen jumps",
+      "summary": "Asian shares were mixed Monday after the U.S. and Japan confirmed they had acted to prop up the value of the Japanese yen against the U.S. dollar, causing the yen to rise to its hi",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-yen-jumps-042218113.html?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 04:22:18 +0000"
     }
   ],
   "criteria": [
@@ -154,9 +154,9 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.80",
-          "change": "+0.58%",
-          "direction": "up"
+          "value": "79.77",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
@@ -166,33 +166,33 @@
         },
         {
           "name": "Gold",
-          "value": "4098.60",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "4115.10",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.51",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.54",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        84.55000305175781,
-        84.56999969482422,
-        84.56999969482422,
-        84.58000183105469,
-        85.45999908447266,
-        85.94000244140625,
-        85.93000030517578,
-        86.20999908447266,
-        86.58999633789062,
-        86.30000305175781,
-        86.80000305175781
+        79.58999633789062,
+        79.61000061035156,
+        79.5999984741211,
+        79.62999725341797,
+        79.69999694824219,
+        79.7300033569336,
+        79.69999694824219,
+        79.7300033569336,
+        79.79000091552734,
+        79.79000091552734,
+        79.7699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-01 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-08-03 14:51 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6620.25",
-          "change": "+0.14%",
-          "direction": "up"
+          "value": "6269.99",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.80",
-          "change": "+0.03%",
+          "value": "99.69",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1442.07",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1425.58",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.40",
-          "change": "-0.09%",
+          "value": "156.40",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7448",
+          "value": "6.7500",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1442.219970703125,
-        1441.5799560546875,
-        1441.6500244140625,
-        1441.7900390625,
-        1441.9100341796875,
-        1441.8199462890625,
-        1442.06005859375,
-        1442.199951171875,
-        1442.6099853515625,
-        1441.77001953125,
-        1442.0699462890625
+        1428.06005859375,
+        1428.25,
+        1428.0799560546875,
+        1427.9100341796875,
+        1427.3800048828125,
+        1427.1800537109375,
+        1427.3800048828125,
+        1426.780029296875,
+        1426.239990234375,
+        1425.97998046875,
+        1425.5799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-08-01 05:59 KST"
+      "freshness": "2026-08-03 15:01 KST"
     }
   ],
   "currentAction": {
