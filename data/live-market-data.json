@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "collectedAt": "2026-08-04T05:36:10Z",
+  "collectedAt": "2026-08-04T09:23:48Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Is Compass (COMP) Still Undervalued",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Compass (COMP) is in focus ahead of its Q2 2026 earnings release and call on August 4 after the market closes, with analysts watching revenue expectations and recent earnings surpr",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compass-comp-still-undervalued-q2-050725999.html?.tsrc=rss"
+      "title": "Bankrupt Britain needs to tap into",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The US president declared himself ‘very impressed’ with the Prime Minister, who indicated he was open to future drilling",
+      "link": "https://uk.finance.yahoo.com/news/bankrupt-britain-needs-tap-north-190220016.html?.tsrc=rss"
     },
     {
-      "title": "1 Healthcare Stock Worth Your",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong fina",
-      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-worth-attention-050122658.html?.tsrc=rss"
-    },
-    {
-      "title": "3 Healthcare Stocks We Find Risky",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-risky-045322133.html?.tsrc=rss"
-    },
-    {
-      "title": "JPMorgan makes surprising S&P 500",
+      "title": "Sky Quarry Highlights Growing Nevada",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Wall Street’s nervousness over inflation and higher rates derailing the stock market was already on the radar. Elevated oil prices threatened to lift consumer prices and stoke fear",
-      "link": "https://www.thestreet.com/investing/stocks/jpmorgan-sp-500-market-call?.tsrc=rss"
+      "summary": "Recent federal leasing and drilling permits, together with a USGS estimate of approximately 1.4 billion barrels of undiscovered oil resources beneath Nevada federal lands, reinforc",
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-highlights-growing-nevada-090000327.html?.tsrc=rss"
+    },
+    {
+      "title": "Meet the Magnificent Vanguard ETF",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "This fund has just $2 billion in assets, but it might deserve more attention because of its solid returns.",
+      "link": "https://www.fool.com/investing/2026/08/04/meet-vanguard-etf-crushing-sp-500-in-2026-strategy/?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Climb As",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain ‘bearish’ on SPY and QQQ.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-climb-amd-space-x-earnings-palantir-rally-why-snap-amzn-sndk-lcid-sls-asts-are-in-focus/cZo5XhTRJE3?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Is Compass (COMP) Still Undervalued",
-      "summary": "Compass (COMP) is in focus ahead of its Q2 2026 earnings release and call on August 4 after the market closes, with analysts watching revenue expectations and recent earnings surpr",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compass-comp-still-undervalued-q2-050725999.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 05:07:25 +0000"
+      "title": "Bankrupt Britain needs to tap into",
+      "summary": "The US president declared himself ‘very impressed’ with the Prime Minister, who indicated he was open to future drilling",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://uk.finance.yahoo.com/news/bankrupt-britain-needs-tap-north-190220016.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 09:09:51 +0000"
     },
     {
-      "title": "1 Healthcare Stock Worth Your",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong fina",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-worth-attention-050122658.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 05:01:22 +0000"
-    },
-    {
-      "title": "3 Healthcare Stocks We Find Risky",
-      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-risky-045322133.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 04:53:22 +0000"
-    },
-    {
-      "title": "JPMorgan makes surprising S&P 500",
-      "summary": "Wall Street’s nervousness over inflation and higher rates derailing the stock market was already on the radar. Elevated oil prices threatened to lift consumer prices and stoke fear",
+      "title": "Sky Quarry Highlights Growing Nevada",
+      "summary": "Recent federal leasing and drilling permits, together with a USGS estimate of approximately 1.4 billion barrels of undiscovered oil resources beneath Nevada federal lands, reinforc",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.thestreet.com/investing/stocks/jpmorgan-sp-500-market-call?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 04:03:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-highlights-growing-nevada-090000327.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 09:00:00 +0000"
+    },
+    {
+      "title": "Meet the Magnificent Vanguard ETF",
+      "summary": "This fund has just $2 billion in assets, but it might deserve more attention because of its solid returns.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/08/04/meet-vanguard-etf-crushing-sp-500-in-2026-strategy/?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 08:59:00 +0000"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Climb As",
+      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain ‘bearish’ on SPY and QQQ.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-climb-amd-space-x-earnings-palantir-rally-why-snap-amzn-sndk-lcid-sls-asts-are-in-focus/cZo5XhTRJE3?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 08:48:17 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.28",
+          "value": "82.18",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "85.08",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "86.07",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4118.80",
-          "change": "+0.00%",
+          "value": "4105.90",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.61",
-          "change": "-0.01%",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        81.30999755859375,
-        81.3499984741211,
-        81.30000305175781,
-        81.26000213623047,
-        81.29000091552734,
-        81.27999877929688,
-        81.2699966430664,
-        81.25,
-        81.2699966430664,
-        81.30000305175781,
-        81.27999877929688
+        82.0999984741211,
+        82.08000183105469,
+        82.19000244140625,
+        82.26000213623047,
+        82.20999908447266,
+        82.2699966430664,
+        82.12000274658203,
+        82.20999908447266,
+        82.1500015258789,
+        82.19999694824219,
+        82.18000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-04 14:26 KST"
+      "freshness": "2026-08-04 18:13 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6173.97",
-          "change": "+0.31%",
+          "value": "6330.48",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6431.81",
-          "change": "+0.03%",
+          "value": "6456.03",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.00",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1428.38",
+          "value": "100.04",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1433.08",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDJPY",
-          "value": "157.60",
+          "value": "157.88",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7531",
+          "value": "6.7526",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1428.02001953125,
-        1427.47998046875,
-        1428.0699462890625,
-        1427.6800537109375,
-        1427.8199462890625,
-        1428.0799560546875,
-        1427.280029296875,
-        1428.27001953125,
-        1428.0799560546875,
-        1428.280029296875,
-        1428.3800048828125
+        1433.6199951171875,
+        1433.0799560546875,
+        1433.4300537109375,
+        1433.5699462890625,
+        1434.0999755859375,
+        1433.47998046875,
+        1433.5799560546875,
+        1433.1800537109375,
+        1433.3499755859375,
+        1433.260009765625,
+        1433.0799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-04 14:36 KST"
+      "status": "강세",
+      "freshness": "2026-08-04 18:23 KST"
     }
   ],
   "currentAction": {
