@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04",
-  "collectedAt": "2026-08-04T09:23:48Z",
+  "date": "2026-08-05",
+  "collectedAt": "2026-08-04T21:23:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "-0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Bankrupt Britain needs to tap into",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The US president declared himself ‘very impressed’ with the Prime Minister, who indicated he was open to future drilling",
-      "link": "https://uk.finance.yahoo.com/news/bankrupt-britain-needs-tap-north-190220016.html?.tsrc=rss"
-    },
-    {
-      "title": "Sky Quarry Highlights Growing Nevada",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Recent federal leasing and drilling permits, together with a USGS estimate of approximately 1.4 billion barrels of undiscovered oil resources beneath Nevada federal lands, reinforc",
-      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-highlights-growing-nevada-090000327.html?.tsrc=rss"
-    },
-    {
-      "title": "Meet the Magnificent Vanguard ETF",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "This fund has just $2 billion in assets, but it might deserve more attention because of its solid returns.",
-      "link": "https://www.fool.com/investing/2026/08/04/meet-vanguard-etf-crushing-sp-500-in-2026-strategy/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq, S&P 500 Futures Climb As",
+      "title": "Update",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain ‘bearish’ on SPY and QQQ.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-climb-amd-space-x-earnings-palantir-rally-why-snap-amzn-sndk-lcid-sls-asts-are-in-focus/cZo5XhTRJE3?.tsrc=rss"
+      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html?.tsrc=rss"
+    },
+    {
+      "title": "MPLX LP (MPLX) (Q2 2026) Earnings",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "MPLX LP (MPLX) boosts 2026 capital outlook by $500 million to accelerate Gulf Coast projects while maintaining 12.5% distribution growth target.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-2026-210814763.html?.tsrc=rss"
+    },
+    {
+      "title": "Black Stone Minerals Q2 Earnings",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Black Stone Minerals (NYSE:BSM) reported second-quarter results marked by lower overall production but stronger oil pricing, continued mineral acquisitions and expanding developmen",
+      "link": "https://www.marketbeat.com/instant-alerts/black-stone-minerals-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+    },
+    {
+      "title": "Stock Market Today, Aug. 4",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Shares plunged 10% after reports tied a food-safety issue to produce at multiple locations, on Aug. 4, 2026.",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-chipotle-shares-slide-10-on-minnesota-salmonella-outbreak-linked-to-jalapenos/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Bankrupt Britain needs to tap into",
-      "summary": "The US president declared himself ‘very impressed’ with the Prime Minister, who indicated he was open to future drilling",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/bankrupt-britain-needs-tap-north-190220016.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 09:09:51 +0000"
-    },
-    {
-      "title": "Sky Quarry Highlights Growing Nevada",
-      "summary": "Recent federal leasing and drilling permits, together with a USGS estimate of approximately 1.4 billion barrels of undiscovered oil resources beneath Nevada federal lands, reinforc",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-highlights-growing-nevada-090000327.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Meet the Magnificent Vanguard ETF",
-      "summary": "This fund has just $2 billion in assets, but it might deserve more attention because of its solid returns.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/08/04/meet-vanguard-etf-crushing-sp-500-in-2026-strategy/?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 08:59:00 +0000"
-    },
-    {
-      "title": "Nasdaq, S&P 500 Futures Climb As",
-      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain ‘bearish’ on SPY and QQQ.",
+      "title": "Update",
+      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-climb-amd-space-x-earnings-palantir-rally-why-snap-amzn-sndk-lcid-sls-asts-are-in-focus/cZo5XhTRJE3?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 08:48:17 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 21:18:08 +0000"
+    },
+    {
+      "title": "MPLX LP (MPLX) (Q2 2026) Earnings",
+      "summary": "MPLX LP (MPLX) boosts 2026 capital outlook by $500 million to accelerate Gulf Coast projects while maintaining 12.5% distribution growth target.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-2026-210814763.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 21:08:14 +0000"
+    },
+    {
+      "title": "Black Stone Minerals Q2 Earnings",
+      "summary": "Black Stone Minerals (NYSE:BSM) reported second-quarter results marked by lower overall production but stronger oil pricing, continued mineral acquisitions and expanding developmen",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.marketbeat.com/instant-alerts/black-stone-minerals-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 21:03:57 +0000"
+    },
+    {
+      "title": "Stock Market Today, Aug. 4",
+      "summary": "Shares plunged 10% after reports tied a food-safety issue to produce at multiple locations, on Aug. 4, 2026.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-chipotle-shares-slide-10-on-minnesota-salmonella-outbreak-linked-to-jalapenos/?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 21:02:33 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.18",
-          "change": "-0.02%",
+          "value": "75.14",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "86.07",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "78.69",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4105.90",
-          "change": "+0.02%",
+          "value": "4134.20",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.61",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.63",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        82.0999984741211,
-        82.08000183105469,
-        82.19000244140625,
-        82.26000213623047,
-        82.20999908447266,
-        82.2699966430664,
-        82.12000274658203,
-        82.20999908447266,
-        82.1500015258789,
-        82.19999694824219,
-        82.18000030517578
+        75.37000274658203,
+        75.4000015258789,
+        75.4000015258789,
+        75.36000061035156,
+        75.37999725341797,
+        75.36000061035156,
+        75.37000274658203,
+        75.23999786376953,
+        75.13999938964844,
+        75.18000030517578,
+        75.13999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-04 18:13 KST"
+      "freshness": "2026-08-05 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.700%",
+          "value": "3.730%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.400%",
+          "value": "4.333%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.686%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.627%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.231%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.190%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293,
-        4.685999870300293,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.685999870300293
+        4.626999855041504,
+        4.626999855041504,
+        4.626999855041504,
+        4.629000186920166,
+        4.626999855041504,
+        4.626999855041504,
+        4.626999855041504,
+        4.625,
+        4.625,
+        4.626999855041504,
+        4.626999855041504
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-08-04 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-05 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7599.97",
-          "change": "-0.02%",
+          "value": "7735.60",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25912.86",
-          "change": "-0.00%",
+          "value": "26581.99",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6456.03",
+          "value": "6489.45",
           "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7605.9599609375,
-        7604.58984375,
-        7606.93017578125,
-        7607.080078125,
-        7604.27001953125,
-        7601.7900390625,
-        7600.14990234375,
-        7600.93017578125,
-        7601.14990234375,
-        7601.16015625,
-        7599.97021484375
+        7753.89990234375,
+        7748.66015625,
+        7748.39990234375,
+        7748.60009765625,
+        7746.16015625,
+        7742.97998046875,
+        7738.56982421875,
+        7736.39013671875,
+        7738.22021484375,
+        7740.240234375,
+        7735.60009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-04 04:59 KST"
+      "freshness": "2026-08-05 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.04",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.89",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1433.08",
-          "change": "-0.01%",
+          "value": "1429.40",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.88",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "157.74",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7526",
+          "value": "6.7527",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1433.6199951171875,
-        1433.0799560546875,
-        1433.4300537109375,
-        1433.5699462890625,
-        1434.0999755859375,
-        1433.47998046875,
-        1433.5799560546875,
-        1433.1800537109375,
-        1433.3499755859375,
-        1433.260009765625,
-        1433.0799560546875
+        1429.4200439453125,
+        1429.510009765625,
+        1429.530029296875,
+        1429.56005859375,
+        1429.4599609375,
+        1429.449951171875,
+        1429.4000244140625,
+        1429.4200439453125,
+        1429.4100341796875,
+        1429.4300537109375,
+        1429.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-04 18:23 KST"
+      "status": "중립",
+      "freshness": "2026-08-05 06:23 KST"
     }
   ],
   "currentAction": {
