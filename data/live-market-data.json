@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "collectedAt": "2026-08-04T21:23:46Z",
+  "collectedAt": "2026-08-05T05:34:32Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Update",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html?.tsrc=rss"
-    },
-    {
-      "title": "MPLX LP (MPLX) (Q2 2026) Earnings",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "MPLX LP (MPLX) boosts 2026 capital outlook by $500 million to accelerate Gulf Coast projects while maintaining 12.5% distribution growth target.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-2026-210814763.html?.tsrc=rss"
-    },
-    {
-      "title": "Black Stone Minerals Q2 Earnings",
+      "title": "Did Aeris' Higher 2027 Growth Capex",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Black Stone Minerals (NYSE:BSM) reported second-quarter results marked by lower overall production but stronger oil pricing, continued mineral acquisitions and expanding developmen",
-      "link": "https://www.marketbeat.com/instant-alerts/black-stone-minerals-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+      "summary": "Aeris Resources recently issued fiscal year 2027 group production guidance, outlining expected copper, gold and silver output broadly in line with 2026, alongside higher growth cap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-aeris-higher-2027-growth-051210372.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market Today, Aug. 4",
-      "impact": "지수, 위험선호",
+      "title": "Crescent Energy (CRGY) Stock Gets",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The fair value estimate for Crescent Energy has shifted from about US$17.36 to roughly US$15.93, which places it closer to the current cluster of analyst price targets between US$1",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-stock-gets-051155649.html?.tsrc=rss"
+    },
+    {
+      "title": "NGL Energy Partners LP (NGL) (Q1",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Shares plunged 10% after reports tied a food-safety issue to produce at multiple locations, on Aug. 4, 2026.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-chipotle-shares-slide-10-on-minnesota-salmonella-outbreak-linked-to-jalapenos/?.tsrc=rss"
+      "summary": "NGL Energy Partners LP (NGL) boosts fiscal 2027 EBITDA outlook by $10 million on record produced water disposal volumes and robust Water Solutions performance.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ngl-energy-partners-lp-ngl-050128622.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices ease and Asian shares",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Asian shares surged and oil prices slipped Wednesday after the U.S. stock market rallied to records, helped by strong corporate earnings reports and hopes for a deal setting the st",
+      "link": "https://finance.yahoo.com/markets/articles/oil-prices-ease-asian-shares-050040967.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 21:18:08 +0000"
-    },
-    {
-      "title": "MPLX LP (MPLX) (Q2 2026) Earnings",
-      "summary": "MPLX LP (MPLX) boosts 2026 capital outlook by $500 million to accelerate Gulf Coast projects while maintaining 12.5% distribution growth target.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-q2-2026-210814763.html?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 21:08:14 +0000"
-    },
-    {
-      "title": "Black Stone Minerals Q2 Earnings",
-      "summary": "Black Stone Minerals (NYSE:BSM) reported second-quarter results marked by lower overall production but stronger oil pricing, continued mineral acquisitions and expanding developmen",
+      "title": "Did Aeris' Higher 2027 Growth Capex",
+      "summary": "Aeris Resources recently issued fiscal year 2027 group production guidance, outlining expected copper, gold and silver output broadly in line with 2026, alongside higher growth cap",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.marketbeat.com/instant-alerts/black-stone-minerals-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 21:03:57 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-aeris-higher-2027-growth-051210372.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 05:12:10 +0000"
     },
     {
-      "title": "Stock Market Today, Aug. 4",
-      "summary": "Shares plunged 10% after reports tied a food-safety issue to produce at multiple locations, on Aug. 4, 2026.",
-      "impact": "지수, 위험선호",
+      "title": "Crescent Energy (CRGY) Stock Gets",
+      "summary": "The fair value estimate for Crescent Energy has shifted from about US$17.36 to roughly US$15.93, which places it closer to the current cluster of analyst price targets between US$1",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-stock-gets-051155649.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 05:11:55 +0000"
+    },
+    {
+      "title": "NGL Energy Partners LP (NGL) (Q1",
+      "summary": "NGL Energy Partners LP (NGL) boosts fiscal 2027 EBITDA outlook by $10 million on record produced water disposal volumes and robust Water Solutions performance.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-chipotle-shares-slide-10-on-minnesota-salmonella-outbreak-linked-to-jalapenos/?.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 21:02:33 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ngl-energy-partners-lp-ngl-050128622.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 05:01:28 +0000"
+    },
+    {
+      "title": "Oil prices ease and Asian shares",
+      "summary": "Asian shares surged and oil prices slipped Wednesday after the U.S. stock market rallied to records, helped by strong corporate earnings reports and hopes for a deal setting the st",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/oil-prices-ease-asian-shares-050040967.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 05:00:40 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.14",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "78.69",
-          "change": "-0.04%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4134.20",
-          "change": "+0.00%",
+          "value": "75.24",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "79.03",
+          "change": "+0.03%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4197.90",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.63",
-          "change": "+0.05%",
+          "value": "6.65",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        75.37000274658203,
-        75.4000015258789,
-        75.4000015258789,
-        75.36000061035156,
-        75.37999725341797,
-        75.36000061035156,
-        75.37000274658203,
         75.23999786376953,
-        75.13999938964844,
-        75.18000030517578,
-        75.13999938964844
+        75.23999786376953,
+        75.19000244140625,
+        75.16999816894531,
+        75.2300033569336,
+        75.2300033569336,
+        75.20999908447266,
+        75.22000122070312,
+        75.25,
+        75.20999908447266,
+        75.23999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-05 05:59 KST"
+      "status": "강세",
+      "freshness": "2026-08-05 14:24 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6330.48",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6650.75",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.89",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1429.40",
+          "value": "99.85",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1423.78",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "USDJPY",
-          "value": "157.74",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "157.66",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7527",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7466",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1429.4200439453125,
-        1429.510009765625,
-        1429.530029296875,
-        1429.56005859375,
-        1429.4599609375,
-        1429.449951171875,
-        1429.4000244140625,
-        1429.4200439453125,
-        1429.4100341796875,
-        1429.4300537109375,
-        1429.4000244140625
+        1425.5400390625,
+        1425.31005859375,
+        1424.6800537109375,
+        1424.47998046875,
+        1424.6800537109375,
+        1425.02001953125,
+        1424.6800537109375,
+        1423.8800048828125,
+        1423.47998046875,
+        1423.780029296875,
+        1423.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-05 06:23 KST"
+      "status": "완화",
+      "freshness": "2026-08-05 14:34 KST"
     }
   ],
   "currentAction": {
