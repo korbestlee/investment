@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "collectedAt": "2026-08-05T05:34:32Z",
+  "collectedAt": "2026-08-05T09:21:24Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Did Aeris' Higher 2027 Growth Capex",
+      "title": "VT Markets Redefines Gold Trading",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Aeris Resources recently issued fiscal year 2027 group production guidance, outlining expected copper, gold and silver output broadly in line with 2026, alongside higher growth cap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-aeris-higher-2027-growth-051210372.html?.tsrc=rss"
+      "summary": "VT Markets today announced XAUUSD247, a gold CFD product letting eligible clients trade gold around the clock, including weekends and selected market holidays, subject to product a",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vt-markets-redefines-gold-trading-090000299.html?.tsrc=rss"
     },
     {
-      "title": "Crescent Energy (CRGY) Stock Gets",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The fair value estimate for Crescent Energy has shifted from about US$17.36 to roughly US$15.93, which places it closer to the current cluster of analyst price targets between US$1",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-stock-gets-051155649.html?.tsrc=rss"
-    },
-    {
-      "title": "NGL Energy Partners LP (NGL) (Q1",
+      "title": "Can Dogecoin Reach $1 in the Second",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "NGL Energy Partners LP (NGL) boosts fiscal 2027 EBITDA outlook by $10 million on record produced water disposal volumes and robust Water Solutions performance.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ngl-energy-partners-lp-ngl-050128622.html?.tsrc=rss"
+      "summary": "The cryptocurrency industry's most popular meme token just plummeted to a new 52-week low.",
+      "link": "https://www.fool.com/investing/2026/08/05/can-dogecoin-reach-1-half-2026-answer-shock-you/?.tsrc=rss"
     },
     {
-      "title": "Oil prices ease and Asian shares",
-      "impact": "채권, 금리",
+      "title": "S&P 500, Dow Build on Record Highs",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stocks were on track to break more records on Wednesday, as the AI trade and hopes of an Iran peace deal continued to power the broader market higher.  S&P 500 futures rose 0.3%.  ",
+      "link": "https://finance.yahoo.com/m/eae33794-688e-3ccf-ae57-139da0cc261f/s%26p-500%2C-dow-build-on-record.html?.tsrc=rss"
+    },
+    {
+      "title": "Sky Quarry Advances $50 Million",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian shares surged and oil prices slipped Wednesday after the U.S. stock market rallied to records, helped by strong corporate earnings reports and hopes for a deal setting the st",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-ease-asian-shares-050040967.html?.tsrc=rss"
+      "summary": "Third-party financing is structured to support Nevada producers while remaining non-dilutive to Sky Quarry shareholders. WOODS CROSS, UT / ACCESS Newswire / August 5, 2026 /Sky Qua",
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-advances-50-million-084500269.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Did Aeris' Higher 2027 Growth Capex",
-      "summary": "Aeris Resources recently issued fiscal year 2027 group production guidance, outlining expected copper, gold and silver output broadly in line with 2026, alongside higher growth cap",
+      "title": "VT Markets Redefines Gold Trading",
+      "summary": "VT Markets today announced XAUUSD247, a gold CFD product letting eligible clients trade gold around the clock, including weekends and selected market holidays, subject to product a",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-aeris-higher-2027-growth-051210372.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 05:12:10 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vt-markets-redefines-gold-trading-090000299.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 09:00:00 +0000"
     },
     {
-      "title": "Crescent Energy (CRGY) Stock Gets",
-      "summary": "The fair value estimate for Crescent Energy has shifted from about US$17.36 to roughly US$15.93, which places it closer to the current cluster of analyst price targets between US$1",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-stock-gets-051155649.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 05:11:55 +0000"
-    },
-    {
-      "title": "NGL Energy Partners LP (NGL) (Q1",
-      "summary": "NGL Energy Partners LP (NGL) boosts fiscal 2027 EBITDA outlook by $10 million on record produced water disposal volumes and robust Water Solutions performance.",
+      "title": "Can Dogecoin Reach $1 in the Second",
+      "summary": "The cryptocurrency industry's most popular meme token just plummeted to a new 52-week low.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ngl-energy-partners-lp-ngl-050128622.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 05:01:28 +0000"
+      "link": "https://www.fool.com/investing/2026/08/05/can-dogecoin-reach-1-half-2026-answer-shock-you/?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 09:00:00 +0000"
     },
     {
-      "title": "Oil prices ease and Asian shares",
-      "summary": "Asian shares surged and oil prices slipped Wednesday after the U.S. stock market rallied to records, helped by strong corporate earnings reports and hopes for a deal setting the st",
-      "impact": "채권, 금리",
+      "title": "S&P 500, Dow Build on Record Highs",
+      "summary": "Stocks were on track to break more records on Wednesday, as the AI trade and hopes of an Iran peace deal continued to power the broader market higher.  S&P 500 futures rose 0.3%.  ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/eae33794-688e-3ccf-ae57-139da0cc261f/s%26p-500%2C-dow-build-on-record.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 08:47:20 +0000"
+    },
+    {
+      "title": "Sky Quarry Advances $50 Million",
+      "summary": "Third-party financing is structured to support Nevada producers while remaining non-dilutive to Sky Quarry shareholders. WOODS CROSS, UT / ACCESS Newswire / August 5, 2026 /Sky Qua",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-ease-asian-shares-050040967.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 05:00:40 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-advances-50-million-084500269.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 08:45:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.24",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "76.03",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "79.03",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "80.18",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4197.90",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4224.70",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.65",
-          "change": "+0.01%",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        75.23999786376953,
-        75.23999786376953,
-        75.19000244140625,
-        75.16999816894531,
-        75.2300033569336,
-        75.2300033569336,
-        75.20999908447266,
-        75.22000122070312,
-        75.25,
-        75.20999908447266,
-        75.23999786376953
+        76.23999786376953,
+        76.27999877929688,
+        76.12999725341797,
+        76.19999694824219,
+        76.11000061035156,
+        76.01000213623047,
+        75.9800033569336,
+        76.04000091552734,
+        76.06999969482422,
+        76.08999633789062,
+        76.02999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-05 14:24 KST"
+      "status": "약세",
+      "freshness": "2026-08-05 18:11 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "6650.75",
-          "change": "-0.05%",
+          "value": "6637.73",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6489.45",
+          "value": "6486.62",
           "change": "+0.01%",
           "direction": "up"
         }
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "99.85",
-          "change": "-0.00%",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1423.78",
+          "value": "1424.42",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.66",
+          "value": "157.77",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7466",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.7476",
+          "change": "+0.17%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1425.5400390625,
-        1425.31005859375,
-        1424.6800537109375,
-        1424.47998046875,
-        1424.6800537109375,
-        1425.02001953125,
-        1424.6800537109375,
-        1423.8800048828125,
-        1423.47998046875,
-        1423.780029296875,
-        1423.780029296875
+        1425.25,
+        1425.1700439453125,
+        1425.199951171875,
+        1424.8399658203125,
+        1424.9300537109375,
+        1424.280029296875,
+        1424.3199462890625,
+        1424.43994140625,
+        1424.8800048828125,
+        1424.3800048828125,
+        1424.4200439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-05 14:34 KST"
+      "freshness": "2026-08-05 18:21 KST"
     }
   ],
   "currentAction": {
