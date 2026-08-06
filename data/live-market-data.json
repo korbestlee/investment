@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "collectedAt": "2026-08-05T21:22:30Z",
+  "collectedAt": "2026-08-06T05:36:50Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Today, Aug. 5",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Today, Aug. 5, 2026, the reusable rocket provider's first public earnings report revealed widening losses despite strong top-line results.",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-spacex-beats-revenue-but-faces-capital-spending-pressure/?.tsrc=rss"
-    },
-    {
-      "title": "Nvidia Lifts Dow To High, But",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
-      "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss"
-    },
-    {
-      "title": "Talos Energy Inc (TALO) (Q2 2026)",
-      "impact": "채권, 금리",
+      "title": "Asian shares are mostly lower as",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Talos Energy Inc (TALO) delivers record free cash flow and raises production guidance while advancing high-impact growth projects in the Gulf of America and internationally.",
-      "link": "https://finance.yahoo.com/energy/articles/talos-energy-inc-talo-q2-210629080.html?.tsrc=rss"
+      "summary": "Asian shares were mostly lower and South Korea’s Kospi dropped more than 4% on Thursday following declines for some Big Tech giants including memory chipmaker SK Hynix.  Oil prices",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-lower-kospi-050837691.html?.tsrc=rss"
     },
     {
-      "title": "Update",
+      "title": "APA Raises U.S. Oil Forecast as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "APA Corporation raised its full-year U.S. oil production forecast after second-quarter output exceeded guidance and operating costs came in below expectations.",
+      "link": "https://finance.yahoo.com/energy/articles/apa-raises-u-oil-forecast-040126345.html?.tsrc=rss"
+    },
+    {
+      "title": "McEwen Q2 Results",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-mega-205616262.html?.tsrc=rss"
+      "summary": "(See Glossary for Defined Terms) TORONTO, Aug. 05, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) today announced its second quarter financial res",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-q2-results-net-income-034800930.html?.tsrc=rss"
+    },
+    {
+      "title": "Applied Materials Fell 11% Last",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Applied Materials just handed investors a brutal one-month loss, yet one prominent Wall Street analyst sees the selloff as a setup for gains that would dwarf the broader market. Th",
+      "link": "https://247wallst.com/investing/2026/08/05/applied-materials-fell-11-last-month-a-prominent-wall-street-pro-predicts-70-gains-moving-forward/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Today, Aug. 5",
-      "summary": "Today, Aug. 5, 2026, the reusable rocket provider's first public earnings report revealed widening losses despite strong top-line results.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-today-aug-5-spacex-beats-revenue-but-faces-capital-spending-pressure/?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 21:20:03 +0000"
-    },
-    {
-      "title": "Nvidia Lifts Dow To High, But",
-      "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 21:06:47 +0000"
-    },
-    {
-      "title": "Talos Energy Inc (TALO) (Q2 2026)",
-      "summary": "Talos Energy Inc (TALO) delivers record free cash flow and raises production guidance while advancing high-impact growth projects in the Gulf of America and internationally.",
-      "impact": "채권, 금리",
+      "title": "Asian shares are mostly lower as",
+      "summary": "Asian shares were mostly lower and South Korea’s Kospi dropped more than 4% on Thursday following declines for some Big Tech giants including memory chipmaker SK Hynix.  Oil prices",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/talos-energy-inc-talo-q2-210629080.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 21:06:29 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-lower-kospi-050837691.html?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 05:08:37 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
+      "title": "APA Raises U.S. Oil Forecast as",
+      "summary": "APA Corporation raised its full-year U.S. oil production forecast after second-quarter output exceeded guidance and operating costs came in below expectations.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/apa-raises-u-oil-forecast-040126345.html?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 04:01:26 +0000"
+    },
+    {
+      "title": "McEwen Q2 Results",
+      "summary": "(See Glossary for Defined Terms) TORONTO, Aug. 05, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) today announced its second quarter financial res",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-mega-205616262.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 20:56:16 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-q2-results-net-income-034800930.html?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 03:48:00 +0000"
+    },
+    {
+      "title": "Applied Materials Fell 11% Last",
+      "summary": "Applied Materials just handed investors a brutal one-month loss, yet one prominent Wall Street analyst sees the selloff as a setup for gains that would dwarf the broader market. Th",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://247wallst.com/investing/2026/08/05/applied-materials-fell-11-last-month-a-prominent-wall-street-pro-predicts-70-gains-moving-forward/?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 03:47:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.06",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "79.40",
-          "change": "+0.04%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4308.00",
+          "value": "74.76",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "Copper",
-          "value": "6.75",
+          "name": "Brent",
+          "value": "79.01",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4313.40",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
+        },
+        {
+          "name": "Copper",
+          "value": "6.70",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        75.06999969482422,
-        75.0,
-        74.98999786376953,
-        75.01000213623047,
-        75.02999877929688,
-        75.02999877929688,
-        75.05000305175781,
-        75.04000091552734,
-        75.04000091552734,
-        75.04000091552734,
-        75.05999755859375
+        74.73999786376953,
+        74.70999908447266,
+        74.73999786376953,
+        74.7300033569336,
+        74.72000122070312,
+        74.72000122070312,
+        74.76000213623047,
+        74.77999877929688,
+        74.73999786376953,
+        74.75,
+        74.76000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-06 05:59 KST"
+      "freshness": "2026-08-06 14:26 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6637.73",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6339.63",
+          "change": "+0.20%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "99.75",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1421.67",
-          "change": "-0.01%",
+          "value": "1415.78",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.69",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "157.74",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7492",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7483",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1421.4100341796875,
-        1421.3299560546875,
-        1421.469970703125,
-        1421.5899658203125,
-        1421.6400146484375,
-        1421.6199951171875,
-        1421.6700439453125,
-        1421.6700439453125,
-        1421.699951171875,
-        1421.7900390625,
-        1421.6700439453125
+        1417.5799560546875,
+        1417.780029296875,
+        1417.6800537109375,
+        1417.8800048828125,
+        1417.780029296875,
+        1417.6800537109375,
+        1416.97998046875,
+        1417.0400390625,
+        1416.3800048828125,
+        1416.3800048828125,
+        1415.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-06 06:21 KST"
+      "status": "완화",
+      "freshness": "2026-08-06 14:36 KST"
     }
   ],
   "currentAction": {
