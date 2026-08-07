@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-06",
-  "collectedAt": "2026-08-06T09:25:36Z",
+  "date": "2026-08-07",
+  "collectedAt": "2026-08-07T00:55:01Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.14%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq futures slip, Dow and S&P 500",
+      "title": "Cloudflare Leads 5 Software Earnings",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Investors absorbed a wall of earnings reports, prospects of an imminent Strait of Hormuz deal, and fresh labor market data.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html?.tsrc=rss"
+      "summary": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
+      "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss"
     },
     {
-      "title": "Wizz Air slumps to £170m loss as",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Wizz Air has plunged to a €198m (£170m) loss as higher jet fuel prices send airline profits into a nosedive.",
-      "link": "https://uk.finance.yahoo.com/news/wizz-air-slumps-170m-loss-091344098.html?.tsrc=rss"
-    },
-    {
-      "title": "The Market Is Flashing a Valuation",
+      "title": "2 Energy Stocks With More Hype Than",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Investors may want to brace for turbulence. But these stocks should hold up well.",
-      "link": "https://www.fool.com/investing/2026/08/06/the-market-is-flashing-a-valuation-warning-but-his/?.tsrc=rss"
+      "summary": "High expectations leave little room for disappointment.",
+      "link": "https://www.fool.com/investing/2026/08/06/2-energy-stocks-with-more-hype-than-fundamentals-r/?.tsrc=rss"
     },
     {
-      "title": "Canadian Natural Resources Limited",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Calgary, Alberta--(Newsfile Corp. - August 6, 2026) - Canadian Natural Resources Limited (TSX: CNQ) (NYSE: CNQ) announces that its Board of Directors has declared a quarterly cash ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-natural-resources-limited-announces-090000575.html?.tsrc=rss"
+      "title": "Lower Oil Prices Lend Support For",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Lower oil prices have boosted gold, as easing inflation concerns and weaker U.S. economic data have reduced expectations for further Fed tightening.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lower-oil-prices-lend-support-000000831.html?.tsrc=rss"
+    },
+    {
+      "title": "Review & Preview",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Dow broke a five-day winning streak on Thursday, while the S&P 500 and Nasdaq Composite tripped on a selloff in software stocks.",
+      "link": "https://finance.yahoo.com/m/544dba0c-05b3-3b70-8a04-9dab0b39d21e/review-%26-preview%3A-nothing.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq futures slip, Dow and S&P 500",
-      "summary": "Investors absorbed a wall of earnings reports, prospects of an imminent Strait of Hormuz deal, and fresh labor market data.",
+      "title": "Cloudflare Leads 5 Software Earnings",
+      "summary": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 09:16:20 +0000"
+      "link": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 00:41:28 +0000"
     },
     {
-      "title": "Wizz Air slumps to £170m loss as",
-      "summary": "Wizz Air has plunged to a €198m (£170m) loss as higher jet fuel prices send airline profits into a nosedive.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://uk.finance.yahoo.com/news/wizz-air-slumps-170m-loss-091344098.html?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 09:13:44 +0000"
-    },
-    {
-      "title": "The Market Is Flashing a Valuation",
-      "summary": "Investors may want to brace for turbulence. But these stocks should hold up well.",
+      "title": "2 Energy Stocks With More Hype Than",
+      "summary": "High expectations leave little room for disappointment.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/06/the-market-is-flashing-a-valuation-warning-but-his/?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 09:04:00 +0000"
+      "link": "https://www.fool.com/investing/2026/08/06/2-energy-stocks-with-more-hype-than-fundamentals-r/?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 00:25:00 +0000"
     },
     {
-      "title": "Canadian Natural Resources Limited",
-      "summary": "Calgary, Alberta--(Newsfile Corp. - August 6, 2026) - Canadian Natural Resources Limited (TSX: CNQ) (NYSE: CNQ) announces that its Board of Directors has declared a quarterly cash ",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-natural-resources-limited-announces-090000575.html?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 09:00:00 +0000"
+      "title": "Lower Oil Prices Lend Support For",
+      "summary": "Lower oil prices have boosted gold, as easing inflation concerns and weaker U.S. economic data have reduced expectations for further Fed tightening.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lower-oil-prices-lend-support-000000831.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Review & Preview",
+      "summary": "The Dow broke a five-day winning streak on Thursday, while the S&P 500 and Nasdaq Composite tripped on a selloff in software stocks.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/544dba0c-05b3-3b70-8a04-9dab0b39d21e/review-%26-preview%3A-nothing.html?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 23:55:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "75.41",
+          "value": "78.23",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "83.62",
+          "change": "-0.12%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4292.80",
           "change": "+0.04%",
           "direction": "up"
         },
         {
-          "name": "Brent",
-          "value": "79.69",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4339.60",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
           "name": "Copper",
-          "value": "6.79",
-          "change": "+0.02%",
+          "value": "6.71",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        75.31999969482422,
-        75.37999725341797,
-        75.37999725341797,
-        75.37999725341797,
-        75.43000030517578,
-        75.48999786376953,
-        75.41999816894531,
-        75.51000213623047,
-        75.43000030517578,
-        75.37999725341797,
-        75.41000366210938
+        78.2300033569336,
+        78.23999786376953,
+        78.26000213623047,
+        78.33000183105469,
+        78.37000274658203,
+        78.38999938964844,
+        78.37999725341797,
+        78.33000183105469,
+        78.27999877929688,
+        78.23999786376953,
+        78.2300033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-06 18:15 KST"
+      "status": "약세",
+      "freshness": "2026-08-07 09:44 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.725%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "3.732%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.324%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.389%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.617%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.670%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.174%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.213%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.615000247955322,
-        4.615000247955322,
-        4.615000247955322,
-        4.615000247955322,
-        4.615000247955322,
-        4.615000247955322,
-        4.61299991607666,
-        4.61299991607666,
-        4.615000247955322,
-        4.616999626159668,
-        4.616999626159668
+        4.671999931335449,
+        4.670000076293945,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.670000076293945
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-06 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-08-07 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7722.12",
-          "change": "-0.14%",
+          "value": "7711.38",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26359.67",
-          "change": "-0.18%",
+          "value": "26350.50",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "KOSPI",
-          "value": "6305.52",
-          "change": "+0.04%",
+          "value": "6332.66",
+          "change": "+0.30%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6512.42",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6512.81",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7738.47021484375,
-        7737.669921875,
-        7738.919921875,
-        7738.02978515625,
-        7739.2900390625,
-        7738.93994140625,
-        7737.2001953125,
-        7735.43017578125,
-        7734.43994140625,
-        7732.72021484375,
-        7722.1201171875
+        7707.89990234375,
+        7701.419921875,
+        7702.10986328125,
+        7702.06005859375,
+        7708.0498046875,
+        7709.8798828125,
+        7708.43017578125,
+        7708.97998046875,
+        7710.75,
+        7711.64990234375,
+        7711.3798828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-06 04:59 KST"
+      "freshness": "2026-08-07 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.75",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.97",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1424.26",
+          "value": "1421.28",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "157.84",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "158.55",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7476",
-          "change": "-0.01%",
+          "value": "6.7431",
+          "change": "-0.08%",
           "direction": "down"
         }
       ],
       "trend": [
-        1424.1600341796875,
-        1424.219970703125,
-        1424.280029296875,
-        1424.4000244140625,
-        1424.1600341796875,
-        1424.050048828125,
-        1423.9599609375,
-        1423.8299560546875,
-        1423.780029296875,
-        1424.199951171875,
-        1424.260009765625
+        1420.1800537109375,
+        1420.760009765625,
+        1420.3800048828125,
+        1420.47998046875,
+        1420.47998046875,
+        1420.5799560546875,
+        1420.989990234375,
+        1420.6800537109375,
+        1420.9200439453125,
+        1421.280029296875,
+        1421.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-06 18:25 KST"
+      "status": "완화",
+      "freshness": "2026-08-07 09:54 KST"
     }
   ],
   "currentAction": {
