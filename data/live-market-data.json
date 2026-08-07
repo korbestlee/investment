@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "collectedAt": "2026-08-07T04:45:02Z",
+  "collectedAt": "2026-08-07T07:53:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Triple Flag Precious Metals (TSX",
+      "title": "Oil extends gains and stocks mostly",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Triple Flag Precious Metals (TSX:TFPM) is back in focus after Q2 2026 results showed higher sales and net income, along with a larger dividend, a new gold stream acquisition, and r",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/triple-flag-precious-metals-tsx-043027100.html?.tsrc=rss"
+      "summary": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and ",
+      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss"
     },
     {
-      "title": "Cathie Wood sells $17 million of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Cathie Wood, head of Ark Investment Management, often trades around earnings, taking advantage of sharp moves in some of her favorite tech stocks. That's exactly what she's doing w",
-      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-17-million-of-popular-ai-stock-palantir-pltr?.tsrc=rss"
-    },
-    {
-      "title": "Chasing 17.24% Yield? XDTE Holders",
-      "impact": "채권, 금리",
+      "title": "Amrize slides in extended trading on",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "XDTE promises weekly paychecks and a yield that turns heads, but the fine print buried in Roundhill's own factsheet raises an uncomfortable question about where those payments actu",
-      "link": "https://247wallst.com/investing/etf/2026/08/06/chasing-17-24-yield-xdte-holders-are-getting-their-own-money-back-and-paying-for-it/?.tsrc=rss"
+      "summary": "Investing.com -- Amrize shares fell in extended trading after the building materials company reported second-quarter earnings that missed expectations and cut its full-year adjuste",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-slides-extended-trading-q2-072235726.html?.tsrc=rss"
     },
     {
-      "title": "What Does Newmont’s Conflicting NEM",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Recently, investors learned that Newmont holds an average brokerage recommendation of 1.33, signaling a broadly positive view from Wall Street firms, while Zacks assigned the stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-newmont-conflicting-nem-ratings-031837982.html?.tsrc=rss"
+      "title": "Is McEwen (MUX) Undervalued",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with f",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-undervalued-following-2026-071136890.html?.tsrc=rss"
+    },
+    {
+      "title": "PU Prime Expands Gold Trading with",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gol",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Triple Flag Precious Metals (TSX",
-      "summary": "Triple Flag Precious Metals (TSX:TFPM) is back in focus after Q2 2026 results showed higher sales and net income, along with a larger dividend, a new gold stream acquisition, and r",
+      "title": "Oil extends gains and stocks mostly",
+      "summary": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/triple-flag-precious-metals-tsx-043027100.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 04:30:27 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 07:37:05 +0000"
     },
     {
-      "title": "Cathie Wood sells $17 million of",
-      "summary": "Cathie Wood, head of Ark Investment Management, often trades around earnings, taking advantage of sharp moves in some of her favorite tech stocks. That's exactly what she's doing w",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-17-million-of-popular-ai-stock-palantir-pltr?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 04:06:38 +0000"
-    },
-    {
-      "title": "Chasing 17.24% Yield? XDTE Holders",
-      "summary": "XDTE promises weekly paychecks and a yield that turns heads, but the fine print buried in Roundhill's own factsheet raises an uncomfortable question about where those payments actu",
-      "impact": "채권, 금리",
+      "title": "Amrize slides in extended trading on",
+      "summary": "Investing.com -- Amrize shares fell in extended trading after the building materials company reported second-quarter earnings that missed expectations and cut its full-year adjuste",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://247wallst.com/investing/etf/2026/08/06/chasing-17-24-yield-xdte-holders-are-getting-their-own-money-back-and-paying-for-it/?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 03:45:31 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-slides-extended-trading-q2-072235726.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 07:22:35 +0000"
     },
     {
-      "title": "What Does Newmont’s Conflicting NEM",
-      "summary": "Recently, investors learned that Newmont holds an average brokerage recommendation of 1.33, signaling a broadly positive view from Wall Street firms, while Zacks assigned the stock",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-newmont-conflicting-nem-ratings-031837982.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 03:18:37 +0000"
+      "title": "Is McEwen (MUX) Undervalued",
+      "summary": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with f",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-undervalued-following-2026-071136890.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 07:11:36 +0000"
+    },
+    {
+      "title": "PU Prime Expands Gold Trading with",
+      "summary": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gol",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 06:41:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "78.32",
+          "value": "77.75",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "83.75",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "83.21",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4326.70",
-          "change": "-0.00%",
+          "value": "4344.10",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.74",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.72",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        78.55999755859375,
-        78.58999633789062,
-        78.58999633789062,
-        78.54000091552734,
-        78.58000183105469,
-        78.6500015258789,
-        78.41999816894531,
-        78.41999816894531,
-        78.47000122070312,
-        78.31999969482422,
-        78.31999969482422
+        77.69999694824219,
+        77.66999816894531,
+        77.72000122070312,
+        77.80000305175781,
+        77.80000305175781,
+        77.69000244140625,
+        77.69999694824219,
+        77.7699966430664,
+        77.73999786376953,
+        77.75,
+        77.75
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-08-07 13:34 KST"
+      "freshness": "2026-08-07 16:43 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6249.08",
-          "change": "-0.20%",
+          "value": "6244.07",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6512.81",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6520.93",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,21 +298,21 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.95",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.96",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1419.08",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1418.28",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.40",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "158.45",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1419.0999755859375,
-        1419.1800537109375,
-        1419.4300537109375,
-        1419.3199462890625,
-        1419.3499755859375,
-        1419.260009765625,
-        1419.3199462890625,
-        1419.3499755859375,
-        1419.0799560546875,
-        1419.1800537109375,
-        1419.0799560546875
+        1418.31005859375,
+        1417.780029296875,
+        1418.3499755859375,
+        1417.97998046875,
+        1417.780029296875,
+        1417.9300537109375,
+        1417.6800537109375,
+        1417.6800537109375,
+        1418.3399658203125,
+        1418.1800537109375,
+        1418.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-07 13:44 KST"
+      "status": "강세",
+      "freshness": "2026-08-07 16:53 KST"
     }
   ],
   "currentAction": {
