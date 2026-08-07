@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "collectedAt": "2026-08-07T07:53:40Z",
+  "date": "2026-08-08",
+  "collectedAt": "2026-08-07T20:54:14Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.00%",
+      "value": "-0.04%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil extends gains and stocks mostly",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and ",
-      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss"
+      "summary": "(Updates with market moves at the end of the day, and any other changes, if any.) The S&P 500 hit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-high-204131701.html?.tsrc=rss"
     },
     {
-      "title": "Amrize slides in extended trading on",
-      "impact": "원자재, 인플레 기대",
+      "title": "Nasdaq Leaps As Fed Rate-Hike Odds",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com -- Amrize shares fell in extended trading after the building materials company reported second-quarter earnings that missed expectations and cut its full-year adjuste",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-slides-extended-trading-q2-072235726.html?.tsrc=rss"
+      "summary": "Stock Market Today: The major indexes close with gains across the board. A medical testing stock soars 20%.",
+      "link": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html?.tsrc=rss"
     },
     {
-      "title": "Is McEwen (MUX) Undervalued",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with f",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-undervalued-following-2026-071136890.html?.tsrc=rss"
+      "title": "GE Vernova Holds an $176 Billion",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "GE Vernova's recent post-earnings dip is a good buying opportunity.",
+      "link": "https://www.fool.com/investing/2026/08/07/ge-vernova-holds-an-176-billion-backlog/?.tsrc=rss"
     },
     {
-      "title": "PU Prime Expands Gold Trading with",
+      "title": "Gold rallies over 7%",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gol",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html?.tsrc=rss"
+      "summary": "Yahoo Finance senior markets reporter Ines Ferre discusses gold futures breaking out to $4,400 an ounce following a weekly gain of over 7%.",
+      "link": "https://finance.yahoo.com/video/gold-rallies-over-7-ubs-202522628.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil extends gains and stocks mostly",
-      "summary": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and ",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day, and any other changes, if any.) The S&P 500 hit",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 07:37:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-high-204131701.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 20:41:31 +0000"
     },
     {
-      "title": "Amrize slides in extended trading on",
-      "summary": "Investing.com -- Amrize shares fell in extended trading after the building materials company reported second-quarter earnings that missed expectations and cut its full-year adjuste",
-      "impact": "원자재, 인플레 기대",
+      "title": "Nasdaq Leaps As Fed Rate-Hike Odds",
+      "summary": "Stock Market Today: The major indexes close with gains across the board. A medical testing stock soars 20%.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amrize-slides-extended-trading-q2-072235726.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 07:22:35 +0000"
+      "link": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 20:38:16 +0000"
     },
     {
-      "title": "Is McEwen (MUX) Undervalued",
-      "summary": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with f",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-undervalued-following-2026-071136890.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 07:11:36 +0000"
+      "title": "GE Vernova Holds an $176 Billion",
+      "summary": "GE Vernova's recent post-earnings dip is a good buying opportunity.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/08/07/ge-vernova-holds-an-176-billion-backlog/?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 20:30:00 +0000"
     },
     {
-      "title": "PU Prime Expands Gold Trading with",
-      "summary": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gol",
+      "title": "Gold rallies over 7%",
+      "summary": "Yahoo Finance senior markets reporter Ines Ferre discusses gold futures breaking out to $4,400 an ounce following a weekly gain of over 7%.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 06:41:00 +0000"
+      "link": "https://finance.yahoo.com/video/gold-rallies-over-7-ubs-202522628.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 20:25:22 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "77.75",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "77.16",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "83.21",
-          "change": "-0.07%",
+          "value": "82.25",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4344.10",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4400.10",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.72",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.59",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        77.69999694824219,
-        77.66999816894531,
-        77.72000122070312,
-        77.80000305175781,
-        77.80000305175781,
-        77.69000244140625,
-        77.69999694824219,
-        77.7699966430664,
-        77.73999786376953,
-        77.75,
-        77.75
+        77.16999816894531,
+        77.1500015258789,
+        77.1500015258789,
+        77.1500015258789,
+        77.16000366210938,
+        77.13999938964844,
+        77.0999984741211,
+        77.1500015258789,
+        77.16000366210938,
+        77.18000030517578,
+        77.16000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-08-07 16:43 KST"
+      "status": "약세",
+      "freshness": "2026-08-08 05:44 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.732%",
+          "value": "3.710%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.389%",
+          "value": "4.362%",
           "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.670%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.660%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.213%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.211%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.671999931335449,
-        4.670000076293945,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.670000076293945
+        4.6579999923706055,
+        4.656000137329102,
+        4.6579999923706055,
+        4.6579999923706055,
+        4.6579999923706055,
+        4.6579999923706055,
+        4.659999847412109,
+        4.659999847412109,
+        4.659999847412109,
+        4.659999847412109,
+        4.659999847412109
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-07 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-08 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7711.38",
-          "change": "-0.00%",
+          "value": "7755.61",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26350.50",
-          "change": "-0.04%",
+          "value": "26686.48",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6520.93",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6528.94",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7707.89990234375,
-        7701.419921875,
-        7702.10986328125,
-        7702.06005859375,
-        7708.0498046875,
-        7709.8798828125,
-        7708.43017578125,
-        7708.97998046875,
-        7710.75,
-        7711.64990234375,
-        7711.3798828125
+        7752.14990234375,
+        7752.64013671875,
+        7750.580078125,
+        7751.0498046875,
+        7753.509765625,
+        7752.6201171875,
+        7753.22021484375,
+        7753.77978515625,
+        7755.1201171875,
+        7758.5400390625,
+        7755.60986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-07 04:59 KST"
+      "freshness": "2026-08-08 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.96",
+          "value": "99.62",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1418.28",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1406.61",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.45",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.77",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7462",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7372",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1418.31005859375,
-        1417.780029296875,
-        1418.3499755859375,
-        1417.97998046875,
-        1417.780029296875,
-        1417.9300537109375,
-        1417.6800537109375,
-        1417.6800537109375,
-        1418.3399658203125,
-        1418.1800537109375,
-        1418.280029296875
+        1406.4599609375,
+        1406.530029296875,
+        1406.510009765625,
+        1406.550048828125,
+        1406.5799560546875,
+        1406.5899658203125,
+        1406.5799560546875,
+        1406.530029296875,
+        1406.969970703125,
+        1406.6300048828125,
+        1406.6099853515625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-07 16:53 KST"
+      "status": "중립",
+      "freshness": "2026-08-08 05:54 KST"
     }
   ],
   "currentAction": {
