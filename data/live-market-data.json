@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "collectedAt": "2026-08-10T04:20:12Z",
+  "collectedAt": "2026-08-10T08:15:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall After Market",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
-      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-after.html?.tsrc=rss"
-    },
-    {
-      "title": "Asia Stocks Climb and Rate Bets",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Asia stocks climbed Monday as September Fed hike odds fell to 44%. Wednesday's CPI report is the week's biggest risk.",
-      "link": "https://beincrypto.com/asia-stocks-cpi-test-fed-rate-hike-september-2026/?.tsrc=rss"
-    },
-    {
-      "title": "Is Southern Cross Gold Consolidated",
+      "title": "COP Q2 Deep Dive",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Southern Cross Gold Consolidated (TSX:SXGC) is back in focus after releasing detailed drill results from its 100% owned Sunday Creek gold antimony project in Victoria, along with p",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-gold-consolidated-tsx-021000023.html?.tsrc=rss"
+      "summary": "Oil and gas producer ConocoPhillips (NYSE:COP) reported Q2 CY2026 results exceeding the market’s revenue expectations, with sales up 32.4% year on year to $19.52 billion. Its non-G",
+      "link": "https://finance.yahoo.com/energy/articles/cop-q2-deep-dive-portfolio-074122384.html?.tsrc=rss"
     },
     {
-      "title": "Barrick Mining (TSX",
+      "title": "Stock Market",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "U.S. stock futures are showing modest gains heading into Monday morning as Wall Street digests a strong weekly performance while tracking high-stakes diplomatic maneuvering in the ",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61065974/stock-market-will-sp-500-open-up-or-down-today-13?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+    },
+    {
+      "title": "BKV Q2 Deep Dive",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Barrick Mining (TSX:ABX) has drawn fresh investor attention after appointing Sarah Ball Teslik as Chief Corporate Affairs Officer and Daniel Wilner as Senior Vice President, Corpor",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-tsx-abx-could-020859342.html?.tsrc=rss"
+      "summary": "Natural gas producer BKV (NYSE:BKV) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 44.6% year on year to $465.5 million. Its GAAP profit of $0.67 ",
+      "link": "https://finance.yahoo.com/energy/articles/bkv-q2-deep-dive-power-064522519.html?.tsrc=rss"
+    },
+    {
+      "title": "Asian shares track Wall Street",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Shares were mostly higher Monday in Asia, with Japan’s Nikkei 225 leading advances after stocks rose on Wall Street.  Oil prices rose and U.S. futures were little changed.  In Toky",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall After Market",
-      "summary": "With bulls back in charge, here's what investors should do. Warren Buffett's Berkshire beat views Saturday. Lumentum, Cisco. Applied Materials earnings are on tap..",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/6bf0da8a-faae-33c1-af5a-bcc389ef390c/dow-jones-futures-fall-after.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 03:08:41 +0000"
-    },
-    {
-      "title": "Asia Stocks Climb and Rate Bets",
-      "summary": "Asia stocks climbed Monday as September Fed hike odds fell to 44%. Wednesday's CPI report is the week's biggest risk.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://beincrypto.com/asia-stocks-cpi-test-fed-rate-hike-september-2026/?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 02:53:31 +0000"
-    },
-    {
-      "title": "Is Southern Cross Gold Consolidated",
-      "summary": "Southern Cross Gold Consolidated (TSX:SXGC) is back in focus after releasing detailed drill results from its 100% owned Sunday Creek gold antimony project in Victoria, along with p",
+      "title": "COP Q2 Deep Dive",
+      "summary": "Oil and gas producer ConocoPhillips (NYSE:COP) reported Q2 CY2026 results exceeding the market’s revenue expectations, with sales up 32.4% year on year to $19.52 billion. Its non-G",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-cross-gold-consolidated-tsx-021000023.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 02:10:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/cop-q2-deep-dive-portfolio-074122384.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 07:41:22 +0000"
     },
     {
-      "title": "Barrick Mining (TSX",
-      "summary": "Barrick Mining (TSX:ABX) has drawn fresh investor attention after appointing Sarah Ball Teslik as Chief Corporate Affairs Officer and Daniel Wilner as Senior Vice President, Corpor",
+      "title": "Stock Market",
+      "summary": "U.S. stock futures are showing modest gains heading into Monday morning as Wall Street digests a strong weekly performance while tracking high-stakes diplomatic maneuvering in the ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61065974/stock-market-will-sp-500-open-up-or-down-today-13?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 07:29:55 +0000"
+    },
+    {
+      "title": "BKV Q2 Deep Dive",
+      "summary": "Natural gas producer BKV (NYSE:BKV) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 44.6% year on year to $465.5 million. Its GAAP profit of $0.67 ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-tsx-abx-could-020859342.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 02:08:59 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/bkv-q2-deep-dive-power-064522519.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 06:45:22 +0000"
+    },
+    {
+      "title": "Asian shares track Wall Street",
+      "summary": "Shares were mostly higher Monday in Asia, with Japan’s Nikkei 225 leading advances after stocks rose on Wall Street.  Oil prices rose and U.S. futures were little changed.  In Toky",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 06:26:49 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "78.82",
+          "value": "78.28",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "84.41",
-          "change": "-0.02%",
+          "value": "83.76",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4388.00",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4414.80",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.60",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.65",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        78.80999755859375,
-        78.76000213623047,
-        78.79000091552734,
-        78.80000305175781,
-        78.81999969482422,
-        78.83000183105469,
-        78.83000183105469,
-        78.8499984741211,
-        78.83999633789062,
-        78.81999969482422,
-        78.81999969482422
+        78.22000122070312,
+        78.27999877929688,
+        78.30999755859375,
+        78.29000091552734,
+        78.19999694824219,
+        78.20999908447266,
+        78.26000213623047,
+        78.22000122070312,
+        78.25,
+        78.27999877929688,
+        78.27999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-08-10 13:09 KST"
+      "freshness": "2026-08-10 17:05 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "6301.40",
-          "change": "-0.00%",
+          "value": "6292.77",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6528.94",
+          "value": "6531.10",
           "change": "+0.01%",
           "direction": "up"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.72",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1414.95",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.27",
+          "value": "99.64",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7457",
+          "name": "USDKRW",
+          "value": "1417.99",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.46",
           "change": "+0.00%",
           "direction": "neutral"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7441",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1414.8800048828125,
-        1414.81005859375,
-        1414.760009765625,
-        1414.8800048828125,
-        1414.8299560546875,
-        1415.1199951171875,
-        1414.81005859375,
-        1414.8699951171875,
-        1414.8599853515625,
-        1414.7900390625,
-        1414.949951171875
+        1417.81005859375,
+        1417.8599853515625,
+        1417.5799560546875,
+        1418.3499755859375,
+        1418.260009765625,
+        1417.8800048828125,
+        1418.0799560546875,
+        1417.969970703125,
+        1418.050048828125,
+        1417.9300537109375,
+        1417.989990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-10 13:20 KST"
+      "status": "완화",
+      "freshness": "2026-08-10 17:15 KST"
     }
   ],
   "currentAction": {
