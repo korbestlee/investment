@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10",
-  "collectedAt": "2026-08-10T08:15:09Z",
+  "date": "2026-08-11",
+  "collectedAt": "2026-08-10T20:57:12Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,19 +34,19 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.04%",
+      "value": "+0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "COP Q2 Deep Dive",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil and gas producer ConocoPhillips (NYSE:COP) reported Q2 CY2026 results exceeding the market’s revenue expectations, with sales up 32.4% year on year to $19.52 billion. Its non-G",
-      "link": "https://finance.yahoo.com/energy/articles/cop-q2-deep-dive-portfolio-074122384.html?.tsrc=rss"
-    },
-    {
-      "title": "Stock Market",
+      "title": "Earnings live updates",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "U.S. stock futures are showing modest gains heading into Monday morning as Wall Street digests a strong weekly performance while tracking high-stakes diplomatic maneuvering in the ",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61065974/stock-market-will-sp-500-open-up-or-down-today-13?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+      "summary": "The second quarter earnings season is beginning to wind down, with nearly 90% of S&P 500 (^GSPC) companies having already reported.",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-stock-jumps-on-improving-margins-raised-revenue-guidance-202302733.html?.tsrc=rss"
     },
     {
-      "title": "BKV Q2 Deep Dive",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Natural gas producer BKV (NYSE:BKV) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 44.6% year on year to $465.5 million. Its GAAP profit of $0.67 ",
-      "link": "https://finance.yahoo.com/energy/articles/bkv-q2-deep-dive-power-064522519.html?.tsrc=rss"
-    },
-    {
-      "title": "Asian shares track Wall Street",
+      "title": "Global stocks mixed while oil prices",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Shares were mostly higher Monday in Asia, with Japan’s Nikkei 225 leading advances after stocks rose on Wall Street.  Oil prices rose and U.S. futures were little changed.  In Toky",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html?.tsrc=rss"
+      "summary": "Stock markets were little changed Monday, holding near record highs amid thin summer volumes, as investors awaited inflation data this week while mostly shrugging off the latest sp",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-track-wall-st-030542135.html?.tsrc=rss"
+    },
+    {
+      "title": "Did a $330 Million Gold Token",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Kinesis Gold appeared to surge 110% on CoinGecko as unusual C1USD pricing and a sharp volume spike distorted KAU’s market data.",
+      "link": "https://beincrypto.com/kinesis-gold-kau-110-percent-coingecko-price-glitch/?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202215593.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "COP Q2 Deep Dive",
-      "summary": "Oil and gas producer ConocoPhillips (NYSE:COP) reported Q2 CY2026 results exceeding the market’s revenue expectations, with sales up 32.4% year on year to $19.52 billion. Its non-G",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/cop-q2-deep-dive-portfolio-074122384.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 07:41:22 +0000"
-    },
-    {
-      "title": "Stock Market",
-      "summary": "U.S. stock futures are showing modest gains heading into Monday morning as Wall Street digests a strong weekly performance while tracking high-stakes diplomatic maneuvering in the ",
+      "title": "Earnings live updates",
+      "summary": "The second quarter earnings season is beginning to wind down, with nearly 90% of S&P 500 (^GSPC) companies having already reported.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61065974/stock-market-will-sp-500-open-up-or-down-today-13?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 07:29:55 +0000"
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-stock-jumps-on-improving-margins-raised-revenue-guidance-202302733.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 20:23:02 +0000"
     },
     {
-      "title": "BKV Q2 Deep Dive",
-      "summary": "Natural gas producer BKV (NYSE:BKV) reported revenue ahead of Wall Street’s expectations in Q2 CY2026, with sales up 44.6% year on year to $465.5 million. Its GAAP profit of $0.67 ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/bkv-q2-deep-dive-power-064522519.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 06:45:22 +0000"
-    },
-    {
-      "title": "Asian shares track Wall Street",
-      "summary": "Shares were mostly higher Monday in Asia, with Japan’s Nikkei 225 leading advances after stocks rose on Wall Street.  Oil prices rose and U.S. futures were little changed.  In Toky",
+      "title": "Global stocks mixed while oil prices",
+      "summary": "Stock markets were little changed Monday, holding near record highs amid thin summer volumes, as investors awaited inflation data this week while mostly shrugging off the latest sp",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-gains-wall-062649152.html?.tsrc=rss",
-      "published": "Mon, 10 Aug 2026 06:26:49 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-track-wall-st-030542135.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 20:30:29 +0000"
+    },
+    {
+      "title": "Did a $330 Million Gold Token",
+      "summary": "Kinesis Gold appeared to surge 110% on CoinGecko as unusual C1USD pricing and a sharp volume spike distorted KAU’s market data.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/kinesis-gold-kau-110-percent-coingecko-price-glitch/?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 20:28:02 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202215593.html?.tsrc=rss",
+      "published": "Mon, 10 Aug 2026 20:22:15 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "78.28",
+          "value": "82.35",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "83.76",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "87.86",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4414.80",
-          "change": "-0.01%",
+          "value": "4448.40",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.65",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.64",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        78.22000122070312,
-        78.27999877929688,
-        78.30999755859375,
-        78.29000091552734,
-        78.19999694824219,
-        78.20999908447266,
-        78.26000213623047,
-        78.22000122070312,
-        78.25,
-        78.27999877929688,
-        78.27999877929688
+        82.26000213623047,
+        82.33000183105469,
+        82.31999969482422,
+        82.3499984741211,
+        82.33000183105469,
+        82.3499984741211,
+        82.30999755859375,
+        82.36000061035156,
+        82.37999725341797,
+        82.3499984741211,
+        82.3499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-08-10 17:05 KST"
+      "freshness": "2026-08-11 05:47 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.710%",
+          "value": "3.718%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.362%",
+          "value": "4.405%",
           "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.660%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.699%",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.211%",
+          "value": "5.243%",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        4.6579999923706055,
-        4.656000137329102,
-        4.6579999923706055,
-        4.6579999923706055,
-        4.6579999923706055,
-        4.6579999923706055,
-        4.659999847412109,
-        4.659999847412109,
-        4.659999847412109,
-        4.659999847412109,
-        4.659999847412109
+        4.699999809265137,
+        4.699999809265137,
+        4.699000358581543,
+        4.696000099182129,
+        4.696000099182129,
+        4.699000358581543,
+        4.699000358581543,
+        4.699999809265137,
+        4.699999809265137,
+        4.699999809265137,
+        4.699000358581543
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-08 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-08-11 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7755.61",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "7753.15",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26686.48",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "26604.77",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6531.10",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6539.07",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        7752.14990234375,
-        7752.64013671875,
-        7750.580078125,
-        7751.0498046875,
-        7753.509765625,
-        7752.6201171875,
-        7753.22021484375,
-        7753.77978515625,
-        7755.1201171875,
-        7758.5400390625,
-        7755.60986328125
+        7754.6298828125,
+        7748.18994140625,
+        7747.419921875,
+        7746.89990234375,
+        7747.31005859375,
+        7746.66015625,
+        7748.93994140625,
+        7747.39013671875,
+        7746.10986328125,
+        7748.58984375,
+        7753.14990234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-08-08 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-08-11 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.64",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.82",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1417.99",
+          "value": "1417.79",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.46",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "159.29",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7441",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.7447",
+          "change": "+0.11%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1417.81005859375,
-        1417.8599853515625,
-        1417.5799560546875,
-        1418.3499755859375,
-        1418.260009765625,
-        1417.8800048828125,
-        1418.0799560546875,
-        1417.969970703125,
-        1418.050048828125,
-        1417.9300537109375,
-        1417.989990234375
+        1417.2099609375,
+        1417.800048828125,
+        1417.7900390625,
+        1417.7900390625,
+        1417.7900390625,
+        1417.280029296875,
+        1417.780029296875,
+        1417.8199462890625,
+        1417.8299560546875,
+        1417.760009765625,
+        1417.7900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-10 17:15 KST"
+      "status": "중립",
+      "freshness": "2026-08-11 05:57 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
