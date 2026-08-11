@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-11",
-  "collectedAt": "2026-08-11T07:49:23Z",
+  "date": "2026-08-12",
+  "collectedAt": "2026-08-11T20:59:29Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,19 +34,19 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.06%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.02%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices jump further as hopes for",
-      "impact": "채권, 금리",
+      "title": "TSX Closer",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices extended a strong rally Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate",
+      "summary": "The S&P/TSX Composite Index closed at a new record high for the third straight session on Tuesday as",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-204156569.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices higher, stocks mixed",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices bounced around before finishing higher Tuesday while global stocks were mixed as markets awaited a key inflation report expected to influence upcoming monetary policy de",
       "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html?.tsrc=rss"
     },
     {
-      "title": "Thor Explorations delivers record",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Thor Explorations Ltd (TSX-V:THX, AIM:THX, OTC:THXPF) delivered record first-half revenue, EBITDA and net profit in 2026, supported by strong gold pricing, disciplined cost managem",
-      "link": "https://www.proactiveinvestors.com/companies/news/1096852/thor-explorations-delivers-record-first-half-profit-as-strong-gold-price-drives-earnings-1096852.html?.tsrc=rss"
-    },
-    {
-      "title": "Barrick Mining (B) Misses Q2",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Barrick Gold (NYSE:B) reported a Q2 earnings miss alongside updated capital expenditure guidance. Barrick Gold and Newmont agreed to expand the Nevada Gold Mines joint venture and ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-misses-q2-060759779.html?.tsrc=rss"
-    },
-    {
-      "title": "CMB.TECH fleet update",
+      "title": "Dow Skids, Oil Pops As Iran Says",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "ANTWERP, Belgium, 11 August 2026, 08:00 CET – CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo Børs: CMBTO) has sold one Sue",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cmb-tech-fleet-060200715.html?.tsrc=rss"
+      "summary": "The Dow Jones index gives up gains and oil rises after an Iranian official speaks on Hormuz. A Roger Federer play dives.",
+      "link": "https://finance.yahoo.com/m/88069686-fb31-35fa-b6c9-0c1477a53816/stock-market-today%3A-dow.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks fell for",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-post-back-back-declines-202958244.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices jump further as hopes for",
-      "summary": "Oil prices extended a strong rally Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate",
-      "impact": "채권, 금리",
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index closed at a new record high for the third straight session on Tuesday as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-204156569.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 20:41:56 +0000"
+    },
+    {
+      "title": "Oil prices higher, stocks mixed",
+      "summary": "Oil prices bounced around before finishing higher Tuesday while global stocks were mixed as markets awaited a key inflation report expected to influence upcoming monetary policy de",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
       "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 07:23:02 +0000"
+      "published": "Tue, 11 Aug 2026 20:36:55 +0000"
     },
     {
-      "title": "Thor Explorations delivers record",
-      "summary": "Thor Explorations Ltd (TSX-V:THX, AIM:THX, OTC:THXPF) delivered record first-half revenue, EBITDA and net profit in 2026, supported by strong gold pricing, disciplined cost managem",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1096852/thor-explorations-delivers-record-first-half-profit-as-strong-gold-price-drives-earnings-1096852.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 06:53:00 +0000"
-    },
-    {
-      "title": "Barrick Mining (B) Misses Q2",
-      "summary": "Barrick Gold (NYSE:B) reported a Q2 earnings miss alongside updated capital expenditure guidance. Barrick Gold and Newmont agreed to expand the Nevada Gold Mines joint venture and ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-misses-q2-060759779.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 06:07:59 +0000"
-    },
-    {
-      "title": "CMB.TECH fleet update",
-      "summary": "ANTWERP, Belgium, 11 August 2026, 08:00 CET – CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo Børs: CMBTO) has sold one Sue",
+      "title": "Dow Skids, Oil Pops As Iran Says",
+      "summary": "The Dow Jones index gives up gains and oil rises after an Iranian official speaks on Hormuz. A Roger Federer play dives.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cmb-tech-fleet-060200715.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 06:02:00 +0000"
+      "link": "https://finance.yahoo.com/m/88069686-fb31-35fa-b6c9-0c1477a53816/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 20:32:59 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks fell for",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-post-back-back-declines-202958244.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 20:29:58 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.74",
+          "value": "83.47",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "89.32",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "89.20",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4419.00",
+          "value": "4426.30",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.65",
-          "change": "-0.02%",
+          "value": "6.63",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        83.72000122070312,
-        83.81999969482422,
-        83.91000366210938,
-        83.88999938964844,
-        83.88999938964844,
-        83.87999725341797,
-        83.80000305175781,
-        83.75,
-        83.8499984741211,
-        83.73999786376953,
-        83.73999786376953
+        83.4000015258789,
+        83.44999694824219,
+        83.43000030517578,
+        83.45999908447266,
+        83.44999694824219,
+        83.45999908447266,
+        83.45999908447266,
+        83.48999786376953,
+        83.45999908447266,
+        83.47000122070312,
+        83.47000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-08-11 16:39 KST"
+      "freshness": "2026-08-12 05:49 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.718%",
+          "value": "3.730%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.405%",
+          "value": "4.385%",
           "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.699%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.684%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.243%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.236%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.699999809265137,
-        4.699999809265137,
-        4.699000358581543,
-        4.696000099182129,
-        4.696000099182129,
-        4.699000358581543,
-        4.699000358581543,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699000358581543
+        4.685999870300293,
+        4.684000015258789,
+        4.682000160217285,
+        4.682000160217285,
+        4.684000015258789,
+        4.682000160217285,
+        4.682000160217285,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-11 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-12 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7753.15",
-          "change": "+0.06%",
+          "value": "7727.41",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26604.77",
-          "change": "+0.03%",
+          "value": "26443.23",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6545.42",
+          "value": "6553.86",
           "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7754.6298828125,
-        7748.18994140625,
-        7747.419921875,
-        7746.89990234375,
-        7747.31005859375,
-        7746.66015625,
-        7748.93994140625,
-        7747.39013671875,
-        7746.10986328125,
-        7748.58984375,
-        7753.14990234375
+        7727.22998046875,
+        7722.93994140625,
+        7724.06982421875,
+        7721.97998046875,
+        7722.27001953125,
+        7727.4501953125,
+        7725.3798828125,
+        7724.7998046875,
+        7724.330078125,
+        7725.72021484375,
+        7727.41015625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-08-11 04:59 KST"
+      "freshness": "2026-08-12 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.86",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "99.83",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1416.88",
-          "change": "+0.00%",
+          "value": "1411.06",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.30",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "159.28",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7459",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7450",
+          "change": "+0.13%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1416.75,
-        1416.8900146484375,
-        1416.93994140625,
-        1416.8399658203125,
-        1416.949951171875,
-        1416.8399658203125,
-        1416.97998046875,
-        1416.989990234375,
-        1417.010009765625,
-        1416.8699951171875,
-        1416.8800048828125
+        1411.25,
+        1410.949951171875,
+        1410.969970703125,
+        1410.97998046875,
+        1411.25,
+        1411.0,
+        1410.97998046875,
+        1411.4100341796875,
+        1410.77001953125,
+        1410.9000244140625,
+        1411.06005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-11 16:49 KST"
+      "status": "완화",
+      "freshness": "2026-08-12 05:59 KST"
     }
   ],
   "currentAction": {
