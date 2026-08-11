@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "collectedAt": "2026-08-11T04:09:16Z",
+  "collectedAt": "2026-08-11T07:49:23Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Valeura Energy Inc (VLERF) (Q2 2026)",
+      "title": "Oil prices jump further as hopes for",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Valeura Energy Inc (VLERF) reports a record $154 million in adjusted cash flow from operations, driven by strong production and a robust pricing environment.",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-vlerf-q2-030117346.html?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq, S&P 500, Dow Futures Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "U.S. President Donald Trump said on Monday that he would seek compensation from Iran as part of any peace agreement.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-s-and-p-500-dow-futures-are-trading-mixed-overnight-ahead-of-inflation-data/cZoZKDqRJfo?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices rise further as hopes for",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil prices extended hefty gains Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate hi",
+      "summary": "Oil prices extended a strong rally Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate",
       "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html?.tsrc=rss"
     },
     {
-      "title": "JustMarkets",
+      "title": "Thor Explorations delivers record",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil price volatility never remains restricted to the energy sector alone. Rapid moves in WTI or Brent crude prices quickly ripple across the global financial ecosystem - impacting ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/justmarkets-oil-price-swings-unlock-022500684.html?.tsrc=rss"
+      "summary": "Thor Explorations Ltd (TSX-V:THX, AIM:THX, OTC:THXPF) delivered record first-half revenue, EBITDA and net profit in 2026, supported by strong gold pricing, disciplined cost managem",
+      "link": "https://www.proactiveinvestors.com/companies/news/1096852/thor-explorations-delivers-record-first-half-profit-as-strong-gold-price-drives-earnings-1096852.html?.tsrc=rss"
+    },
+    {
+      "title": "Barrick Mining (B) Misses Q2",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Barrick Gold (NYSE:B) reported a Q2 earnings miss alongside updated capital expenditure guidance. Barrick Gold and Newmont agreed to expand the Nevada Gold Mines joint venture and ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-misses-q2-060759779.html?.tsrc=rss"
+    },
+    {
+      "title": "CMB.TECH fleet update",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "ANTWERP, Belgium, 11 August 2026, 08:00 CET – CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo Børs: CMBTO) has sold one Sue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cmb-tech-fleet-060200715.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Valeura Energy Inc (VLERF) (Q2 2026)",
-      "summary": "Valeura Energy Inc (VLERF) reports a record $154 million in adjusted cash flow from operations, driven by strong production and a robust pricing environment.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/valeura-energy-inc-vlerf-q2-030117346.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 03:01:17 +0000"
-    },
-    {
-      "title": "Nasdaq, S&P 500, Dow Futures Are",
-      "summary": "U.S. President Donald Trump said on Monday that he would seek compensation from Iran as part of any peace agreement.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-s-and-p-500-dow-futures-are-trading-mixed-overnight-ahead-of-inflation-data/cZoZKDqRJfo?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 02:51:39 +0000"
-    },
-    {
-      "title": "Oil prices rise further as hopes for",
-      "summary": "Oil prices extended hefty gains Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate hi",
+      "title": "Oil prices jump further as hopes for",
+      "summary": "Oil prices extended a strong rally Tuesday as hopes for a reopening of the Strait of Hormuz fade, fanning fresh inflation fears and ramping up bets on at least one US interest rate",
       "impact": "채권, 금리",
       "importance": "high",
       "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-further-hopes-023238970.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 02:32:38 +0000"
+      "published": "Tue, 11 Aug 2026 07:23:02 +0000"
     },
     {
-      "title": "JustMarkets",
-      "summary": "Oil price volatility never remains restricted to the energy sector alone. Rapid moves in WTI or Brent crude prices quickly ripple across the global financial ecosystem - impacting ",
+      "title": "Thor Explorations delivers record",
+      "summary": "Thor Explorations Ltd (TSX-V:THX, AIM:THX, OTC:THXPF) delivered record first-half revenue, EBITDA and net profit in 2026, supported by strong gold pricing, disciplined cost managem",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/justmarkets-oil-price-swings-unlock-022500684.html?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 02:25:00 +0000"
+      "link": "https://www.proactiveinvestors.com/companies/news/1096852/thor-explorations-delivers-record-first-half-profit-as-strong-gold-price-drives-earnings-1096852.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 06:53:00 +0000"
+    },
+    {
+      "title": "Barrick Mining (B) Misses Q2",
+      "summary": "Barrick Gold (NYSE:B) reported a Q2 earnings miss alongside updated capital expenditure guidance. Barrick Gold and Newmont agreed to expand the Nevada Gold Mines joint venture and ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/barrick-mining-b-misses-q2-060759779.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 06:07:59 +0000"
+    },
+    {
+      "title": "CMB.TECH fleet update",
+      "summary": "ANTWERP, Belgium, 11 August 2026, 08:00 CET – CMB.TECH NV (“CMBT”, “CMB.TECH” or “the company”) (NYSE: CMBT, Euronext Brussels: CMBT and Euronext Oslo Børs: CMBTO) has sold one Sue",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cmb-tech-fleet-060200715.html?.tsrc=rss",
+      "published": "Tue, 11 Aug 2026 06:02:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.12",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "83.74",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "87.68",
-          "change": "-0.06%",
+          "value": "89.32",
+          "change": "-0.13%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4477.00",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4419.00",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.65",
-          "change": "-0.01%",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        82.13999938964844,
-        82.12999725341797,
-        82.13999938964844,
-        82.13999938964844,
-        82.12999725341797,
-        82.12999725341797,
-        82.16999816894531,
-        82.13999938964844,
-        82.12000274658203,
-        82.11000061035156,
-        82.12000274658203
+        83.72000122070312,
+        83.81999969482422,
+        83.91000366210938,
+        83.88999938964844,
+        83.88999938964844,
+        83.87999725341797,
+        83.80000305175781,
+        83.75,
+        83.8499984741211,
+        83.73999786376953,
+        83.73999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-11 12:58 KST"
+      "status": "중립",
+      "freshness": "2026-08-11 16:39 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6370.57",
-          "change": "-0.06%",
+          "value": "6353.65",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6539.07",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6545.42",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.79",
+          "value": "99.86",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1414.46",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.20",
-          "change": "+0.01%",
+          "value": "1416.88",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "159.30",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7438",
+          "value": "6.7459",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1415.0799560546875,
-        1414.9300537109375,
-        1414.8499755859375,
-        1414.97998046875,
-        1414.969970703125,
-        1414.949951171875,
-        1414.6800537109375,
-        1414.47998046875,
-        1414.5799560546875,
-        1414.469970703125,
-        1414.4599609375
+        1416.75,
+        1416.8900146484375,
+        1416.93994140625,
+        1416.8399658203125,
+        1416.949951171875,
+        1416.8399658203125,
+        1416.97998046875,
+        1416.989990234375,
+        1417.010009765625,
+        1416.8699951171875,
+        1416.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-08-11 13:09 KST"
+      "freshness": "2026-08-11 16:49 KST"
     }
   ],
   "currentAction": {
