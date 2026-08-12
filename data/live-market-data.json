@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "collectedAt": "2026-08-12T04:30:31Z",
+  "collectedAt": "2026-08-12T08:01:25Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,32 +52,18 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.08%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
-    {
-      "title": "How Nasdaq, S&P 500, Dow Futures Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "July’s consumer price index (CPI) report is in focus on Wednesday as investors hope for a reading as encouraging as June’s.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/how-nasdaq-s-and-p-500-dow-futures-are-trading-ahead-of-july-inflation-data-release/cZoFpXbRJXx?.tsrc=rss"
-    },
-    {
-      "title": "3 Healthcare Stocks with Open",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their m",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-open-questions-025322220.html?.tsrc=rss"
-    },
     {
       "title": "Oil prices rise, stocks mixed ahead",
       "impact": "채권, 금리",
@@ -86,45 +72,59 @@
       "link": "https://finance.yahoo.com/markets/articles/oil-prices-rise-stocks-mixed-022830134.html?.tsrc=rss"
     },
     {
-      "title": "S&P500, Nasdaq, Dow Futures",
-      "impact": "채권, 금리",
+      "title": "World markets mixed as oil and gold",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investors await the July consumer price index that’s due at 8:30 a.m. ET on Wednesday.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss"
+      "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation ",
+      "link": "https://www.euronews.com/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data?.tsrc=rss"
+    },
+    {
+      "title": "Shares are mostly higher in Asia,",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/shares-mostly-higher-asia-kospi-052056331.html?.tsrc=rss"
+    },
+    {
+      "title": "This Crypto Platform Buys Gold Like",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Tether has scooped up 27 metric tons this year—one of the top five buyers. The other four are Poland, Uzbekistan, China, and Uzbekistan.",
+      "link": "https://finance.yahoo.com/m/80503bca-7677-3aff-a0fa-d6db8698df6c/this-crypto-platform-buys.html?.tsrc=rss"
     }
   ],
   "newsItems": [
-    {
-      "title": "How Nasdaq, S&P 500, Dow Futures Are",
-      "summary": "July’s consumer price index (CPI) report is in focus on Wednesday as investors hope for a reading as encouraging as June’s.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/how-nasdaq-s-and-p-500-dow-futures-are-trading-ahead-of-july-inflation-data-release/cZoFpXbRJXx?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 03:40:21 +0000"
-    },
-    {
-      "title": "3 Healthcare Stocks with Open",
-      "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their m",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-open-questions-025322220.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 02:53:22 +0000"
-    },
     {
       "title": "Oil prices rise, stocks mixed ahead",
       "summary": "Oil prices rose again Wednesday and stock markets were mixed, with eyes on the release of key US inflation data that could guide the Federal Reserve on its plans for interest rates",
       "impact": "채권, 금리",
       "importance": "high",
       "link": "https://finance.yahoo.com/markets/articles/oil-prices-rise-stocks-mixed-022830134.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 02:28:30 +0000"
+      "published": "Wed, 12 Aug 2026 07:31:08 +0000"
     },
     {
-      "title": "S&P500, Nasdaq, Dow Futures",
-      "summary": "Investors await the July consumer price index that’s due at 8:30 a.m. ET on Wednesday.",
-      "impact": "채권, 금리",
+      "title": "World markets mixed as oil and gold",
+      "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation ",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 00:07:19 +0000"
+      "link": "https://www.euronews.com/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 06:34:38 +0000"
+    },
+    {
+      "title": "Shares are mostly higher in Asia,",
+      "summary": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/shares-mostly-higher-asia-kospi-052056331.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 05:20:56 +0000"
+    },
+    {
+      "title": "This Crypto Platform Buys Gold Like",
+      "summary": "Tether has scooped up 27 metric tons this year—one of the top five buyers. The other four are Poland, Uzbekistan, China, and Uzbekistan.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/80503bca-7677-3aff-a0fa-d6db8698df6c/this-crypto-platform-buys.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 05:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.07",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "83.94",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "89.74",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "89.54",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4456.50",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4468.40",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.65",
-          "change": "+0.01%",
+          "value": "6.68",
+          "change": "+0.08%",
           "direction": "up"
         }
       ],
       "trend": [
-        84.08000183105469,
-        84.08999633789062,
-        84.05999755859375,
-        84.04000091552734,
-        84.05999755859375,
-        84.05999755859375,
-        84.05999755859375,
-        84.08000183105469,
-        84.08999633789062,
-        84.06999969482422,
-        84.06999969482422
+        83.81999969482422,
+        83.94000244140625,
+        83.86000061035156,
+        83.86000061035156,
+        83.94999694824219,
+        83.9000015258789,
+        83.91999816894531,
+        83.83999633789062,
+        83.8499984741211,
+        83.91000366210938,
+        83.94000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-08-12 13:20 KST"
+      "status": "강세",
+      "freshness": "2026-08-12 16:51 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6636.18",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6587.92",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6553.86",
-          "change": "+0.01%",
+          "value": "6552.20",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.89",
+          "value": "99.86",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1415.08",
-          "change": "-0.00%",
+          "value": "1416.68",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.44",
+          "value": "159.37",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7456",
+          "value": "6.7452",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1415.1099853515625,
-        1415.1400146484375,
-        1415.050048828125,
-        1415.199951171875,
-        1415.1199951171875,
-        1414.97998046875,
-        1414.8800048828125,
-        1414.9100341796875,
-        1414.9100341796875,
-        1415.1500244140625,
-        1415.0799560546875
+        1417.1700439453125,
+        1416.3800048828125,
+        1416.8599853515625,
+        1416.780029296875,
+        1417.1800537109375,
+        1416.969970703125,
+        1417.280029296875,
+        1416.8399658203125,
+        1417.02001953125,
+        1416.9200439453125,
+        1416.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-12 13:30 KST"
+      "freshness": "2026-08-12 17:01 KST"
     }
   ],
   "currentAction": {
