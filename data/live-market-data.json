@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12",
-  "collectedAt": "2026-08-12T08:01:25Z",
+  "date": "2026-08-13",
+  "collectedAt": "2026-08-12T20:58:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "+0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.08%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices rise, stocks mixed ahead",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil prices rose again Wednesday and stock markets were mixed, with eyes on the release of key US inflation data that could guide the Federal Reserve on its plans for interest rates",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-rise-stocks-mixed-022830134.html?.tsrc=rss"
+      "title": "TSX Closer",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P/TSX Composite Index rose for the fourth straight session to close at a new record high on We",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html?.tsrc=rss"
     },
     {
-      "title": "World markets mixed as oil and gold",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation ",
-      "link": "https://www.euronews.com/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data?.tsrc=rss"
+      "title": "Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-bounce-following-202619533.html?.tsrc=rss"
     },
     {
-      "title": "Shares are mostly higher in Asia,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/shares-mostly-higher-asia-kospi-052056331.html?.tsrc=rss"
+      "title": "Nasdaq Charges Higher On Inflation",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings.",
+      "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss"
     },
     {
-      "title": "This Crypto Platform Buys Gold Like",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Tether has scooped up 27 metric tons this year—one of the top five buyers. The other four are Poland, Uzbekistan, China, and Uzbekistan.",
-      "link": "https://finance.yahoo.com/m/80503bca-7677-3aff-a0fa-d6db8698df6c/this-crypto-platform-buys.html?.tsrc=rss"
+      "title": "US Equity Markets End Mixed Amid",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "US equity indexes ended mixed Wednesday amid stock gains by some major technology stocks and a four-",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-mixed-201441316.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices rise, stocks mixed ahead",
-      "summary": "Oil prices rose again Wednesday and stock markets were mixed, with eyes on the release of key US inflation data that could guide the Federal Reserve on its plans for interest rates",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/oil-prices-rise-stocks-mixed-022830134.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 07:31:08 +0000"
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index rose for the fourth straight session to close at a new record high on We",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 20:30:59 +0000"
     },
     {
-      "title": "World markets mixed as oil and gold",
-      "summary": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.euronews.com/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 06:34:38 +0000"
+      "title": "Update",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-bounce-following-202619533.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 20:26:19 +0000"
     },
     {
-      "title": "Shares are mostly higher in Asia,",
-      "summary": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/shares-mostly-higher-asia-kospi-052056331.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 05:20:56 +0000"
+      "title": "Nasdaq Charges Higher On Inflation",
+      "summary": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 20:22:31 +0000"
     },
     {
-      "title": "This Crypto Platform Buys Gold Like",
-      "summary": "Tether has scooped up 27 metric tons this year—one of the top five buyers. The other four are Poland, Uzbekistan, China, and Uzbekistan.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/80503bca-7677-3aff-a0fa-d6db8698df6c/this-crypto-platform-buys.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000"
+      "title": "US Equity Markets End Mixed Amid",
+      "summary": "US equity indexes ended mixed Wednesday amid stock gains by some major technology stocks and a four-",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-mixed-201441316.html?.tsrc=rss",
+      "published": "Wed, 12 Aug 2026 20:14:41 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.94",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "82.59",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "89.54",
-          "change": "+0.04%",
+          "value": "88.41",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4468.40",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "4467.60",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.68",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "6.61",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        83.81999969482422,
-        83.94000244140625,
-        83.86000061035156,
-        83.86000061035156,
-        83.94999694824219,
-        83.9000015258789,
-        83.91999816894531,
-        83.83999633789062,
-        83.8499984741211,
-        83.91000366210938,
-        83.94000244140625
+        82.55000305175781,
+        82.58000183105469,
+        82.58999633789062,
+        82.61000061035156,
+        82.62000274658203,
+        82.62999725341797,
+        82.62000274658203,
+        82.55999755859375,
+        82.58999633789062,
+        82.5999984741211,
+        82.58999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-12 16:51 KST"
+      "status": "약세",
+      "freshness": "2026-08-13 05:48 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.730%",
+          "value": "3.707%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.385%",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
-          "name": "UST 10Y",
-          "value": "4.684%",
+          "value": "4.375%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "UST 10Y",
+          "value": "4.682%",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
           "name": "UST 30Y",
-          "value": "5.236%",
+          "value": "5.247%",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.685999870300293,
-        4.684000015258789,
-        4.682000160217285,
-        4.682000160217285,
-        4.684000015258789,
-        4.682000160217285,
-        4.682000160217285,
         4.684000015258789,
         4.684000015258789,
         4.684000015258789,
-        4.684000015258789
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.684000015258789,
+        4.682000160217285
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-12 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-08-13 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7727.41",
-          "change": "+0.02%",
+          "value": "7748.71",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26443.23",
-          "change": "+0.00%",
+          "value": "26590.59",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6552.20",
-          "change": "+0.00%",
+          "value": "6530.18",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        7727.22998046875,
-        7722.93994140625,
-        7724.06982421875,
-        7721.97998046875,
-        7722.27001953125,
-        7727.4501953125,
-        7725.3798828125,
-        7724.7998046875,
-        7724.330078125,
-        7725.72021484375,
-        7727.41015625
+        7751.5,
+        7747.4501953125,
+        7746.64990234375,
+        7746.97021484375,
+        7747.18017578125,
+        7745.75,
+        7743.5498046875,
+        7745.18994140625,
+        7745.33984375,
+        7746.3701171875,
+        7748.7099609375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-08-12 04:59 KST"
+      "freshness": "2026-08-13 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.86",
+          "value": "99.97",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1416.68",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.37",
-          "change": "+0.00%",
+          "value": "1417.85",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "159.41",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7452",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7428",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1417.1700439453125,
-        1416.3800048828125,
-        1416.8599853515625,
-        1416.780029296875,
-        1417.1800537109375,
-        1416.969970703125,
-        1417.280029296875,
-        1416.8399658203125,
-        1417.02001953125,
-        1416.9200439453125,
-        1416.6800537109375
+        1417.9300537109375,
+        1417.9300537109375,
+        1417.8800048828125,
+        1417.7900390625,
+        1417.9300537109375,
+        1417.9300537109375,
+        1417.8299560546875,
+        1417.75,
+        1417.93994140625,
+        1417.760009765625,
+        1417.8499755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-12 17:01 KST"
+      "freshness": "2026-08-13 05:58 KST"
     }
   ],
   "currentAction": {
