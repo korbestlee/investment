@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-13",
-  "collectedAt": "2026-08-13T08:02:43Z",
+  "date": "2026-08-14",
+  "collectedAt": "2026-08-13T20:58:28Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.03%",
+      "value": "+0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "-0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Tech stocks enjoy rebound after US",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Tech firms led on a mixed day for Asian stocks Thursday as investors push back into the sector after a summer rout, with confidence boosted by easing US interest rate hike fears af",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tech-leads-asian-stock-023817725.html?.tsrc=rss"
-    },
-    {
-      "title": "Bank of Korea Breaks 13-Year Streak",
+      "title": "S&P 500 Hits High On Workday,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The Bank of Korea holds $250 million in SPDR Gold Shares, its first gold-linked purchase since 2013, an SEC filing shows.",
-      "link": "https://beincrypto.com/bank-of-korea-gold-etf-purchase/?.tsrc=rss"
+      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
     },
     {
-      "title": "The Hidden Red Flag in Wall Street’s",
+      "title": "Update",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Nvidia and other tech stocks have a wide “dispersion” of price targets. Why that could be a problem for investors.",
-      "link": "https://finance.yahoo.com/m/3524393c-1e83-3193-af28-9e5b8b921a1f/the-hidden-red-flag-in-wall.html?.tsrc=rss"
+      "summary": "(Updates with market moves after the close.) The S&P 500 rose to a record on Thursday as traders",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-rises-record-producer-204454316.html?.tsrc=rss"
     },
     {
-      "title": "UAE Reportedly Released Iran’s",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil prices fell on Thursday after reports that the United Arab Emirates (UAE) released Iran’s frozen assets held in Emirati banks, including gold valued at roughly $200-283 million",
-      "link": "https://coingape.com/uae-released-iran-frozen-assets-worth-billions-dollars-bitcoin-rebounds/?.tsrc=rss"
+      "title": "TSX Closer",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P/TSX Composite Index closed at a fresh record high on Thursday as a strong rally in technolog",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-201732743.html?.tsrc=rss"
+    },
+    {
+      "title": "Bill Ackman's Pershing Square Has",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Ackman dumped Alphabet and doubled down on three megacap tech winners. Here's what has to go right for the outperformance to continue.",
+      "link": "https://www.fool.com/investing/2026/08/13/bill-ackman-pershing-beat-sp500-continue/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tech stocks enjoy rebound after US",
-      "summary": "Tech firms led on a mixed day for Asian stocks Thursday as investors push back into the sector after a summer rout, with confidence boosted by easing US interest rate hike fears af",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tech-leads-asian-stock-023817725.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 07:33:09 +0000"
-    },
-    {
-      "title": "Bank of Korea Breaks 13-Year Streak",
-      "summary": "The Bank of Korea holds $250 million in SPDR Gold Shares, its first gold-linked purchase since 2013, an SEC filing shows.",
+      "title": "S&P 500 Hits High On Workday,",
+      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://beincrypto.com/bank-of-korea-gold-etf-purchase/?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 07:06:26 +0000"
+      "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 20:47:44 +0000"
     },
     {
-      "title": "The Hidden Red Flag in Wall Street’s",
-      "summary": "Nvidia and other tech stocks have a wide “dispersion” of price targets. Why that could be a problem for investors.",
+      "title": "Update",
+      "summary": "(Updates with market moves after the close.) The S&P 500 rose to a record on Thursday as traders",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/3524393c-1e83-3193-af28-9e5b8b921a1f/the-hidden-red-flag-in-wall.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 06:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-rises-record-producer-204454316.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 20:44:54 +0000"
     },
     {
-      "title": "UAE Reportedly Released Iran’s",
-      "summary": "Oil prices fell on Thursday after reports that the United Arab Emirates (UAE) released Iran’s frozen assets held in Emirati banks, including gold valued at roughly $200-283 million",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://coingape.com/uae-released-iran-frozen-assets-worth-billions-dollars-bitcoin-rebounds/?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 06:17:29 +0000"
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index closed at a fresh record high on Thursday as a strong rally in technolog",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-201732743.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 20:17:32 +0000"
+    },
+    {
+      "title": "Bill Ackman's Pershing Square Has",
+      "summary": "Ackman dumped Alphabet and doubled down on three megacap tech winners. Here's what has to go right for the outperformance to continue.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/08/13/bill-ackman-pershing-beat-sp500-continue/?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 20:13:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.07",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "81.21",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "87.78",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "87.00",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4429.20",
-          "change": "+0.02%",
+          "value": "4406.10",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.51",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6.58",
+          "change": "-0.05%",
+          "direction": "down"
         }
       ],
       "trend": [
-        81.9800033569336,
-        81.94999694824219,
-        81.87000274658203,
-        82.06999969482422,
-        82.08999633789062,
-        82.12999725341797,
-        82.11000061035156,
-        82.12999725341797,
-        82.05000305175781,
-        82.11000061035156,
-        82.06999969482422
+        81.18000030517578,
+        81.0999984741211,
+        81.16000366210938,
+        81.16999816894531,
+        81.18000030517578,
+        81.18000030517578,
+        81.22000122070312,
+        81.18000030517578,
+        81.22000122070312,
+        81.19999694824219,
+        81.20999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-13 16:52 KST"
+      "status": "강세",
+      "freshness": "2026-08-14 05:48 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.707%",
+          "value": "3.705%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.375%",
+          "value": "4.313%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.682%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.641%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.247%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.213%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.684000015258789,
-        4.682000160217285
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.63700008392334,
+        4.638999938964844,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-13 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-14 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7748.71",
-          "change": "+0.03%",
+          "value": "7798.86",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26590.59",
-          "change": "+0.03%",
+          "value": "26803.51",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6561.11",
-          "change": "-0.00%",
+          "value": "6544.01",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        7751.5,
-        7747.4501953125,
-        7746.64990234375,
-        7746.97021484375,
-        7747.18017578125,
-        7745.75,
-        7743.5498046875,
-        7745.18994140625,
-        7745.33984375,
-        7746.3701171875,
-        7748.7099609375
+        7800.1298828125,
+        7797.2001953125,
+        7796.669921875,
+        7796.93994140625,
+        7797.85009765625,
+        7798.10986328125,
+        7797.47021484375,
+        7797.509765625,
+        7799.080078125,
+        7798.68017578125,
+        7798.85986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-08-13 04:59 KST"
+      "freshness": "2026-08-14 04:59 KST"
     },
     {
       "id": "fx",
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "99.96",
-          "change": "-0.00%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1422.83",
+          "value": "1418.07",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.36",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "159.50",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7444",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7423",
+          "change": "+0.09%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1422.8299560546875,
-        1423.0799560546875,
-        1422.97998046875,
-        1422.9000244140625,
-        1422.47998046875,
-        1422.6099853515625,
-        1422.969970703125,
-        1423.0699462890625,
-        1422.8800048828125,
-        1422.8599853515625,
-        1422.8299560546875
+        1418.050048828125,
+        1418.0999755859375,
+        1418.0999755859375,
+        1418.22998046875,
+        1418.3800048828125,
+        1418.2900390625,
+        1418.1600341796875,
+        1418.1099853515625,
+        1417.969970703125,
+        1418.0799560546875,
+        1418.0699462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-13 17:02 KST"
+      "status": "강세",
+      "freshness": "2026-08-14 05:58 KST"
     }
   ],
   "currentAction": {
