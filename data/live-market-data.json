@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "collectedAt": "2026-08-12T20:58:40Z",
+  "collectedAt": "2026-08-13T04:42:38Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "TSX Closer",
+      "title": "Dow, Nasdaq, S&P 500 Futures",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P/TSX Composite Index rose for the fourth straight session to close at a new record high on We",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html?.tsrc=rss"
+      "summary": "U.S. July CPI broadly met expectations, with headline inflation rising 0.1% month over month and 3.4% year over year, while core CPI increased 0.2% monthly and 2.5% annually.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-s-and-p-500-futures-how-markets-are-trading-after-july-cpi-as-more-inflation-data-looms/cZopxQzRJhI?.tsrc=rss"
     },
     {
-      "title": "Update",
+      "title": "Asian shares mostly rise after AI",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-bounce-following-202619533.html?.tsrc=rss"
+      "summary": "Asian shares mostly rose in early Thursday trading, as global market optimism continued on prospects for AI stocks and the semiconductor sector.  Hong Kong's Hang Seng edged up nea",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-033327003.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Charges Higher On Inflation",
+      "title": "Cisco, Coherent Are Earnings Losers",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings.",
-      "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
+      "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss"
     },
     {
-      "title": "US Equity Markets End Mixed Amid",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "US equity indexes ended mixed Wednesday amid stock gains by some major technology stocks and a four-",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-mixed-201441316.html?.tsrc=rss"
+      "title": "Which Precious Metals ETF Is the",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold offers lower costs and stability, while mining equities deliver higher returns with greater volatility. Which suits your portfolio?",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/12/which-precious-metals-etf-is-the-better-buy-ishares-gold-trust-iau-or-silver-miners-slvp/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index rose for the fourth straight session to close at a new record high on We",
+      "title": "Dow, Nasdaq, S&P 500 Futures",
+      "summary": "U.S. July CPI broadly met expectations, with headline inflation rising 0.1% month over month and 3.4% year over year, while core CPI increased 0.2% monthly and 2.5% annually.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-203059625.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 20:30:59 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-s-and-p-500-futures-how-markets-are-trading-after-july-cpi-as-more-inflation-data-looms/cZopxQzRJhI?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 03:34:57 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+      "title": "Asian shares mostly rise after AI",
+      "summary": "Asian shares mostly rose in early Thursday trading, as global market optimism continued on prospects for AI stocks and the semiconductor sector.  Hong Kong's Hang Seng edged up nea",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-bounce-following-202619533.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 20:26:19 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-033327003.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 03:33:27 +0000"
     },
     {
-      "title": "Nasdaq Charges Higher On Inflation",
-      "summary": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings.",
+      "title": "Cisco, Coherent Are Earnings Losers",
+      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 20:22:31 +0000"
+      "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 03:09:24 +0000"
     },
     {
-      "title": "US Equity Markets End Mixed Amid",
-      "summary": "US equity indexes ended mixed Wednesday amid stock gains by some major technology stocks and a four-",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-mixed-201441316.html?.tsrc=rss",
-      "published": "Wed, 12 Aug 2026 20:14:41 +0000"
+      "title": "Which Precious Metals ETF Is the",
+      "summary": "Gold offers lower costs and stability, while mining equities deliver higher returns with greater volatility. Which suits your portfolio?",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.fool.com/coverage/etfs/2026/08/12/which-precious-metals-etf-is-the-better-buy-ishares-gold-trust-iau-or-silver-miners-slvp/?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 01:32:05 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.59",
-          "change": "-0.01%",
+          "value": "82.98",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "88.41",
+          "value": "88.83",
           "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4467.60",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4457.40",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.61",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.56",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        82.55000305175781,
-        82.58000183105469,
-        82.58999633789062,
-        82.61000061035156,
-        82.62000274658203,
-        82.62999725341797,
-        82.62000274658203,
-        82.55999755859375,
-        82.58999633789062,
-        82.5999984741211,
-        82.58999633789062
+        82.91999816894531,
+        82.9000015258789,
+        82.93000030517578,
+        82.94999694824219,
+        82.91999816894531,
+        82.9000015258789,
+        82.93000030517578,
+        82.97000122070312,
+        82.97000122070312,
+        83.0,
+        82.9800033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-13 05:48 KST"
+      "freshness": "2026-08-13 13:32 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6587.92",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6817.64",
+          "change": "-0.13%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.97",
+          "value": "100.01",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1417.85",
-          "change": "+0.01%",
+          "value": "1415.55",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.41",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "159.47",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7428",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.7436",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1417.9300537109375,
-        1417.9300537109375,
-        1417.8800048828125,
-        1417.7900390625,
-        1417.9300537109375,
-        1417.9300537109375,
-        1417.8299560546875,
-        1417.75,
-        1417.93994140625,
-        1417.760009765625,
-        1417.8499755859375
+        1415.6300048828125,
+        1415.6600341796875,
+        1415.6700439453125,
+        1415.5799560546875,
+        1415.6099853515625,
+        1415.6400146484375,
+        1415.8399658203125,
+        1415.6500244140625,
+        1415.6500244140625,
+        1415.47998046875,
+        1415.550048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-13 05:58 KST"
+      "freshness": "2026-08-13 13:42 KST"
     }
   ],
   "currentAction": {
