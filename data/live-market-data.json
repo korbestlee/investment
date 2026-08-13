@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "collectedAt": "2026-08-13T04:42:38Z",
+  "collectedAt": "2026-08-13T08:02:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, Nasdaq, S&P 500 Futures",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "U.S. July CPI broadly met expectations, with headline inflation rising 0.1% month over month and 3.4% year over year, while core CPI increased 0.2% monthly and 2.5% annually.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-s-and-p-500-futures-how-markets-are-trading-after-july-cpi-as-more-inflation-data-looms/cZopxQzRJhI?.tsrc=rss"
+      "title": "Tech stocks enjoy rebound after US",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Tech firms led on a mixed day for Asian stocks Thursday as investors push back into the sector after a summer rout, with confidence boosted by easing US interest rate hike fears af",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tech-leads-asian-stock-023817725.html?.tsrc=rss"
     },
     {
-      "title": "Asian shares mostly rise after AI",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Asian shares mostly rose in early Thursday trading, as global market optimism continued on prospects for AI stocks and the semiconductor sector.  Hong Kong's Hang Seng edged up nea",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-033327003.html?.tsrc=rss"
-    },
-    {
-      "title": "Cisco, Coherent Are Earnings Losers",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
-      "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss"
-    },
-    {
-      "title": "Which Precious Metals ETF Is the",
+      "title": "Bank of Korea Breaks 13-Year Streak",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Gold offers lower costs and stability, while mining equities deliver higher returns with greater volatility. Which suits your portfolio?",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/12/which-precious-metals-etf-is-the-better-buy-ishares-gold-trust-iau-or-silver-miners-slvp/?.tsrc=rss"
+      "summary": "The Bank of Korea holds $250 million in SPDR Gold Shares, its first gold-linked purchase since 2013, an SEC filing shows.",
+      "link": "https://beincrypto.com/bank-of-korea-gold-etf-purchase/?.tsrc=rss"
+    },
+    {
+      "title": "The Hidden Red Flag in Wall Street’s",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Nvidia and other tech stocks have a wide “dispersion” of price targets. Why that could be a problem for investors.",
+      "link": "https://finance.yahoo.com/m/3524393c-1e83-3193-af28-9e5b8b921a1f/the-hidden-red-flag-in-wall.html?.tsrc=rss"
+    },
+    {
+      "title": "UAE Reportedly Released Iran’s",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Oil prices fell on Thursday after reports that the United Arab Emirates (UAE) released Iran’s frozen assets held in Emirati banks, including gold valued at roughly $200-283 million",
+      "link": "https://coingape.com/uae-released-iran-frozen-assets-worth-billions-dollars-bitcoin-rebounds/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, Nasdaq, S&P 500 Futures",
-      "summary": "U.S. July CPI broadly met expectations, with headline inflation rising 0.1% month over month and 3.4% year over year, while core CPI increased 0.2% monthly and 2.5% annually.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-nasdaq-s-and-p-500-futures-how-markets-are-trading-after-july-cpi-as-more-inflation-data-looms/cZopxQzRJhI?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 03:34:57 +0000"
+      "title": "Tech stocks enjoy rebound after US",
+      "summary": "Tech firms led on a mixed day for Asian stocks Thursday as investors push back into the sector after a summer rout, with confidence boosted by easing US interest rate hike fears af",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/seoul-tech-leads-asian-stock-023817725.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 07:33:09 +0000"
     },
     {
-      "title": "Asian shares mostly rise after AI",
-      "summary": "Asian shares mostly rose in early Thursday trading, as global market optimism continued on prospects for AI stocks and the semiconductor sector.  Hong Kong's Hang Seng edged up nea",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-ai-033327003.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 03:33:27 +0000"
-    },
-    {
-      "title": "Cisco, Coherent Are Earnings Losers",
-      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 03:09:24 +0000"
-    },
-    {
-      "title": "Which Precious Metals ETF Is the",
-      "summary": "Gold offers lower costs and stability, while mining equities deliver higher returns with greater volatility. Which suits your portfolio?",
+      "title": "Bank of Korea Breaks 13-Year Streak",
+      "summary": "The Bank of Korea holds $250 million in SPDR Gold Shares, its first gold-linked purchase since 2013, an SEC filing shows.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/coverage/etfs/2026/08/12/which-precious-metals-etf-is-the-better-buy-ishares-gold-trust-iau-or-silver-miners-slvp/?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 01:32:05 +0000"
+      "link": "https://beincrypto.com/bank-of-korea-gold-etf-purchase/?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 07:06:26 +0000"
+    },
+    {
+      "title": "The Hidden Red Flag in Wall Street’s",
+      "summary": "Nvidia and other tech stocks have a wide “dispersion” of price targets. Why that could be a problem for investors.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/3524393c-1e83-3193-af28-9e5b8b921a1f/the-hidden-red-flag-in-wall.html?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 06:30:00 +0000"
+    },
+    {
+      "title": "UAE Reportedly Released Iran’s",
+      "summary": "Oil prices fell on Thursday after reports that the United Arab Emirates (UAE) released Iran’s frozen assets held in Emirati banks, including gold valued at roughly $200-283 million",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://coingape.com/uae-released-iran-frozen-assets-worth-billions-dollars-bitcoin-rebounds/?.tsrc=rss",
+      "published": "Thu, 13 Aug 2026 06:17:29 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.98",
-          "change": "-0.02%",
+          "value": "82.07",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "88.83",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "87.78",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4457.40",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4429.20",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.56",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.51",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        82.91999816894531,
-        82.9000015258789,
-        82.93000030517578,
-        82.94999694824219,
-        82.91999816894531,
-        82.9000015258789,
-        82.93000030517578,
-        82.97000122070312,
-        82.97000122070312,
-        83.0,
-        82.9800033569336
+        81.9800033569336,
+        81.94999694824219,
+        81.87000274658203,
+        82.06999969482422,
+        82.08999633789062,
+        82.12999725341797,
+        82.11000061035156,
+        82.12999725341797,
+        82.05000305175781,
+        82.11000061035156,
+        82.06999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-13 13:32 KST"
+      "freshness": "2026-08-13 16:52 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6817.64",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "6772.38",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6530.18",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6561.11",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.01",
+          "value": "99.96",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1415.55",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1422.83",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.47",
-          "change": "+0.00%",
+          "value": "159.36",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7436",
+          "value": "6.7444",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1415.6300048828125,
-        1415.6600341796875,
-        1415.6700439453125,
-        1415.5799560546875,
-        1415.6099853515625,
-        1415.6400146484375,
-        1415.8399658203125,
-        1415.6500244140625,
-        1415.6500244140625,
-        1415.47998046875,
-        1415.550048828125
+        1422.8299560546875,
+        1423.0799560546875,
+        1422.97998046875,
+        1422.9000244140625,
+        1422.47998046875,
+        1422.6099853515625,
+        1422.969970703125,
+        1423.0699462890625,
+        1422.8800048828125,
+        1422.8599853515625,
+        1422.8299560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-13 13:42 KST"
+      "freshness": "2026-08-13 17:02 KST"
     }
   ],
   "currentAction": {
