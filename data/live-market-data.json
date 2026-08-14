@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "collectedAt": "2026-08-14T07:58:59Z",
+  "date": "2026-08-15",
+  "collectedAt": "2026-08-14T20:41:13Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.00%",
+      "value": "+0.04%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Tom Lee Is Bullish on Stocks, But",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Tom Lee reiterated his S&P 500 target of 8,000 but named a few risks that could still trigger a long awaited pullback.",
-      "link": "https://beincrypto.com/tom-lee-bullish-stocks-pullback-risk/?.tsrc=rss"
-    },
-    {
-      "title": "Most Asian stocks track Wall St",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Most Asian stocks rose Friday, tracking a record day on Wall Street, as another soft US inflation reading solidified expectations that the Federal Reserve will hold off hiking inte",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html?.tsrc=rss"
-    },
-    {
-      "title": "Should You Forget Berkshire Hathaway",
+      "title": "Stripe and Advent bid $60.50 a share",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "One option currently provides a guaranteed return on investment.",
-      "link": "https://www.fool.com/investing/2026/08/14/should-you-forget-berkshire-hathaway-and-buy-a-foc/?.tsrc=rss"
+      "summary": "PayPal (NASDAQ: PYPL) shares are trading up approximately 1.7% on the news as of Friday afternoon, extending a remarkable run that saw the stock surge 32.5% in July alone — making ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stripe-advent-bid-60-50-202741307.html?.tsrc=rss"
     },
     {
-      "title": "How far can global oil supplies",
+      "title": "US Equity Indexes Mixed This Week",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "<body><p>STORY: With no end in sight for the U.S. - Iran conflict, there's a critical question for energy markets and world leaders: how long will global oil stockpiles last?</p><p",
-      "link": "https://finance.yahoo.com/video/far-global-oil-supplies-stretch-164543005.html?.tsrc=rss"
+      "summary": "US equity indexes were mixed this week as easing inflation and a drop in retail sales boosted the od",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss"
+    },
+    {
+      "title": "“Always be investing”",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Transcript: Caroline Woods:Joining me now, Christopher Davis, founding partner, Hudson Value Partners. Christopher, welcome. So good to have you here. Christopher Davis:Thank you f",
+      "link": "https://www.thestreet.com/video/always-be-investing-where-to-put-money-at-record-high?.tsrc=rss"
+    },
+    {
+      "title": "PS International Group Ltd. Receives",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "HONG KONG, Aug. 14, 2026 (GLOBE NEWSWIRE) -- PS International Group Ltd. (“PSIG” or the “Company”) (Nasdaq: PSIG), a long-established global logistics and supply chain solution pro",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ps-international-group-ltd-receives-202000485.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tom Lee Is Bullish on Stocks, But",
-      "summary": "Tom Lee reiterated his S&P 500 target of 8,000 but named a few risks that could still trigger a long awaited pullback.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://beincrypto.com/tom-lee-bullish-stocks-pullback-risk/?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 07:47:41 +0000"
-    },
-    {
-      "title": "Most Asian stocks track Wall St",
-      "summary": "Most Asian stocks rose Friday, tracking a record day on Wall Street, as another soft US inflation reading solidified expectations that the Federal Reserve will hold off hiking inte",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 07:32:13 +0000"
-    },
-    {
-      "title": "Should You Forget Berkshire Hathaway",
-      "summary": "One option currently provides a guaranteed return on investment.",
+      "title": "Stripe and Advent bid $60.50 a share",
+      "summary": "PayPal (NASDAQ: PYPL) shares are trading up approximately 1.7% on the news as of Friday afternoon, extending a remarkable run that saw the stock surge 32.5% in July alone — making ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/14/should-you-forget-berkshire-hathaway-and-buy-a-foc/?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 07:25:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stripe-advent-bid-60-50-202741307.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 20:27:41 +0000"
     },
     {
-      "title": "How far can global oil supplies",
-      "summary": "<body><p>STORY: With no end in sight for the U.S. - Iran conflict, there's a critical question for energy markets and world leaders: how long will global oil stockpiles last?</p><p",
+      "title": "US Equity Indexes Mixed This Week",
+      "summary": "US equity indexes were mixed this week as easing inflation and a drop in retail sales boosted the od",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/far-global-oil-supplies-stretch-164543005.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 07:14:24 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 20:25:21 +0000"
+    },
+    {
+      "title": "“Always be investing”",
+      "summary": "Transcript: Caroline Woods:Joining me now, Christopher Davis, founding partner, Hudson Value Partners. Christopher, welcome. So good to have you here. Christopher Davis:Thank you f",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.thestreet.com/video/always-be-investing-where-to-put-money-at-record-high?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 20:24:20 +0000"
+    },
+    {
+      "title": "PS International Group Ltd. Receives",
+      "summary": "HONG KONG, Aug. 14, 2026 (GLOBE NEWSWIRE) -- PS International Group Ltd. (“PSIG” or the “Company”) (Nasdaq: PSIG), a long-established global logistics and supply chain solution pro",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ps-international-group-ltd-receives-202000485.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 20:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.69",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "82.28",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.34",
-          "change": "-0.05%",
+          "value": "88.38",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4398.10",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "4429.70",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.59",
-          "change": "+0.02%",
+          "value": "6.61",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        82.70999908447266,
-        82.69999694824219,
-        82.79000091552734,
-        82.80000305175781,
-        82.83999633789062,
-        82.79000091552734,
-        82.80999755859375,
-        82.77999877929688,
-        82.76000213623047,
-        82.72000122070312,
-        82.69000244140625
+        82.33000183105469,
+        82.31999969482422,
+        82.31999969482422,
+        82.33000183105469,
+        82.33000183105469,
+        82.29000091552734,
+        82.30999755859375,
+        82.30000305175781,
+        82.26000213623047,
+        82.2699966430664,
+        82.27999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-14 16:48 KST"
+      "status": "강세",
+      "freshness": "2026-08-15 05:31 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.705%",
+          "value": "3.697%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.313%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.362%",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.641%",
+          "value": "4.696%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.213%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.265%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.63700008392334,
-        4.63700008392334,
-        4.63700008392334,
-        4.63700008392334,
-        4.63700008392334,
-        4.63700008392334,
-        4.63700008392334,
-        4.638999938964844,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129,
+        4.696000099182129
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-08-14 03:59 KST"
+      "freshness": "2026-08-15 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7798.86",
-          "change": "+0.00%",
+          "value": "7786.01",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26803.51",
-          "change": "+0.02%",
+          "value": "26730.64",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6553.16",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6540.53",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7800.1298828125,
-        7797.2001953125,
-        7796.669921875,
-        7796.93994140625,
-        7797.85009765625,
-        7798.10986328125,
-        7797.47021484375,
-        7797.509765625,
-        7799.080078125,
-        7798.68017578125,
-        7798.85986328125
+        7783.8701171875,
+        7784.97021484375,
+        7785.77978515625,
+        7783.77001953125,
+        7783.72998046875,
+        7784.2001953125,
+        7782.2900390625,
+        7781.64990234375,
+        7781.990234375,
+        7782.77001953125,
+        7786.009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-08-14 04:59 KST"
+      "freshness": "2026-08-15 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.76",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.64",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1414.34",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1417.44",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "159.21",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "159.34",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7414",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.7407",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1415.449951171875,
-        1415.0799560546875,
-        1414.8299560546875,
-        1414.780029296875,
-        1414.969970703125,
-        1414.97998046875,
-        1414.9200439453125,
-        1415.0799560546875,
-        1415.0400390625,
-        1414.47998046875,
-        1414.3399658203125
+        1417.31005859375,
+        1417.18994140625,
+        1416.9000244140625,
+        1416.9599609375,
+        1417.31005859375,
+        1417.0400390625,
+        1417.1500244140625,
+        1417.010009765625,
+        1417.4000244140625,
+        1417.43994140625,
+        1417.43994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-14 16:58 KST"
+      "status": "중립",
+      "freshness": "2026-08-15 05:41 KST"
     }
   ],
   "currentAction": {
