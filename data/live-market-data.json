@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "collectedAt": "2026-08-13T20:58:28Z",
+  "collectedAt": "2026-08-14T04:39:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
+      "title": "Dow, S&P 500 Futures Climb, Nasdaq",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Dow futures were up 0.09%, S&P 500 futures climbed 0.04% and Nasdaq-100 futures declined 0.08% at the time of writing.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-climb-nasdaq-futures-inch-lower-after-july-ppi-cools-fed-rate-hike-expectations/cZotPXhRJiI?.tsrc=rss"
+    },
+    {
       "title": "S&P 500 Hits High On Workday,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
       "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "(Updates with market moves after the close.) The S&P 500 rose to a record on Thursday as traders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-rises-record-producer-204454316.html?.tsrc=rss"
+      "title": "Most Asian stocks track Wall St",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Most Asian stocks rose Friday as another soft US inflation reading solidified expectations the Federal Reserve will hold off hiking interest rates, while a further drop in oil pric",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html?.tsrc=rss"
     },
     {
-      "title": "TSX Closer",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P/TSX Composite Index closed at a fresh record high on Thursday as a strong rally in technolog",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-201732743.html?.tsrc=rss"
-    },
-    {
-      "title": "Bill Ackman's Pershing Square Has",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Ackman dumped Alphabet and doubled down on three megacap tech winners. Here's what has to go right for the outperformance to continue.",
-      "link": "https://www.fool.com/investing/2026/08/13/bill-ackman-pershing-beat-sp500-continue/?.tsrc=rss"
+      "title": "Oil markets look calm on top, but",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "It was a nice lull in gasoline prices, wasn't it? Alas, a deal between the United States and Iran to reopen the Strait of Hormuz fell apart yet again, and oil prices turned up more",
+      "link": "https://www.thestreet.com/automotive/slow-resolution-of-war-with-iran-is-exacting-growing-costs?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
+      "title": "Dow, S&P 500 Futures Climb, Nasdaq",
+      "summary": "Dow futures were up 0.09%, S&P 500 futures climbed 0.04% and Nasdaq-100 futures declined 0.08% at the time of writing.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-climb-nasdaq-futures-inch-lower-after-july-ppi-cools-fed-rate-hike-expectations/cZotPXhRJiI?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 03:29:25 +0000"
+    },
+    {
       "title": "S&P 500 Hits High On Workday,",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
       "link": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 20:47:44 +0000"
+      "published": "Fri, 14 Aug 2026 03:05:31 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with market moves after the close.) The S&P 500 rose to a record on Thursday as traders",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-rises-record-producer-204454316.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 20:44:54 +0000"
+      "title": "Most Asian stocks track Wall St",
+      "summary": "Most Asian stocks rose Friday as another soft US inflation reading solidified expectations the Federal Reserve will hold off hiking interest rates, while a further drop in oil pric",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 02:48:50 +0000"
     },
     {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index closed at a fresh record high on Thursday as a strong rally in technolog",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-fresh-201732743.html?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 20:17:32 +0000"
-    },
-    {
-      "title": "Bill Ackman's Pershing Square Has",
-      "summary": "Ackman dumped Alphabet and doubled down on three megacap tech winners. Here's what has to go right for the outperformance to continue.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/13/bill-ackman-pershing-beat-sp500-continue/?.tsrc=rss",
-      "published": "Thu, 13 Aug 2026 20:13:00 +0000"
+      "title": "Oil markets look calm on top, but",
+      "summary": "It was a nice lull in gasoline prices, wasn't it? Alas, a deal between the United States and Iran to reopen the Strait of Hormuz fell apart yet again, and oil prices turned up more",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.thestreet.com/automotive/slow-resolution-of-war-with-iran-is-exacting-growing-costs?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 01:14:46 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.21",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "81.30",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
           "value": "87.00",
-          "change": "+0.05%",
-          "direction": "up"
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4406.10",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4380.50",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.58",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "6.57",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        81.18000030517578,
-        81.0999984741211,
-        81.16000366210938,
-        81.16999816894531,
-        81.18000030517578,
-        81.18000030517578,
+        81.27999877929688,
+        81.27999877929688,
+        81.27999877929688,
+        81.27999877929688,
+        81.2699966430664,
+        81.2699966430664,
+        81.20999908447266,
         81.22000122070312,
-        81.18000030517578,
-        81.22000122070312,
-        81.19999694824219,
-        81.20999908447266
+        81.2699966430664,
+        81.30000305175781,
+        81.30000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-14 05:48 KST"
+      "status": "중립",
+      "freshness": "2026-08-14 13:29 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6772.38",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6942.11",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.96",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "99.89",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1418.07",
+          "value": "1415.40",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.50",
-          "change": "-0.01%",
+          "value": "159.34",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7423",
-          "change": "+0.09%",
+          "value": "6.7441",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        1418.050048828125,
-        1418.0999755859375,
-        1418.0999755859375,
-        1418.22998046875,
-        1418.3800048828125,
-        1418.2900390625,
-        1418.1600341796875,
-        1418.1099853515625,
-        1417.969970703125,
-        1418.0799560546875,
-        1418.0699462890625
+        1415.0999755859375,
+        1415.0799560546875,
+        1415.280029296875,
+        1415.1400146484375,
+        1415.0799560546875,
+        1415.1800537109375,
+        1415.3900146484375,
+        1415.8699951171875,
+        1415.6800537109375,
+        1415.4100341796875,
+        1415.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-14 05:58 KST"
+      "status": "완화",
+      "freshness": "2026-08-14 13:39 KST"
     }
   ],
   "currentAction": {
