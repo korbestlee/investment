@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "collectedAt": "2026-08-17T03:37:59Z",
+  "collectedAt": "2026-08-17T07:35:37Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.18%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nvidia Leads 5 Stocks In Buy Areas,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
-      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss"
-    },
-    {
-      "title": "Peabody Energy, Borr Drilling, Texas",
+      "title": "Bitcoin Just Took a $390 Million Hit",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
-      "link": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html?.tsrc=rss"
+      "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
+      "link": "https://beincrypto.com/bitcoin-etfs-390-million-outflow-jpmorgan-warning-analysis/?.tsrc=rss"
     },
     {
-      "title": "Valaris, Kodiak Gas Services, SM",
+      "title": "Brent Crude Nears $89 As Hormuz",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/valaris-kodiak-gas-services-sm-025300798.html?.tsrc=rss"
+      "summary": "As passage of oil through the Strait of Hormuz remains shrouded in uncertainty, the world's largest oil companies are stocking up their cash reserves, according to The Kobeissi Let",
+      "link": "https://stocktwits.com/news-articles/markets/equity/brent-crude-nears-89-strait-hormuz-xom-cvx-uso-record-cash-flow/cZo6uIKRJKY?.tsrc=rss"
     },
     {
-      "title": "Reddit (RDDT) Stock Is Up Today",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 13.8% in the morning session after S&P Dow Jones Indices announced the social media company will join t",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-today-024500799.html?.tsrc=rss"
+      "title": "Stock Market",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "U.S. stock futures were slightly mixed heading into Monday morning, as investors weighed a robust corporate earnings outlook against a backdrop of complex global crosscurrents, inc",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61238641/stock-market-will-sp-500-open-up-or-down-today-17?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+    },
+    {
+      "title": "Dan Niles Says AI Infrastructure",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Dan Niles remains bullish on AI, citing strong infrastructure spending and cloud growth, while warning that elevated yields and geopolitical risks could drive volatility.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nvidia Leads 5 Stocks In Buy Areas,",
-      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 03:06:02 +0000"
-    },
-    {
-      "title": "Peabody Energy, Borr Drilling, Texas",
-      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "title": "Bitcoin Just Took a $390 Million Hit",
+      "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 03:01:00 +0000"
+      "link": "https://beincrypto.com/bitcoin-etfs-390-million-outflow-jpmorgan-warning-analysis/?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 06:55:14 +0000"
     },
     {
-      "title": "Valaris, Kodiak Gas Services, SM",
-      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "title": "Brent Crude Nears $89 As Hormuz",
+      "summary": "As passage of oil through the Strait of Hormuz remains shrouded in uncertainty, the world's largest oil companies are stocking up their cash reserves, according to The Kobeissi Let",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/valaris-kodiak-gas-services-sm-025300798.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 02:53:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/brent-crude-nears-89-strait-hormuz-xom-cvx-uso-record-cash-flow/cZo6uIKRJKY?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 06:52:25 +0000"
     },
     {
-      "title": "Reddit (RDDT) Stock Is Up Today",
-      "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 13.8% in the morning session after S&P Dow Jones Indices announced the social media company will join t",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-today-024500799.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 02:45:00 +0000"
+      "title": "Stock Market",
+      "summary": "U.S. stock futures were slightly mixed heading into Monday morning, as investors weighed a robust corporate earnings outlook against a backdrop of complex global crosscurrents, inc",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61238641/stock-market-will-sp-500-open-up-or-down-today-17?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 06:22:03 +0000"
+    },
+    {
+      "title": "Dan Niles Says AI Infrastructure",
+      "summary": "Dan Niles remains bullish on AI, citing strong infrastructure spending and cloud growth, while warning that elevated yields and geopolitical risks could drive volatility.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 05:46:52 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.46",
-          "change": "+0.02%",
+          "value": "81.76",
+          "change": "+0.18%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.88",
-          "change": "+0.02%",
+          "value": "88.37",
+          "change": "+0.23%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4445.60",
-          "change": "+0.01%",
+          "value": "4453.50",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.72",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.69",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        82.33000183105469,
-        82.43000030517578,
-        82.44000244140625,
-        82.41000366210938,
-        82.38999938964844,
-        82.38999938964844,
-        82.4000015258789,
-        82.37999725341797,
-        82.44000244140625,
-        82.44000244140625,
-        82.45999908447266
+        81.81999969482422,
+        81.77999877929688,
+        81.75,
+        81.5999984741211,
+        81.62999725341797,
+        81.66999816894531,
+        81.62000274658203,
+        81.56999969482422,
+        81.6500015258789,
+        81.61000061035156,
+        81.76000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-17 12:27 KST"
+      "freshness": "2026-08-17 16:25 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6540.53",
-          "change": "+0.05%",
+          "value": "6558.54",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.54",
-          "change": "+0.00%",
+          "value": "99.38",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1414.42",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1411.69",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.12",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "158.90",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7414",
+          "value": "6.7380",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1414.75,
-        1414.7900390625,
-        1414.8199462890625,
-        1414.780029296875,
-        1414.3399658203125,
-        1413.9000244140625,
-        1413.969970703125,
-        1414.280029296875,
-        1415.050048828125,
-        1414.6099853515625,
-        1414.4200439453125
+        1411.8199462890625,
+        1411.56005859375,
+        1412.2900390625,
+        1412.489990234375,
+        1413.3900146484375,
+        1412.219970703125,
+        1412.1300048828125,
+        1411.6300048828125,
+        1411.6800537109375,
+        1411.3399658203125,
+        1411.68994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-08-17 12:37 KST"
+      "freshness": "2026-08-17 16:35 KST"
     }
   ],
   "currentAction": {
