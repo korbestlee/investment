@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-15",
-  "collectedAt": "2026-08-14T20:41:13Z",
+  "date": "2026-08-17",
+  "collectedAt": "2026-08-17T03:37:59Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stripe and Advent bid $60.50 a share",
+      "title": "Nvidia Leads 5 Stocks In Buy Areas,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "PayPal (NASDAQ: PYPL) shares are trading up approximately 1.7% on the news as of Friday afternoon, extending a remarkable run that saw the stock surge 32.5% in July alone — making ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stripe-advent-bid-60-50-202741307.html?.tsrc=rss"
+      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss"
     },
     {
-      "title": "US Equity Indexes Mixed This Week",
-      "impact": "채권, 금리",
+      "title": "Peabody Energy, Borr Drilling, Texas",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "US equity indexes were mixed this week as easing inflation and a drop in retail sales boosted the od",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss"
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "link": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html?.tsrc=rss"
     },
     {
-      "title": "“Always be investing”",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Transcript: Caroline Woods:Joining me now, Christopher Davis, founding partner, Hudson Value Partners. Christopher, welcome. So good to have you here. Christopher Davis:Thank you f",
-      "link": "https://www.thestreet.com/video/always-be-investing-where-to-put-money-at-record-high?.tsrc=rss"
+      "title": "Valaris, Kodiak Gas Services, SM",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/valaris-kodiak-gas-services-sm-025300798.html?.tsrc=rss"
     },
     {
-      "title": "PS International Group Ltd. Receives",
+      "title": "Reddit (RDDT) Stock Is Up Today",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "HONG KONG, Aug. 14, 2026 (GLOBE NEWSWIRE) -- PS International Group Ltd. (“PSIG” or the “Company”) (Nasdaq: PSIG), a long-established global logistics and supply chain solution pro",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ps-international-group-ltd-receives-202000485.html?.tsrc=rss"
+      "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 13.8% in the morning session after S&P Dow Jones Indices announced the social media company will join t",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-today-024500799.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stripe and Advent bid $60.50 a share",
-      "summary": "PayPal (NASDAQ: PYPL) shares are trading up approximately 1.7% on the news as of Friday afternoon, extending a remarkable run that saw the stock surge 32.5% in July alone — making ",
+      "title": "Nvidia Leads 5 Stocks In Buy Areas,",
+      "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stripe-advent-bid-60-50-202741307.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 20:27:41 +0000"
+      "link": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 03:06:02 +0000"
     },
     {
-      "title": "US Equity Indexes Mixed This Week",
-      "summary": "US equity indexes were mixed this week as easing inflation and a drop in retail sales boosted the od",
-      "impact": "채권, 금리",
+      "title": "Peabody Energy, Borr Drilling, Texas",
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202521705.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 20:25:21 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/peabody-energy-borr-drilling-texas-030100646.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 03:01:00 +0000"
     },
     {
-      "title": "“Always be investing”",
-      "summary": "Transcript: Caroline Woods:Joining me now, Christopher Davis, founding partner, Hudson Value Partners. Christopher, welcome. So good to have you here. Christopher Davis:Thank you f",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.thestreet.com/video/always-be-investing-where-to-put-money-at-record-high?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 20:24:20 +0000"
+      "title": "Valaris, Kodiak Gas Services, SM",
+      "summary": "A number of stocks jumped in the morning session after the price of crude oil climbed due to escalating geopolitical tensions in the Middle East and persistent supply concerns. Wes",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/valaris-kodiak-gas-services-sm-025300798.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 02:53:00 +0000"
     },
     {
-      "title": "PS International Group Ltd. Receives",
-      "summary": "HONG KONG, Aug. 14, 2026 (GLOBE NEWSWIRE) -- PS International Group Ltd. (“PSIG” or the “Company”) (Nasdaq: PSIG), a long-established global logistics and supply chain solution pro",
+      "title": "Reddit (RDDT) Stock Is Up Today",
+      "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 13.8% in the morning session after S&P Dow Jones Indices announced the social media company will join t",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ps-international-group-ltd-receives-202000485.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 20:20:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-today-024500799.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 02:45:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.28",
-          "change": "+0.01%",
+          "value": "82.46",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.38",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "88.88",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4429.70",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4445.60",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.61",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.72",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
         82.33000183105469,
-        82.31999969482422,
-        82.31999969482422,
-        82.33000183105469,
-        82.33000183105469,
-        82.29000091552734,
-        82.30999755859375,
-        82.30000305175781,
-        82.26000213623047,
-        82.2699966430664,
-        82.27999877929688
+        82.43000030517578,
+        82.44000244140625,
+        82.41000366210938,
+        82.38999938964844,
+        82.38999938964844,
+        82.4000015258789,
+        82.37999725341797,
+        82.44000244140625,
+        82.44000244140625,
+        82.45999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-15 05:31 KST"
+      "freshness": "2026-08-17 12:27 KST"
     },
     {
       "id": "bonds",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.64",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1417.44",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.34",
+          "value": "99.54",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1414.42",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "159.12",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7407",
+          "value": "6.7414",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1417.31005859375,
-        1417.18994140625,
-        1416.9000244140625,
-        1416.9599609375,
-        1417.31005859375,
-        1417.0400390625,
-        1417.1500244140625,
-        1417.010009765625,
-        1417.4000244140625,
-        1417.43994140625,
-        1417.43994140625
+        1414.75,
+        1414.7900390625,
+        1414.8199462890625,
+        1414.780029296875,
+        1414.3399658203125,
+        1413.9000244140625,
+        1413.969970703125,
+        1414.280029296875,
+        1415.050048828125,
+        1414.6099853515625,
+        1414.4200439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-15 05:41 KST"
+      "status": "강세",
+      "freshness": "2026-08-17 12:37 KST"
     }
   ],
   "currentAction": {
