@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-17",
-  "collectedAt": "2026-08-17T07:35:37Z",
+  "date": "2026-08-18",
+  "collectedAt": "2026-08-17T20:38:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.04%",
+      "value": "-0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.18%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Bitcoin Just Took a $390 Million Hit",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
-      "link": "https://beincrypto.com/bitcoin-etfs-390-million-outflow-jpmorgan-warning-analysis/?.tsrc=rss"
-    },
-    {
-      "title": "Brent Crude Nears $89 As Hormuz",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "As passage of oil through the Strait of Hormuz remains shrouded in uncertainty, the world's largest oil companies are stocking up their cash reserves, according to The Kobeissi Let",
-      "link": "https://stocktwits.com/news-articles/markets/equity/brent-crude-nears-89-strait-hormuz-xom-cvx-uso-record-cash-flow/cZo6uIKRJKY?.tsrc=rss"
-    },
-    {
-      "title": "Stock Market",
+      "title": "Oil prices climb as US Strategic",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "U.S. stock futures were slightly mixed heading into Monday morning, as investors weighed a robust corporate earnings outlook against a backdrop of complex global crosscurrents, inc",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61238641/stock-market-will-sp-500-open-up-or-down-today-17?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+      "summary": "The US Strategic Petroleum Reserve (SPR) continues to fall, now dropping to a 40-plus-year low not seen since the first Reagan administration. Yahoo Finance Washington Corresponden",
+      "link": "https://finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html?.tsrc=rss"
     },
     {
-      "title": "Dan Niles Says AI Infrastructure",
+      "title": "TSX Closer",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Dan Niles remains bullish on AI, citing strong infrastructure spending and cloud growth, while warning that elevated yields and geopolitical risks could drive volatility.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN?.tsrc=rss"
+      "summary": "The S&P/TSX Composite Index closed lower on Monday as weakness in technology stocks outweighed gains",
+      "link": "https://finance.yahoo.com/economy/articles/tsx-closer-index-closes-lower-202055412.html?.tsrc=rss"
+    },
+    {
+      "title": "US Equity Markets End Lower Amid",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201950619.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-decline-crude-195613628.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Bitcoin Just Took a $390 Million Hit",
-      "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://beincrypto.com/bitcoin-etfs-390-million-outflow-jpmorgan-warning-analysis/?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 06:55:14 +0000"
-    },
-    {
-      "title": "Brent Crude Nears $89 As Hormuz",
-      "summary": "As passage of oil through the Strait of Hormuz remains shrouded in uncertainty, the world's largest oil companies are stocking up their cash reserves, according to The Kobeissi Let",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/brent-crude-nears-89-strait-hormuz-xom-cvx-uso-record-cash-flow/cZo6uIKRJKY?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 06:52:25 +0000"
-    },
-    {
-      "title": "Stock Market",
-      "summary": "U.S. stock futures were slightly mixed heading into Monday morning, as investors weighed a robust corporate earnings outlook against a backdrop of complex global crosscurrents, inc",
+      "title": "Oil prices climb as US Strategic",
+      "summary": "The US Strategic Petroleum Reserve (SPR) continues to fall, now dropping to a 40-plus-year low not seen since the first Reagan administration. Yahoo Finance Washington Corresponden",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61238641/stock-market-will-sp-500-open-up-or-down-today-17?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 06:22:03 +0000"
+      "link": "https://finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 19:35:00 +0000"
     },
     {
-      "title": "Dan Niles Says AI Infrastructure",
-      "summary": "Dan Niles remains bullish on AI, citing strong infrastructure spending and cloud growth, while warning that elevated yields and geopolitical risks could drive volatility.",
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index closed lower on Monday as weakness in technology stocks outweighed gains",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dan-niles-says-ai-infrastructure-rally-has-at-least-a-year-to-run-names-intel-his-favorite-chip-bet/cZo6siyRJKN?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 05:46:52 +0000"
+      "link": "https://finance.yahoo.com/economy/articles/tsx-closer-index-closes-lower-202055412.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 20:20:55 +0000"
+    },
+    {
+      "title": "US Equity Markets End Lower Amid",
+      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201950619.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 20:19:50 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-decline-crude-195613628.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 19:56:13 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.76",
-          "change": "+0.18%",
+          "value": "84.85",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.37",
-          "change": "+0.23%",
+          "value": "90.96",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4453.50",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "4471.60",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.69",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.61",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        81.81999969482422,
-        81.77999877929688,
-        81.75,
-        81.5999984741211,
-        81.62999725341797,
-        81.66999816894531,
-        81.62000274658203,
-        81.56999969482422,
-        81.6500015258789,
-        81.61000061035156,
-        81.76000213623047
+        84.7300033569336,
+        84.66999816894531,
+        84.70999908447266,
+        84.7300033569336,
+        84.77999877929688,
+        84.79000091552734,
+        84.77999877929688,
+        84.79000091552734,
+        84.75,
+        84.81999969482422,
+        84.8499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-17 16:25 KST"
+      "freshness": "2026-08-18 05:28 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.697%",
+          "value": "3.703%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.362%",
+          "value": "4.376%",
           "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.696%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.724%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.265%",
-          "change": "-0.02%",
+          "value": "5.309%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129
+        4.72599983215332,
+        4.72599983215332,
+        4.723999977111816,
+        4.723999977111816,
+        4.72599983215332,
+        4.72599983215332,
+        4.72599983215332,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.723999977111816
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-15 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-08-18 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7786.01",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "7746.14",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26730.64",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "26649.08",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6558.54",
+          "value": "6538.73",
           "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        7783.8701171875,
-        7784.97021484375,
-        7785.77978515625,
-        7783.77001953125,
-        7783.72998046875,
-        7784.2001953125,
-        7782.2900390625,
-        7781.64990234375,
-        7781.990234375,
-        7782.77001953125,
-        7786.009765625
+        7753.10009765625,
+        7749.5400390625,
+        7748.9599609375,
+        7748.0,
+        7748.66015625,
+        7747.4599609375,
+        7745.8798828125,
+        7745.77001953125,
+        7746.68994140625,
+        7748.3701171875,
+        7746.14013671875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-08-15 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-08-18 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.38",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.59",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1411.69",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1416.35",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.90",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "159.47",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7380",
+          "value": "6.7394",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1411.8199462890625,
-        1411.56005859375,
-        1412.2900390625,
-        1412.489990234375,
-        1413.3900146484375,
-        1412.219970703125,
-        1412.1300048828125,
-        1411.6300048828125,
-        1411.6800537109375,
-        1411.3399658203125,
-        1411.68994140625
+        1415.5699462890625,
+        1415.43994140625,
+        1415.5699462890625,
+        1415.8800048828125,
+        1415.3599853515625,
+        1415.219970703125,
+        1415.699951171875,
+        1416.1099853515625,
+        1416.5699462890625,
+        1416.6600341796875,
+        1416.3499755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-17 16:35 KST"
+      "status": "완화",
+      "freshness": "2026-08-18 05:38 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
