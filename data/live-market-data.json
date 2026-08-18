@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "collectedAt": "2026-08-17T20:38:46Z",
+  "collectedAt": "2026-08-18T03:33:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices climb as US Strategic",
+      "title": "Asia shares decline as worries about",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The US Strategic Petroleum Reserve (SPR) continues to fall, now dropping to a 40-plus-year low not seen since the first Reagan administration. Yahoo Finance Washington Corresponden",
-      "link": "https://finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html?.tsrc=rss"
+      "summary": "Asian shares declined in early Tuesday trading, as rising oil prices and worries about inflation worked as a dampener on some markets, countering the optimism that had come from ro",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-decline-worries-rising-031952157.html?.tsrc=rss"
     },
     {
-      "title": "TSX Closer",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The S&P/TSX Composite Index closed lower on Monday as weakness in technology stocks outweighed gains",
-      "link": "https://finance.yahoo.com/economy/articles/tsx-closer-index-closes-lower-202055412.html?.tsrc=rss"
-    },
-    {
-      "title": "US Equity Markets End Lower Amid",
+      "title": "Gold standard is reborn amid central",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201950619.html?.tsrc=rss"
+      "summary": "For the first 40 years after President Nixon closed the gold window in 1971, central banks mostly unloaded their gold to exercise their faith in fiat money. In 2011, however, Congr",
+      "link": "https://www.thestreet.com/investing/gold-standard-central-bank-buying?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-decline-crude-195613628.html?.tsrc=rss"
+      "title": "Review & Preview",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Another quiet day on Wall Street led to a rally in chips and energy stocks, but the rest of market languished in the August sun.  The Dow Jones Industrial Average fell 272 points, ",
+      "link": "https://finance.yahoo.com/m/fc5643f9-a7a4-3fdf-b877-278d44482173/review-%26-preview%3A-chips.html?.tsrc=rss"
+    },
+    {
+      "title": "1 S&P 500 Stock with Competitive",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-competitive-233420660.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices climb as US Strategic",
-      "summary": "The US Strategic Petroleum Reserve (SPR) continues to fall, now dropping to a 40-plus-year low not seen since the first Reagan administration. Yahoo Finance Washington Corresponden",
+      "title": "Asia shares decline as worries about",
+      "summary": "Asian shares declined in early Tuesday trading, as rising oil prices and worries about inflation worked as a dampener on some markets, countering the optimism that had come from ro",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 19:35:00 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-decline-worries-rising-031952157.html?.tsrc=rss",
+      "published": "Tue, 18 Aug 2026 03:19:52 +0000"
     },
     {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index closed lower on Monday as weakness in technology stocks outweighed gains",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/economy/articles/tsx-closer-index-closes-lower-202055412.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 20:20:55 +0000"
-    },
-    {
-      "title": "US Equity Markets End Lower Amid",
-      "summary": "US equity indexes ended lower Monday after crude oil prices rose following President Donald Trump's",
+      "title": "Gold standard is reborn amid central",
+      "summary": "For the first 40 years after President Nixon closed the gold window in 1971, central banks mostly unloaded their gold to exercise their faith in fiat money. In 2011, however, Congr",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201950619.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 20:19:50 +0000"
+      "link": "https://www.thestreet.com/investing/gold-standard-central-bank-buying?.tsrc=rss",
+      "published": "Tue, 18 Aug 2026 01:37:00 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/articles/us-equity-indexes-decline-crude-195613628.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 19:56:13 +0000"
+      "title": "Review & Preview",
+      "summary": "Another quiet day on Wall Street led to a rally in chips and energy stocks, but the rest of market languished in the August sun.  The Dow Jones Industrial Average fell 272 points, ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/fc5643f9-a7a4-3fdf-b877-278d44482173/review-%26-preview%3A-chips.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 23:55:00 +0000"
+    },
+    {
+      "title": "1 S&P 500 Stock with Competitive",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-competitive-233420660.html?.tsrc=rss",
+      "published": "Mon, 17 Aug 2026 23:34:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.85",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "85.06",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "90.96",
-          "change": "+0.02%",
+          "value": "91.39",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4471.60",
-          "change": "-0.00%",
+          "value": "4450.70",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.61",
-          "change": "-0.02%",
+          "value": "6.56",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        84.7300033569336,
-        84.66999816894531,
-        84.70999908447266,
-        84.7300033569336,
-        84.77999877929688,
-        84.79000091552734,
-        84.77999877929688,
-        84.79000091552734,
-        84.75,
-        84.81999969482422,
-        84.8499984741211
+        85.08000183105469,
+        85.08000183105469,
+        85.12999725341797,
+        85.18000030517578,
+        85.16999816894531,
+        85.12999725341797,
+        85.08999633789062,
+        85.12000274658203,
+        85.11000061035156,
+        85.06999969482422,
+        85.05999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-18 05:28 KST"
+      "status": "약세",
+      "freshness": "2026-08-18 12:20 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "6971.70",
-          "change": "+0.03%",
+          "value": "6919.09",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.59",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.61",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1416.35",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1410.28",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "159.47",
-          "change": "-0.00%",
+          "value": "159.52",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7394",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7421",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1415.5699462890625,
-        1415.43994140625,
-        1415.5699462890625,
-        1415.8800048828125,
-        1415.3599853515625,
-        1415.219970703125,
-        1415.699951171875,
-        1416.1099853515625,
-        1416.5699462890625,
-        1416.6600341796875,
-        1416.3499755859375
+        1409.3800048828125,
+        1409.1800537109375,
+        1409.47998046875,
+        1409.6199951171875,
+        1409.280029296875,
+        1409.3800048828125,
+        1409.8900146484375,
+        1409.5799560546875,
+        1409.8900146484375,
+        1410.280029296875,
+        1410.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-18 05:38 KST"
+      "status": "강세",
+      "freshness": "2026-08-18 12:33 KST"
     }
   ],
   "currentAction": {
