@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "collectedAt": "2026-08-18T20:36:09Z",
+  "collectedAt": "2026-08-19T03:35:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Coherent, Teradyne, and Ciena Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Three AI infrastructure stocks just shed billions in market cap in a single session, and the reason has less to do with their earnings than with a mounting anxiety about what the b",
-      "link": "https://247wallst.com/investing/2026/08/18/coherent-teradyne-and-ciena-are-the-sp-500s-3-biggest-decliners-on-tuesday/?.tsrc=rss"
+      "title": "Dow, S&P 500, Nasdaq Futures Slip As",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The U.S. 30-year Treasury yield climbed to a fresh 19-year high on Tuesday, trading at 5.274% at the time of writing, while the 10-year Treasury yield was at 4.692%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-slip-as-global-bond-rout-catches-up-with-markets-lunr-mstr-wyfi-amlx-stocks-in-focus/cZYdcsfRJkP?.tsrc=rss"
     },
     {
-      "title": "Exxon Stock Surges 2.3% as Oil",
+      "title": "Shares fall in Asia, with Kospi down",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Exxon gains as crude prices rise amid Iran tensions while record production and $17.2 billion free cash flow support results.",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html?.tsrc=rss"
+      "summary": "Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.  Samsung Electronics shed 6.9%, wh",
+      "link": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html?.tsrc=rss"
     },
     {
-      "title": "Update",
+      "title": "Tech leads losses as Asian stocks",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-30-195215372.html?.tsrc=rss"
+      "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hop",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Hit Hard By Chip Names;",
+      "title": "Erdene Resource Development Corp",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stock Market Today: The Nasdaq sinks Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk skid.",
-      "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+      "summary": "Gold output surges 37% quarter-over-quarter as the company advances its Khundii Minerals District growth strategy.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/erdene-development-corp-erdcf-q2-010448434.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Coherent, Teradyne, and Ciena Are",
-      "summary": "Three AI infrastructure stocks just shed billions in market cap in a single session, and the reason has less to do with their earnings than with a mounting anxiety about what the b",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/08/18/coherent-teradyne-and-ciena-are-the-sp-500s-3-biggest-decliners-on-tuesday/?.tsrc=rss",
-      "published": "Tue, 18 Aug 2026 20:27:09 +0000"
+      "title": "Dow, S&P 500, Nasdaq Futures Slip As",
+      "summary": "The U.S. 30-year Treasury yield climbed to a fresh 19-year high on Tuesday, trading at 5.274% at the time of writing, while the 10-year Treasury yield was at 4.692%.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-slip-as-global-bond-rout-catches-up-with-markets-lunr-mstr-wyfi-amlx-stocks-in-focus/cZYdcsfRJkP?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 03:17:32 +0000"
     },
     {
-      "title": "Exxon Stock Surges 2.3% as Oil",
-      "summary": "Exxon gains as crude prices rise amid Iran tensions while record production and $17.2 billion free cash flow support results.",
+      "title": "Shares fall in Asia, with Kospi down",
+      "summary": "Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.  Samsung Electronics shed 6.9%, wh",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html?.tsrc=rss",
-      "published": "Tue, 18 Aug 2026 20:00:08 +0000"
+      "link": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 03:05:36 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "title": "Tech leads losses as Asian stocks",
+      "summary": "Technology stocks were back in the crosshairs of investors Wednesday, taking another heavy blow from a spike in bond yields, rising oil prices, persistent inflation and dimming hop",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-30-195215372.html?.tsrc=rss",
-      "published": "Tue, 18 Aug 2026 19:52:15 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leads-losses-asian-stocks-024127256.html?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 02:41:27 +0000"
     },
     {
-      "title": "Nasdaq Hit Hard By Chip Names;",
-      "summary": "Stock Market Today: The Nasdaq sinks Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk skid.",
+      "title": "Erdene Resource Development Corp",
+      "summary": "Gold output surges 37% quarter-over-quarter as the company advances its Khundii Minerals District growth strategy.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Tue, 18 Aug 2026 19:25:46 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/erdene-development-corp-erdcf-q2-010448434.html?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 01:04:48 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.27",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "84.77",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.10",
+          "value": "91.70",
           "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4392.90",
-          "change": "+0.01%",
+          "value": "4410.30",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.46",
-          "change": "+0.02%",
+          "value": "6.47",
+          "change": "+0.05%",
           "direction": "up"
         }
       ],
       "trend": [
-        84.22000122070312,
-        84.22000122070312,
-        84.25,
-        84.22000122070312,
-        84.2300033569336,
-        84.23999786376953,
-        84.2300033569336,
-        84.22000122070312,
-        84.2300033569336,
-        84.25,
-        84.2699966430664
+        84.7699966430664,
+        84.80999755859375,
+        84.79000091552734,
+        84.79000091552734,
+        84.80000305175781,
+        84.75,
+        84.80999755859375,
+        84.80000305175781,
+        84.80999755859375,
+        84.80999755859375,
+        84.7699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-19 05:26 KST"
+      "status": "약세",
+      "freshness": "2026-08-19 12:25 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6829.99",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "6503.09",
+          "change": "+0.21%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
+          "value": "99.57",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1412.67",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1399.98",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.65",
+          "value": "159.42",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7342",
-          "change": "+0.03%",
+          "value": "6.7399",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1412.469970703125,
-        1412.489990234375,
-        1411.6800537109375,
-        1412.5899658203125,
-        1412.5799560546875,
-        1412.550048828125,
-        1412.4000244140625,
-        1412.5,
-        1412.4000244140625,
-        1412.5999755859375,
-        1412.6700439453125
+        1399.6800537109375,
+        1399.5899658203125,
+        1399.739990234375,
+        1399.780029296875,
+        1400.1700439453125,
+        1400.02001953125,
+        1400.1800537109375,
+        1400.1099853515625,
+        1399.8800048828125,
+        1400.0999755859375,
+        1399.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-19 05:35 KST"
+      "freshness": "2026-08-19 12:35 KST"
     }
   ],
   "currentAction": {
