@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "collectedAt": "2026-08-20T03:35:53Z",
+  "collectedAt": "2026-08-20T07:25:19Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,35 +65,59 @@
   ],
   "issues": [
     {
+      "title": "S&P 500 Could Hit 8,000 Soon,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-8000-morningstar-crm-now-wday-msft-august-rebound/cZYIhnzRJm9?.tsrc=rss"
+    },
+    {
+      "title": "Oil rises as markets rebound on US",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Global shares rebounded and bond yields eased after Washington's debt buyback announcement, while oil held near multi-week highs amid the deadlocked US-Iran standoffView on euronew",
+      "link": "https://www.euronews.com/2026/08/20/oil-rises-as-markets-rebound-on-us-treasury-debt-buyback-plan?.tsrc=rss"
+    },
+    {
+      "title": "JPMorgan’s Q4 Gold Target Was Just",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Gold nears $4,525 as Treasury liquidity moves lift bullion. Here's what it would take to push gold past $5,000 before year end.",
+      "link": "https://beincrypto.com/gold-price-5000-jpmorgan-target/?.tsrc=rss"
+    },
+    {
       "title": "Infrastructure Sterilisation",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
       "summary": "Development programs advancing, Resource upgrades pending HIGHLIGHTS Pre-feasibility Study (PFS) underway for large-scale gold production, targeting Q1 CY27 publication1 Sterilisat",
       "link": "https://finance.yahoo.com/markets/commodities/articles/infrastructure-sterilisation-drilling-begins-tunkillia-002200714.html?.tsrc=rss"
-    },
-    {
-      "title": "Titan Minerals unveils new",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) has identified a new zone of shear-hosted gold-silver mineralisation at the Dynasty Gold Project in southern Ecuador, returning 33.5 metres ",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097300/titan-minerals-unveils-new-shear-hosted-gold-discovery-at-dynasty-in-ecuador-1097300.html?.tsrc=rss"
-    },
-    {
-      "title": "Small Cap Watch",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The S&P/ASX Small Ordinaries (ASX:XSO) closed at 3,500.90, down 0.38% or 13.40 points yesterday. The small-cap benchmark has lost further ground over the past 5 trading days, decli",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097298/small-cap-watch-lindian-advances-kangankunde-titan-hits-high-grade-gold-silver-and-emyria-removes-bottlenecks-1097298.html?.tsrc=rss"
-    },
-    {
-      "title": "US Stock Index Futures Climb As",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "A rally in 30-year bonds drove yields down by 10 basis points to 5.18%.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss"
     }
   ],
   "newsItems": [
+    {
+      "title": "S&P 500 Could Hit 8,000 Soon,",
+      "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/sp500-8000-morningstar-crm-now-wday-msft-august-rebound/cZYIhnzRJm9?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 06:52:49 +0000"
+    },
+    {
+      "title": "Oil rises as markets rebound on US",
+      "summary": "Global shares rebounded and bond yields eased after Washington's debt buyback announcement, while oil held near multi-week highs amid the deadlocked US-Iran standoffView on euronew",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/08/20/oil-rises-as-markets-rebound-on-us-treasury-debt-buyback-plan?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 06:19:04 +0000"
+    },
+    {
+      "title": "JPMorgan’s Q4 Gold Target Was Just",
+      "summary": "Gold nears $4,525 as Treasury liquidity moves lift bullion. Here's what it would take to push gold past $5,000 before year end.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://beincrypto.com/gold-price-5000-jpmorgan-target/?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 04:36:56 +0000"
+    },
     {
       "title": "Infrastructure Sterilisation",
       "summary": "Development programs advancing, Resource upgrades pending HIGHLIGHTS Pre-feasibility Study (PFS) underway for large-scale gold production, targeting Q1 CY27 publication1 Sterilisat",
@@ -101,30 +125,6 @@
       "importance": "high",
       "link": "https://finance.yahoo.com/markets/commodities/articles/infrastructure-sterilisation-drilling-begins-tunkillia-002200714.html?.tsrc=rss",
       "published": "Thu, 20 Aug 2026 00:22:00 +0000"
-    },
-    {
-      "title": "Titan Minerals unveils new",
-      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) has identified a new zone of shear-hosted gold-silver mineralisation at the Dynasty Gold Project in southern Ecuador, returning 33.5 metres ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097300/titan-minerals-unveils-new-shear-hosted-gold-discovery-at-dynasty-in-ecuador-1097300.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 23:36:00 +0000"
-    },
-    {
-      "title": "Small Cap Watch",
-      "summary": "The S&P/ASX Small Ordinaries (ASX:XSO) closed at 3,500.90, down 0.38% or 13.40 points yesterday. The small-cap benchmark has lost further ground over the past 5 trading days, decli",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097298/small-cap-watch-lindian-advances-kangankunde-titan-hits-high-grade-gold-silver-and-emyria-removes-bottlenecks-1097298.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 23:24:00 +0000"
-    },
-    {
-      "title": "US Stock Index Futures Climb As",
-      "summary": "A rally in 30-year bonds drove yields down by 10 basis points to 5.18%.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 23:15:36 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.33",
-          "change": "-0.06%",
+          "value": "85.17",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.70",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "92.55",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4552.00",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4544.70",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.48",
+          "value": "6.46",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        84.4000015258789,
-        84.41000366210938,
-        84.4000015258789,
-        84.41000366210938,
-        84.43000030517578,
-        84.37999725341797,
-        84.43000030517578,
-        84.43000030517578,
-        84.41999816894531,
-        84.37999725341797,
-        84.33000183105469
+        85.05999755859375,
+        85.08999633789062,
+        85.12000274658203,
+        85.08000183105469,
+        85.12999725341797,
+        85.05000305175781,
+        85.12000274658203,
+        85.19000244140625,
+        85.13999938964844,
+        85.20999908447266,
+        85.16999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-20 12:25 KST"
+      "freshness": "2026-08-20 16:15 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6852.50",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6790.42",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6452.66",
-          "change": "+0.05%",
+          "value": "6449.69",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.81",
+          "value": "98.78",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1395.33",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDKRW",
-          "value": "1394.32",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
           "name": "USDJPY",
-          "value": "158.46",
+          "value": "158.50",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7240",
-          "change": "+0.00%",
+          "value": "6.7232",
+          "change": "+0.15%",
           "direction": "up"
         }
       ],
       "trend": [
-        1393.969970703125,
-        1393.8800048828125,
-        1393.9200439453125,
-        1394.1199951171875,
-        1394.0,
-        1393.739990234375,
-        1393.949951171875,
-        1393.7099609375,
-        1393.9200439453125,
-        1394.0799560546875,
-        1394.3199462890625
+        1394.0400390625,
+        1394.280029296875,
+        1394.280029296875,
+        1394.4000244140625,
+        1394.1800537109375,
+        1394.5699462890625,
+        1395.02001953125,
+        1395.02001953125,
+        1395.2900390625,
+        1395.280029296875,
+        1395.3299560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-20 12:35 KST"
+      "status": "중립",
+      "freshness": "2026-08-20 16:25 KST"
     }
   ],
   "currentAction": {
