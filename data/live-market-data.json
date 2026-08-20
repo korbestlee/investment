@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "collectedAt": "2026-08-19T20:40:55Z",
+  "collectedAt": "2026-08-20T03:35:53Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "US Equity Markets End Higher as US",
+      "title": "Infrastructure Sterilisation",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Development programs advancing, Resource upgrades pending HIGHLIGHTS Pre-feasibility Study (PFS) underway for large-scale gold production, targeting Q1 CY27 publication1 Sterilisat",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/infrastructure-sterilisation-drilling-begins-tunkillia-002200714.html?.tsrc=rss"
+    },
+    {
+      "title": "Titan Minerals unveils new",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) has identified a new zone of shear-hosted gold-silver mineralisation at the Dynasty Gold Project in southern Ecuador, returning 33.5 metres ",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097300/titan-minerals-unveils-new-shear-hosted-gold-discovery-at-dynasty-in-ecuador-1097300.html?.tsrc=rss"
+    },
+    {
+      "title": "Small Cap Watch",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The S&P/ASX Small Ordinaries (ASX:XSO) closed at 3,500.90, down 0.38% or 13.40 points yesterday. The small-cap benchmark has lost further ground over the past 5 trading days, decli",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097298/small-cap-watch-lindian-advances-kangankunde-titan-hits-high-grade-gold-silver-and-emyria-removes-bottlenecks-1097298.html?.tsrc=rss"
+    },
+    {
+      "title": "US Stock Index Futures Climb As",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "US equity indexes ended higher Wednesday after the Treasury Department said it would increase buybac",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202620978.html?.tsrc=rss"
-    },
-    {
-      "title": "TSX Closer",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P/TSX Composite Index closed higher on Wednesday as weakness in financial stocks outweighed ga",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-higher-202025905.html?.tsrc=rss"
-    },
-    {
-      "title": "Sector Update",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Energy stocks were mixed late Wednesday afternoon, with the NYSE Energy Sector Index rising 0.2% and",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200134748.html?.tsrc=rss"
-    },
-    {
-      "title": "Stocks Hitch a Ride on the Bond",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The stock market rode the bond market's coattails en route to its first gain in four sessions.  The Nasdaq Composite gained 0.2%.  News that the Treasury Department will at least d",
-      "link": "https://finance.yahoo.com/m/9bc4f2ab-2a03-37e6-8332-20aa8a9d3111/stocks-hitch-a-ride-on-the.html?.tsrc=rss"
+      "summary": "A rally in 30-year bonds drove yields down by 10 basis points to 5.18%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "US Equity Markets End Higher as US",
-      "summary": "US equity indexes ended higher Wednesday after the Treasury Department said it would increase buybac",
+      "title": "Infrastructure Sterilisation",
+      "summary": "Development programs advancing, Resource upgrades pending HIGHLIGHTS Pre-feasibility Study (PFS) underway for large-scale gold production, targeting Q1 CY27 publication1 Sterilisat",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/infrastructure-sterilisation-drilling-begins-tunkillia-002200714.html?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 00:22:00 +0000"
+    },
+    {
+      "title": "Titan Minerals unveils new",
+      "summary": "Titan Minerals Ltd (ASX:TTM, OTC:TTTNF) has identified a new zone of shear-hosted gold-silver mineralisation at the Dynasty Gold Project in southern Ecuador, returning 33.5 metres ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097300/titan-minerals-unveils-new-shear-hosted-gold-discovery-at-dynasty-in-ecuador-1097300.html?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 23:36:00 +0000"
+    },
+    {
+      "title": "Small Cap Watch",
+      "summary": "The S&P/ASX Small Ordinaries (ASX:XSO) closed at 3,500.90, down 0.38% or 13.40 points yesterday. The small-cap benchmark has lost further ground over the past 5 trading days, decli",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097298/small-cap-watch-lindian-advances-kangankunde-titan-hits-high-grade-gold-silver-and-emyria-removes-bottlenecks-1097298.html?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 23:24:00 +0000"
+    },
+    {
+      "title": "US Stock Index Futures Climb As",
+      "summary": "A rally in 30-year bonds drove yields down by 10 basis points to 5.18%.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-202620978.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 20:26:20 +0000"
-    },
-    {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index closed higher on Wednesday as weakness in financial stocks outweighed ga",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-higher-202025905.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 20:20:25 +0000"
-    },
-    {
-      "title": "Sector Update",
-      "summary": "Energy stocks were mixed late Wednesday afternoon, with the NYSE Energy Sector Index rising 0.2% and",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200134748.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 20:01:34 +0000"
-    },
-    {
-      "title": "Stocks Hitch a Ride on the Bond",
-      "summary": "The stock market rode the bond market's coattails en route to its first gain in four sessions.  The Nasdaq Composite gained 0.2%.  News that the Treasury Department will at least d",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/9bc4f2ab-2a03-37e6-8332-20aa8a9d3111/stocks-hitch-a-ride-on-the.html?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 20:01:15 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-index-futures-climb-as-yields-cool-off-amid-treasury-support-nvda-mrna-mrvl-lowe-in-focus/cZYdxACRJlH?.tsrc=rss",
+      "published": "Wed, 19 Aug 2026 23:15:36 +0000"
     }
   ],
   "criteria": [
@@ -155,44 +155,44 @@
         {
           "name": "WTI",
           "value": "84.33",
-          "change": "+0.04%",
-          "direction": "up"
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.44",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "91.70",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4577.30",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4552.00",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.50",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.48",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        84.26000213623047,
-        84.23999786376953,
-        84.29000091552734,
-        84.30000305175781,
-        84.29000091552734,
-        84.2699966430664,
-        84.30999755859375,
-        84.27999877929688,
-        84.27999877929688,
-        84.30000305175781,
+        84.4000015258789,
+        84.41000366210938,
+        84.4000015258789,
+        84.41000366210938,
+        84.43000030517578,
+        84.37999725341797,
+        84.43000030517578,
+        84.43000030517578,
+        84.41999816894531,
+        84.37999725341797,
         84.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-20 05:30 KST"
+      "status": "약세",
+      "freshness": "2026-08-20 12:25 KST"
     },
     {
       "id": "bonds",
@@ -262,8 +262,8 @@
         },
         {
           "name": "KOSPI",
-          "value": "6460.52",
-          "change": "-0.05%",
+          "value": "6852.50",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "98.81",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1388.95",
-          "change": "+0.06%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.18",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1394.32",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.46",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7200",
-          "change": "+0.04%",
+          "value": "6.7240",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1388.489990234375,
-        1388.3599853515625,
-        1388.3299560546875,
-        1388.3299560546875,
-        1388.219970703125,
-        1388.3199462890625,
-        1388.1400146484375,
-        1388.5,
-        1388.239990234375,
-        1388.0699462890625,
-        1388.949951171875
+        1393.969970703125,
+        1393.8800048828125,
+        1393.9200439453125,
+        1394.1199951171875,
+        1394.0,
+        1393.739990234375,
+        1393.949951171875,
+        1393.7099609375,
+        1393.9200439453125,
+        1394.0799560546875,
+        1394.3199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-20 05:40 KST"
+      "status": "강세",
+      "freshness": "2026-08-20 12:35 KST"
     }
   ],
   "currentAction": {
