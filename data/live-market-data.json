@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "collectedAt": "2026-08-21T07:26:08Z",
+  "date": "2026-08-22",
+  "collectedAt": "2026-08-21T20:36:37Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.07%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.09%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil Refiner Stocks Can Keep Gaining",
+      "title": "TSX Closer",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
-      "link": "https://finance.yahoo.com/m/47ad45b5-ed42-3326-8a0b-7b882997bb01/why-oil-refiner-stocks-can.html?.tsrc=rss"
+      "summary": "The S&P/TSX Composite Index closed sharply higher on Friday as a strong rally in base metals lifted",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilie",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61348722/stock-market-will-sp-500-open-up-or-down-today-21?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-    },
-    {
-      "title": "Oil Prices Head for Second Straight",
+      "title": "Morgan Stanley Doubles Down on Gold",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-second-straight-053000246.html?.tsrc=rss"
+      "summary": "Gold's latest breakout may still have another leg higher.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html?.tsrc=rss"
     },
     {
-      "title": "If a Bear Market Is Coming, This Is",
+      "title": "Sector Update",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "A diversified portfolio can help counter the urge some investors may feel to sell their stocks when prices start dropping.",
-      "link": "https://www.fool.com/investing/2026/08/21/if-a-bear-market-is-coming-this-is-the-single-best/?.tsrc=rss"
+      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html?.tsrc=rss"
+    },
+    {
+      "title": "Pinnacle Silver and Gold advances El",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) earlier this week provided an update on drilling at its El Potrero project, where CEO Robert Archer said underground ",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097431/pinnacle-silver-and-gold-advances-el-potrero-drilling-icymi-1097431.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil Refiner Stocks Can Keep Gaining",
-      "summary": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index closed sharply higher on Friday as a strong rally in base metals lifted",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/47ad45b5-ed42-3326-8a0b-7b882997bb01/why-oil-refiner-stocks-can.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 06:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 20:23:34 +0000"
     },
     {
-      "title": "Stock Market",
-      "summary": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilie",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61348722/stock-market-will-sp-500-open-up-or-down-today-21?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 05:55:20 +0000"
-    },
-    {
-      "title": "Oil Prices Head for Second Straight",
-      "summary": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
+      "title": "Morgan Stanley Doubles Down on Gold",
+      "summary": "Gold's latest breakout may still have another leg higher.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-second-straight-053000246.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 05:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 20:12:59 +0000"
     },
     {
-      "title": "If a Bear Market Is Coming, This Is",
-      "summary": "A diversified portfolio can help counter the urge some investors may feel to sell their stocks when prices start dropping.",
+      "title": "Sector Update",
+      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/21/if-a-bear-market-is-coming-this-is-the-single-best/?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 04:20:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 19:57:00 +0000"
+    },
+    {
+      "title": "Pinnacle Silver and Gold advances El",
+      "summary": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) earlier this week provided an update on drilling at its El Potrero project, where CEO Robert Archer said underground ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.proactiveinvestors.com/companies/news/1097431/pinnacle-silver-and-gold-advances-el-potrero-drilling-icymi-1097431.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 19:47:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.17",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "86.86",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "93.30",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "94.11",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4618.60",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4668.50",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.58",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        86.23999786376953,
-        86.27999877929688,
-        86.29000091552734,
-        86.37999725341797,
-        86.4000015258789,
-        86.41999816894531,
-        86.27999877929688,
-        86.23999786376953,
-        86.1500015258789,
-        86.16000366210938,
-        86.16999816894531
+        86.68000030517578,
+        86.70999908447266,
+        86.69999694824219,
+        86.70999908447266,
+        86.79000091552734,
+        86.80999755859375,
+        86.83999633789062,
+        86.81999969482422,
+        86.80000305175781,
+        86.86000061035156,
+        86.86000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-21 16:16 KST"
+      "status": "중립",
+      "freshness": "2026-08-22 05:26 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.703%",
+          "value": "3.710%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.387%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.424%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.696%",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "4.738%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.237%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.276%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.699999809265137,
-        4.697999954223633,
-        4.697999954223633,
-        4.697999954223633,
-        4.697999954223633,
-        4.699999809265137,
-        4.696000099182129
+        4.73799991607666,
+        4.740000247955322,
+        4.740000247955322,
+        4.73799991607666,
+        4.73799991607666,
+        4.73799991607666,
+        4.73799991607666,
+        4.73799991607666,
+        4.73799991607666,
+        4.736000061035156,
+        4.73799991607666
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-21 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-08-22 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7642.21",
-          "change": "-0.01%",
+          "value": "7674.10",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26062.48",
-          "change": "-0.01%",
+          "value": "26179.92",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6435.98",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6459.04",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7652.4599609375,
-        7650.7001953125,
-        7651.68017578125,
-        7652.10986328125,
-        7651.10009765625,
-        7647.240234375,
-        7643.02978515625,
-        7642.22998046875,
-        7640.60009765625,
-        7642.68994140625,
-        7642.2099609375
+        7685.31982421875,
+        7680.89013671875,
+        7680.41015625,
+        7679.1298828125,
+        7677.9501953125,
+        7677.18994140625,
+        7676.22998046875,
+        7677.8798828125,
+        7678.18994140625,
+        7679.330078125,
+        7674.10009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-21 04:59 KST"
+      "freshness": "2026-08-22 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.73",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1384.45",
+          "value": "98.83",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "158.90",
+          "name": "USDKRW",
+          "value": "1385.81",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "159.00",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7199",
-          "change": "+0.00%",
+          "value": "6.7118",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        1385.4300537109375,
-        1385.280029296875,
-        1385.3800048828125,
-        1384.739990234375,
-        1384.9000244140625,
-        1384.3800048828125,
-        1384.219970703125,
-        1384.6099853515625,
-        1384.47998046875,
-        1384.43994140625,
-        1384.449951171875
+        1385.6800537109375,
+        1385.5400390625,
+        1385.6500244140625,
+        1385.6600341796875,
+        1385.5899658203125,
+        1385.719970703125,
+        1385.68994140625,
+        1385.5799560546875,
+        1385.6300048828125,
+        1385.72998046875,
+        1385.81005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-21 16:26 KST"
+      "status": "강세",
+      "freshness": "2026-08-22 05:36 KST"
     }
   ],
   "currentAction": {
