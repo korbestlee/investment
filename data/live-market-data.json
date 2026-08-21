@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "collectedAt": "2026-08-21T03:39:26Z",
+  "collectedAt": "2026-08-21T07:26:08Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "If We're in an AI Bubble, History",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "There might not be a safe place to hide in case of an AI bubble. But some ETFs could be less unsafe than others.",
-      "link": "https://www.fool.com/investing/2026/08/20/if-ai-bubble-history-says-this-recession-proof/?.tsrc=rss"
+      "title": "Oil Refiner Stocks Can Keep Gaining",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
+      "link": "https://finance.yahoo.com/m/47ad45b5-ed42-3326-8a0b-7b882997bb01/why-oil-refiner-stocks-can.html?.tsrc=rss"
     },
     {
-      "title": "Market Triggers This Bearish Signal",
+      "title": "Stock Market",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
-      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html?.tsrc=rss"
+      "summary": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilie",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61348722/stock-market-will-sp-500-open-up-or-down-today-21?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
     },
     {
-      "title": "Equinor and ORLEN Sign Three-Year",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Equinor will supply ORLEN with Norwegian crude under a three-year agreement covering refineries across Central Europe.",
-      "link": "https://finance.yahoo.com/energy/articles/equinor-orlen-sign-three-norwegian-021500560.html?.tsrc=rss"
+      "title": "Oil Prices Head for Second Straight",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-second-straight-053000246.html?.tsrc=rss"
     },
     {
-      "title": "Jim Cramer sees trouble brewing for",
+      "title": "If a Bear Market Is Coming, This Is",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "One booming corner of Wall Street could pressure everything else.",
-      "link": "https://www.thestreet.com/investing/jim-cramer-ipo-stock-market-risk?.tsrc=rss"
+      "summary": "A diversified portfolio can help counter the urge some investors may feel to sell their stocks when prices start dropping.",
+      "link": "https://www.fool.com/investing/2026/08/21/if-a-bear-market-is-coming-this-is-the-single-best/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "If We're in an AI Bubble, History",
-      "summary": "There might not be a safe place to hide in case of an AI bubble. But some ETFs could be less unsafe than others.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/20/if-ai-bubble-history-says-this-recession-proof/?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 03:20:00 +0000"
+      "title": "Oil Refiner Stocks Can Keep Gaining",
+      "summary": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/47ad45b5-ed42-3326-8a0b-7b882997bb01/why-oil-refiner-stocks-can.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 06:00:00 +0000"
     },
     {
-      "title": "Market Triggers This Bearish Signal",
-      "summary": "The Nasdaq closed below its Aug. 4 follow-through day low, a highly bearish signal for the market rally. Walmart, SpaceX, CrowdStrike were big losers.",
+      "title": "Stock Market",
+      "summary": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilie",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 03:09:23 +0000"
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/08/61348722/stock-market-will-sp-500-open-up-or-down-today-21?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 05:55:20 +0000"
     },
     {
-      "title": "Equinor and ORLEN Sign Three-Year",
-      "summary": "Equinor will supply ORLEN with Norwegian crude under a three-year agreement covering refineries across Central Europe.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/equinor-orlen-sign-three-norwegian-021500560.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 02:15:00 +0000"
+      "title": "Oil Prices Head for Second Straight",
+      "summary": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-second-straight-053000246.html?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 05:30:00 +0000"
     },
     {
-      "title": "Jim Cramer sees trouble brewing for",
-      "summary": "One booming corner of Wall Street could pressure everything else.",
+      "title": "If a Bear Market Is Coming, This Is",
+      "summary": "A diversified portfolio can help counter the urge some investors may feel to sell their stocks when prices start dropping.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.thestreet.com/investing/jim-cramer-ipo-stock-market-risk?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 02:03:00 +0000"
+      "link": "https://www.fool.com/investing/2026/08/21/if-a-bear-market-is-coming-this-is-the-single-best/?.tsrc=rss",
+      "published": "Fri, 21 Aug 2026 04:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.37",
-          "change": "+0.02%",
+          "value": "86.17",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "93.42",
-          "change": "-0.19%",
-          "direction": "down"
+          "value": "93.30",
+          "change": "+0.09%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4587.70",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4618.60",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.53",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.57",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        86.5,
-        86.5,
-        86.5,
-        86.4800033569336,
-        86.48999786376953,
-        86.48999786376953,
-        86.45999908447266,
-        86.43000030517578,
-        86.38999938964844,
-        86.3499984741211,
-        86.37000274658203
+        86.23999786376953,
+        86.27999877929688,
+        86.29000091552734,
+        86.37999725341797,
+        86.4000015258789,
+        86.41999816894531,
+        86.27999877929688,
+        86.23999786376953,
+        86.1500015258789,
+        86.16000366210938,
+        86.16999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-21 12:29 KST"
+      "freshness": "2026-08-21 16:16 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6913.64",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6905.04",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6431.43",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6435.98",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.74",
+          "value": "98.73",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1384.28",
-          "change": "+0.04%",
+          "value": "1384.45",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.06",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "158.90",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7215",
-          "change": "+0.01%",
+          "value": "6.7199",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        1381.0799560546875,
-        1380.97998046875,
-        1381.1800537109375,
-        1381.5799560546875,
-        1382.280029296875,
-        1381.97998046875,
-        1382.3800048828125,
-        1382.8800048828125,
-        1383.3800048828125,
-        1383.780029296875,
-        1384.280029296875
+        1385.4300537109375,
+        1385.280029296875,
+        1385.3800048828125,
+        1384.739990234375,
+        1384.9000244140625,
+        1384.3800048828125,
+        1384.219970703125,
+        1384.6099853515625,
+        1384.47998046875,
+        1384.43994140625,
+        1384.449951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-21 12:39 KST"
+      "freshness": "2026-08-21 16:26 KST"
     }
   ],
   "currentAction": {
