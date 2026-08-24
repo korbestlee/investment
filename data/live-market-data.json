@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-22",
-  "collectedAt": "2026-08-21T20:36:37Z",
+  "date": "2026-08-24",
+  "collectedAt": "2026-08-24T03:41:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "TSX Closer",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow Jones Futures Waver; Nvidia,",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The S&P/TSX Composite Index closed sharply higher on Friday as a strong rally in base metals lifted",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html?.tsrc=rss"
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss"
     },
     {
-      "title": "Morgan Stanley Doubles Down on Gold",
-      "impact": "원자재, 인플레 기대",
+      "title": "Iran’s Latest Hormuz Threat Meets a",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold's latest breakout may still have another leg higher.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html?.tsrc=rss"
+      "summary": "Iran's Hormuz fee plan and new US sanctions on Tehran land as 30-year Treasury yields sit near 19-year highs.",
+      "link": "https://beincrypto.com/iran-hormuz-fee-bond-market-yields/?.tsrc=rss"
     },
     {
-      "title": "Sector Update",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html?.tsrc=rss"
-    },
-    {
-      "title": "Pinnacle Silver and Gold advances El",
+      "title": "Oil Prices Slide 2% as Markets Brace",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) earlier this week provided an update on drilling at its El Potrero project, where CEO Robert Archer said underground ",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097431/pinnacle-silver-and-gold-advances-el-potrero-drilling-icymi-1097431.html?.tsrc=rss"
+      "summary": "Oil prices fell in early Asian trading as investors took profits ahead of a major new U.S. economic campaign targeting Iran and its trading partners.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-2-markets-021819794.html?.tsrc=rss"
+    },
+    {
+      "title": "Brent Drops 1.87% as Bessent Vows to",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices fall as traders await the toughest US sanctions on Iran, while a Hormuz traffic recovery eases supply fears.",
+      "link": "https://beincrypto.com/oil-prices-fall-iran-sanctions/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "TSX Closer",
-      "summary": "The S&P/TSX Composite Index closed sharply higher on Friday as a strong rally in base metals lifted",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow Jones Futures Waver; Nvidia,",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tsx-closer-index-rises-metals-202334682.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 20:23:34 +0000"
+      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss",
+      "published": "Mon, 24 Aug 2026 03:09:06 +0000"
     },
     {
-      "title": "Morgan Stanley Doubles Down on Gold",
-      "summary": "Gold's latest breakout may still have another leg higher.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Iran’s Latest Hormuz Threat Meets a",
+      "summary": "Iran's Hormuz fee plan and new US sanctions on Tehran land as 30-year Treasury yields sit near 19-year highs.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-doubles-down-gold-201259751.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 20:12:59 +0000"
+      "link": "https://beincrypto.com/iran-hormuz-fee-bond-market-yields/?.tsrc=rss",
+      "published": "Mon, 24 Aug 2026 02:41:47 +0000"
     },
     {
-      "title": "Sector Update",
-      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 19:57:00 +0000"
-    },
-    {
-      "title": "Pinnacle Silver and Gold advances El",
-      "summary": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) earlier this week provided an update on drilling at its El Potrero project, where CEO Robert Archer said underground ",
+      "title": "Oil Prices Slide 2% as Markets Brace",
+      "summary": "Oil prices fell in early Asian trading as investors took profits ahead of a major new U.S. economic campaign targeting Iran and its trading partners.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1097431/pinnacle-silver-and-gold-advances-el-potrero-drilling-icymi-1097431.html?.tsrc=rss",
-      "published": "Fri, 21 Aug 2026 19:47:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-2-markets-021819794.html?.tsrc=rss",
+      "published": "Mon, 24 Aug 2026 02:18:19 +0000"
+    },
+    {
+      "title": "Brent Drops 1.87% as Bessent Vows to",
+      "summary": "Oil prices fall as traders await the toughest US sanctions on Iran, while a Hormuz traffic recovery eases supply fears.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/oil-prices-fall-iran-sanctions/?.tsrc=rss",
+      "published": "Mon, 24 Aug 2026 02:13:56 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.86",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "85.77",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "94.11",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "93.21",
+          "change": "+0.12%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4668.50",
-          "change": "+0.00%",
+          "value": "4701.90",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.58",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.56",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        86.68000030517578,
-        86.70999908447266,
-        86.69999694824219,
-        86.70999908447266,
-        86.79000091552734,
-        86.80999755859375,
-        86.83999633789062,
-        86.81999969482422,
-        86.80000305175781,
-        86.86000061035156,
-        86.86000061035156
+        85.69000244140625,
+        85.69999694824219,
+        85.72000122070312,
+        85.69000244140625,
+        85.72000122070312,
+        85.72000122070312,
+        85.69000244140625,
+        85.69999694824219,
+        85.70999908447266,
+        85.77999877929688,
+        85.7699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-08-22 05:26 KST"
+      "status": "약세",
+      "freshness": "2026-08-24 12:31 KST"
     },
     {
       "id": "bonds",
@@ -262,9 +262,9 @@
         },
         {
           "name": "KOSPI",
-          "value": "6905.04",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6686.29",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.83",
+          "value": "98.82",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1385.81",
-          "change": "+0.01%",
+          "value": "1379.95",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.00",
+          "value": "158.93",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7118",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.7223",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1385.6800537109375,
-        1385.5400390625,
-        1385.6500244140625,
-        1385.6600341796875,
-        1385.5899658203125,
-        1385.719970703125,
-        1385.68994140625,
-        1385.5799560546875,
-        1385.6300048828125,
-        1385.72998046875,
-        1385.81005859375
+        1379.719970703125,
+        1379.8399658203125,
+        1379.760009765625,
+        1379.550048828125,
+        1379.8900146484375,
+        1379.9100341796875,
+        1379.8900146484375,
+        1380.0899658203125,
+        1379.8800048828125,
+        1379.6800537109375,
+        1379.949951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-22 05:36 KST"
+      "status": "중립",
+      "freshness": "2026-08-24 12:41 KST"
     }
   ],
   "currentAction": {
