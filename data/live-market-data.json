@@ -1,130 +1,92 @@
 {
-  "date": "2026-08-24",
-  "collectedAt": "2026-08-24T03:41:40Z",
+  "date": "2026-06-13",
+  "collectedAt": "2026-06-13T08:30:00+09:00",
   "source": {
-    "provider": "pykrx + yfinance",
+    "provider": "Sample data",
     "mode": "live snapshot",
     "note": "Generated from live pykrx/yfinance data for GitHub Pages."
   },
   "freshness": {
-    "fx": "intraday chart",
-    "indices": "intraday chart",
-    "commodities": "intraday chart",
-    "bonds": "intraday chart",
-    "news": "live rss"
+    "fx": "sample",
+    "indices": "sample",
+    "commodities": "sample",
+    "bonds": "sample",
+    "news": "sample"
   },
   "signals": [
     {
       "label": "시장 상태",
-      "value": "Neutral",
-      "sub": "자산군 신호를 합쳐 레짐을 계산했습니다."
+      "value": "Risk-off",
+      "sub": "달러 강세와 금리 부담 동시 확대"
     },
     {
       "label": "신뢰도",
       "value": "높음",
-      "sub": "실시간 차트 스냅샷 기반"
+      "sub": "주요 자산군이 같은 방향으로 반응"
     },
     {
       "label": "핵심 드라이버",
-      "value": "혼조 신호",
-      "sub": "금리, 달러, 주식, 원자재를 함께 반영했습니다."
+      "value": "미 금리 + 달러",
+      "sub": "성장주와 신흥국 통화에 압력"
     }
   ],
-  "topLine": "자산군 신호가 엇갈려 방향 확인이 더 필요한 중립 구간입니다.",
+  "topLine": "미국 금리 상승과 달러 강세가 위험자산 전반을 압박하고 있습니다.",
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.07%",
+      "value": "-1.10%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.04%",
+      "value": "+0.27%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.80%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+3.10%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-1.20%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Waver; Nvidia,",
-      "impact": "채권, 금리",
+      "title": "미 10년물 금리 상승",
+      "impact": "채권, 주식",
       "importance": "high",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss"
+      "summary": "장기금리 상승이 성장주 밸류에이션에 부담을 주는 구간입니다."
     },
     {
-      "title": "Iran’s Latest Hormuz Threat Meets a",
-      "impact": "채권, 금리",
+      "title": "DXY 강세 지속",
+      "impact": "환율, 신흥국 자산",
       "importance": "high",
-      "summary": "Iran's Hormuz fee plan and new US sanctions on Tehran land as 30-year Treasury yields sit near 19-year highs.",
-      "link": "https://beincrypto.com/iran-hormuz-fee-bond-market-yields/?.tsrc=rss"
+      "summary": "달러 강세는 원화 약세와 위험자산 조정 압력을 동시에 키웁니다."
     },
     {
-      "title": "Oil Prices Slide 2% as Markets Brace",
+      "title": "유가 반등",
       "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices fell in early Asian trading as investors took profits ahead of a major new U.S. economic campaign targeting Iran and its trading partners.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-2-markets-021819794.html?.tsrc=rss"
+      "importance": "mid",
+      "summary": "에너지 가격 반등은 인플레이션 재가열 경계로 연결됩니다."
     },
     {
-      "title": "Brent Drops 1.87% as Bessent Vows to",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices fall as traders await the toughest US sanctions on Iran, while a Hormuz traffic recovery eases supply fears.",
-      "link": "https://beincrypto.com/oil-prices-fall-iran-sanctions/?.tsrc=rss"
-    }
-  ],
-  "newsItems": [
-    {
-      "title": "Dow Jones Futures Waver; Nvidia,",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada have kicked in. Nvidia, CrowdStrike and Fed's Warsh loom.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures-waver%3B.html?.tsrc=rss",
-      "published": "Mon, 24 Aug 2026 03:09:06 +0000"
-    },
-    {
-      "title": "Iran’s Latest Hormuz Threat Meets a",
-      "summary": "Iran's Hormuz fee plan and new US sanctions on Tehran land as 30-year Treasury yields sit near 19-year highs.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://beincrypto.com/iran-hormuz-fee-bond-market-yields/?.tsrc=rss",
-      "published": "Mon, 24 Aug 2026 02:41:47 +0000"
-    },
-    {
-      "title": "Oil Prices Slide 2% as Markets Brace",
-      "summary": "Oil prices fell in early Asian trading as investors took profits ahead of a major new U.S. economic campaign targeting Iran and its trading partners.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-2-markets-021819794.html?.tsrc=rss",
-      "published": "Mon, 24 Aug 2026 02:18:19 +0000"
-    },
-    {
-      "title": "Brent Drops 1.87% as Bessent Vows to",
-      "summary": "Oil prices fall as traders await the toughest US sanctions on Iran, while a Hormuz traffic recovery eases supply fears.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://beincrypto.com/oil-prices-fall-iran-sanctions/?.tsrc=rss",
-      "published": "Mon, 24 Aug 2026 02:13:56 +0000"
+      "title": "중앙은행 발언 대기",
+      "impact": "금리, FX",
+      "importance": "low",
+      "summary": "정책 코멘트는 변동성 확대의 촉매가 될 수 있습니다."
     }
   ],
   "criteria": [
@@ -150,199 +112,195 @@
       "id": "commodities",
       "label": "원자재",
       "title": "원자재",
-      "summary": "Yahoo intraday chart 데이터로 원자재 변화를 읽습니다.",
+      "summary": "에너지와 산업금속이 인플레 기대와 경기 민감도를 동시에 보여줍니다.",
       "items": [
         {
           "name": "WTI",
-          "value": "85.77",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "78.4",
+          "change": "+3.1%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "93.21",
-          "change": "+0.12%",
+          "value": "82.1",
+          "change": "+2.6%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4701.90",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "2320",
+          "change": "-0.4%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.56",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "4.12",
+          "change": "-1.2%",
+          "direction": "down"
         }
       ],
       "trend": [
-        85.69000244140625,
-        85.69999694824219,
-        85.72000122070312,
-        85.69000244140625,
-        85.72000122070312,
-        85.72000122070312,
-        85.69000244140625,
-        85.69999694824219,
-        85.70999908447266,
-        85.77999877929688,
-        85.7699966430664
+        42,
+        48,
+        45,
+        52,
+        58,
+        61,
+        66,
+        72,
+        78,
+        74,
+        79
       ],
-      "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-24 12:31 KST"
+      "conclusion": "에너지 강세, 산업금속 약세로 인플레와 성장 신호가 엇갈립니다.",
+      "status": "경계"
     },
     {
       "id": "bonds",
       "label": "채권",
       "title": "채권",
-      "summary": "미국 국채 수익률과 커브 변화를 확인합니다.",
+      "summary": "금리 방향과 커브 변화는 주식과 환율의 가장 빠른 선행 신호입니다.",
       "items": [
         {
-          "name": "UST 13W",
-          "value": "3.710%",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "UST 5Y",
-          "value": "4.424%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "name": "UST 2Y",
+          "value": "4.89%",
+          "change": "+6bp",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.738%",
-          "change": "+0.04%",
+          "value": "4.41%",
+          "change": "+12bp",
           "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.276%",
-          "change": "+0.00%",
+          "value": "4.55%",
+          "change": "+10bp",
+          "direction": "up"
+        },
+        {
+          "name": "Curve",
+          "value": "Flattening",
+          "change": "경계",
           "direction": "neutral"
         }
       ],
       "trend": [
-        4.73799991607666,
-        4.740000247955322,
-        4.740000247955322,
-        4.73799991607666,
-        4.73799991607666,
-        4.73799991607666,
-        4.73799991607666,
-        4.73799991607666,
-        4.73799991607666,
-        4.736000061035156,
-        4.73799991607666
+        58,
+        57,
+        60,
+        63,
+        67,
+        70,
+        73,
+        79,
+        83,
+        86,
+        88
       ],
-      "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-08-22 03:59 KST"
+      "conclusion": "장기금리 상승과 플래트닝은 성장주 부담을 키우는 전형적 조합입니다.",
+      "status": "압박"
     },
     {
       "id": "indices",
       "label": "지수",
       "title": "지수",
-      "summary": "실시간 지수 차트로 글로벌 주가지수의 방향성을 관찰합니다.",
+      "summary": "주요 주가지수는 위험선호도와 섹터별 회피/선호를 가장 직관적으로 드러냅니다.",
       "items": [
         {
           "name": "S&P 500",
-          "value": "7674.10",
-          "change": "-0.07%",
+          "value": "5,420",
+          "change": "-1.1%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26179.92",
-          "change": "-0.06%",
+          "value": "17,210",
+          "change": "-1.8%",
           "direction": "down"
         },
         {
           "name": "KOSPI",
-          "value": "6686.29",
-          "change": "-0.08%",
+          "value": "2,780",
+          "change": "-0.9%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6459.04",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "492",
+          "change": "-0.5%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7685.31982421875,
-        7680.89013671875,
-        7680.41015625,
-        7679.1298828125,
-        7677.9501953125,
-        7677.18994140625,
-        7676.22998046875,
-        7677.8798828125,
-        7678.18994140625,
-        7679.330078125,
-        7674.10009765625
+        82,
+        80,
+        79,
+        76,
+        73,
+        71,
+        68,
+        65,
+        62,
+        59,
+        56
       ],
-      "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-08-22 04:59 KST"
+      "conclusion": "성장주 중심 약세가 위험회피 회전의 강도를 보여줍니다.",
+      "status": "약세"
     },
     {
       "id": "fx",
       "label": "환율",
       "title": "환율",
-      "summary": "intraday chart 기반으로 달러 강세와 주요 통화 변화를 추적합니다.",
+      "summary": "달러 방향성과 아시아 통화의 민감도를 함께 봐야 실제 충격을 읽을 수 있습니다.",
       "items": [
         {
           "name": "DXY",
-          "value": "98.82",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "105.8",
+          "change": "+0.8%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1379.95",
-          "change": "+0.02%",
+          "value": "1,378",
+          "change": "+0.6%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.93",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "157.2",
+          "change": "+0.4%",
+          "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7223",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "name": "USDCNH",
+          "value": "7.28",
+          "change": "+0.2%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1379.719970703125,
-        1379.8399658203125,
-        1379.760009765625,
-        1379.550048828125,
-        1379.8900146484375,
-        1379.9100341796875,
-        1379.8900146484375,
-        1380.0899658203125,
-        1379.8800048828125,
-        1379.6800537109375,
-        1379.949951171875
+        52,
+        54,
+        56,
+        58,
+        62,
+        65,
+        69,
+        72,
+        75,
+        78,
+        82
       ],
-      "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-24 12:41 KST"
+      "conclusion": "달러 강세가 지속되며 원화와 엔화의 약세 압력을 강화합니다.",
+      "status": "강세"
     }
   ],
   "currentAction": {
-    "state": "Neutral",
-    "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
-    "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
+    "state": "Risk-off",
+    "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
+    "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
     "isCurrent": true
   },
   "actions": [
@@ -350,7 +308,7 @@
       "state": "Neutral",
       "rule": "기존 포지션을 유지하고 신규 베팅은 확인 신호 이후로 미룹니다.",
       "detail": "금리, 달러, 주식 중 한 축이 먼저 이탈하는지 보면서 포지션 크기를 작게 유지합니다.",
-      "isCurrent": true
+      "isCurrent": false
     },
     {
       "state": "Risk-on",
@@ -360,26 +318,26 @@
     },
     {
       "state": "Risk-off",
-      "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
-      "isCurrent": false
+      "rule": "주식 비중을 줄이고, 단기채와 달러 자산을 우선 점검합니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "isCurrent": true
     },
     {
       "state": "Inflation shock",
-      "rule": "장기채 듀레이션을 줄이고 원자재 노출 확대 가능성을 검토합니다.",
-      "detail": "유가와 금리의 동반 상승이 물가 기대 재상승으로 이어지는지 확인합니다.",
+      "rule": "장기채 듀레이션을 줄이고 원자재 노출을 검토합니다.",
+      "detail": "유가 상승이 물가 기대를 자극하는지 확인합니다.",
       "isCurrent": false
     },
     {
       "state": "Growth shock",
-      "rule": "경기민감 자산을 축소하고 방어주와 안전자산 비중을 점검합니다.",
-      "detail": "구리와 지수 약세가 동시에 이어지면 실적 민감 섹터 노출부터 줄입니다.",
+      "rule": "경기민감 자산을 축소하고 방어주 비중을 점검합니다.",
+      "detail": "실적 방어력이 높은 섹터를 우선 확인합니다.",
       "isCurrent": false
     },
     {
       "state": "Policy shock",
       "rule": "이벤트 전후 포지션 크기를 줄이고 변동성 관리에 집중합니다.",
-      "detail": "발언 직후 방향 추종보다 손절 기준과 익스포저 한도를 먼저 확인합니다.",
+      "detail": "발언 직후 방향 추종보다 리스크 제한이 중요합니다.",
       "isCurrent": false
     }
   ]
