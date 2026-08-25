@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "collectedAt": "2026-08-25T03:37:36Z",
+  "collectedAt": "2026-08-25T07:27:26Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,24 +46,38 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "-0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
+    {
+      "title": "Asian shares are mixed and oil",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Is",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html?.tsrc=rss"
+    },
+    {
+      "title": "Bitcoin Tops $81,000 as Gold Notches",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Bitcoin topped $81,000 and gold hit a three-month high as dollar weakness and Fed rate bets lifted both assets together.",
+      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/?.tsrc=rss"
+    },
     {
       "title": "Norway’s Top Oil Producers Team Up",
       "impact": "원자재, 인플레 기대",
@@ -77,23 +91,25 @@
       "importance": "high",
       "summary": "TotalEnergies SE (NYSE:TTE) is showing that its trading and integrated business model can create opportunities even in a highly disrupted oil market. CEO Patrick Pouyanne said the ",
       "link": "https://finance.yahoo.com/energy/articles/totalenergies-navigates-hormuz-crisis-discounted-014443840.html?.tsrc=rss"
-    },
-    {
-      "title": "Vanguard 500 Index Fund Admiral",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "At 0.04% per year and nearly $600 billion in assets, this Vanguard fund looks like the ultimate set-it-and-forget-it investment, but a closer look at what is actually inside reveal",
-      "link": "https://247wallst.com/investing/2026/08/24/vanguard-500-index-fund-admiral-shares-vfiax-what-investors-should-know/?.tsrc=rss"
-    },
-    {
-      "title": "The Biggest Victims Of Trump’s",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "China represents Washington’s biggest test, buying more than 80% of Iran’s seaborne crude, while sanctions against major Chinese banks could trigger significant economic and diplom",
-      "link": "https://finance.yahoo.com/economy/policy/articles/biggest-victims-trump-economic-d-000000547.html?.tsrc=rss"
     }
   ],
   "newsItems": [
+    {
+      "title": "Asian shares are mixed and oil",
+      "summary": "Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Is",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 05:26:31 +0000"
+    },
+    {
+      "title": "Bitcoin Tops $81,000 as Gold Notches",
+      "summary": "Bitcoin topped $81,000 and gold hit a three-month high as dollar weakness and Fed rate bets lifted both assets together.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 03:33:32 +0000"
+    },
     {
       "title": "Norway’s Top Oil Producers Team Up",
       "summary": "Equinor, Aker BP and Vår Energi will jointly target high-impact prospects across the Norwegian Continental Shelf.",
@@ -109,22 +125,6 @@
       "importance": "high",
       "link": "https://finance.yahoo.com/energy/articles/totalenergies-navigates-hormuz-crisis-discounted-014443840.html?.tsrc=rss",
       "published": "Tue, 25 Aug 2026 01:44:43 +0000"
-    },
-    {
-      "title": "Vanguard 500 Index Fund Admiral",
-      "summary": "At 0.04% per year and nearly $600 billion in assets, this Vanguard fund looks like the ultimate set-it-and-forget-it investment, but a closer look at what is actually inside reveal",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/08/24/vanguard-500-index-fund-admiral-shares-vfiax-what-investors-should-know/?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 01:20:50 +0000"
-    },
-    {
-      "title": "The Biggest Victims Of Trump’s",
-      "summary": "China represents Washington’s biggest test, buying more than 80% of Iran’s seaborne crude, while sanctions against major Chinese banks could trigger significant economic and diplom",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/economy/policy/articles/biggest-victims-trump-economic-d-000000547.html?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 00:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "85.33",
-          "change": "-0.02%",
+          "value": "84.34",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "92.38",
-          "change": "+0.12%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4693.00",
-          "change": "-0.02%",
+          "value": "91.46",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4696.10",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.59",
-          "change": "-0.02%",
+          "value": "6.61",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        85.1500015258789,
-        85.19000244140625,
-        85.20999908447266,
-        85.2300033569336,
-        85.19999694824219,
-        85.2699966430664,
-        85.33999633789062,
-        85.33999633789062,
-        85.33999633789062,
-        85.3499984741211,
-        85.33000183105469
+        84.13999938964844,
+        84.1500015258789,
+        84.23999786376953,
+        84.3499984741211,
+        84.38999938964844,
+        84.37999725341797,
+        84.37000274658203,
+        84.41000366210938,
+        84.37999725341797,
+        84.41000366210938,
+        84.33999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-08-25 12:27 KST"
+      "freshness": "2026-08-25 16:17 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6564.09",
+          "value": "6713.63",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6452.56",
-          "change": "+0.05%",
+          "value": "6470.94",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.05",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.04",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1382.48",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1385.04",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.37",
+          "value": "159.36",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7226",
+          "value": "6.7225",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1382.47998046875,
-        1382.3800048828125,
-        1382.6800537109375,
-        1382.5799560546875,
-        1382.7099609375,
-        1382.81005859375,
-        1382.6300048828125,
-        1382.280029296875,
-        1382.5799560546875,
-        1382.47998046875,
-        1382.47998046875
+        1384.760009765625,
+        1384.800048828125,
+        1384.989990234375,
+        1384.9000244140625,
+        1384.8900146484375,
+        1384.9599609375,
+        1384.969970703125,
+        1384.969970703125,
+        1384.6800537109375,
+        1385.1800537109375,
+        1385.0400390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-25 12:37 KST"
+      "status": "완화",
+      "freshness": "2026-08-25 16:27 KST"
     }
   ],
   "currentAction": {
