@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-25",
-  "collectedAt": "2026-08-25T07:27:26Z",
+  "date": "2026-08-26",
+  "collectedAt": "2026-08-25T20:41:22Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,7 +40,7 @@
     },
     {
       "label": "미 10년물",
-      "value": "+0.09%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.08%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Asian shares are mixed and oil",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Is",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html?.tsrc=rss"
-    },
-    {
-      "title": "Bitcoin Tops $81,000 as Gold Notches",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Bitcoin topped $81,000 and gold hit a three-month high as dollar weakness and Fed rate bets lifted both assets together.",
-      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/?.tsrc=rss"
-    },
-    {
-      "title": "Norway’s Top Oil Producers Team Up",
+      "title": "Canadian oil escaped the 50% tariff",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Equinor, Aker BP and Vår Energi will jointly target high-impact prospects across the Norwegian Continental Shelf.",
-      "link": "https://finance.yahoo.com/energy/articles/norway-top-oil-producers-team-020000451.html?.tsrc=rss"
+      "summary": "After the US-Canada trade talks collapsed, the US moved to raise tariffs to 50% one global commodity was left out of the tariff policy:  oil. The US is by far the biggest buyer of ",
+      "link": "https://finance.yahoo.com/video/why-canadian-oil-escaped-50-195100869.html?.tsrc=rss"
     },
     {
-      "title": "TotalEnergies Navigates Hormuz",
+      "title": "TSX Closer",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The S&P/TSX Composite Index closed at a record high on Tuesday as gains in base metals and financial",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-record-202608492.html?.tsrc=rss"
+    },
+    {
+      "title": "US Equity Markets Higher as Crude",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "TotalEnergies SE (NYSE:TTE) is showing that its trading and integrated business model can create opportunities even in a highly disrupted oil market. CEO Patrick Pouyanne said the ",
-      "link": "https://finance.yahoo.com/energy/articles/totalenergies-navigates-hormuz-crisis-discounted-014443840.html?.tsrc=rss"
+      "summary": "US equity indexes ended higher Tuesday as crude oil prices and government bond yields dropped, after",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-crude-201819661.html?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq Announces Mid-Month Open",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "NEW YORK, Aug. 25, 2026 (GLOBE NEWSWIRE) -- At the end of the settlement date of August 14, 2026, short interest in 3,855 Nasdaq Global MarketSM securities totaled 17,667,604,951 s",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-announces-mid-month-open-200500965.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Asian shares are mixed and oil",
-      "summary": "Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Is",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-052631381.html?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 05:26:31 +0000"
-    },
-    {
-      "title": "Bitcoin Tops $81,000 as Gold Notches",
-      "summary": "Bitcoin topped $81,000 and gold hit a three-month high as dollar weakness and Fed rate bets lifted both assets together.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 03:33:32 +0000"
-    },
-    {
-      "title": "Norway’s Top Oil Producers Team Up",
-      "summary": "Equinor, Aker BP and Vår Energi will jointly target high-impact prospects across the Norwegian Continental Shelf.",
+      "title": "Canadian oil escaped the 50% tariff",
+      "summary": "After the US-Canada trade talks collapsed, the US moved to raise tariffs to 50% one global commodity was left out of the tariff policy:  oil. The US is by far the biggest buyer of ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/norway-top-oil-producers-team-020000451.html?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 02:00:00 +0000"
+      "link": "https://finance.yahoo.com/video/why-canadian-oil-escaped-50-195100869.html?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 19:51:00 +0000"
     },
     {
-      "title": "TotalEnergies Navigates Hormuz",
-      "summary": "TotalEnergies SE (NYSE:TTE) is showing that its trading and integrated business model can create opportunities even in a highly disrupted oil market. CEO Patrick Pouyanne said the ",
+      "title": "TSX Closer",
+      "summary": "The S&P/TSX Composite Index closed at a record high on Tuesday as gains in base metals and financial",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-record-202608492.html?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 20:26:08 +0000"
+    },
+    {
+      "title": "US Equity Markets Higher as Crude",
+      "summary": "US equity indexes ended higher Tuesday as crude oil prices and government bond yields dropped, after",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/totalenergies-navigates-hormuz-crisis-discounted-014443840.html?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 01:44:43 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-crude-201819661.html?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 20:18:19 +0000"
+    },
+    {
+      "title": "Nasdaq Announces Mid-Month Open",
+      "summary": "NEW YORK, Aug. 25, 2026 (GLOBE NEWSWIRE) -- At the end of the settlement date of August 14, 2026, short interest in 3,855 Nasdaq Global MarketSM securities totaled 17,667,604,951 s",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-announces-mid-month-open-200500965.html?.tsrc=rss",
+      "published": "Tue, 25 Aug 2026 20:05:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.34",
-          "change": "-0.08%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "91.46",
-          "change": "-0.10%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4696.10",
-          "change": "+0.00%",
+          "value": "80.71",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
-          "name": "Copper",
-          "value": "6.61",
-          "change": "-0.03%",
+          "name": "Brent",
+          "value": "85.53",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "Gold",
+          "value": "4718.60",
+          "change": "-0.00%",
           "direction": "down"
+        },
+        {
+          "name": "Copper",
+          "value": "6.71",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        84.13999938964844,
-        84.1500015258789,
-        84.23999786376953,
-        84.3499984741211,
-        84.38999938964844,
-        84.37999725341797,
-        84.37000274658203,
-        84.41000366210938,
-        84.37999725341797,
-        84.41000366210938,
-        84.33999633789062
+        80.43000030517578,
+        80.30000305175781,
+        80.26000213623047,
+        80.37000274658203,
+        80.51000213623047,
+        80.62999725341797,
+        80.75,
+        80.62000274658203,
+        80.69000244140625,
+        80.62000274658203,
+        80.70999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-25 16:17 KST"
+      "status": "강세",
+      "freshness": "2026-08-26 05:31 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.703%",
+          "value": "3.705%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.408%",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "4.351%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.704%",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "4.639%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.231%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.174%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.697999954223633,
-        4.696000099182129,
-        4.696000099182129,
-        4.696000099182129,
-        4.697999954223633,
-        4.697999954223633,
-        4.697999954223633,
-        4.697999954223633,
-        4.699999809265137,
-        4.699999809265137,
-        4.703999996185303
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.640999794006348,
+        4.638999938964844
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-08-25 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-08-26 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,13 +250,13 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7652.82",
+          "value": "7675.73",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25979.66",
+          "value": "26145.47",
           "change": "-0.04%",
           "direction": "down"
         },
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6470.94",
+          "value": "6460.28",
           "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7655.85986328125,
-        7654.77978515625,
-        7653.6201171875,
-        7652.64013671875,
-        7651.89013671875,
-        7655.08984375,
-        7653.759765625,
-        7655.009765625,
-        7655.66015625,
-        7655.919921875,
-        7652.81982421875
+        7673.1298828125,
+        7671.830078125,
+        7671.6201171875,
+        7673.83984375,
+        7677.2998046875,
+        7679.43994140625,
+        7677.5498046875,
+        7677.9599609375,
+        7678.60986328125,
+        7678.419921875,
+        7675.72998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-25 04:59 KST"
+      "freshness": "2026-08-26 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.04",
+          "value": "98.89",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1385.04",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.36",
-          "change": "+0.00%",
+          "value": "1382.23",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "159.21",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7225",
-          "change": "+0.00%",
+          "value": "6.7198",
+          "change": "+0.14%",
           "direction": "up"
         }
       ],
       "trend": [
-        1384.760009765625,
-        1384.800048828125,
-        1384.989990234375,
-        1384.9000244140625,
-        1384.8900146484375,
-        1384.9599609375,
-        1384.969970703125,
-        1384.969970703125,
-        1384.6800537109375,
-        1385.1800537109375,
-        1385.0400390625
+        1382.06005859375,
+        1382.3199462890625,
+        1381.77001953125,
+        1381.72998046875,
+        1381.9100341796875,
+        1381.93994140625,
+        1382.760009765625,
+        1383.0799560546875,
+        1381.8900146484375,
+        1381.8599853515625,
+        1382.22998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-08-25 16:27 KST"
+      "freshness": "2026-08-26 05:41 KST"
     }
   ],
   "currentAction": {
