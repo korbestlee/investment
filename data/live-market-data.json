@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-26",
-  "collectedAt": "2026-08-26T07:28:54Z",
+  "date": "2026-08-27",
+  "collectedAt": "2026-08-26T23:26:35Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.04%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Perseus Mining Ltd (PMNXF) (FY 2026)",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Perseus Mining Ltd (PMNXF) reports a 19% revenue surge to USD 1.5 billion, driven by strong gold prices and successful reserve expansion.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perseus-mining-ltd-pmnxf-fy-070110272.html?.tsrc=rss"
-    },
-    {
-      "title": "Oil Prices Fall as Iran-Oman Talks",
+      "title": "Diesel Prices",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices fell as Iran and Oman advanced talks on a temporary Hormuz shipping corridor, though analysts warned that normal oil flows remain distant.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-iran-oman-063000280.html?.tsrc=rss"
+      "summary": "Diesel prices are still above $5, and Aaron Decker says the real problem is refining capacity — not crude oil. In this FreightWaves Today interview, Decker breaks down crack spread",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-refining-crisis-not-224211557.html?.tsrc=rss"
     },
     {
-      "title": "Asian shares mostly rise as oil",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Asian shares mostly rose in early Wednesday trading, as investors kept an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because of t",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-oil-035909033.html?.tsrc=rss"
+      "title": "Halliburton (HAL) Rises As Market",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html?.tsrc=rss"
     },
     {
-      "title": "Gold Bitcoin Rally Together as the",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "<p>Gold and bitcoin have surged together this month as the Treasury tries to hold down bond yields.</p>",
-      "link": "http://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss&.tsrc=rss"
+      "title": "Copart, Inc. (CPRT) Falls More",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-falls-more-221502354.html?.tsrc=rss"
+    },
+    {
+      "title": "Lockheed Martin (LMT) Rises As",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-rises-market-215003622.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Perseus Mining Ltd (PMNXF) (FY 2026)",
-      "summary": "Perseus Mining Ltd (PMNXF) reports a 19% revenue surge to USD 1.5 billion, driven by strong gold prices and successful reserve expansion.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perseus-mining-ltd-pmnxf-fy-070110272.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 07:01:10 +0000"
-    },
-    {
-      "title": "Oil Prices Fall as Iran-Oman Talks",
-      "summary": "Oil prices fell as Iran and Oman advanced talks on a temporary Hormuz shipping corridor, though analysts warned that normal oil flows remain distant.",
+      "title": "Diesel Prices",
+      "summary": "Diesel prices are still above $5, and Aaron Decker says the real problem is refining capacity — not crude oil. In this FreightWaves Today interview, Decker breaks down crack spread",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-iran-oman-063000280.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 06:30:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-refining-crisis-not-224211557.html?.tsrc=rss",
+      "published": "Wed, 26 Aug 2026 22:42:11 +0000"
     },
     {
-      "title": "Asian shares mostly rise as oil",
-      "summary": "Asian shares mostly rose in early Wednesday trading, as investors kept an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because of t",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-rise-oil-035909033.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 03:59:09 +0000"
+      "title": "Halliburton (HAL) Rises As Market",
+      "summary": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html?.tsrc=rss",
+      "published": "Wed, 26 Aug 2026 22:15:02 +0000"
     },
     {
-      "title": "Gold Bitcoin Rally Together as the",
-      "summary": "<p>Gold and bitcoin have surged together this month as the Treasury tries to hold down bond yields.</p>",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "http://www.etf.com/sections/features/gold-bitcoin-rally-together-debasement-trade-returns?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss&.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 03:23:44 +0000"
+      "title": "Copart, Inc. (CPRT) Falls More",
+      "summary": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-falls-more-221502354.html?.tsrc=rss",
+      "published": "Wed, 26 Aug 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Lockheed Martin (LMT) Rises As",
+      "summary": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-rises-market-215003622.html?.tsrc=rss",
+      "published": "Wed, 26 Aug 2026 21:50:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.25",
-          "change": "+0.01%",
+          "value": "81.86",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "85.44",
+          "value": "86.56",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "Gold",
+          "value": "4669.00",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4690.80",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
           "name": "Copper",
           "value": "6.72",
-          "change": "-0.02%",
-          "direction": "down"
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        80.30999755859375,
-        80.30000305175781,
-        80.33000183105469,
-        80.30999755859375,
-        80.41000366210938,
-        80.29000091552734,
-        80.27999877929688,
-        80.2699966430664,
-        80.27999877929688,
-        80.23999786376953,
-        80.25
+        81.79000091552734,
+        81.80999755859375,
+        81.80999755859375,
+        81.81999969482422,
+        81.83000183105469,
+        81.83000183105469,
+        81.83999633789062,
+        81.8499984741211,
+        81.83999633789062,
+        81.83999633789062,
+        81.86000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-26 16:18 KST"
+      "freshness": "2026-08-27 08:16 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.705%",
+          "value": "3.690%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.351%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.381%",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.639%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.664%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.174%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.186%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.640999794006348,
-        4.638999938964844
+        4.665999889373779,
+        4.665999889373779,
+        4.665999889373779,
+        4.665999889373779,
+        4.665999889373779,
+        4.664000034332275,
+        4.664000034332275,
+        4.664000034332275,
+        4.664000034332275,
+        4.664000034332275,
+        4.664000034332275
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-26 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-08-27 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7675.73",
-          "change": "-0.04%",
+          "value": "7676.29",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26145.47",
-          "change": "-0.04%",
+          "value": "26136.18",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6462.62",
-          "change": "+0.03%",
+          "value": "6474.15",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7673.1298828125,
-        7671.830078125,
-        7671.6201171875,
-        7673.83984375,
-        7677.2998046875,
-        7679.43994140625,
-        7677.5498046875,
-        7677.9599609375,
-        7678.60986328125,
-        7678.419921875,
-        7675.72998046875
+        7688.7900390625,
+        7687.56005859375,
+        7686.35009765625,
+        7683.5,
+        7681.39013671875,
+        7679.85986328125,
+        7679.77001953125,
+        7680.759765625,
+        7680.169921875,
+        7677.58984375,
+        7676.2900390625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-26 04:59 KST"
+      "freshness": "2026-08-27 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.95",
-          "change": "+0.01%",
+          "value": "99.13",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1384.41",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.03",
+          "value": "1385.53",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "159.23",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7086",
-          "change": "-0.17%",
+          "value": "6.7122",
+          "change": "-0.15%",
           "direction": "down"
         }
       ],
       "trend": [
-        1383.8499755859375,
-        1384.0799560546875,
-        1384.02001953125,
-        1383.989990234375,
-        1383.9599609375,
-        1384.1800537109375,
-        1384.2900390625,
-        1384.300048828125,
-        1384.3499755859375,
-        1384.4100341796875,
-        1384.4100341796875
+        1385.2900390625,
+        1385.449951171875,
+        1385.489990234375,
+        1385.3499755859375,
+        1385.25,
+        1385.2900390625,
+        1385.3599853515625,
+        1385.469970703125,
+        1385.6300048828125,
+        1385.4200439453125,
+        1385.530029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-08-26 16:28 KST"
+      "freshness": "2026-08-27 08:26 KST"
     }
   ],
   "currentAction": {
