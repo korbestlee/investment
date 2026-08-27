@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-27",
-  "collectedAt": "2026-08-27T13:11:52Z",
+  "date": "2026-08-28",
+  "collectedAt": "2026-08-27T17:52:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.13%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.09%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "5 Defensive Stocks to Buy as",
+      "title": "Nvidia Delivers and the Nasdaq Jumps",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "COCO, DAR, CNC, EXC and AMRX offer a defensive appeal as consumer confidence hits a 7-month low amid inflation and labor market concerns.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-defensive-stocks-buy-consumer-130300086.html?.tsrc=rss"
+      "summary": "Nvidia and Salesforce did the heavy lifting Thursday while 23 of 30 Dow stocks fell. This is what a narrow Wall Street rally looks like.",
+      "link": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss"
     },
     {
-      "title": "Tech Futures Rally As Nvidia,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index falls, but tech futures rally Thursday as Nvidia, Salesforce and CrowdStrike surge on earnings.",
-      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-tech.html?.tsrc=rss"
-    },
-    {
-      "title": "2 Dividend-Paying Stocks From the",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Here we have picked two railroad stocks, UNP and CNI, which have a solid five-year dividend growth history.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-paying-stocks-railroad-130000522.html?.tsrc=rss"
-    },
-    {
-      "title": "The World's Gold Mines Are Draining",
-      "impact": "원자재, 인플레 기대",
+      "title": "Is Enbridge (TSX",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold has spent 2026 near record highs, and the rally has exposed a problem that no price can quickly fix: the world is running low on new mines. Major producers are guiding to flat",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/worlds-gold-mines-draining-faster-130000448.html?.tsrc=rss"
+      "summary": "Enbridge (TSX:ENB) has entered a new joint venture with KKR and Apollo involving expansions of its Westcoast natural gas pipeline system in British Columbia. The joint venture brin",
+      "link": "https://finance.yahoo.com/energy/articles/why-enbridge-tsx-enb-expanding-170550148.html?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq Leads Gains As Nvidia Crosses",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The tech-heavy Nasdaq composite paced gains among major indexes Thursday as Wall Street reacted to big earnings reports, with Nvidia, Salesforce and CrowdStrike surging on the stoc",
+      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+    },
+    {
+      "title": "Billionaire Israel Englander's 2",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Even a sophisticated hedge fund relies on the simplicity of index funds.",
+      "link": "https://www.fool.com/investing/2026/08/27/billionaire-israel-englander-big-bets-sp-500/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "5 Defensive Stocks to Buy as",
-      "summary": "COCO, DAR, CNC, EXC and AMRX offer a defensive appeal as consumer confidence hits a 7-month low amid inflation and labor market concerns.",
+      "title": "Nvidia Delivers and the Nasdaq Jumps",
+      "summary": "Nvidia and Salesforce did the heavy lifting Thursday while 23 of 30 Dow stocks fell. This is what a narrow Wall Street rally looks like.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-defensive-stocks-buy-consumer-130300086.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 13:03:00 +0000"
+      "link": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 17:14:17 +0000"
     },
     {
-      "title": "Tech Futures Rally As Nvidia,",
-      "summary": "Stock Market Today: The Dow Jones index falls, but tech futures rally Thursday as Nvidia, Salesforce and CrowdStrike surge on earnings.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-tech.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 13:01:49 +0000"
-    },
-    {
-      "title": "2 Dividend-Paying Stocks From the",
-      "summary": "Here we have picked two railroad stocks, UNP and CNI, which have a solid five-year dividend growth history.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-paying-stocks-railroad-130000522.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 13:00:00 +0000"
-    },
-    {
-      "title": "The World's Gold Mines Are Draining",
-      "summary": "Gold has spent 2026 near record highs, and the rally has exposed a problem that no price can quickly fix: the world is running low on new mines. Major producers are guiding to flat",
-      "impact": "원자재, 인플레 기대",
+      "title": "Is Enbridge (TSX",
+      "summary": "Enbridge (TSX:ENB) has entered a new joint venture with KKR and Apollo involving expansions of its Westcoast natural gas pipeline system in British Columbia. The joint venture brin",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/worlds-gold-mines-draining-faster-130000448.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 13:00:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/why-enbridge-tsx-enb-expanding-170550148.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 17:05:50 +0000"
+    },
+    {
+      "title": "Nasdaq Leads Gains As Nvidia Crosses",
+      "summary": "The tech-heavy Nasdaq composite paced gains among major indexes Thursday as Wall Street reacted to big earnings reports, with Nvidia, Salesforce and CrowdStrike surging on the stoc",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 16:56:10 +0000"
+    },
+    {
+      "title": "Billionaire Israel Englander's 2",
+      "summary": "Even a sophisticated hedge fund relies on the simplicity of index funds.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/08/27/billionaire-israel-englander-big-bets-sp-500/?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 16:49:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.69",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "82.76",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.61",
-          "change": "+0.17%",
-          "direction": "up"
+          "value": "87.59",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4639.90",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4666.70",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.67",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "6.70",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
         82.72000122070312,
-        82.75,
-        82.7699966430664,
+        82.69999694824219,
+        82.7300033569336,
+        82.69000244140625,
+        82.72000122070312,
+        82.72000122070312,
         82.70999908447266,
-        82.66999816894531,
-        82.6500015258789,
-        82.5199966430664,
-        82.54000091552734,
-        82.52999877929688,
-        82.58000183105469,
-        82.69000244140625
+        82.7300033569336,
+        82.79000091552734,
+        82.79000091552734,
+        82.76000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-27 22:01 KST"
+      "status": "약세",
+      "freshness": "2026-08-28 02:42 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.682%",
+          "value": "3.680%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.387%",
+          "value": "4.384%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.668%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.660%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.190%",
+          "value": "5.181%",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.668000221252441,
-        4.668000221252441,
-        4.668000221252441,
-        4.670000076293945,
-        4.671999931335449,
-        4.671999931335449,
-        4.670000076293945,
-        4.671999931335449,
-        4.670000076293945,
-        4.668000221252441,
-        4.668000221252441
+        4.661999702453613,
+        4.661999702453613,
+        4.659999847412109,
+        4.659999847412109,
+        4.659999847412109,
+        4.659999847412109,
+        4.6579999923706055,
+        4.659999847412109,
+        4.659999847412109,
+        4.661999702453613,
+        4.659999847412109
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-27 21:56 KST"
+      "status": "완화",
+      "freshness": "2026-08-28 02:37 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7676.29",
-          "change": "-0.02%",
+          "value": "7730.28",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26136.18",
-          "change": "-0.00%",
+          "value": "26495.69",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6450.65",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6421.54",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7688.7900390625,
-        7687.56005859375,
-        7686.35009765625,
-        7683.5,
-        7681.39013671875,
-        7679.85986328125,
-        7679.77001953125,
-        7680.759765625,
-        7680.169921875,
-        7677.58984375,
-        7676.2900390625
+        7736.10009765625,
+        7737.6298828125,
+        7734.60009765625,
+        7733.009765625,
+        7732.4599609375,
+        7732.39990234375,
+        7731.39013671875,
+        7731.75,
+        7731.509765625,
+        7730.9501953125,
+        7730.27978515625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-08-27 04:59 KST"
+      "freshness": "2026-08-28 02:52 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.21",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "99.14",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1382.19",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1381.66",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.43",
+          "value": "159.38",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7089",
+          "value": "6.7087",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1381.6800537109375,
-        1381.6800537109375,
-        1381.8699951171875,
-        1381.47998046875,
-        1381.989990234375,
-        1381.949951171875,
-        1382.1099853515625,
-        1382.219970703125,
-        1382.239990234375,
-        1382.3199462890625,
-        1382.18994140625
+        1381.2099609375,
+        1381.0,
+        1381.1400146484375,
+        1381.030029296875,
+        1381.030029296875,
+        1379.780029296875,
+        1381.3900146484375,
+        1381.56005859375,
+        1381.530029296875,
+        1381.3199462890625,
+        1381.6600341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-27 22:11 KST"
+      "status": "중립",
+      "freshness": "2026-08-28 02:52 KST"
     }
   ],
   "currentAction": {
