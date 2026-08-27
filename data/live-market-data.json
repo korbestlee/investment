@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "collectedAt": "2026-08-26T23:26:35Z",
+  "collectedAt": "2026-08-27T13:11:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.13%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.09%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Diesel Prices",
+      "title": "5 Defensive Stocks to Buy as",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "COCO, DAR, CNC, EXC and AMRX offer a defensive appeal as consumer confidence hits a 7-month low amid inflation and labor market concerns.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-defensive-stocks-buy-consumer-130300086.html?.tsrc=rss"
+    },
+    {
+      "title": "Tech Futures Rally As Nvidia,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stock Market Today: The Dow Jones index falls, but tech futures rally Thursday as Nvidia, Salesforce and CrowdStrike surge on earnings.",
+      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-tech.html?.tsrc=rss"
+    },
+    {
+      "title": "2 Dividend-Paying Stocks From the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Here we have picked two railroad stocks, UNP and CNI, which have a solid five-year dividend growth history.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-paying-stocks-railroad-130000522.html?.tsrc=rss"
+    },
+    {
+      "title": "The World's Gold Mines Are Draining",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Diesel prices are still above $5, and Aaron Decker says the real problem is refining capacity — not crude oil. In this FreightWaves Today interview, Decker breaks down crack spread",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-refining-crisis-not-224211557.html?.tsrc=rss"
-    },
-    {
-      "title": "Halliburton (HAL) Rises As Market",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html?.tsrc=rss"
-    },
-    {
-      "title": "Copart, Inc. (CPRT) Falls More",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-falls-more-221502354.html?.tsrc=rss"
-    },
-    {
-      "title": "Lockheed Martin (LMT) Rises As",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-rises-market-215003622.html?.tsrc=rss"
+      "summary": "Gold has spent 2026 near record highs, and the rally has exposed a problem that no price can quickly fix: the world is running low on new mines. Major producers are guiding to flat",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/worlds-gold-mines-draining-faster-130000448.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Diesel Prices",
-      "summary": "Diesel prices are still above $5, and Aaron Decker says the real problem is refining capacity — not crude oil. In this FreightWaves Today interview, Decker breaks down crack spread",
+      "title": "5 Defensive Stocks to Buy as",
+      "summary": "COCO, DAR, CNC, EXC and AMRX offer a defensive appeal as consumer confidence hits a 7-month low amid inflation and labor market concerns.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-defensive-stocks-buy-consumer-130300086.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 13:03:00 +0000"
+    },
+    {
+      "title": "Tech Futures Rally As Nvidia,",
+      "summary": "Stock Market Today: The Dow Jones index falls, but tech futures rally Thursday as Nvidia, Salesforce and CrowdStrike surge on earnings.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-tech.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 13:01:49 +0000"
+    },
+    {
+      "title": "2 Dividend-Paying Stocks From the",
+      "summary": "Here we have picked two railroad stocks, UNP and CNI, which have a solid five-year dividend growth history.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-paying-stocks-railroad-130000522.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 13:00:00 +0000"
+    },
+    {
+      "title": "The World's Gold Mines Are Draining",
+      "summary": "Gold has spent 2026 near record highs, and the rally has exposed a problem that no price can quickly fix: the world is running low on new mines. Major producers are guiding to flat",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-prices-refining-crisis-not-224211557.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 22:42:11 +0000"
-    },
-    {
-      "title": "Halliburton (HAL) Rises As Market",
-      "summary": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 22:15:02 +0000"
-    },
-    {
-      "title": "Copart, Inc. (CPRT) Falls More",
-      "summary": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-falls-more-221502354.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 22:15:02 +0000"
-    },
-    {
-      "title": "Lockheed Martin (LMT) Rises As",
-      "summary": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-rises-market-215003622.html?.tsrc=rss",
-      "published": "Wed, 26 Aug 2026 21:50:03 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/worlds-gold-mines-draining-faster-130000448.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 13:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.86",
-          "change": "+0.02%",
+          "value": "82.69",
+          "change": "+0.13%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "86.56",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "87.61",
+          "change": "+0.17%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4669.00",
-          "change": "+0.01%",
+          "value": "4639.90",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.72",
-          "change": "+0.02%",
+          "value": "6.67",
+          "change": "+0.09%",
           "direction": "up"
         }
       ],
       "trend": [
-        81.79000091552734,
-        81.80999755859375,
-        81.80999755859375,
-        81.81999969482422,
-        81.83000183105469,
-        81.83000183105469,
-        81.83999633789062,
-        81.8499984741211,
-        81.83999633789062,
-        81.83999633789062,
-        81.86000061035156
+        82.72000122070312,
+        82.75,
+        82.7699966430664,
+        82.70999908447266,
+        82.66999816894531,
+        82.6500015258789,
+        82.5199966430664,
+        82.54000091552734,
+        82.52999877929688,
+        82.58000183105469,
+        82.69000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-27 08:16 KST"
+      "freshness": "2026-08-27 22:01 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.690%",
+          "value": "3.682%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.381%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "4.387%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.664%",
+          "value": "4.668%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.186%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.190%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.665999889373779,
-        4.665999889373779,
-        4.665999889373779,
-        4.665999889373779,
-        4.665999889373779,
-        4.664000034332275,
-        4.664000034332275,
-        4.664000034332275,
-        4.664000034332275,
-        4.664000034332275,
-        4.664000034332275
+        4.668000221252441,
+        4.668000221252441,
+        4.668000221252441,
+        4.670000076293945,
+        4.671999931335449,
+        4.671999931335449,
+        4.670000076293945,
+        4.671999931335449,
+        4.670000076293945,
+        4.668000221252441,
+        4.668000221252441
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-08-27 03:59 KST"
+      "freshness": "2026-08-27 21:56 KST"
     },
     {
       "id": "indices",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6832.91",
-          "change": "+0.05%",
+          "value": "6881.24",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6474.15",
-          "change": "+0.01%",
+          "value": "6450.65",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.13",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "99.21",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1385.53",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1382.19",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.23",
+          "value": "159.43",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7122",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "6.7089",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1385.2900390625,
-        1385.449951171875,
-        1385.489990234375,
-        1385.3499755859375,
-        1385.25,
-        1385.2900390625,
-        1385.3599853515625,
-        1385.469970703125,
-        1385.6300048828125,
-        1385.4200439453125,
-        1385.530029296875
+        1381.6800537109375,
+        1381.6800537109375,
+        1381.8699951171875,
+        1381.47998046875,
+        1381.989990234375,
+        1381.949951171875,
+        1382.1099853515625,
+        1382.219970703125,
+        1382.239990234375,
+        1382.3199462890625,
+        1382.18994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-27 08:26 KST"
+      "status": "완화",
+      "freshness": "2026-08-27 22:11 KST"
     }
   ],
   "currentAction": {
