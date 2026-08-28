@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "collectedAt": "2026-08-27T17:52:43Z",
+  "collectedAt": "2026-08-28T04:21:13Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nvidia Delivers and the Nasdaq Jumps",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Nvidia and Salesforce did the heavy lifting Thursday while 23 of 30 Dow stocks fell. This is what a narrow Wall Street rally looks like.",
-      "link": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss"
-    },
-    {
-      "title": "Is Enbridge (TSX",
+      "title": "Nasdaq Futures Sink While S&P 500,",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Enbridge (TSX:ENB) has entered a new joint venture with KKR and Apollo involving expansions of its Westcoast natural gas pipeline system in British Columbia. The joint venture brin",
-      "link": "https://finance.yahoo.com/energy/articles/why-enbridge-tsx-enb-expanding-170550148.html?.tsrc=rss"
+      "summary": "Kevin Warsh is scheduled to speak on Friday at the Fed’s annual symposium in Jackson Hole, Wyoming.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Leads Gains As Nvidia Crosses",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The tech-heavy Nasdaq composite paced gains among major indexes Thursday as Wall Street reacted to big earnings reports, with Nvidia, Salesforce and CrowdStrike surging on the stoc",
-      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+      "title": "Dow Jones Futures Rise With Fed",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Nvidia broke out on earnings but didn't have coattails. Meanwhile several software stocks flashed buy signals on a trio of earnings. Fed chief Kevin Warsh's big speech looms.",
+      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html?.tsrc=rss"
     },
     {
-      "title": "Billionaire Israel Englander's 2",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Even a sophisticated hedge fund relies on the simplicity of index funds.",
-      "link": "https://www.fool.com/investing/2026/08/27/billionaire-israel-englander-big-bets-sp-500/?.tsrc=rss"
+      "title": "Acerta Energy Ltd. to Acquire Astara",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Acerta Energy Ltd. (\"Acerta\" or the \"Company\") has agreed to acquire Astara Energy Corp. (\"Astara\") by way of a plan of arrangement (the \"Acquisition\"). The Acquisition adds approx",
+      "link": "https://finance.yahoo.com/energy/articles/acerta-energy-ltd-acquire-astara-003200170.html?.tsrc=rss"
+    },
+    {
+      "title": "Gold Holds Near $4,600 as Investors",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Gold steadied near $4,600 an ounce as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-600-233418705.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nvidia Delivers and the Nasdaq Jumps",
-      "summary": "Nvidia and Salesforce did the heavy lifting Thursday while 23 of 30 Dow stocks fell. This is what a narrow Wall Street rally looks like.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 17:14:17 +0000"
-    },
-    {
-      "title": "Is Enbridge (TSX",
-      "summary": "Enbridge (TSX:ENB) has entered a new joint venture with KKR and Apollo involving expansions of its Westcoast natural gas pipeline system in British Columbia. The joint venture brin",
+      "title": "Nasdaq Futures Sink While S&P 500,",
+      "summary": "Kevin Warsh is scheduled to speak on Friday at the Fed’s annual symposium in Jackson Hole, Wyoming.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/why-enbridge-tsx-enb-expanding-170550148.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 17:05:50 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 04:08:56 +0000"
     },
     {
-      "title": "Nasdaq Leads Gains As Nvidia Crosses",
-      "summary": "The tech-heavy Nasdaq composite paced gains among major indexes Thursday as Wall Street reacted to big earnings reports, with Nvidia, Salesforce and CrowdStrike surging on the stoc",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/6d7dc3db-8243-32c1-b651-55ee5914f052/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 16:56:10 +0000"
+      "title": "Dow Jones Futures Rise With Fed",
+      "summary": "Nvidia broke out on earnings but didn't have coattails. Meanwhile several software stocks flashed buy signals on a trio of earnings. Fed chief Kevin Warsh's big speech looms.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 03:57:01 +0000"
     },
     {
-      "title": "Billionaire Israel Englander's 2",
-      "summary": "Even a sophisticated hedge fund relies on the simplicity of index funds.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/08/27/billionaire-israel-englander-big-bets-sp-500/?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 16:49:00 +0000"
+      "title": "Acerta Energy Ltd. to Acquire Astara",
+      "summary": "Acerta Energy Ltd. (\"Acerta\" or the \"Company\") has agreed to acquire Astara Energy Corp. (\"Astara\") by way of a plan of arrangement (the \"Acquisition\"). The Acquisition adds approx",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/acerta-energy-ltd-acquire-astara-003200170.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 00:32:00 +0000"
+    },
+    {
+      "title": "Gold Holds Near $4,600 as Investors",
+      "summary": "Gold steadied near $4,600 an ounce as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-600-233418705.html?.tsrc=rss",
+      "published": "Thu, 27 Aug 2026 23:34:18 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.76",
-          "change": "-0.04%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "87.59",
+          "value": "83.12",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "Gold",
-          "value": "4666.70",
+          "name": "Brent",
+          "value": "88.20",
           "change": "-0.02%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4631.70",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.70",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.69",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        82.72000122070312,
-        82.69999694824219,
-        82.7300033569336,
-        82.69000244140625,
-        82.72000122070312,
-        82.72000122070312,
-        82.70999908447266,
-        82.7300033569336,
-        82.79000091552734,
-        82.79000091552734,
-        82.76000213623047
+        83.12000274658203,
+        83.13999938964844,
+        83.13999938964844,
+        83.11000061035156,
+        83.11000061035156,
+        83.12000274658203,
+        83.12000274658203,
+        83.0999984741211,
+        83.0999984741211,
+        83.12000274658203,
+        83.12000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-08-28 02:42 KST"
+      "status": "중립",
+      "freshness": "2026-08-28 13:10 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.680%",
+          "value": "3.678%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.384%",
+          "value": "4.396%",
+          "change": "+0.05%",
+          "direction": "up"
+        },
+        {
+          "name": "UST 10Y",
+          "value": "4.672%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "UST 10Y",
-          "value": "4.660%",
-          "change": "-0.04%",
-          "direction": "down"
-        },
-        {
           "name": "UST 30Y",
-          "value": "5.181%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.191%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.661999702453613,
-        4.661999702453613,
-        4.659999847412109,
-        4.659999847412109,
-        4.659999847412109,
-        4.659999847412109,
-        4.6579999923706055,
-        4.659999847412109,
-        4.659999847412109,
-        4.661999702453613,
-        4.659999847412109
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449,
+        4.671999931335449
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-08-28 02:37 KST"
+      "status": "중립",
+      "freshness": "2026-08-28 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,21 +250,21 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7730.28",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7730.11",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26495.69",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "26539.56",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
-          "value": "6881.24",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6835.97",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
@@ -274,21 +274,21 @@
         }
       ],
       "trend": [
-        7736.10009765625,
-        7737.6298828125,
-        7734.60009765625,
-        7733.009765625,
-        7732.4599609375,
-        7732.39990234375,
-        7731.39013671875,
-        7731.75,
-        7731.509765625,
-        7730.9501953125,
-        7730.27978515625
+        7726.669921875,
+        7724.009765625,
+        7723.830078125,
+        7727.75,
+        7728.5498046875,
+        7731.3798828125,
+        7728.56982421875,
+        7728.68017578125,
+        7728.14013671875,
+        7729.33984375,
+        7730.10986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-08-28 02:52 KST"
+      "status": "강세",
+      "freshness": "2026-08-28 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.14",
+          "value": "99.18",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1381.66",
-          "change": "+0.02%",
+          "value": "1377.20",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.38",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "159.47",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7087",
+          "value": "6.7201",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1381.2099609375,
-        1381.0,
-        1381.1400146484375,
-        1381.030029296875,
-        1381.030029296875,
-        1379.780029296875,
-        1381.3900146484375,
-        1381.56005859375,
-        1381.530029296875,
-        1381.3199462890625,
-        1381.6600341796875
+        1376.6800537109375,
+        1376.3800048828125,
+        1376.0799560546875,
+        1376.1400146484375,
+        1376.5799560546875,
+        1376.280029296875,
+        1376.510009765625,
+        1376.5799560546875,
+        1376.949951171875,
+        1377.0799560546875,
+        1377.199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-28 02:52 KST"
+      "status": "강세",
+      "freshness": "2026-08-28 13:21 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
