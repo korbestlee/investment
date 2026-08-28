@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "collectedAt": "2026-08-28T04:21:13Z",
+  "collectedAt": "2026-08-28T14:38:08Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq Futures Sink While S&P 500,",
+      "title": "Fed Chair Warsh Leans Hawkish In",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Kevin Warsh is scheduled to speak on Friday at the Fed’s annual symposium in Jackson Hole, Wyoming.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC?.tsrc=rss"
+      "summary": "Federal Reserve Chairman Kevin Warsh said he's focused on inflation and the 2% target amid strong economic signals.  The S&P 500 was little changed and the 10-year Treasury yield e",
+      "link": "https://finance.yahoo.com/m/ce2f609a-3e44-38db-bcd2-0b73bcf11125/fed-chair-warsh-leans-hawkish.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise With Fed",
+      "title": "3 Energy Stocks We’re Skeptical Of",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Nvidia broke out on earnings but didn't have coattails. Meanwhile several software stocks flashed buy signals on a trio of earnings. Fed chief Kevin Warsh's big speech looms.",
-      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html?.tsrc=rss"
+      "summary": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.But",
+      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-142452579.html?.tsrc=rss"
     },
     {
-      "title": "Acerta Energy Ltd. to Acquire Astara",
+      "title": "Dow Rises As Warsh Speech Starts;",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Acerta Energy Ltd. (\"Acerta\" or the \"Company\") has agreed to acquire Astara Energy Corp. (\"Astara\") by way of a plan of arrangement (the \"Acquisition\"). The Acquisition adds approx",
-      "link": "https://finance.yahoo.com/energy/articles/acerta-energy-ltd-acquire-astara-003200170.html?.tsrc=rss"
+      "summary": "Stocks were mixed while Treasury yields edged higher before Fed chief Kevin Warsh's Jackson Hole speech. Marvell, Affirm, PayPal are big movers.",
+      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html?.tsrc=rss"
     },
     {
-      "title": "Gold Holds Near $4,600 as Investors",
+      "title": "Stocks Waver as Investors Await",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold steadied near $4,600 an ounce as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-600-233418705.html?.tsrc=rss"
+      "summary": "U.S. stocks were mixed after Federal Reserve Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq Futures Sink While S&P 500,",
-      "summary": "Kevin Warsh is scheduled to speak on Friday at the Fed’s annual symposium in Jackson Hole, Wyoming.",
+      "title": "Fed Chair Warsh Leans Hawkish In",
+      "summary": "Federal Reserve Chairman Kevin Warsh said he's focused on inflation and the 2% target amid strong economic signals.  The S&P 500 was little changed and the 10-year Treasury yield e",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-sink-while-s-and-p-500-dow-futures-gain-ahead-of-fed-chief-warsh-s-jackson-hole-speech-pypl-mrvl-iren-afrm-stocks-in-focus/cZYqw0sRJqC?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 04:08:56 +0000"
+      "link": "https://finance.yahoo.com/m/ce2f609a-3e44-38db-bcd2-0b73bcf11125/fed-chair-warsh-leans-hawkish.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 14:27:42 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise With Fed",
-      "summary": "Nvidia broke out on earnings but didn't have coattails. Meanwhile several software stocks flashed buy signals on a trio of earnings. Fed chief Kevin Warsh's big speech looms.",
+      "title": "3 Energy Stocks We’re Skeptical Of",
+      "summary": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.But",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/28709650-6bf3-32e0-9253-5d5f0e46e8fa/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 03:57:01 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-142452579.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 14:24:52 +0000"
     },
     {
-      "title": "Acerta Energy Ltd. to Acquire Astara",
-      "summary": "Acerta Energy Ltd. (\"Acerta\" or the \"Company\") has agreed to acquire Astara Energy Corp. (\"Astara\") by way of a plan of arrangement (the \"Acquisition\"). The Acquisition adds approx",
+      "title": "Dow Rises As Warsh Speech Starts;",
+      "summary": "Stocks were mixed while Treasury yields edged higher before Fed chief Kevin Warsh's Jackson Hole speech. Marvell, Affirm, PayPal are big movers.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/acerta-energy-ltd-acquire-astara-003200170.html?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 00:32:00 +0000"
+      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 14:19:40 +0000"
     },
     {
-      "title": "Gold Holds Near $4,600 as Investors",
-      "summary": "Gold steadied near $4,600 an ounce as investors weighed the outlook for US interest rates ahead of a key speech by Federal Reserve Chairman Kevin Warsh.",
+      "title": "Stocks Waver as Investors Await",
+      "summary": "U.S. stocks were mixed after Federal Reserve Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-600-233418705.html?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 23:34:18 +0000"
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 13:58:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.12",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "82.85",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.20",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "87.81",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4631.70",
-          "change": "-0.00%",
+          "value": "4586.40",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.69",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.67",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        83.12000274658203,
-        83.13999938964844,
-        83.13999938964844,
-        83.11000061035156,
-        83.11000061035156,
-        83.12000274658203,
-        83.12000274658203,
-        83.0999984741211,
-        83.0999984741211,
-        83.12000274658203,
-        83.12000274658203
+        82.79000091552734,
+        82.8499984741211,
+        82.83000183105469,
+        82.8499984741211,
+        82.86000061035156,
+        82.81999969482422,
+        82.81999969482422,
+        82.79000091552734,
+        82.8499984741211,
+        82.80999755859375,
+        82.8499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-08-28 13:10 KST"
+      "status": "강세",
+      "freshness": "2026-08-28 23:28 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.678%",
+          "value": "3.697%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.396%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "4.445%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.672%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.690%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.191%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.172%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449,
-        4.671999931335449
+        4.693999767303467,
+        4.696000099182129,
+        4.696000099182129,
+        4.691999912261963,
+        4.688000202178955,
+        4.688000202178955,
+        4.691999912261963,
+        4.691999912261963,
+        4.690000057220459,
+        4.688000202178955,
+        4.690000057220459
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-28 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-08-28 23:23 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7730.11",
-          "change": "+0.01%",
+          "value": "7741.61",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26539.56",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "26565.97",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
-          "value": "6835.97",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6790.42",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6421.54",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6480.65",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7726.669921875,
-        7724.009765625,
-        7723.830078125,
-        7727.75,
-        7728.5498046875,
-        7731.3798828125,
-        7728.56982421875,
-        7728.68017578125,
-        7728.14013671875,
-        7729.33984375,
-        7730.10986328125
+        7726.740234375,
+        7730.3701171875,
+        7729.66015625,
+        7730.35986328125,
+        7731.52978515625,
+        7736.02978515625,
+        7738.080078125,
+        7738.77978515625,
+        7740.33984375,
+        7741.509765625,
+        7741.60986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-08-28 04:59 KST"
+      "freshness": "2026-08-28 23:38 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.18",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1377.20",
+          "value": "99.58",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1377.88",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "159.47",
+          "value": "159.89",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7201",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7131",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1376.6800537109375,
-        1376.3800048828125,
-        1376.0799560546875,
-        1376.1400146484375,
-        1376.5799560546875,
-        1376.280029296875,
-        1376.510009765625,
-        1376.5799560546875,
-        1376.949951171875,
-        1377.0799560546875,
-        1377.199951171875
+        1378.47998046875,
+        1378.75,
+        1377.780029296875,
+        1378.280029296875,
+        1377.97998046875,
+        1377.97998046875,
+        1377.8900146484375,
+        1377.5799560546875,
+        1377.47998046875,
+        1377.5799560546875,
+        1377.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-08-28 13:21 KST"
+      "freshness": "2026-08-28 23:37 KST"
     }
   ],
   "currentAction": {
