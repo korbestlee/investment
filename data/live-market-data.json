@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28",
-  "collectedAt": "2026-08-28T14:38:08Z",
+  "date": "2026-08-29",
+  "collectedAt": "2026-08-28T18:58:39Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Fed Chair Warsh Leans Hawkish In",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Federal Reserve Chairman Kevin Warsh said he's focused on inflation and the 2% target amid strong economic signals.  The S&P 500 was little changed and the 10-year Treasury yield e",
-      "link": "https://finance.yahoo.com/m/ce2f609a-3e44-38db-bcd2-0b73bcf11125/fed-chair-warsh-leans-hawkish.html?.tsrc=rss"
+      "title": "What I Learned From Investing",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The stock market has recovered from the biggest crashes. Crises end, but the world keeps going.",
+      "link": "https://www.fool.com/investing/2026/08/28/what-i-learned-from-investing-through-3-big-stock/?.tsrc=rss"
     },
     {
-      "title": "3 Energy Stocks We’re Skeptical Of",
-      "impact": "채권, 금리",
+      "title": "Bitcoin's 90-day correlation with",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.But",
-      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-142452579.html?.tsrc=rss"
+      "summary": "For most of 2026, Bitcoin was trading like a tech stock. That changed this month. Grayscale’s head of research says the shift may be structural.",
+      "link": "https://www.thestreet.com/crypto/markets/bitcoins-90-day-correlation-with-gold-tops-50-study-says-debt-fears-are-driving-it?.tsrc=rss"
     },
     {
-      "title": "Dow Rises As Warsh Speech Starts;",
+      "title": "Nasdaq Pressured After Fed Warsh",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks were mixed while Treasury yields edged higher before Fed chief Kevin Warsh's Jackson Hole speech. Marvell, Affirm, PayPal are big movers.",
-      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html?.tsrc=rss"
+      "summary": "In afternoon trade Friday, the Nasdaq felt the weight of Federal Reserve Chair Kevin Warsh concerns over inflation at the Fed's annual symposium in Jackson Hole, Wyo. Warsh's hawki",
+      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-nasdaq.html?.tsrc=rss"
     },
     {
-      "title": "Stocks Waver as Investors Await",
+      "title": "Stocks Lower as Fed’s Warsh Comments",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "U.S. stocks were mixed after Federal Reserve Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
+      "summary": "U.S. stocks were mixed after Fed Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Fed Chair Warsh Leans Hawkish In",
-      "summary": "Federal Reserve Chairman Kevin Warsh said he's focused on inflation and the 2% target amid strong economic signals.  The S&P 500 was little changed and the 10-year Treasury yield e",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/ce2f609a-3e44-38db-bcd2-0b73bcf11125/fed-chair-warsh-leans-hawkish.html?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 14:27:42 +0000"
+      "title": "What I Learned From Investing",
+      "summary": "The stock market has recovered from the biggest crashes. Crises end, but the world keeps going.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/08/28/what-i-learned-from-investing-through-3-big-stock/?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 18:55:00 +0000"
     },
     {
-      "title": "3 Energy Stocks We’re Skeptical Of",
-      "summary": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.But",
-      "impact": "채권, 금리",
+      "title": "Bitcoin's 90-day correlation with",
+      "summary": "For most of 2026, Bitcoin was trading like a tech stock. That changed this month. Grayscale’s head of research says the shift may be structural.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-skeptical-142452579.html?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 14:24:52 +0000"
+      "link": "https://www.thestreet.com/crypto/markets/bitcoins-90-day-correlation-with-gold-tops-50-study-says-debt-fears-are-driving-it?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 18:26:40 +0000"
     },
     {
-      "title": "Dow Rises As Warsh Speech Starts;",
-      "summary": "Stocks were mixed while Treasury yields edged higher before Fed chief Kevin Warsh's Jackson Hole speech. Marvell, Affirm, PayPal are big movers.",
+      "title": "Nasdaq Pressured After Fed Warsh",
+      "summary": "In afternoon trade Friday, the Nasdaq felt the weight of Federal Reserve Chair Kevin Warsh concerns over inflation at the Fed's annual symposium in Jackson Hole, Wyo. Warsh's hawki",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 14:19:40 +0000"
+      "link": "https://finance.yahoo.com/m/af609e0d-241a-3766-b67c-b22ac8fea8da/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Fri, 28 Aug 2026 18:13:12 +0000"
     },
     {
-      "title": "Stocks Waver as Investors Await",
-      "summary": "U.S. stocks were mixed after Federal Reserve Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
+      "title": "Stocks Lower as Fed’s Warsh Comments",
+      "summary": "U.S. stocks were mixed after Fed Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
       "impact": "채권, 금리",
       "importance": "high",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?.tsrc=rss",
-      "published": "Fri, 28 Aug 2026 13:58:00 +0000"
+      "published": "Fri, 28 Aug 2026 18:11:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.85",
-          "change": "+0.05%",
+          "value": "83.19",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "87.81",
-          "change": "+0.01%",
+          "value": "87.94",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4586.40",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "4500.70",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.67",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.63",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        82.79000091552734,
-        82.8499984741211,
-        82.83000183105469,
-        82.8499984741211,
-        82.86000061035156,
-        82.81999969482422,
-        82.81999969482422,
-        82.79000091552734,
-        82.8499984741211,
-        82.80999755859375,
-        82.8499984741211
+        83.18000030517578,
+        83.2300033569336,
+        83.23999786376953,
+        83.26000213623047,
+        83.26000213623047,
+        83.20999908447266,
+        83.2300033569336,
+        83.19000244140625,
+        83.18000030517578,
+        83.16999816894531,
+        83.19000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-28 23:28 KST"
+      "freshness": "2026-08-29 03:48 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.697%",
+          "value": "3.732%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.445%",
+          "value": "4.488%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.690%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.728%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.172%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.214%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.693999767303467,
-        4.696000099182129,
-        4.696000099182129,
-        4.691999912261963,
-        4.688000202178955,
-        4.688000202178955,
-        4.691999912261963,
-        4.691999912261963,
-        4.690000057220459,
-        4.688000202178955,
-        4.690000057220459
+        4.727999687194824,
+        4.727999687194824,
+        4.72599983215332,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824,
+        4.727999687194824
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-08-28 23:23 KST"
+      "status": "중립",
+      "freshness": "2026-08-29 03:43 KST"
     },
     {
       "id": "indices",
@@ -250,13 +250,13 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7741.61",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "7703.89",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26565.97",
+          "value": "26369.87",
           "change": "-0.01%",
           "direction": "down"
         },
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6480.65",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6489.95",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7726.740234375,
-        7730.3701171875,
-        7729.66015625,
-        7730.35986328125,
-        7731.52978515625,
-        7736.02978515625,
-        7738.080078125,
-        7738.77978515625,
-        7740.33984375,
-        7741.509765625,
-        7741.60986328125
+        7705.580078125,
+        7705.22021484375,
+        7702.22998046875,
+        7702.89013671875,
+        7701.10986328125,
+        7704.08984375,
+        7702.81005859375,
+        7702.490234375,
+        7704.240234375,
+        7704.2099609375,
+        7703.89013671875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-08-28 23:38 KST"
+      "status": "약세",
+      "freshness": "2026-08-29 03:58 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.58",
+          "value": "99.72",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1379.29",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDKRW",
-          "value": "1377.88",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
           "name": "USDJPY",
-          "value": "159.89",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "160.15",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7131",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.7208",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1378.47998046875,
-        1378.75,
-        1377.780029296875,
-        1378.280029296875,
-        1377.97998046875,
-        1377.97998046875,
-        1377.8900146484375,
-        1377.5799560546875,
-        1377.47998046875,
-        1377.5799560546875,
-        1377.8800048828125
+        1379.31005859375,
+        1379.25,
+        1379.260009765625,
+        1379.199951171875,
+        1379.4300537109375,
+        1379.25,
+        1379.4100341796875,
+        1379.3800048828125,
+        1379.25,
+        1379.2099609375,
+        1379.2900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-08-28 23:37 KST"
+      "status": "완화",
+      "freshness": "2026-08-29 03:58 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
