@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-29",
-  "collectedAt": "2026-08-29T02:47:54Z",
+  "date": "2026-08-31",
+  "collectedAt": "2026-08-31T08:58:07Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "PDI Gold Stock Leads These Fast",
+      "title": "Are Nasdaq, S&P 500 Futures Subdued",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Retail sentiment on Stocktwits remained constructive despite rising geopolitical friction: ‘bullish’ on SPY and ‘neutral’ on QQQ.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-subdued-premarket-iran-strikes-nvda-aapl-intc-crwd-rklb-sls-stocks-in-focus/cZYynypRJsT?.tsrc=rss"
+    },
+    {
+      "title": "Crude prices rise on US-Iran",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Global debt markets are back in focus as the US 10 year yield hovers around the mid 4% range ahead of Jackson Hole. Higher yields can punish weaker balance sheets, yet they often h",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pdi-gold-stock-leads-fast-021711817.html?.tsrc=rss"
+      "summary": "Oil prices spiked more than two percent Monday after a fresh flare-up in the US-Iran war, while stocks were mixed as hawkish comments from Federal Reserve boss Kevin Warsh saw inve",
+      "link": "https://finance.yahoo.com/economy/policy/articles/stocks-drop-warsh-fans-us-025203186.html?.tsrc=rss"
     },
     {
-      "title": "Enbridge (ENB) Bets $600 Million on",
+      "title": "Gold Is Up Nearly 30% In The Last",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Enbridge Inc. (NYSE:ENB) announced on August 26 that it had agreed to acquire Salt Creek Midstream’s crude oil gathering business ​for $600 million in cash, further bolstering its ",
-      "link": "https://finance.yahoo.com/energy/articles/enbridge-enb-bets-600-million-013032494.html?.tsrc=rss"
+      "summary": "Goldman Sachs sees the price of gold rising to $4,900 per troy ounce by the end of 2026, an increase of about 3.65% from current levels.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-is-up-nearly-30-in-the-last-year-but-goldman-sachs-sees-more-room-to-run/cZYynOcRJrz?.tsrc=rss"
     },
     {
-      "title": "Jadestone Energy PLC (JDSEF) (H1",
-      "impact": "시장 전반",
+      "title": "The Stock Market Is Uncertain Right",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Jadestone Energy PLC (JDSEF) reports a 13% revenue increase and successful Malaysia drilling campaign, while navigating production downtime and advancing key projects in Vietnam an",
-      "link": "https://finance.yahoo.com/energy/articles/jadestone-energy-plc-jdsef-h1-010229275.html?.tsrc=rss"
-    },
-    {
-      "title": "Basin rig count steady as prices",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The rig count in the Permian Basin was unchanged this week, the latest count Friday by Baker Hughes shows, with 267 rigs active in the region. A year ago, 255 rigs were active in t",
-      "link": "https://www.oaoa.com/?p=370297&.tsrc=rss"
+      "summary": "Despite a double-digit gain for the S&P 500 index in 2026, there are reasons to be a bit cautious.",
+      "link": "https://www.fool.com/investing/2026/08/31/market-uncertain-history-says-good-news-investors/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "PDI Gold Stock Leads These Fast",
-      "summary": "Global debt markets are back in focus as the US 10 year yield hovers around the mid 4% range ahead of Jackson Hole. Higher yields can punish weaker balance sheets, yet they often h",
+      "title": "Are Nasdaq, S&P 500 Futures Subdued",
+      "summary": "Retail sentiment on Stocktwits remained constructive despite rising geopolitical friction: ‘bullish’ on SPY and ‘neutral’ on QQQ.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-sp500-futures-subdued-premarket-iran-strikes-nvda-aapl-intc-crwd-rklb-sls-stocks-in-focus/cZYynypRJsT?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 08:33:16 +0000"
+    },
+    {
+      "title": "Crude prices rise on US-Iran",
+      "summary": "Oil prices spiked more than two percent Monday after a fresh flare-up in the US-Iran war, while stocks were mixed as hawkish comments from Federal Reserve boss Kevin Warsh saw inve",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pdi-gold-stock-leads-fast-021711817.html?.tsrc=rss",
-      "published": "Sat, 29 Aug 2026 02:17:11 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/stocks-drop-warsh-fans-us-025203186.html?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 08:19:50 +0000"
     },
     {
-      "title": "Enbridge (ENB) Bets $600 Million on",
-      "summary": "Enbridge Inc. (NYSE:ENB) announced on August 26 that it had agreed to acquire Salt Creek Midstream’s crude oil gathering business ​for $600 million in cash, further bolstering its ",
+      "title": "Gold Is Up Nearly 30% In The Last",
+      "summary": "Goldman Sachs sees the price of gold rising to $4,900 per troy ounce by the end of 2026, an increase of about 3.65% from current levels.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/enbridge-enb-bets-600-million-013032494.html?.tsrc=rss",
-      "published": "Sat, 29 Aug 2026 01:30:32 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-is-up-nearly-30-in-the-last-year-but-goldman-sachs-sees-more-room-to-run/cZYynOcRJrz?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 08:08:58 +0000"
     },
     {
-      "title": "Jadestone Energy PLC (JDSEF) (H1",
-      "summary": "Jadestone Energy PLC (JDSEF) reports a 13% revenue increase and successful Malaysia drilling campaign, while navigating production downtime and advancing key projects in Vietnam an",
-      "impact": "시장 전반",
+      "title": "The Stock Market Is Uncertain Right",
+      "summary": "Despite a double-digit gain for the S&P 500 index in 2026, there are reasons to be a bit cautious.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/jadestone-energy-plc-jdsef-h1-010229275.html?.tsrc=rss",
-      "published": "Sat, 29 Aug 2026 01:02:29 +0000"
-    },
-    {
-      "title": "Basin rig count steady as prices",
-      "summary": "The rig count in the Permian Basin was unchanged this week, the latest count Friday by Baker Hughes shows, with 267 rigs active in the region. A year ago, 255 rigs were active in t",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.oaoa.com/?p=370297&.tsrc=rss",
-      "published": "Sat, 29 Aug 2026 00:02:00 +0000"
+      "link": "https://www.fool.com/investing/2026/08/31/market-uncertain-history-says-good-news-investors/?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 07:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.44",
-          "change": "+0.01%",
+          "value": "86.27",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.29",
-          "change": "+0.03%",
+          "value": "88.77",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4504.10",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4485.80",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.64",
-          "change": "-0.03%",
+          "value": "6.66",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        83.33000183105469,
-        83.33000183105469,
-        83.36000061035156,
-        83.33999633789062,
-        83.43000030517578,
-        83.43000030517578,
-        83.44000244140625,
-        83.41999816894531,
-        83.4000015258789,
-        83.43000030517578,
-        83.44000244140625
+        86.0199966430664,
+        86.16999816894531,
+        86.2300033569336,
+        86.31999969482422,
+        86.41000366210938,
+        86.45999908447266,
+        86.38999938964844,
+        86.2699966430664,
+        86.23999786376953,
+        86.22000122070312,
+        86.2699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-08-29 05:59 KST"
+      "freshness": "2026-08-31 17:48 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6790.42",
-          "change": "+0.03%",
+          "value": "6763.87",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6489.95",
-          "change": "-0.02%",
+          "value": "6471.38",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "99.55",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1375.67",
+          "value": "1366.72",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.04",
-          "change": "-0.02%",
+          "value": "159.73",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7255",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "6.7189",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1377.68994140625,
-        1376.8499755859375,
-        1375.97998046875,
-        1374.97998046875,
-        1375.1099853515625,
-        1374.8399658203125,
-        1375.6199951171875,
-        1375.06005859375,
-        1375.18994140625,
-        1375.6700439453125,
-        1375.6700439453125
+        1365.97998046875,
+        1366.3499755859375,
+        1366.3900146484375,
+        1366.469970703125,
+        1366.5400390625,
+        1366.6600341796875,
+        1366.8399658203125,
+        1367.3800048828125,
+        1366.77001953125,
+        1366.699951171875,
+        1366.719970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-08-29 07:13 KST"
+      "status": "강세",
+      "freshness": "2026-08-31 17:57 KST"
     }
   ],
   "currentAction": {
