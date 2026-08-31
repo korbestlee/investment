@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "collectedAt": "2026-08-31T14:21:46Z",
+  "date": "2026-09-01",
+  "collectedAt": "2026-08-31T23:47:38Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.07%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Trump's Venezuelan oil deal is very",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The US has entered perhaps the biggest oil (CL=F, BZ=F) deal on record, buying up a large portion of Venezuelan oil production rights. Yahoo Finance Breaking Business News Reporter",
-      "link": "https://finance.yahoo.com/video/why-trumps-venezuelan-oil-deal-141052714.html?.tsrc=rss"
+      "title": "1 S&P 500 Stock with Exciting",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-222040118.html?.tsrc=rss"
     },
     {
-      "title": "Chevron and Exxon Mobil Rise 3% as",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "U.S. strikes on Iran sent oil surging over the weekend, and now traders are betting that two integrated giants respond identically to a crude spike, but their businesses tell a mor",
-      "link": "https://247wallst.com/investing/2026/08/31/chevron-and-exxon-mobil-rise-3-as-u-s-strikes-on-iran-push-wti-crude-oil-to-86/?.tsrc=rss"
+      "title": "American Airlines (AAL) Registers a",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-registers-bigger-221503580.html?.tsrc=rss"
     },
     {
-      "title": "Tom Lee Sees 'Very Strong' September",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "In an interview with CNBC, Tom Lee said he now sees upside risk in September, despite mounting market concerns.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tom-lee-september-market-rally-fed-rate-hold-bitcoin-first-leg-up/cZYywsbRJs1?.tsrc=rss"
+      "title": "Kinsale Capital Group, Inc. (KNSL)",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-221503087.html?.tsrc=rss"
     },
     {
-      "title": "Canada Commodities",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices jumped Monday morning after US forces struck two Iranian rocket launchers and Iran retali",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-rise-135846806.html?.tsrc=rss"
+      "title": "Jabil (JBL) Advances While Market",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the most recent trading session, Jabil (JBL) closed at $305.26, indicating a +1.26% shift from the previous trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-advances-while-market-221502336.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Trump's Venezuelan oil deal is very",
-      "summary": "The US has entered perhaps the biggest oil (CL=F, BZ=F) deal on record, buying up a large portion of Venezuelan oil production rights. Yahoo Finance Breaking Business News Reporter",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/video/why-trumps-venezuelan-oil-deal-141052714.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 14:10:52 +0000"
+      "title": "1 S&P 500 Stock with Exciting",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-222040118.html?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 22:20:40 +0000"
     },
     {
-      "title": "Chevron and Exxon Mobil Rise 3% as",
-      "summary": "U.S. strikes on Iran sent oil surging over the weekend, and now traders are betting that two integrated giants respond identically to a crude spike, but their businesses tell a mor",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://247wallst.com/investing/2026/08/31/chevron-and-exxon-mobil-rise-3-as-u-s-strikes-on-iran-push-wti-crude-oil-to-86/?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 14:07:04 +0000"
+      "title": "American Airlines (AAL) Registers a",
+      "summary": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-registers-bigger-221503580.html?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 22:15:03 +0000"
     },
     {
-      "title": "Tom Lee Sees 'Very Strong' September",
-      "summary": "In an interview with CNBC, Tom Lee said he now sees upside risk in September, despite mounting market concerns.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/tom-lee-september-market-rally-fed-rate-hold-bitcoin-first-leg-up/cZYywsbRJs1?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 14:03:13 +0000"
+      "title": "Kinsale Capital Group, Inc. (KNSL)",
+      "summary": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-221503087.html?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 22:15:03 +0000"
     },
     {
-      "title": "Canada Commodities",
-      "summary": "Oil prices jumped Monday morning after US forces struck two Iranian rocket launchers and Iran retali",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-rise-135846806.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 13:58:46 +0000"
+      "title": "Jabil (JBL) Advances While Market",
+      "summary": "In the most recent trading session, Jabil (JBL) closed at $305.26, indicating a +1.26% shift from the previous trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-advances-while-market-221502336.html?.tsrc=rss",
+      "published": "Mon, 31 Aug 2026 22:15:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "85.56",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "86.40",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "88.36",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "88.58",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4472.70",
-          "change": "-0.09%",
+          "value": "4493.90",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.70",
-          "change": "-0.04%",
-          "direction": "down"
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        86.01000213623047,
-        85.8499984741211,
-        85.69000244140625,
-        85.69000244140625,
-        85.68000030517578,
-        85.69000244140625,
-        85.62000274658203,
-        85.5999984741211,
-        85.58999633789062,
-        85.52999877929688,
-        85.55999755859375
+        86.4000015258789,
+        86.3499984741211,
+        86.37000274658203,
+        86.33999633789062,
+        86.33000183105469,
+        86.3499984741211,
+        86.36000061035156,
+        86.37999725341797,
+        86.37999725341797,
+        86.4000015258789,
+        86.4000015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-08-31 23:11 KST"
+      "status": "중립",
+      "freshness": "2026-09-01 08:37 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.730%",
+          "value": "3.732%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.504%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.507%",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.764%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.758%",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.268%",
-          "change": "+0.04%",
+          "value": "5.249%",
+          "change": "+0.06%",
           "direction": "up"
         }
       ],
       "trend": [
-        4.759999752044678,
-        4.759999752044678,
-        4.759999752044678,
-        4.759999752044678,
-        4.763999938964844,
-        4.763999938964844,
-        4.763999938964844,
-        4.763999938964844,
-        4.763999938964844,
-        4.763999938964844,
-        4.763999938964844
+        4.758000373840332,
+        4.75600004196167,
+        4.754000186920166,
+        4.75600004196167,
+        4.754000186920166,
+        4.75600004196167,
+        4.754000186920166,
+        4.754000186920166,
+        4.754000186920166,
+        4.754000186920166,
+        4.758000373840332
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-08-31 23:06 KST"
+      "status": "압박",
+      "freshness": "2026-09-01 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7676.88",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "7684.37",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26295.62",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "26368.00",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6455.40",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6426.90",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7674.2001953125,
-        7673.22998046875,
-        7673.97998046875,
-        7676.18994140625,
-        7675.35986328125,
-        7676.22998046875,
-        7676.4599609375,
-        7675.1298828125,
-        7677.25,
-        7675.669921875,
-        7676.8798828125
+        7685.4599609375,
+        7688.58984375,
+        7690.89990234375,
+        7692.31005859375,
+        7689.8798828125,
+        7691.259765625,
+        7687.7001953125,
+        7689.56005859375,
+        7688.77001953125,
+        7689.490234375,
+        7684.3701171875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-08-31 23:21 KST"
+      "status": "약세",
+      "freshness": "2026-09-01 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.53",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "99.41",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1367.90",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1366.82",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.79",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "159.76",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7192",
-          "change": "+0.16%",
-          "direction": "up"
+          "value": "6.7100",
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1368.530029296875,
-        1368.530029296875,
-        1368.530029296875,
-        1368.3699951171875,
-        1368.02001953125,
-        1368.3800048828125,
-        1367.93994140625,
+        1367.81005859375,
         1367.8599853515625,
-        1368.1700439453125,
-        1367.8800048828125,
-        1367.9000244140625
+        1367.699951171875,
+        1367.8299560546875,
+        1367.8599853515625,
+        1367.719970703125,
+        1367.7900390625,
+        1367.489990234375,
+        1367.239990234375,
+        1366.8599853515625,
+        1366.8199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-08-31 23:21 KST"
+      "status": "완화",
+      "freshness": "2026-09-01 08:47 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
