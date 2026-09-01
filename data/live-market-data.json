@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "collectedAt": "2026-08-31T23:47:38Z",
+  "collectedAt": "2026-09-01T08:01:08Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "1 S&P 500 Stock with Exciting",
+      "title": "Oil extends gains, stocks mixed as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices extended gains Tuesday amid fears of a fresh bout of military exchanges between the United States and Iran following a flare-up at the weekend and Donald Trump's warning",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-drop-024448410.html?.tsrc=rss"
+    },
+    {
+      "title": "Are XOM, CVX, GEV Stocks Rising",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-222040118.html?.tsrc=rss"
+      "summary": "According to a report from Reuters, Exxon Mobil, Chevron, GE Vernova, as well as India's ONGC, Italy's Eni, and Colombia's GeoPark are close to closing energy deals in Venezuela af",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-xom-cvx-gev-stocks-rising-overnight/cZsoarKRJtl?.tsrc=rss"
     },
     {
-      "title": "American Airlines (AAL) Registers a",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-registers-bigger-221503580.html?.tsrc=rss"
+      "title": "Gold Drops 5.5% From 3-Month High",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold slid 5.5% from its three-month high, but Goldman Sachs holds its 4,900 target as central banks keep buying.",
+      "link": "https://beincrypto.com/gold-price-goldman-sachs-4900-target/?.tsrc=rss"
     },
     {
-      "title": "Kinsale Capital Group, Inc. (KNSL)",
-      "impact": "시장 전반",
+      "title": "The Stock Market Is Flashing a Major",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-221503087.html?.tsrc=rss"
-    },
-    {
-      "title": "Jabil (JBL) Advances While Market",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the most recent trading session, Jabil (JBL) closed at $305.26, indicating a +1.26% shift from the previous trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-advances-while-market-221502336.html?.tsrc=rss"
+      "summary": "How worried should investors be about high stock valuations?",
+      "link": "https://www.fool.com/investing/2026/09/01/the-stock-market-is-flashing-a-major-red-flag-seen/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "1 S&P 500 Stock with Exciting",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "title": "Oil extends gains, stocks mixed as",
+      "summary": "Oil prices extended gains Tuesday amid fears of a fresh bout of military exchanges between the United States and Iran following a flare-up at the weekend and Donald Trump's warning",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-drop-024448410.html?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 07:36:10 +0000"
+    },
+    {
+      "title": "Are XOM, CVX, GEV Stocks Rising",
+      "summary": "According to a report from Reuters, Exxon Mobil, Chevron, GE Vernova, as well as India's ONGC, Italy's Eni, and Colombia's GeoPark are close to closing energy deals in Venezuela af",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-222040118.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 22:20:40 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-xom-cvx-gev-stocks-rising-overnight/cZsoarKRJtl?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 07:03:27 +0000"
     },
     {
-      "title": "American Airlines (AAL) Registers a",
-      "summary": "American Airlines (AAL) reached $13.43 at the closing of the latest trading day, reflecting a -1.54% change compared to its last close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-registers-bigger-221503580.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 22:15:03 +0000"
+      "title": "Gold Drops 5.5% From 3-Month High",
+      "summary": "Gold slid 5.5% from its three-month high, but Goldman Sachs holds its 4,900 target as central banks keep buying.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/gold-price-goldman-sachs-4900-target/?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 06:54:07 +0000"
     },
     {
-      "title": "Kinsale Capital Group, Inc. (KNSL)",
-      "summary": "Kinsale Capital Group, Inc. (KNSL) concluded the recent trading session at $373.9, signifying a -1.76% move from its prior day's close.",
-      "impact": "시장 전반",
+      "title": "The Stock Market Is Flashing a Major",
+      "summary": "How worried should investors be about high stock valuations?",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-221503087.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 22:15:03 +0000"
-    },
-    {
-      "title": "Jabil (JBL) Advances While Market",
-      "summary": "In the most recent trading session, Jabil (JBL) closed at $305.26, indicating a +1.26% shift from the previous trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jabil-jbl-advances-while-market-221502336.html?.tsrc=rss",
-      "published": "Mon, 31 Aug 2026 22:15:02 +0000"
+      "link": "https://www.fool.com/investing/2026/09/01/the-stock-market-is-flashing-a-major-red-flag-seen/?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 06:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "86.40",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "87.04",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.58",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "91.79",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4493.90",
-          "change": "-0.02%",
+          "value": "4469.10",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.70",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6.71",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        86.4000015258789,
-        86.3499984741211,
-        86.37000274658203,
-        86.33999633789062,
-        86.33000183105469,
-        86.3499984741211,
-        86.36000061035156,
-        86.37999725341797,
-        86.37999725341797,
-        86.4000015258789,
-        86.4000015258789
+        87.08000183105469,
+        87.0999984741211,
+        87.08000183105469,
+        87.0999984741211,
+        87.20999908447266,
+        87.20999908447266,
+        87.13999938964844,
+        87.05000305175781,
+        87.02999877929688,
+        87.02999877929688,
+        87.04000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-09-01 08:37 KST"
+      "status": "강세",
+      "freshness": "2026-09-01 16:51 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6763.87",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "6839.61",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6426.90",
-          "change": "-0.06%",
+          "value": "6403.08",
+          "change": "-0.09%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.41",
-          "change": "-0.01%",
+          "value": "99.59",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1366.82",
-          "change": "-0.00%",
+          "value": "1373.07",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.76",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "160.00",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7100",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "6.7213",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1367.81005859375,
-        1367.8599853515625,
-        1367.699951171875,
-        1367.8299560546875,
-        1367.8599853515625,
-        1367.719970703125,
-        1367.7900390625,
-        1367.489990234375,
-        1367.239990234375,
-        1366.8599853515625,
-        1366.8199462890625
+        1372.8199462890625,
+        1372.68994140625,
+        1372.8900146484375,
+        1372.93994140625,
+        1373.0799560546875,
+        1372.97998046875,
+        1372.81005859375,
+        1373.0,
+        1373.1400146484375,
+        1373.31005859375,
+        1373.0699462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-01 08:47 KST"
+      "freshness": "2026-09-01 17:00 KST"
     }
   ],
   "currentAction": {
