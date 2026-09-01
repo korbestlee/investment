@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "collectedAt": "2026-09-01T11:58:32Z",
+  "date": "2026-09-02",
+  "collectedAt": "2026-09-01T22:33:29Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.07%",
+      "value": "+0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "U.S. 10-year Treasury yield hits",
+      "title": "HubSpot, Intuit, Asana, Snowflake,",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Rising oil prices and Fed Chair Kevin Warsh's hawkish Jackson Hole remarks drove a broad Treasury selloff on Monday",
-      "link": "https://qz.com/us-10-year-treasury-yield-4-75-percent-19-month-high-090126?.tsrc=rss"
+      "summary": "A number of stocks fell in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns over inflation.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hubspot-intuit-asana-snowflake-atlassian-221820972.html?.tsrc=rss"
     },
     {
-      "title": "Global bond sell-off deepens on",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "A sell-off of bonds from key countries worldwide deepened on Tuesday, sending government borrowing costs soaring and equities lower as investors fretted that energy-driven inflatio",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-drop-024448410.html?.tsrc=rss"
-    },
-    {
-      "title": "Higher Oil Prices, Interest Rates",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "European bourses tracked moderately lower midday Tuesday as traders weighed rising interest rates an",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-oil-prices-interest-rates-114107178.html?.tsrc=rss"
-    },
-    {
-      "title": "If a Stock Market Crash Is Coming,",
-      "impact": "지수, 위험선호",
+      "title": "Whirlpool (WHR) Dips More Than",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Stocks with high valuations, like SpaceX and Datadog, can be especially vulnerable when the broader market heads lower.",
-      "link": "https://www.fool.com/investing/2026/09/01/if-stock-market-crash-2-growth-stocks-worth-sellin/?.tsrc=rss"
+      "summary": "Whirlpool (WHR) closed at $37.94 in the latest trading session, marking a -7.1% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-dips-more-broader-221502134.html?.tsrc=rss"
+    },
+    {
+      "title": "Here's Why RH (RH) Fell More Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "RH (RH) closed at $144.48 in the latest trading session, marking a -3.13% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rh-rh-fell-221502198.html?.tsrc=rss"
+    },
+    {
+      "title": "Market Breaks Key Levels As Oil",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
+      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-market.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "U.S. 10-year Treasury yield hits",
-      "summary": "Rising oil prices and Fed Chair Kevin Warsh's hawkish Jackson Hole remarks drove a broad Treasury selloff on Monday",
+      "title": "HubSpot, Intuit, Asana, Snowflake,",
+      "summary": "A number of stocks fell in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns over inflation.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://qz.com/us-10-year-treasury-yield-4-75-percent-19-month-high-090126?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 11:53:24 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hubspot-intuit-asana-snowflake-atlassian-221820972.html?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 22:18:20 +0000"
     },
     {
-      "title": "Global bond sell-off deepens on",
-      "summary": "A sell-off of bonds from key countries worldwide deepened on Tuesday, sending government borrowing costs soaring and equities lower as investors fretted that energy-driven inflatio",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-drop-024448410.html?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 11:48:03 +0000"
-    },
-    {
-      "title": "Higher Oil Prices, Interest Rates",
-      "summary": "European bourses tracked moderately lower midday Tuesday as traders weighed rising interest rates an",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-oil-prices-interest-rates-114107178.html?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 11:41:07 +0000"
-    },
-    {
-      "title": "If a Stock Market Crash Is Coming,",
-      "summary": "Stocks with high valuations, like SpaceX and Datadog, can be especially vulnerable when the broader market heads lower.",
-      "impact": "지수, 위험선호",
+      "title": "Whirlpool (WHR) Dips More Than",
+      "summary": "Whirlpool (WHR) closed at $37.94 in the latest trading session, marking a -7.1% move from the prior day.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/01/if-stock-market-crash-2-growth-stocks-worth-sellin/?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 11:40:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-dips-more-broader-221502134.html?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Here's Why RH (RH) Fell More Than",
+      "summary": "RH (RH) closed at $144.48 in the latest trading session, marking a -3.13% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rh-rh-fell-221502198.html?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Market Breaks Key Levels As Oil",
+      "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Tue, 01 Sep 2026 22:04:27 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "87.58",
-          "change": "-0.06%",
+          "value": "90.89",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "91.88",
-          "change": "-0.05%",
+          "value": "95.35",
+          "change": "-0.14%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4434.80",
-          "change": "+0.01%",
+          "value": "4374.70",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.60",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.54",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        87.4800033569336,
-        87.45999908447266,
-        87.47000122070312,
-        87.4800033569336,
-        87.52999877929688,
-        87.5199966430664,
-        87.55000305175781,
-        87.55999755859375,
-        87.58000183105469,
-        87.62999725341797,
-        87.58000183105469
+        90.87999725341797,
+        90.9000015258789,
+        90.91999816894531,
+        90.87999725341797,
+        90.83999633789062,
+        90.83999633789062,
+        90.86000061035156,
+        90.8499984741211,
+        90.83000183105469,
+        90.9000015258789,
+        90.88999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-01 20:48 KST"
+      "freshness": "2026-09-02 07:23 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.732%",
+          "value": "3.772%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.507%",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "4.557%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.758%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "4.796%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.249%",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "5.268%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.758000373840332,
-        4.75600004196167,
-        4.754000186920166,
-        4.75600004196167,
-        4.754000186920166,
-        4.75600004196167,
-        4.754000186920166,
-        4.754000186920166,
-        4.754000186920166,
-        4.754000186920166,
-        4.758000373840332
+        4.797999858856201,
+        4.796000003814697,
+        4.796000003814697,
+        4.796000003814697,
+        4.796000003814697,
+        4.796000003814697,
+        4.797999858856201,
+        4.797999858856201,
+        4.797999858856201,
+        4.796000003814697,
+        4.796000003814697
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-09-01 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-09-02 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7684.37",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "7632.60",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26368.00",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "26103.72",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6383.94",
-          "change": "+0.01%",
+          "value": "6364.29",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        7685.4599609375,
-        7688.58984375,
-        7690.89990234375,
-        7692.31005859375,
-        7689.8798828125,
-        7691.259765625,
-        7687.7001953125,
-        7689.56005859375,
-        7688.77001953125,
-        7689.490234375,
-        7684.3701171875
+        7629.2099609375,
+        7628.56982421875,
+        7626.669921875,
+        7625.7998046875,
+        7622.77001953125,
+        7625.64990234375,
+        7624.93994140625,
+        7624.56982421875,
+        7624.669921875,
+        7628.22021484375,
+        7632.60009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-09-01 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-09-02 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.59",
+          "value": "99.65",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1373.89",
-          "change": "+0.00%",
+          "value": "1374.94",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "160.11",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "160.16",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7103",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7197",
+          "change": "+0.14%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1373.6199951171875,
-        1373.6500244140625,
-        1373.77001953125,
-        1373.3800048828125,
-        1373.47998046875,
-        1373.800048828125,
-        1373.6600341796875,
-        1373.780029296875,
-        1373.8800048828125,
-        1373.8599853515625,
-        1373.8900146484375
+        1374.0899658203125,
+        1374.510009765625,
+        1374.489990234375,
+        1374.43994140625,
+        1375.1500244140625,
+        1374.97998046875,
+        1374.5799560546875,
+        1374.3900146484375,
+        1374.8199462890625,
+        1374.72998046875,
+        1374.93994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-01 20:58 KST"
+      "freshness": "2026-09-02 07:33 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
