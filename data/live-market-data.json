@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-02",
-  "collectedAt": "2026-09-02T11:40:30Z",
+  "date": "2026-09-03",
+  "collectedAt": "2026-09-02T22:34:19Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,19 +34,19 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.06%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil Prices Turn Lower; Dell, Credo,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
-      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-oil-prices.html?.tsrc=rss"
-    },
-    {
-      "title": "AbraSilver Intersects Broad Zones of",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Shallow Oxide-Hosted Gold Confirmed 4 km North of Oculto; Copper Intersected at DepthToronto, Ontario--(Newsfile Corp. - September 2, 2026) - AbraSilver Resource Corp. (TSX: ABRA) ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/abrasilver-intersects-broad-zones-near-113000548.html?.tsrc=rss"
-    },
-    {
-      "title": "Tactical Resources to Ring the",
+      "title": "American Tower (AMT) Stock Sinks As",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "VANCOUVER, British Columbia, September 02, 2026--Tactical Resources Corp. (Nasdaq: TREO) (\"Tactical\" or the \"Company\"), a U.S.-focused rare earth elements company, today announced ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tactical-resources-ring-nasdaq-closing-113000268.html?.tsrc=rss"
+      "summary": "American Tower (AMT) reached $172.92 at the closing of the latest trading day, reflecting a -1.76% change compared to its last close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-stock-sinks-221503969.html?.tsrc=rss"
     },
     {
-      "title": "Kingman Reports 82.3%",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "12.52 g/t Au Master Composite; Gravity Concentrate Grades 379.97 g/t Au; Results Support Expanded Exploration and Metallurgical ProgramVancouver, British Columbia--(Newsfile Corp. ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/kingman-reports-82-3-gravity-112900140.html?.tsrc=rss"
+      "title": "Dow Inc. (DOW) Exceeds Market",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Dow Inc. (DOW) closed at $31.28 in the latest trading session, marking a +2.69% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-exceeds-market-221502228.html?.tsrc=rss"
+    },
+    {
+      "title": "Halliburton (HAL) Rises Higher Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Halliburton (HAL) closed at $37.63 in the latest trading session, marking a +2.26% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-higher-market-221502276.html?.tsrc=rss"
+    },
+    {
+      "title": "Teradyne (TER) Rises Higher Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the latest trading session, Teradyne (TER) closed at $341.62, marking a +1.84% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-rises-higher-market-220002477.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil Prices Turn Lower; Dell, Credo,",
-      "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-oil-prices.html?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 11:32:57 +0000"
-    },
-    {
-      "title": "AbraSilver Intersects Broad Zones of",
-      "summary": "Shallow Oxide-Hosted Gold Confirmed 4 km North of Oculto; Copper Intersected at DepthToronto, Ontario--(Newsfile Corp. - September 2, 2026) - AbraSilver Resource Corp. (TSX: ABRA) ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/abrasilver-intersects-broad-zones-near-113000548.html?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 11:30:00 +0000"
-    },
-    {
-      "title": "Tactical Resources to Ring the",
-      "summary": "VANCOUVER, British Columbia, September 02, 2026--Tactical Resources Corp. (Nasdaq: TREO) (\"Tactical\" or the \"Company\"), a U.S.-focused rare earth elements company, today announced ",
+      "title": "American Tower (AMT) Stock Sinks As",
+      "summary": "American Tower (AMT) reached $172.92 at the closing of the latest trading day, reflecting a -1.76% change compared to its last close.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tactical-resources-ring-nasdaq-closing-113000268.html?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 11:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-stock-sinks-221503969.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 22:15:03 +0000"
     },
     {
-      "title": "Kingman Reports 82.3%",
-      "summary": "12.52 g/t Au Master Composite; Gravity Concentrate Grades 379.97 g/t Au; Results Support Expanded Exploration and Metallurgical ProgramVancouver, British Columbia--(Newsfile Corp. ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/kingman-reports-82-3-gravity-112900140.html?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 11:29:00 +0000"
+      "title": "Dow Inc. (DOW) Exceeds Market",
+      "summary": "Dow Inc. (DOW) closed at $31.28 in the latest trading session, marking a +2.69% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-exceeds-market-221502228.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Halliburton (HAL) Rises Higher Than",
+      "summary": "Halliburton (HAL) closed at $37.63 in the latest trading session, marking a +2.26% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-higher-market-221502276.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Teradyne (TER) Rises Higher Than",
+      "summary": "In the latest trading session, Teradyne (TER) closed at $341.62, marking a +1.84% move from the previous day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-rises-higher-market-220002477.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 22:00:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.64",
+          "value": "90.74",
           "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "94.30",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "95.35",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4369.00",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "4433.90",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.60",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.61",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        89.75,
-        89.75,
-        89.73999786376953,
-        89.68000030517578,
-        89.69000244140625,
-        89.66999816894531,
-        89.6500015258789,
-        89.54000091552734,
-        89.61000061035156,
-        89.66999816894531,
-        89.63999938964844
+        90.72000122070312,
+        90.7300033569336,
+        90.73999786376953,
+        90.73999786376953,
+        90.75,
+        90.7699966430664,
+        90.77999877929688,
+        90.7699966430664,
+        90.7699966430664,
+        90.7699966430664,
+        90.73999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-02 20:30 KST"
+      "freshness": "2026-09-03 07:23 KST"
     },
     {
       "id": "bonds",
@@ -208,39 +208,39 @@
         },
         {
           "name": "UST 5Y",
-          "value": "4.557%",
-          "change": "-0.04%",
+          "value": "4.552%",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
           "value": "4.796%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.268%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.267%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.797999858856201,
-        4.796000003814697,
-        4.796000003814697,
-        4.796000003814697,
-        4.796000003814697,
         4.796000003814697,
         4.797999858856201,
         4.797999858856201,
         4.797999858856201,
+        4.797999858856201,
+        4.797999858856201,
+        4.797999858856201,
+        4.797999858856201,
         4.796000003814697,
+        4.797999858856201,
         4.796000003814697
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-09-02 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-09-03 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7632.60",
-          "change": "+0.06%",
+          "value": "7667.45",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26103.72",
-          "change": "+0.05%",
+          "value": "26214.52",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6350.79",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6361.71",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7629.2099609375,
-        7628.56982421875,
-        7626.669921875,
-        7625.7998046875,
-        7622.77001953125,
-        7625.64990234375,
-        7624.93994140625,
-        7624.56982421875,
-        7624.669921875,
-        7628.22021484375,
-        7632.60009765625
+        7669.919921875,
+        7668.75,
+        7667.259765625,
+        7666.169921875,
+        7666.47998046875,
+        7668.43994140625,
+        7665.89990234375,
+        7666.0400390625,
+        7665.68994140625,
+        7666.35986328125,
+        7667.4501953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-09-02 04:59 KST"
+      "freshness": "2026-09-03 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.80",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "99.58",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1362.38",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1358.41",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.67",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "158.77",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7100",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7185",
+          "change": "+0.13%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1362.760009765625,
-        1362.9100341796875,
-        1362.5400390625,
-        1362.4200439453125,
-        1362.2900390625,
-        1362.4300537109375,
-        1362.280029296875,
-        1362.6600341796875,
-        1362.3499755859375,
-        1362.3499755859375,
-        1362.3800048828125
+        1357.949951171875,
+        1358.1300048828125,
+        1358.510009765625,
+        1358.3699951171875,
+        1358.43994140625,
+        1357.8800048828125,
+        1358.4300537109375,
+        1358.4599609375,
+        1358.3900146484375,
+        1358.43994140625,
+        1358.4100341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-02 20:40 KST"
+      "status": "완화",
+      "freshness": "2026-09-03 07:34 KST"
     }
   ],
   "currentAction": {
