@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "collectedAt": "2026-09-02T07:21:46Z",
+  "collectedAt": "2026-09-02T11:40:30Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.17%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "U.S. stock futures are pointing to a slightly lower open early Wednesday as investors navigate escalating U.S.-Iran military exchanges, surging oil prices, and an influx of economi",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61567010/stock-market-will-sp-500-open-up-or-down-today-29?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-    },
-    {
-      "title": "The Stock Market Is Historically",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "It's understandable to be nervous about high stock valuations. But long-term investors can breathe easy.",
-      "link": "https://www.fool.com/investing/2026/09/02/the-stock-market-is-historically-expensive-right-n/?.tsrc=rss"
-    },
-    {
-      "title": "Dell, Credo, Palo Alto Are Earnings",
+      "title": "Oil Prices Turn Lower; Dell, Credo,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
       "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
-      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-dell%2C.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-oil-prices.html?.tsrc=rss"
     },
     {
-      "title": "KOSPI Sinks 3% as Iran Strikes Push",
+      "title": "AbraSilver Intersects Broad Zones of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Shallow Oxide-Hosted Gold Confirmed 4 km North of Oculto; Copper Intersected at DepthToronto, Ontario--(Newsfile Corp. - September 2, 2026) - AbraSilver Resource Corp. (TSX: ABRA) ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/abrasilver-intersects-broad-zones-near-113000548.html?.tsrc=rss"
+    },
+    {
+      "title": "Tactical Resources to Ring the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "VANCOUVER, British Columbia, September 02, 2026--Tactical Resources Corp. (Nasdaq: TREO) (\"Tactical\" or the \"Company\"), a U.S.-focused rare earth elements company, today announced ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tactical-resources-ring-nasdaq-closing-113000268.html?.tsrc=rss"
+    },
+    {
+      "title": "Kingman Reports 82.3%",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Asian markets tumbled, along with many others, as US strikes on Iran drove oil higher and sent bond yields to multi-year highs.",
-      "link": "https://beincrypto.com/kospi-sinks-iran-strikes-oil/?.tsrc=rss"
+      "summary": "12.52 g/t Au Master Composite; Gravity Concentrate Grades 379.97 g/t Au; Results Support Expanded Exploration and Metallurgical ProgramVancouver, British Columbia--(Newsfile Corp. ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/kingman-reports-82-3-gravity-112900140.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market",
-      "summary": "U.S. stock futures are pointing to a slightly lower open early Wednesday as investors navigate escalating U.S.-Iran military exchanges, surging oil prices, and an influx of economi",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61567010/stock-market-will-sp-500-open-up-or-down-today-29?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 06:22:16 +0000"
-    },
-    {
-      "title": "The Stock Market Is Historically",
-      "summary": "It's understandable to be nervous about high stock valuations. But long-term investors can breathe easy.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/02/the-stock-market-is-historically-expensive-right-n/?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 06:20:00 +0000"
-    },
-    {
-      "title": "Dell, Credo, Palo Alto Are Earnings",
+      "title": "Oil Prices Turn Lower; Dell, Credo,",
       "summary": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-dell%2C.html?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 05:47:45 +0000"
+      "link": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-oil-prices.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 11:32:57 +0000"
     },
     {
-      "title": "KOSPI Sinks 3% as Iran Strikes Push",
-      "summary": "Asian markets tumbled, along with many others, as US strikes on Iran drove oil higher and sent bond yields to multi-year highs.",
+      "title": "AbraSilver Intersects Broad Zones of",
+      "summary": "Shallow Oxide-Hosted Gold Confirmed 4 km North of Oculto; Copper Intersected at DepthToronto, Ontario--(Newsfile Corp. - September 2, 2026) - AbraSilver Resource Corp. (TSX: ABRA) ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/abrasilver-intersects-broad-zones-near-113000548.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Tactical Resources to Ring the",
+      "summary": "VANCOUVER, British Columbia, September 02, 2026--Tactical Resources Corp. (Nasdaq: TREO) (\"Tactical\" or the \"Company\"), a U.S.-focused rare earth elements company, today announced ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tactical-resources-ring-nasdaq-closing-113000268.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Kingman Reports 82.3%",
+      "summary": "12.52 g/t Au Master Composite; Gravity Concentrate Grades 379.97 g/t Au; Results Support Expanded Exploration and Metallurgical ProgramVancouver, British Columbia--(Newsfile Corp. ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://beincrypto.com/kospi-sinks-iran-strikes-oil/?.tsrc=rss",
-      "published": "Wed, 02 Sep 2026 04:40:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/kingman-reports-82-3-gravity-112900140.html?.tsrc=rss",
+      "published": "Wed, 02 Sep 2026 11:29:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.23",
-          "change": "+0.17%",
-          "direction": "up"
+          "value": "89.64",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "94.96",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "94.30",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4376.40",
+          "value": "4369.00",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.55",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6.60",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        90.5999984741211,
-        90.5,
-        90.48999786376953,
-        90.58999633789062,
-        90.4800033569336,
-        90.33000183105469,
-        90.22000122070312,
-        90.26000213623047,
-        90.16000366210938,
-        90.08000183105469,
-        90.2300033569336
+        89.75,
+        89.75,
+        89.73999786376953,
+        89.68000030517578,
+        89.69000244140625,
+        89.66999816894531,
+        89.6500015258789,
+        89.54000091552734,
+        89.61000061035156,
+        89.66999816894531,
+        89.63999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-02 16:11 KST"
+      "status": "약세",
+      "freshness": "2026-09-02 20:30 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6371.94",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6350.79",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.77",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1367.13",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.73",
-          "change": "+0.01%",
+          "value": "99.80",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1362.38",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "159.67",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7218",
+          "value": "6.7100",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1368.06005859375,
-        1368.1600341796875,
-        1367.949951171875,
-        1367.739990234375,
-        1367.8599853515625,
-        1367.75,
-        1367.780029296875,
-        1367.969970703125,
-        1367.280029296875,
-        1367.4599609375,
-        1367.1300048828125
+        1362.760009765625,
+        1362.9100341796875,
+        1362.5400390625,
+        1362.4200439453125,
+        1362.2900390625,
+        1362.4300537109375,
+        1362.280029296875,
+        1362.6600341796875,
+        1362.3499755859375,
+        1362.3499755859375,
+        1362.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-02 16:21 KST"
+      "status": "강세",
+      "freshness": "2026-09-02 20:40 KST"
     }
   ],
   "currentAction": {
