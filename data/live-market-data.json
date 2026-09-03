@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "collectedAt": "2026-09-03T07:25:23Z",
+  "collectedAt": "2026-09-03T11:39:54Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.12%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nvidia's 8% Grip on the S&P 500 Is",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Nvidia Corp. (NASDAQ:NVDA) accounts for roughly 8% of the S&P 500’s total market cap, a scale of dominance built almost entirely on the AI boom, leaving the chipmaker alone outweig",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-8-grip-p-500-053416658.html?.tsrc=rss"
+      "title": "Meet the Dividend King Stock That",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "For investors seeking stability and portfolio income, this venerable REIT is in a class of its own.",
+      "link": "https://www.fool.com/investing/2026/09/03/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss"
     },
     {
-      "title": "Trump Says the 'Stock Market Will Go",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Prediction markets currently assign more than a 50% probability to the S&P 500 crossing 8,000 by year-end amid President Donald Trump’s optimism that the stock market is headed hig",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61593868/trump-stock-market-will-go-up-prediction-markets-betting?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+      "title": "Oil prices jump as Iran strikes US",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Oil prices jumped Thursday on fresh Iran strikes against US targets in the region but bond yields eased and stock markets traded steadier after recent volatility.The Islamic republ",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/stocks-rise-yields-ease-oil-025515150.html?.tsrc=rss"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Rise As",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "While Broadcom and Hewlett Packard Enterprise posted disappointing results, sending shares lower overnight, Dell shares surged after blockbuster results.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rise-as-investors-look-past-iran-tensions-focus-on-earnings-avgo-snow-dell-hpe-stocks-in-focus/cZsMkUsRJHV?.tsrc=rss"
+      "title": "Kenorland Minerals Reports Assay",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 3, 2026) - Kenorland Minerals Ltd. (TSXV: KLD) (OTCQX: KLDCF) (FSE: 3WQ0) (\"Kenorland\" or the \"Company\") is pleased to anno",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/kenorland-minerals-reports-assay-results-113000675.html?.tsrc=rss"
     },
     {
-      "title": "Snowflake, Broadcom, HPE Are Big",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
-      "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html?.tsrc=rss"
+      "title": "S&P 500, Dow, Nasdaq futures flat as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Stock index futures wavered Thursday morning after major indexes snapped three-day losing streaks in the prior session",
+      "link": "https://qz.com/wall-street-futures-steady-yields-oil-ease-090326?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nvidia's 8% Grip on the S&P 500 Is",
-      "summary": "Nvidia Corp. (NASDAQ:NVDA) accounts for roughly 8% of the S&P 500’s total market cap, a scale of dominance built almost entirely on the AI boom, leaving the chipmaker alone outweig",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-8-grip-p-500-053416658.html?.tsrc=rss",
-      "published": "Thu, 03 Sep 2026 05:34:16 +0000"
+      "title": "Meet the Dividend King Stock That",
+      "summary": "For investors seeking stability and portfolio income, this venerable REIT is in a class of its own.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/09/03/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss",
+      "published": "Thu, 03 Sep 2026 11:35:00 +0000"
     },
     {
-      "title": "Trump Says the 'Stock Market Will Go",
-      "summary": "Prediction markets currently assign more than a 50% probability to the S&P 500 crossing 8,000 by year-end amid President Donald Trump’s optimism that the stock market is headed hig",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61593868/trump-stock-market-will-go-up-prediction-markets-betting?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Thu, 03 Sep 2026 04:03:31 +0000"
+      "title": "Oil prices jump as Iran strikes US",
+      "summary": "Oil prices jumped Thursday on fresh Iran strikes against US targets in the region but bond yields eased and stock markets traded steadier after recent volatility.The Islamic republ",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/stocks-rise-yields-ease-oil-025515150.html?.tsrc=rss",
+      "published": "Thu, 03 Sep 2026 11:33:18 +0000"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Rise As",
-      "summary": "While Broadcom and Hewlett Packard Enterprise posted disappointing results, sending shares lower overnight, Dell shares surged after blockbuster results.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rise-as-investors-look-past-iran-tensions-focus-on-earnings-avgo-snow-dell-hpe-stocks-in-focus/cZsMkUsRJHV?.tsrc=rss",
-      "published": "Thu, 03 Sep 2026 03:52:50 +0000"
+      "title": "Kenorland Minerals Reports Assay",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 3, 2026) - Kenorland Minerals Ltd. (TSXV: KLD) (OTCQX: KLDCF) (FSE: 3WQ0) (\"Kenorland\" or the \"Company\") is pleased to anno",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/kenorland-minerals-reports-assay-results-113000675.html?.tsrc=rss",
+      "published": "Thu, 03 Sep 2026 11:30:00 +0000"
     },
     {
-      "title": "Snowflake, Broadcom, HPE Are Big",
-      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/1d7123ac-a008-32ff-9bbd-f00beb6c5dbf/dow-jones-futures%3A-snowflake%2C.html?.tsrc=rss",
-      "published": "Thu, 03 Sep 2026 03:09:46 +0000"
+      "title": "S&P 500, Dow, Nasdaq futures flat as",
+      "summary": "Stock index futures wavered Thursday morning after major indexes snapped three-day losing streaks in the prior session",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://qz.com/wall-street-futures-steady-yields-oil-ease-090326?.tsrc=rss",
+      "published": "Thu, 03 Sep 2026 11:27:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.24",
+          "value": "92.49",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "94.78",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "96.77",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4468.00",
-          "change": "+0.01%",
+          "value": "4480.30",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.58",
-          "change": "+0.01%",
+          "value": "6.63",
+          "change": "+0.12%",
           "direction": "up"
         }
       ],
       "trend": [
-        90.12000274658203,
-        90.12000274658203,
-        90.18000030517578,
-        90.08000183105469,
-        90.12999725341797,
-        90.08000183105469,
-        90.12000274658203,
-        90.1500015258789,
-        90.26000213623047,
-        90.23999786376953,
-        90.23999786376953
+        92.30000305175781,
+        92.30999755859375,
+        92.37999725341797,
+        92.43000030517578,
+        92.5199966430664,
+        92.38999938964844,
+        92.61000061035156,
+        92.52999877929688,
+        92.4800033569336,
+        92.48999786376953,
+        92.48999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-09-03 16:15 KST"
+      "freshness": "2026-09-03 20:29 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6364.23",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6355.32",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.25",
-          "change": "-0.00%",
+          "value": "99.16",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1356.48",
-          "change": "+0.01%",
+          "value": "1357.74",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "156.61",
-          "change": "+0.02%",
+          "value": "156.14",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7172",
-          "change": "+0.15%",
-          "direction": "up"
+          "value": "6.7084",
+          "change": "-0.15%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1355.780029296875,
-        1355.8499755859375,
-        1356.43994140625,
-        1355.97998046875,
-        1356.25,
-        1356.3199462890625,
-        1356.3800048828125,
-        1356.6800537109375,
-        1356.280029296875,
-        1356.280029296875,
-        1356.47998046875
+        1357.4100341796875,
+        1357.239990234375,
+        1357.47998046875,
+        1357.1400146484375,
+        1357.469970703125,
+        1357.5799560546875,
+        1357.530029296875,
+        1357.6700439453125,
+        1357.9599609375,
+        1357.719970703125,
+        1357.739990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-03 16:25 KST"
+      "freshness": "2026-09-03 20:39 KST"
     }
   ],
   "currentAction": {
