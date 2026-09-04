@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-04",
-  "collectedAt": "2026-09-04T11:41:40Z",
+  "date": "2026-09-05",
+  "collectedAt": "2026-09-04T22:19:42Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.03%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.08%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stocks mixed before US jobs data,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Stock markets wavered Friday in Europe after gains for most Asian markets, with all eyes on upcoming US jobs data as investors seek clues on whether the Federal Reserve will raise ",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html?.tsrc=rss"
-    },
-    {
-      "title": "Canadian Provincial Bonds Weather",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Canadian long provincial bond returns weakened over the past month, reflecting a broad-based rise in",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-provincial-bonds-weather-higher-112757341.html?.tsrc=rss"
-    },
-    {
-      "title": "Tech Strength Lifts Wall Street",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Friday as traders again favored tech issues,",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-strength-lifts-wall-street-110619648.html?.tsrc=rss"
-    },
-    {
-      "title": "1 S&P 500 Stock on Our Watchlist and",
-      "impact": "지수, 위험선호",
+      "title": "the Market Dipped But United",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-110210757.html?.tsrc=rss"
+      "summary": "The latest trading day saw United Airlines (UAL) settling at $111.38, representing a +2.5% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-united-airlines-220003407.html?.tsrc=rss"
+    },
+    {
+      "title": "United Parcel Service (UPS) Dips",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, United Parcel Service (UPS) stood at $102.29, denoting a -1.17% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-dips-more-220003177.html?.tsrc=rss"
+    },
+    {
+      "title": "SkyWest (SKYW) Increases Despite",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, SkyWest (SKYW) stood at $99.06, denoting a +2.93% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skywest-skyw-increases-despite-market-215002701.html?.tsrc=rss"
+    },
+    {
+      "title": "Cloudflare (NET) Dipped More Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Cloudflare (NET) concluded the recent trading session at $277.85, signifying a -2.34% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-dipped-more-215002701.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stocks mixed before US jobs data,",
-      "summary": "Stock markets wavered Friday in Europe after gains for most Asian markets, with all eyes on upcoming US jobs data as investors seek clues on whether the Federal Reserve will raise ",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-traders-pare-024214659.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 11:28:12 +0000"
-    },
-    {
-      "title": "Canadian Provincial Bonds Weather",
-      "summary": "Canadian long provincial bond returns weakened over the past month, reflecting a broad-based rise in",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/canadian-provincial-bonds-weather-higher-112757341.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 11:27:57 +0000"
-    },
-    {
-      "title": "Tech Strength Lifts Wall Street",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Friday as traders again favored tech issues,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-strength-lifts-wall-street-110619648.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 11:06:19 +0000"
-    },
-    {
-      "title": "1 S&P 500 Stock on Our Watchlist and",
-      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
-      "impact": "지수, 위험선호",
+      "title": "the Market Dipped But United",
+      "summary": "The latest trading day saw United Airlines (UAL) settling at $111.38, representing a +2.5% change from its previous close.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-110210757.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 11:02:10 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-united-airlines-220003407.html?.tsrc=rss",
+      "published": "Fri, 04 Sep 2026 22:00:03 +0000"
+    },
+    {
+      "title": "United Parcel Service (UPS) Dips",
+      "summary": "In the closing of the recent trading day, United Parcel Service (UPS) stood at $102.29, denoting a -1.17% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-dips-more-220003177.html?.tsrc=rss",
+      "published": "Fri, 04 Sep 2026 22:00:03 +0000"
+    },
+    {
+      "title": "SkyWest (SKYW) Increases Despite",
+      "summary": "In the closing of the recent trading day, SkyWest (SKYW) stood at $99.06, denoting a +2.93% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/skywest-skyw-increases-despite-market-215002701.html?.tsrc=rss",
+      "published": "Fri, 04 Sep 2026 21:50:02 +0000"
+    },
+    {
+      "title": "Cloudflare (NET) Dipped More Than",
+      "summary": "Cloudflare (NET) concluded the recent trading session at $277.85, signifying a -2.34% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-dipped-more-215002701.html?.tsrc=rss",
+      "published": "Fri, 04 Sep 2026 21:50:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.84",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "91.22",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "95.22",
-          "change": "+0.12%",
-          "direction": "up"
+          "value": "95.83",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4514.00",
-          "change": "+0.03%",
+          "value": "4477.20",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.66",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "6.67",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        90.75,
-        90.62000274658203,
-        90.58999633789062,
-        90.5999984741211,
-        90.61000061035156,
-        90.58000183105469,
-        90.6500015258789,
-        90.66999816894531,
-        90.72000122070312,
-        90.81999969482422,
-        90.83999633789062
+        91.19999694824219,
+        91.18000030517578,
+        91.19999694824219,
+        91.20999908447266,
+        91.2300033569336,
+        91.29000091552734,
+        91.31999969482422,
+        91.26000213623047,
+        91.25,
+        91.2300033569336,
+        91.22000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-04 20:31 KST"
+      "status": "약세",
+      "freshness": "2026-09-05 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.740%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "3.757%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.509%",
+          "value": "4.550%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.762%",
+          "value": "4.784%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.243%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.246%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.76200008392334,
-        4.76200008392334,
-        4.76200008392334,
-        4.76200008392334,
-        4.76200008392334,
-        4.76200008392334,
-        4.763999938964844,
-        4.763999938964844,
-        4.76200008392334,
-        4.76200008392334,
-        4.76200008392334
+        4.779999732971191,
+        4.779999732971191,
+        4.7820000648498535,
+        4.7820000648498535,
+        4.783999919891357,
+        4.783999919891357,
+        4.783999919891357,
+        4.783999919891357,
+        4.783999919891357,
+        4.783999919891357,
+        4.783999919891357
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-09-04 03:59 KST"
+      "freshness": "2026-09-05 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7747.80",
-          "change": "+0.03%",
+          "value": "7717.81",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26584.21",
-          "change": "+0.04%",
+          "value": "26505.44",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6387.60",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6396.39",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7749.02001953125,
-        7748.81982421875,
-        7748.39990234375,
-        7748.18994140625,
-        7747.2001953125,
-        7749.06005859375,
-        7745.7998046875,
-        7745.740234375,
-        7746.509765625,
-        7745.68017578125,
-        7747.7998046875
+        7717.02978515625,
+        7717.97998046875,
+        7718.60986328125,
+        7718.77978515625,
+        7717.85986328125,
+        7719.77978515625,
+        7718.2099609375,
+        7718.60009765625,
+        7718.89013671875,
+        7716.830078125,
+        7717.81005859375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-09-04 04:59 KST"
+      "freshness": "2026-09-05 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.08",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1350.91",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "156.29",
-          "change": "+0.01%",
+          "value": "99.16",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1345.99",
+          "change": "+0.09%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "156.22",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6997",
+          "value": "6.7013",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1350.8599853515625,
-        1350.9300537109375,
-        1350.9000244140625,
-        1350.9100341796875,
-        1350.8399658203125,
-        1350.8399658203125,
-        1350.8900146484375,
-        1351.0,
-        1350.9100341796875,
-        1350.969970703125,
-        1350.9100341796875
+        1344.8399658203125,
+        1344.75,
+        1344.75,
+        1344.7900390625,
+        1344.6199951171875,
+        1344.6600341796875,
+        1344.8499755859375,
+        1344.8499755859375,
+        1344.72998046875,
+        1344.72998046875,
+        1345.989990234375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-04 20:41 KST"
+      "status": "강세",
+      "freshness": "2026-09-05 05:59 KST"
     }
   ],
   "currentAction": {
