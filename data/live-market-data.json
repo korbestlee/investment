@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "collectedAt": "2026-09-07T07:35:30Z",
+  "collectedAt": "2026-09-07T12:58:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Iran, US Trade Tanker Attacks as",
+      "title": "Goldman Sachs Says Oil Could Hit",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Iran and the US carried out tit-for-tat tanker strikes over the weekend, pushing oil prices higher and escalating a six-month war. Bloomberg's Paul Wallace has the latest.",
-      "link": "https://finance.yahoo.com/video/iran-us-trade-tanker-attacks-050612379.html?.tsrc=rss"
+      "summary": "The bank sees a path to $120 a barrel if attacks on shipping intensify and disrupt energy supplies.",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html?.tsrc=rss"
     },
     {
-      "title": "Oil Prices Climb After U.S. Strikes",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices rose as U.S. strikes on Iranian tankers and threats of stronger retaliation from Tehran intensified fears of further disruption around the Strait of Hormuz.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-strikes-034000493.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Jones Futures Fall With Iran,",
-      "impact": "시장 전반",
+      "title": "1 Unstoppable Vanguard Growth ETF Up",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
-      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss"
+      "summary": "The Vanguard S&P 500 Growth ETF is a solid growth bet for buy-and-hold investors.",
+      "link": "https://www.fool.com/investing/2026/09/07/1-unstoppable-vanguard-growth-etf-up-14-in-2026-to/?.tsrc=rss"
     },
     {
-      "title": "ECB set to hike interest rates as",
-      "impact": "채권, 금리",
+      "title": "Nebius Stock Up 254% in a Year",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "NBIS surges 253.5% in a year on AI infrastructure demand, but high capital needs and valuation raise questions about further upside.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html?.tsrc=rss"
+    },
+    {
+      "title": "Goldman Sachs Drops Stark Oil",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The European Central Bank is expected to raise interest rates again this week as renewed fighting in the Middle East pushes up energy costs and risks further stoking inflation.At t",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ecb-set-hike-interest-rates-013544165.html?.tsrc=rss"
+      "summary": "Something far bigger may be building beneath oil's latest move",
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-drops-stark-oil-122418284.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Iran, US Trade Tanker Attacks as",
-      "summary": "Iran and the US carried out tit-for-tat tanker strikes over the weekend, pushing oil prices higher and escalating a six-month war. Bloomberg's Paul Wallace has the latest.",
+      "title": "Goldman Sachs Says Oil Could Hit",
+      "summary": "The bank sees a path to $120 a barrel if attacks on shipping intensify and disrupt energy supplies.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/iran-us-trade-tanker-attacks-050612379.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 05:06:12 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 12:47:09 +0000"
     },
     {
-      "title": "Oil Prices Climb After U.S. Strikes",
-      "summary": "Oil prices rose as U.S. strikes on Iranian tankers and threats of stronger retaliation from Tehran intensified fears of further disruption around the Strait of Hormuz.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-strikes-034000493.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 03:40:00 +0000"
-    },
-    {
-      "title": "Dow Jones Futures Fall With Iran,",
-      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
-      "impact": "시장 전반",
+      "title": "1 Unstoppable Vanguard Growth ETF Up",
+      "summary": "The Vanguard S&P 500 Growth ETF is a solid growth bet for buy-and-hold investors.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 03:06:47 +0000"
+      "link": "https://www.fool.com/investing/2026/09/07/1-unstoppable-vanguard-growth-etf-up-14-in-2026-to/?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 12:45:00 +0000"
     },
     {
-      "title": "ECB set to hike interest rates as",
-      "summary": "The European Central Bank is expected to raise interest rates again this week as renewed fighting in the Middle East pushes up energy costs and risks further stoking inflation.At t",
-      "impact": "채권, 금리",
+      "title": "Nebius Stock Up 254% in a Year",
+      "summary": "NBIS surges 253.5% in a year on AI infrastructure demand, but high capital needs and valuation raise questions about further upside.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 12:38:00 +0000"
+    },
+    {
+      "title": "Goldman Sachs Drops Stark Oil",
+      "summary": "Something far bigger may be building beneath oil's latest move",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ecb-set-hike-interest-rates-013544165.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 01:35:44 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-drops-stark-oil-122418284.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 12:24:18 +0000"
     }
   ],
   "criteria": [
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6392.50",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6388.11",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1342.43",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1347.52",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "155.70",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "154.44",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7097",
+          "value": "6.6992",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1343.780029296875,
-        1343.52001953125,
-        1342.780029296875,
-        1342.0799560546875,
-        1342.449951171875,
-        1342.6800537109375,
-        1342.52001953125,
-        1341.6800537109375,
-        1342.3800048828125,
-        1342.4200439453125,
-        1342.4300537109375
+        1346.47998046875,
+        1347.27001953125,
+        1346.989990234375,
+        1347.56005859375,
+        1347.6199951171875,
+        1347.52001953125,
+        1347.0799560546875,
+        1347.510009765625,
+        1347.489990234375,
+        1347.550048828125,
+        1347.52001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-07 16:35 KST"
+      "freshness": "2026-09-07 21:58 KST"
     }
   ],
   "currentAction": {
