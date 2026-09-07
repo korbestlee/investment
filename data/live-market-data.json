@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07",
-  "collectedAt": "2026-09-07T12:58:40Z",
+  "date": "2026-09-08",
+  "collectedAt": "2026-09-07T22:47:20Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Goldman Sachs Says Oil Could Hit",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The bank sees a path to $120 a barrel if attacks on shipping intensify and disrupt energy supplies.",
-      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html?.tsrc=rss"
-    },
-    {
-      "title": "1 Unstoppable Vanguard Growth ETF Up",
+      "title": "S&P 500 Investors Brace for Brutal",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Vanguard S&P 500 Growth ETF is a solid growth bet for buy-and-hold investors.",
-      "link": "https://www.fool.com/investing/2026/09/07/1-unstoppable-vanguard-growth-etf-up-14-in-2026-to/?.tsrc=rss"
+      "summary": "Wall Street's return from holiday carries an unusually grim warning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html?.tsrc=rss"
     },
     {
-      "title": "Nebius Stock Up 254% in a Year",
+      "title": "Deutsche Bank Sees Stark Risk for",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "NBIS surges 253.5% in a year on AI infrastructure demand, but high capital needs and valuation raise questions about further upside.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html?.tsrc=rss"
+      "summary": "Deutsche Bank's warning exposes fragile assumption supporting today's stock market",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-stark-risk-214719966.html?.tsrc=rss"
     },
     {
-      "title": "Goldman Sachs Drops Stark Oil",
+      "title": "S&P 500 Adds 3 Surging Stocks in",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Three market winners are about to gain a powerful catalyst",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html?.tsrc=rss"
+    },
+    {
+      "title": "Ripple CEO blasts $11 billion gold",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Something far bigger may be building beneath oil's latest move",
-      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-drops-stark-oil-122418284.html?.tsrc=rss"
+      "summary": "Ripple CEO Brad Garlinghouse slams the global finance system for slow movement of assets like gold.",
+      "link": "https://www.thestreet.com/crypto/markets/ripple-ceo-blasts-11-billion-gold-transfer?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Goldman Sachs Says Oil Could Hit",
-      "summary": "The bank sees a path to $120 a barrel if attacks on shipping intensify and disrupt energy supplies.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-says-oil-could-124709591.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 12:47:09 +0000"
-    },
-    {
-      "title": "1 Unstoppable Vanguard Growth ETF Up",
-      "summary": "The Vanguard S&P 500 Growth ETF is a solid growth bet for buy-and-hold investors.",
+      "title": "S&P 500 Investors Brace for Brutal",
+      "summary": "Wall Street's return from holiday carries an unusually grim warning",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/07/1-unstoppable-vanguard-growth-etf-up-14-in-2026-to/?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 12:45:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 21:50:51 +0000"
     },
     {
-      "title": "Nebius Stock Up 254% in a Year",
-      "summary": "NBIS surges 253.5% in a year on AI infrastructure demand, but high capital needs and valuation raise questions about further upside.",
+      "title": "Deutsche Bank Sees Stark Risk for",
+      "summary": "Deutsche Bank's warning exposes fragile assumption supporting today's stock market",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 12:38:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-stark-risk-214719966.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 21:47:19 +0000"
     },
     {
-      "title": "Goldman Sachs Drops Stark Oil",
-      "summary": "Something far bigger may be building beneath oil's latest move",
+      "title": "S&P 500 Adds 3 Surging Stocks in",
+      "summary": "Three market winners are about to gain a powerful catalyst",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 21:45:36 +0000"
+    },
+    {
+      "title": "Ripple CEO blasts $11 billion gold",
+      "summary": "Ripple CEO Brad Garlinghouse slams the global finance system for slow movement of assets like gold.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-drops-stark-oil-122418284.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 12:24:18 +0000"
+      "link": "https://www.thestreet.com/crypto/markets/ripple-ceo-blasts-11-billion-gold-transfer?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 21:17:44 +0000"
     }
   ],
   "criteria": [
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6388.11",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6399.30",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1347.52",
+          "value": "1344.73",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "154.44",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "154.26",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6992",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7001",
+          "change": "-0.15%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1346.47998046875,
-        1347.27001953125,
-        1346.989990234375,
-        1347.56005859375,
-        1347.6199951171875,
-        1347.52001953125,
-        1347.0799560546875,
-        1347.510009765625,
-        1347.489990234375,
-        1347.550048828125,
-        1347.52001953125
+        1344.8199462890625,
+        1344.9300537109375,
+        1344.8199462890625,
+        1344.800048828125,
+        1344.8399658203125,
+        1344.780029296875,
+        1344.77001953125,
+        1344.760009765625,
+        1344.7900390625,
+        1344.7900390625,
+        1344.72998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-07 21:58 KST"
+      "freshness": "2026-09-08 07:46 KST"
     }
   ],
   "currentAction": {
