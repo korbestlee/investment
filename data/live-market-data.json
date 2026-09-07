@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-05",
-  "collectedAt": "2026-09-04T22:19:42Z",
+  "date": "2026-09-07",
+  "collectedAt": "2026-09-07T07:35:30Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.27%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.20%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "the Market Dipped But United",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw United Airlines (UAL) settling at $111.38, representing a +2.5% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-united-airlines-220003407.html?.tsrc=rss"
+      "title": "Iran, US Trade Tanker Attacks as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Iran and the US carried out tit-for-tat tanker strikes over the weekend, pushing oil prices higher and escalating a six-month war. Bloomberg's Paul Wallace has the latest.",
+      "link": "https://finance.yahoo.com/video/iran-us-trade-tanker-attacks-050612379.html?.tsrc=rss"
     },
     {
-      "title": "United Parcel Service (UPS) Dips",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the closing of the recent trading day, United Parcel Service (UPS) stood at $102.29, denoting a -1.17% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-dips-more-220003177.html?.tsrc=rss"
+      "title": "Oil Prices Climb After U.S. Strikes",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices rose as U.S. strikes on Iranian tankers and threats of stronger retaliation from Tehran intensified fears of further disruption around the Strait of Hormuz.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-strikes-034000493.html?.tsrc=rss"
     },
     {
-      "title": "SkyWest (SKYW) Increases Despite",
+      "title": "Dow Jones Futures Fall With Iran,",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "In the closing of the recent trading day, SkyWest (SKYW) stood at $99.06, denoting a +2.93% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skywest-skyw-increases-despite-market-215002701.html?.tsrc=rss"
+      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
+      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss"
     },
     {
-      "title": "Cloudflare (NET) Dipped More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Cloudflare (NET) concluded the recent trading session at $277.85, signifying a -2.34% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-dipped-more-215002701.html?.tsrc=rss"
+      "title": "ECB set to hike interest rates as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The European Central Bank is expected to raise interest rates again this week as renewed fighting in the Middle East pushes up energy costs and risks further stoking inflation.At t",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ecb-set-hike-interest-rates-013544165.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "the Market Dipped But United",
-      "summary": "The latest trading day saw United Airlines (UAL) settling at $111.38, representing a +2.5% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-united-airlines-220003407.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 22:00:03 +0000"
+      "title": "Iran, US Trade Tanker Attacks as",
+      "summary": "Iran and the US carried out tit-for-tat tanker strikes over the weekend, pushing oil prices higher and escalating a six-month war. Bloomberg's Paul Wallace has the latest.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/iran-us-trade-tanker-attacks-050612379.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 05:06:12 +0000"
     },
     {
-      "title": "United Parcel Service (UPS) Dips",
-      "summary": "In the closing of the recent trading day, United Parcel Service (UPS) stood at $102.29, denoting a -1.17% move from the preceding trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-dips-more-220003177.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 22:00:03 +0000"
+      "title": "Oil Prices Climb After U.S. Strikes",
+      "summary": "Oil prices rose as U.S. strikes on Iranian tankers and threats of stronger retaliation from Tehran intensified fears of further disruption around the Strait of Hormuz.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-u-strikes-034000493.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 03:40:00 +0000"
     },
     {
-      "title": "SkyWest (SKYW) Increases Despite",
-      "summary": "In the closing of the recent trading day, SkyWest (SKYW) stood at $99.06, denoting a +2.93% move from the preceding trading day.",
+      "title": "Dow Jones Futures Fall With Iran,",
+      "summary": "Dow Jones futures: The U.S. and Iran exchanged attacks. Nvidia, Micron, Sandisk are buys, but for how long? Apple, inflation data loom.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/skywest-skyw-increases-despite-market-215002701.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 21:50:02 +0000"
+      "link": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 03:06:47 +0000"
     },
     {
-      "title": "Cloudflare (NET) Dipped More Than",
-      "summary": "Cloudflare (NET) concluded the recent trading session at $277.85, signifying a -2.34% move from its prior day's close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cloudflare-net-dipped-more-215002701.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 21:50:02 +0000"
+      "title": "ECB set to hike interest rates as",
+      "summary": "The European Central Bank is expected to raise interest rates again this week as renewed fighting in the Middle East pushes up energy costs and risks further stoking inflation.At t",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ecb-set-hike-interest-rates-013544165.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 01:35:44 +0000"
     }
   ],
   "criteria": [
@@ -154,27 +154,27 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.22",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "95.83",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4477.20",
-          "change": "+0.01%",
+          "value": "91.48",
+          "change": "+0.27%",
           "direction": "up"
         },
         {
-          "name": "Copper",
-          "value": "6.67",
+          "name": "Brent",
+          "value": "96.28",
+          "change": "+0.45%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4476.60",
           "change": "-0.01%",
           "direction": "down"
+        },
+        {
+          "name": "Copper",
+          "value": "6.68",
+          "change": "+0.20%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -188,10 +188,10 @@
         91.26000213623047,
         91.25,
         91.2300033569336,
-        91.22000122070312
+        91.4800033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
+      "status": "강세",
       "freshness": "2026-09-05 05:59 KST"
     },
     {
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6706.56",
-          "change": "-0.11%",
-          "direction": "down"
+          "value": "6975.17",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6396.39",
-          "change": "-0.00%",
+          "value": "6392.50",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.16",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1345.99",
-          "change": "+0.09%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "156.22",
+          "value": "99.17",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1342.43",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "155.70",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7013",
+          "value": "6.7097",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1344.8399658203125,
-        1344.75,
-        1344.75,
-        1344.7900390625,
-        1344.6199951171875,
-        1344.6600341796875,
-        1344.8499755859375,
-        1344.8499755859375,
-        1344.72998046875,
-        1344.72998046875,
-        1345.989990234375
+        1343.780029296875,
+        1343.52001953125,
+        1342.780029296875,
+        1342.0799560546875,
+        1342.449951171875,
+        1342.6800537109375,
+        1342.52001953125,
+        1341.6800537109375,
+        1342.3800048828125,
+        1342.4200439453125,
+        1342.4300537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-05 05:59 KST"
+      "status": "완화",
+      "freshness": "2026-09-07 16:35 KST"
     }
   ],
   "currentAction": {
