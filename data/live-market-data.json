@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-08",
-  "collectedAt": "2026-09-08T11:41:45Z",
+  "date": "2026-09-09",
+  "collectedAt": "2026-09-08T22:35:58Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.07%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The stock market's hot streak hints",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stocks remain in a clear long-term uptrend.",
-      "link": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html?.tsrc=rss"
-    },
-    {
-      "title": "Talamore Reports High Grade Assays",
+      "title": "M/I Homes (MHO) Dipped More Than",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Infill drilling, including hole 26-SPX-RC105 (12.24 g/t Au over 6.4 m) and 26-SPX-RC199 (6.26 g/t Au over 10.2 m), is targeting resource upgrade and conversion within the pit limit",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/talamore-reports-high-grade-assays-113500039.html?.tsrc=rss"
+      "summary": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-m-homes-mho-dipped-221504635.html?.tsrc=rss"
     },
     {
-      "title": "Dow futures drop as Iran war, Canada",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil climbed toward $100 a barrel after Houthi strikes on Saudi Arabia, lifting inflation fears and pushing Treasury yields higher",
-      "link": "https://qz.com/dow-futures-iran-war-canada-tariffs-markets-090826?.tsrc=rss"
-    },
-    {
-      "title": "Archer Aviation Skyrocketed 24.6%",
+      "title": "Rithm (RITM) Registers a Bigger Fall",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Archer recently made a deal that's poised to have a transformative impact on the company.",
-      "link": "https://www.fool.com/investing/2026/09/08/why-archer-aviation-skyrocketed-246-last-month/?.tsrc=rss"
+      "summary": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html?.tsrc=rss"
+    },
+    {
+      "title": "BlackRock (BLK) Declines More Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221503106.html?.tsrc=rss"
+    },
+    {
+      "title": "Lennar (LEN) Registers a Bigger Fall",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-registers-bigger-fall-221503816.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The stock market's hot streak hints",
-      "summary": "Stocks remain in a clear long-term uptrend.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 11:40:50 +0000"
-    },
-    {
-      "title": "Talamore Reports High Grade Assays",
-      "summary": "Infill drilling, including hole 26-SPX-RC105 (12.24 g/t Au over 6.4 m) and 26-SPX-RC199 (6.26 g/t Au over 10.2 m), is targeting resource upgrade and conversion within the pit limit",
+      "title": "M/I Homes (MHO) Dipped More Than",
+      "summary": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/talamore-reports-high-grade-assays-113500039.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 11:35:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-m-homes-mho-dipped-221504635.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 22:15:04 +0000"
     },
     {
-      "title": "Dow futures drop as Iran war, Canada",
-      "summary": "Oil climbed toward $100 a barrel after Houthi strikes on Saudi Arabia, lifting inflation fears and pushing Treasury yields higher",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://qz.com/dow-futures-iran-war-canada-tariffs-markets-090826?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 11:27:56 +0000"
-    },
-    {
-      "title": "Archer Aviation Skyrocketed 24.6%",
-      "summary": "Archer recently made a deal that's poised to have a transformative impact on the company.",
+      "title": "Rithm (RITM) Registers a Bigger Fall",
+      "summary": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/08/why-archer-aviation-skyrocketed-246-last-month/?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 11:27:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 22:15:04 +0000"
+    },
+    {
+      "title": "BlackRock (BLK) Declines More Than",
+      "summary": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221503106.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 22:15:03 +0000"
+    },
+    {
+      "title": "Lennar (LEN) Registers a Bigger Fall",
+      "summary": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-registers-bigger-fall-221503816.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 22:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "93.86",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "98.62",
+          "value": "94.27",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "99.40",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
           "name": "Gold",
-          "value": "4446.20",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "4397.60",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.84",
-          "change": "+0.02%",
+          "value": "6.77",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        93.83999633789062,
-        93.80000305175781,
-        93.80999755859375,
-        93.80000305175781,
-        93.80999755859375,
-        93.8499984741211,
-        93.83000183105469,
-        93.79000091552734,
-        93.79000091552734,
-        93.88999938964844,
-        93.86000061035156
+        94.41000366210938,
+        94.36000061035156,
+        94.2699966430664,
+        94.29000091552734,
+        94.30000305175781,
+        94.36000061035156,
+        94.30999755859375,
+        94.30999755859375,
+        94.30000305175781,
+        94.27999877929688,
+        94.2699966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-08 20:31 KST"
+      "freshness": "2026-09-09 07:25 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.757%",
+          "value": "3.775%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.550%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.573%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.784%",
+          "value": "4.806%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.246%",
-          "change": "-0.02%",
+          "value": "5.264%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.779999732971191,
-        4.779999732971191,
-        4.7820000648498535,
-        4.7820000648498535,
-        4.783999919891357,
-        4.783999919891357,
-        4.783999919891357,
-        4.783999919891357,
-        4.783999919891357,
-        4.783999919891357,
-        4.783999919891357
+        4.808000087738037,
+        4.808000087738037,
+        4.811999797821045,
+        4.811999797821045,
+        4.809999942779541,
+        4.808000087738037,
+        4.808000087738037,
+        4.808000087738037,
+        4.808000087738037,
+        4.806000232696533,
+        4.806000232696533
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-09-05 03:59 KST"
+      "freshness": "2026-09-09 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7717.81",
-          "change": "+0.01%",
+          "value": "7674.13",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26505.44",
-          "change": "+0.00%",
+          "value": "26423.21",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6402.40",
-          "change": "-0.03%",
+          "value": "6408.07",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        7717.02978515625,
-        7717.97998046875,
-        7718.60986328125,
-        7718.77978515625,
-        7717.85986328125,
-        7719.77978515625,
-        7718.2099609375,
-        7718.60009765625,
-        7718.89013671875,
-        7716.830078125,
-        7717.81005859375
+        7680.5,
+        7676.0498046875,
+        7675.52978515625,
+        7673.64990234375,
+        7672.1298828125,
+        7671.7099609375,
+        7674.68994140625,
+        7674.33984375,
+        7672.02978515625,
+        7668.7099609375,
+        7674.1298828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-09-05 04:59 KST"
+      "freshness": "2026-09-09 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.96",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "98.84",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1341.78",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1340.28",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "154.20",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "153.68",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6986",
+          "value": "6.7100",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1341.8900146484375,
-        1341.280029296875,
-        1341.780029296875,
-        1341.760009765625,
-        1341.75,
-        1341.6600341796875,
-        1341.5999755859375,
-        1341.6099853515625,
-        1341.5799560546875,
-        1341.68994140625,
-        1341.780029296875
+        1340.0699462890625,
+        1340.0999755859375,
+        1340.06005859375,
+        1340.199951171875,
+        1340.510009765625,
+        1340.219970703125,
+        1340.22998046875,
+        1340.22998046875,
+        1340.31005859375,
+        1340.31005859375,
+        1340.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-09-08 20:41 KST"
+      "status": "완화",
+      "freshness": "2026-09-09 07:35 KST"
     }
   ],
   "currentAction": {
