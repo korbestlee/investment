@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "collectedAt": "2026-09-07T22:47:20Z",
+  "collectedAt": "2026-09-08T07:28:27Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.27%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.20%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "S&P 500 Investors Brace for Brutal",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Wall Street's return from holiday carries an unusually grim warning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html?.tsrc=rss"
-    },
-    {
-      "title": "Deutsche Bank Sees Stark Risk for",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Deutsche Bank's warning exposes fragile assumption supporting today's stock market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-stark-risk-214719966.html?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500 Adds 3 Surging Stocks in",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Three market winners are about to gain a powerful catalyst",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html?.tsrc=rss"
-    },
-    {
-      "title": "Ripple CEO blasts $11 billion gold",
+      "title": "Asian shares and US futures decline,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Ripple CEO Brad Garlinghouse slams the global finance system for slow movement of assets like gold.",
-      "link": "https://www.thestreet.com/crypto/markets/ripple-ceo-blasts-11-billion-gold-transfer?.tsrc=rss"
+      "summary": "Asian shares and U.S. futures skidded Tuesday as flaring conflict in the Middle East pushed oil prices higher.  A wave of Houthi attacks on oil facilities and utilities in Saudi Ar",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-us-futures-mixed-054945712.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil Prices Climb Toward $100 as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Brent crude moved closer to $100 as renewed U.S.-Iran tensions and threats to Gulf shipping raised fears of prolonged oil supply disruptions.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-toward-100-053000885.html?.tsrc=rss"
+    },
+    {
+      "title": "RUBIS",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Paris, 08 September 2026, 7:00am EBITDA at €434m, +18% yoy reflecting sustained demand, disciplined execution and optimised inventory management in a volatile and high oil price co",
+      "link": "https://finance.yahoo.com/energy/articles/rubis-h1-2026-results-strong-050000701.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow, S&P 500 Futures Decline Amid",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The U.S. struck three Iranian oil tankers on Saturday, while Iran’s Islamic Revolutionary Guard Corps (IRGC) responded by striking three tankers and three U.S.-linked vessels in ot",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-decline-amid-rising-oil-prices-as-iran-war-escalates-mu-orcl-intc-be-stocks-in-focus/cZt3K4yRJxo?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500 Investors Brace for Brutal",
-      "summary": "Wall Street's return from holiday carries an unusually grim warning",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-brace-brutal-215051560.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 21:50:51 +0000"
-    },
-    {
-      "title": "Deutsche Bank Sees Stark Risk for",
-      "summary": "Deutsche Bank's warning exposes fragile assumption supporting today's stock market",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-stark-risk-214719966.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 21:47:19 +0000"
-    },
-    {
-      "title": "S&P 500 Adds 3 Surging Stocks in",
-      "summary": "Three market winners are about to gain a powerful catalyst",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-adds-3-surging-214536624.html?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 21:45:36 +0000"
-    },
-    {
-      "title": "Ripple CEO blasts $11 billion gold",
-      "summary": "Ripple CEO Brad Garlinghouse slams the global finance system for slow movement of assets like gold.",
+      "title": "Asian shares and US futures decline,",
+      "summary": "Asian shares and U.S. futures skidded Tuesday as flaring conflict in the Middle East pushed oil prices higher.  A wave of Houthi attacks on oil facilities and utilities in Saudi Ar",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.thestreet.com/crypto/markets/ripple-ceo-blasts-11-billion-gold-transfer?.tsrc=rss",
-      "published": "Mon, 07 Sep 2026 21:17:44 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-us-futures-mixed-054945712.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 05:49:45 +0000"
+    },
+    {
+      "title": "Oil Prices Climb Toward $100 as",
+      "summary": "Brent crude moved closer to $100 as renewed U.S.-Iran tensions and threats to Gulf shipping raised fears of prolonged oil supply disruptions.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-toward-100-053000885.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 05:30:00 +0000"
+    },
+    {
+      "title": "RUBIS",
+      "summary": "Paris, 08 September 2026, 7:00am EBITDA at €434m, +18% yoy reflecting sustained demand, disciplined execution and optimised inventory management in a volatile and high oil price co",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/rubis-h1-2026-results-strong-050000701.html?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 05:00:00 +0000"
+    },
+    {
+      "title": "Dow, S&P 500 Futures Decline Amid",
+      "summary": "The U.S. struck three Iranian oil tankers on Saturday, while Iran’s Islamic Revolutionary Guard Corps (IRGC) responded by striking three tankers and three U.S.-linked vessels in ot",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-futures-decline-amid-rising-oil-prices-as-iran-war-escalates-mu-orcl-intc-be-stocks-in-focus/cZt3K4yRJxo?.tsrc=rss",
+      "published": "Tue, 08 Sep 2026 02:19:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.48",
-          "change": "+0.27%",
+          "value": "94.21",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "96.28",
-          "change": "+0.45%",
+          "value": "98.71",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4476.60",
+          "value": "4446.20",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.68",
-          "change": "+0.20%",
-          "direction": "up"
+          "value": "6.78",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        91.19999694824219,
-        91.18000030517578,
-        91.19999694824219,
-        91.20999908447266,
-        91.2300033569336,
-        91.29000091552734,
-        91.31999969482422,
-        91.26000213623047,
-        91.25,
-        91.2300033569336,
-        91.4800033569336
+        94.05999755859375,
+        94.01000213623047,
+        94.02999877929688,
+        94.05999755859375,
+        94.19999694824219,
+        94.08000183105469,
+        94.19999694824219,
+        94.16000366210938,
+        94.16999816894531,
+        94.16999816894531,
+        94.20999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-05 05:59 KST"
+      "freshness": "2026-09-08 16:18 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "6975.17",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "7006.24",
+          "change": "-0.20%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6399.30",
+          "value": "6392.30",
           "change": "-0.01%",
           "direction": "down"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.17",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1344.73",
+          "value": "98.90",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1345.12",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "154.26",
+          "value": "153.85",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7001",
-          "change": "-0.15%",
+          "value": "6.6996",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        1344.8199462890625,
-        1344.9300537109375,
-        1344.8199462890625,
-        1344.800048828125,
-        1344.8399658203125,
-        1344.780029296875,
-        1344.77001953125,
-        1344.760009765625,
-        1344.7900390625,
-        1344.7900390625,
-        1344.72998046875
+        1345.5,
+        1345.6800537109375,
+        1345.3800048828125,
+        1345.3199462890625,
+        1345.1700439453125,
+        1345.0799560546875,
+        1345.030029296875,
+        1345.1099853515625,
+        1344.8800048828125,
+        1345.0999755859375,
+        1345.1199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-08 07:46 KST"
+      "freshness": "2026-09-08 16:28 KST"
     }
   ],
   "currentAction": {
