@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "collectedAt": "2026-09-08T22:35:58Z",
+  "collectedAt": "2026-09-09T07:36:21Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "M/I Homes (MHO) Dipped More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-m-homes-mho-dipped-221504635.html?.tsrc=rss"
+      "title": "Crude pushes towards $100 on Mideast",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices jumped more than one percent towards $100 Wednesday and stocks struggled as a fresh flare-up in the Middle East crisis stoked supply concerns, putting upward pressure on",
+      "link": "https://finance.yahoo.com/energy/articles/crude-pushes-towards-100-mideast-025121589.html?.tsrc=rss"
     },
     {
-      "title": "Rithm (RITM) Registers a Bigger Fall",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html?.tsrc=rss"
+      "title": "Riverside Resources Intersects",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "VANCOUVER, British Columbia, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Riverside Resources Inc. (\"Riverside\" or the \"Company\") (TSX-V: RRI) (OTCQB: RVSDF) (FSE: 5YY0), is pleased to repor",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/riverside-resources-intersects-near-surface-070500311.html?.tsrc=rss"
     },
     {
-      "title": "BlackRock (BLK) Declines More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221503106.html?.tsrc=rss"
+      "title": "Questcorp Defines Near-Surface Gold",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\"), is pleased to report",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-defines-near-surface-gold-070100027.html?.tsrc=rss"
     },
     {
-      "title": "Lennar (LEN) Registers a Bigger Fall",
+      "title": "SpaceX, Nvidia Lead Schwab Buys As",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-registers-bigger-fall-221503816.html?.tsrc=rss"
+      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "M/I Homes (MHO) Dipped More Than",
-      "summary": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-m-homes-mho-dipped-221504635.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 22:15:04 +0000"
+      "title": "Crude pushes towards $100 on Mideast",
+      "summary": "Oil prices jumped more than one percent towards $100 Wednesday and stocks struggled as a fresh flare-up in the Middle East crisis stoked supply concerns, putting upward pressure on",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/crude-pushes-towards-100-mideast-025121589.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 07:26:39 +0000"
     },
     {
-      "title": "Rithm (RITM) Registers a Bigger Fall",
-      "summary": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 22:15:04 +0000"
+      "title": "Riverside Resources Intersects",
+      "summary": "VANCOUVER, British Columbia, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Riverside Resources Inc. (\"Riverside\" or the \"Company\") (TSX-V: RRI) (OTCQB: RVSDF) (FSE: 5YY0), is pleased to repor",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/riverside-resources-intersects-near-surface-070500311.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 07:05:00 +0000"
     },
     {
-      "title": "BlackRock (BLK) Declines More Than",
-      "summary": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221503106.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 22:15:03 +0000"
+      "title": "Questcorp Defines Near-Surface Gold",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\"), is pleased to report",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-defines-near-surface-gold-070100027.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 07:01:00 +0000"
     },
     {
-      "title": "Lennar (LEN) Registers a Bigger Fall",
-      "summary": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day.",
+      "title": "SpaceX, Nvidia Lead Schwab Buys As",
+      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-registers-bigger-fall-221503816.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 22:15:03 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 05:27:01 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.27",
-          "change": "-0.01%",
+          "value": "94.66",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "99.40",
-          "change": "-0.03%",
+          "value": "100.03",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4397.60",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4449.60",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.77",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.80",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        94.41000366210938,
-        94.36000061035156,
-        94.2699966430664,
-        94.29000091552734,
-        94.30000305175781,
-        94.36000061035156,
-        94.30999755859375,
-        94.30999755859375,
-        94.30000305175781,
-        94.27999877929688,
-        94.2699966430664
+        94.58999633789062,
+        94.56999969482422,
+        94.6500015258789,
+        94.83999633789062,
+        94.70999908447266,
+        94.70999908447266,
+        94.6500015258789,
+        94.66000366210938,
+        94.66999816894531,
+        94.69999694824219,
+        94.66000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-09 07:25 KST"
+      "freshness": "2026-09-09 16:26 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "7006.24",
-          "change": "-0.20%",
-          "direction": "down"
+          "value": "7056.35",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6408.07",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "6373.46",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.84",
-          "change": "-0.01%",
+          "value": "98.70",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1340.28",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "1335.68",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "153.68",
-          "change": "-0.00%",
+          "value": "153.24",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7100",
+          "value": "6.7070",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1340.0699462890625,
-        1340.0999755859375,
-        1340.06005859375,
-        1340.199951171875,
-        1340.510009765625,
-        1340.219970703125,
-        1340.22998046875,
-        1340.22998046875,
-        1340.31005859375,
-        1340.31005859375,
-        1340.280029296875
+        1336.1800537109375,
+        1335.780029296875,
+        1335.97998046875,
+        1336.0,
+        1335.8499755859375,
+        1335.77001953125,
+        1335.47998046875,
+        1335.6800537109375,
+        1335.6600341796875,
+        1335.47998046875,
+        1335.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-09 07:35 KST"
+      "freshness": "2026-09-09 16:36 KST"
     }
   ],
   "currentAction": {
