@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "collectedAt": "2026-09-09T07:36:21Z",
+  "collectedAt": "2026-09-09T11:47:26Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Crude pushes towards $100 on Mideast",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices jumped more than one percent towards $100 Wednesday and stocks struggled as a fresh flare-up in the Middle East crisis stoked supply concerns, putting upward pressure on",
-      "link": "https://finance.yahoo.com/energy/articles/crude-pushes-towards-100-mideast-025121589.html?.tsrc=rss"
-    },
-    {
-      "title": "Riverside Resources Intersects",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "VANCOUVER, British Columbia, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Riverside Resources Inc. (\"Riverside\" or the \"Company\") (TSX-V: RRI) (OTCQB: RVSDF) (FSE: 5YY0), is pleased to repor",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/riverside-resources-intersects-near-surface-070500311.html?.tsrc=rss"
-    },
-    {
-      "title": "Questcorp Defines Near-Surface Gold",
+      "title": "Dow Jones Futures Fall As Oil Prices",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\"), is pleased to report",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-defines-near-surface-gold-070100027.html?.tsrc=rss"
+      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
+      "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss"
     },
     {
-      "title": "SpaceX, Nvidia Lead Schwab Buys As",
-      "impact": "시장 전반",
+      "title": "This AI Chipmaker Looks Like a",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ?.tsrc=rss"
+      "summary": "Broadcom recently delivered a substantial update about future revenue, and that forecast is not yet being reflected in its stock price.",
+      "link": "https://www.fool.com/investing/2026/09/09/this-ai-chipmaker-looks-like-a-bargain-with-ai-rev/?.tsrc=rss"
+    },
+    {
+      "title": "Scottie Resources Intercepts 9.7 g/t",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) (\"Scottie\" or the \"Company\") is pleased to repor",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/scottie-resources-intercepts-9-7-113000055.html?.tsrc=rss"
+    },
+    {
+      "title": "Pan Global Intersects 15 Meters of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Providencia drillhole PVD15 intersects 15 meters grading 3.90 g/t gold, 0.04% copper, 0.11% nickel and 0.12% cobalt, commencing from surfaceIncludes 8 meters of 6.79 g/t gold and g",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pan-global-intersects-15-meters-113000670.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Crude pushes towards $100 on Mideast",
-      "summary": "Oil prices jumped more than one percent towards $100 Wednesday and stocks struggled as a fresh flare-up in the Middle East crisis stoked supply concerns, putting upward pressure on",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/crude-pushes-towards-100-mideast-025121589.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 07:26:39 +0000"
-    },
-    {
-      "title": "Riverside Resources Intersects",
-      "summary": "VANCOUVER, British Columbia, Sept. 09, 2026 (GLOBE NEWSWIRE) -- Riverside Resources Inc. (\"Riverside\" or the \"Company\") (TSX-V: RRI) (OTCQB: RVSDF) (FSE: 5YY0), is pleased to repor",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/riverside-resources-intersects-near-surface-070500311.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 07:05:00 +0000"
-    },
-    {
-      "title": "Questcorp Defines Near-Surface Gold",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\"), is pleased to report",
+      "title": "Dow Jones Futures Fall As Oil Prices",
+      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-defines-near-surface-gold-070100027.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 07:01:00 +0000"
+      "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 11:42:07 +0000"
     },
     {
-      "title": "SpaceX, Nvidia Lead Schwab Buys As",
-      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
-      "impact": "시장 전반",
+      "title": "This AI Chipmaker Looks Like a",
+      "summary": "Broadcom recently delivered a substantial update about future revenue, and that forecast is not yet being reflected in its stock price.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 05:27:01 +0000"
+      "link": "https://www.fool.com/investing/2026/09/09/this-ai-chipmaker-looks-like-a-bargain-with-ai-rev/?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 11:35:00 +0000"
+    },
+    {
+      "title": "Scottie Resources Intercepts 9.7 g/t",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) (\"Scottie\" or the \"Company\") is pleased to repor",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/scottie-resources-intercepts-9-7-113000055.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Pan Global Intersects 15 Meters of",
+      "summary": "Providencia drillhole PVD15 intersects 15 meters grading 3.90 g/t gold, 0.04% copper, 0.11% nickel and 0.12% cobalt, commencing from surfaceIncludes 8 meters of 6.79 g/t gold and g",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/pan-global-intersects-15-meters-113000670.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 11:30:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.66",
-          "change": "-0.04%",
+          "value": "95.54",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "100.03",
-          "change": "-0.05%",
+          "value": "100.89",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4449.60",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "4447.50",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.80",
-          "change": "-0.02%",
+          "value": "6.75",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        94.58999633789062,
-        94.56999969482422,
-        94.6500015258789,
-        94.83999633789062,
-        94.70999908447266,
-        94.70999908447266,
-        94.6500015258789,
-        94.66000366210938,
-        94.66999816894531,
-        94.69999694824219,
-        94.66000366210938
+        95.27999877929688,
+        95.37000274658203,
+        95.3499984741211,
+        95.41999816894531,
+        95.55000305175781,
+        95.55000305175781,
+        95.44999694824219,
+        95.44999694824219,
+        95.54000091552734,
+        95.56999969482422,
+        95.54000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-09 16:26 KST"
+      "freshness": "2026-09-09 20:37 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6373.46",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6284.31",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.70",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1335.68",
+          "value": "98.67",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1336.97",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "153.24",
+          "value": "153.33",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7070",
+          "value": "6.6955",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1336.1800537109375,
-        1335.780029296875,
-        1335.97998046875,
-        1336.0,
-        1335.8499755859375,
-        1335.77001953125,
-        1335.47998046875,
-        1335.6800537109375,
-        1335.6600341796875,
-        1335.47998046875,
-        1335.6800537109375
+        1336.469970703125,
+        1336.6600341796875,
+        1336.3800048828125,
+        1336.8599853515625,
+        1336.8399658203125,
+        1336.5799560546875,
+        1336.9599609375,
+        1336.9100341796875,
+        1336.8599853515625,
+        1336.93994140625,
+        1336.969970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-09 16:36 KST"
+      "status": "강세",
+      "freshness": "2026-09-09 20:47 KST"
     }
   ],
   "currentAction": {
