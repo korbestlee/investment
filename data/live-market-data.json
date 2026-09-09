@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "collectedAt": "2026-09-09T11:47:26Z",
+  "date": "2026-09-10",
+  "collectedAt": "2026-09-09T22:30:32Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.07%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall As Oil Prices",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss"
-    },
-    {
-      "title": "This AI Chipmaker Looks Like a",
-      "impact": "지수, 위험선호",
+      "title": "T. Rowe Price (TROW) Suffers a",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Broadcom recently delivered a substantial update about future revenue, and that forecast is not yet being reflected in its stock price.",
-      "link": "https://www.fool.com/investing/2026/09/09/this-ai-chipmaker-looks-like-a-bargain-with-ai-rev/?.tsrc=rss"
+      "summary": "In the latest trading session, T. Rowe Price (TROW) closed at $107.74, marking a -1.54% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html?.tsrc=rss"
     },
     {
-      "title": "Scottie Resources Intercepts 9.7 g/t",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) (\"Scottie\" or the \"Company\") is pleased to repor",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/scottie-resources-intercepts-9-7-113000055.html?.tsrc=rss"
+      "title": "Clearway Energy (CWEN) Dipped More",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the latest trading session, Clearway Energy (CWEN) closed at $32.07, marking a -3.14% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html?.tsrc=rss"
     },
     {
-      "title": "Pan Global Intersects 15 Meters of",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Providencia drillhole PVD15 intersects 15 meters grading 3.90 g/t gold, 0.04% copper, 0.11% nickel and 0.12% cobalt, commencing from surfaceIncludes 8 meters of 6.79 g/t gold and g",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pan-global-intersects-15-meters-113000670.html?.tsrc=rss"
+      "title": "General Dynamics (GD) Falls More",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, General Dynamics (GD) stood at $352.67, denoting a -1.1% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-falls-more-221502200.html?.tsrc=rss"
+    },
+    {
+      "title": "Ouster, Inc. (OUST) Falls More",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Ouster, Inc. (OUST) closed at $36.24 in the latest trading session, marking a -3.33% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-falls-more-221502716.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall As Oil Prices",
-      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 11:42:07 +0000"
-    },
-    {
-      "title": "This AI Chipmaker Looks Like a",
-      "summary": "Broadcom recently delivered a substantial update about future revenue, and that forecast is not yet being reflected in its stock price.",
-      "impact": "지수, 위험선호",
+      "title": "T. Rowe Price (TROW) Suffers a",
+      "summary": "In the latest trading session, T. Rowe Price (TROW) closed at $107.74, marking a -1.54% move from the previous day.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/09/this-ai-chipmaker-looks-like-a-bargain-with-ai-rev/?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 11:35:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 22:15:04 +0000"
     },
     {
-      "title": "Scottie Resources Intercepts 9.7 g/t",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) (\"Scottie\" or the \"Company\") is pleased to repor",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/scottie-resources-intercepts-9-7-113000055.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 11:30:00 +0000"
+      "title": "Clearway Energy (CWEN) Dipped More",
+      "summary": "In the latest trading session, Clearway Energy (CWEN) closed at $32.07, marking a -3.14% move from the previous day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 22:15:03 +0000"
     },
     {
-      "title": "Pan Global Intersects 15 Meters of",
-      "summary": "Providencia drillhole PVD15 intersects 15 meters grading 3.90 g/t gold, 0.04% copper, 0.11% nickel and 0.12% cobalt, commencing from surfaceIncludes 8 meters of 6.79 g/t gold and g",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/pan-global-intersects-15-meters-113000670.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 11:30:00 +0000"
+      "title": "General Dynamics (GD) Falls More",
+      "summary": "In the closing of the recent trading day, General Dynamics (GD) stood at $352.67, denoting a -1.1% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-falls-more-221502200.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 22:15:02 +0000"
+    },
+    {
+      "title": "Ouster, Inc. (OUST) Falls More",
+      "summary": "Ouster, Inc. (OUST) closed at $36.24 in the latest trading session, marking a -3.33% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-falls-more-221502716.html?.tsrc=rss",
+      "published": "Wed, 09 Sep 2026 22:15:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "95.54",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "100.89",
+          "value": "97.10",
           "change": "-0.02%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "102.14",
+          "change": "+0.05%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4447.50",
-          "change": "-0.01%",
+          "value": "4447.00",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.75",
-          "change": "-0.04%",
+          "value": "6.86",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        95.27999877929688,
-        95.37000274658203,
-        95.3499984741211,
-        95.41999816894531,
-        95.55000305175781,
-        95.55000305175781,
-        95.44999694824219,
-        95.44999694824219,
-        95.54000091552734,
-        95.56999969482422,
-        95.54000091552734
+        97.1500015258789,
+        97.18000030517578,
+        97.19999694824219,
+        97.22000122070312,
+        97.20999908447266,
+        97.1500015258789,
+        97.12999725341797,
+        97.1500015258789,
+        97.1500015258789,
+        97.12000274658203,
+        97.0999984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-09 20:37 KST"
+      "freshness": "2026-09-10 07:20 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.775%",
+          "value": "3.805%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.573%",
+          "value": "4.614%",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.806%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.837%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.264%",
-          "change": "-0.04%",
+          "value": "5.286%",
+          "change": "-0.06%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.808000087738037,
-        4.808000087738037,
-        4.811999797821045,
-        4.811999797821045,
-        4.809999942779541,
-        4.808000087738037,
-        4.808000087738037,
-        4.808000087738037,
-        4.808000087738037,
-        4.806000232696533,
-        4.806000232696533
+        4.8389997482299805,
+        4.8389997482299805,
+        4.841000080108643,
+        4.8389997482299805,
+        4.836999893188477,
+        4.8389997482299805,
+        4.841000080108643,
+        4.841000080108643,
+        4.8389997482299805,
+        4.8389997482299805,
+        4.836999893188477
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-09-09 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-09-10 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7674.13",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "7637.70",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26423.21",
-          "change": "+0.09%",
+          "value": "26255.10",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6284.31",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6302.04",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7680.5,
-        7676.0498046875,
-        7675.52978515625,
-        7673.64990234375,
-        7672.1298828125,
-        7671.7099609375,
-        7674.68994140625,
-        7674.33984375,
-        7672.02978515625,
-        7668.7099609375,
-        7674.1298828125
+        7642.419921875,
+        7638.2001953125,
+        7636.77978515625,
+        7637.22021484375,
+        7637.72021484375,
+        7638.47021484375,
+        7637.93017578125,
+        7637.759765625,
+        7637.14990234375,
+        7637.72021484375,
+        7637.7001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-09-09 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-09-10 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.67",
-          "change": "+0.01%",
+          "value": "98.78",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1336.97",
+          "value": "1339.14",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "153.33",
-          "change": "-0.02%",
+          "value": "153.37",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6955",
+          "value": "6.6977",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1336.469970703125,
-        1336.6600341796875,
-        1336.3800048828125,
-        1336.8599853515625,
-        1336.8399658203125,
-        1336.5799560546875,
-        1336.9599609375,
-        1336.9100341796875,
-        1336.8599853515625,
-        1336.93994140625,
-        1336.969970703125
+        1339.199951171875,
+        1339.1600341796875,
+        1339.1300048828125,
+        1339.2099609375,
+        1339.1099853515625,
+        1339.3900146484375,
+        1339.9000244140625,
+        1339.1600341796875,
+        1339.1800537109375,
+        1339.1400146484375,
+        1339.1400146484375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-09 20:47 KST"
+      "freshness": "2026-09-10 07:23 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
