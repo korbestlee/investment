@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "collectedAt": "2026-09-10T07:32:46Z",
+  "collectedAt": "2026-09-10T11:45:20Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "If a Stock Market Crash Is Coming,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Stock market downturns can be unnerving, but they often create excellent buying opportunities for prepared investors.",
-      "link": "https://www.fool.com/investing/2026/09/10/if-stock-market-crash-smart-investors-growth-stock/?.tsrc=rss"
-    },
-    {
-      "title": "Iran Said to Be Ready to Escalate",
+      "title": "Ryanair CEO Michael O'Leary warns of",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "US President Donald Trump downplayed concerns about rising oil prices and the war with Iran. Meanwhile, Iran is ready to intensify the conflict and will escalate counterstrikes if ",
-      "link": "https://finance.yahoo.com/video/iran-said-ready-escalate-war-053810731.html?.tsrc=rss"
+      "summary": "Michael O'Leary said second-half pricing is uncertain as Brent crude holds above $100 a barrel amid Middle East tensions",
+      "link": "https://qz.com/ryanair-ceo-airfare-hikes-oil-prices-091026?.tsrc=rss"
     },
     {
-      "title": "Oil Holds Above $100 as U.S.-Iran",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Oil prices remain above $100 as escalating U.S.-Iran attacks on shipping raise fears of renewed disruption to Persian Gulf supplies.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-holds-above-100-u-053500292.html?.tsrc=rss"
+      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
     },
     {
-      "title": "Tocvan Confirms Gold Mineralization",
+      "title": "Benton Discovers High-Grade Gold at",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "HERMOSILLO, MX / ACCESS Newswire / September 10, 2026 / (the \"Company\" or \"Tocvan\") (CSE:TOC)(OTCQB:TCVNF)(WKN:TV3/A2PE64) is pleased to announce new drill results from the El Mezq",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tocvan-confirms-gold-mineralization-along-053000579.html?.tsrc=rss"
+      "summary": "Thunder Bay, Ontario--(Newsfile Corp. - September 10, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company has received hig",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benton-discovers-high-grade-gold-113000603.html?.tsrc=rss"
+    },
+    {
+      "title": "Orogen Royalties Acquires the",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "VANCOUVER, BC / ACCESS Newswire / September 10, 2026 / (TSXV:OGN)(OTCQX:OGNNF) . (\"Orogen\" or the \"Company\") is pleased to announce the acquisition of the Serpent gold project in N",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/orogen-royalties-acquires-serpent-gold-113000674.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "If a Stock Market Crash Is Coming,",
-      "summary": "Stock market downturns can be unnerving, but they often create excellent buying opportunities for prepared investors.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/10/if-stock-market-crash-smart-investors-growth-stock/?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 07:26:00 +0000"
-    },
-    {
-      "title": "Iran Said to Be Ready to Escalate",
-      "summary": "US President Donald Trump downplayed concerns about rising oil prices and the war with Iran. Meanwhile, Iran is ready to intensify the conflict and will escalate counterstrikes if ",
+      "title": "Ryanair CEO Michael O'Leary warns of",
+      "summary": "Michael O'Leary said second-half pricing is uncertain as Brent crude holds above $100 a barrel amid Middle East tensions",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/iran-said-ready-escalate-war-053810731.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 05:38:10 +0000"
+      "link": "https://qz.com/ryanair-ceo-airfare-hikes-oil-prices-091026?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 11:40:34 +0000"
     },
     {
-      "title": "Oil Holds Above $100 as U.S.-Iran",
-      "summary": "Oil prices remain above $100 as escalating U.S.-Iran attacks on shipping raise fears of renewed disruption to Persian Gulf supplies.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-holds-above-100-u-053500292.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 05:35:00 +0000"
+      "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 11:35:57 +0000"
     },
     {
-      "title": "Tocvan Confirms Gold Mineralization",
-      "summary": "HERMOSILLO, MX / ACCESS Newswire / September 10, 2026 / (the \"Company\" or \"Tocvan\") (CSE:TOC)(OTCQB:TCVNF)(WKN:TV3/A2PE64) is pleased to announce new drill results from the El Mezq",
+      "title": "Benton Discovers High-Grade Gold at",
+      "summary": "Thunder Bay, Ontario--(Newsfile Corp. - September 10, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company has received hig",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/tocvan-confirms-gold-mineralization-along-053000579.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 05:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benton-discovers-high-grade-gold-113000603.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Orogen Royalties Acquires the",
+      "summary": "VANCOUVER, BC / ACCESS Newswire / September 10, 2026 / (TSXV:OGN)(OTCQX:OGNNF) . (\"Orogen\" or the \"Company\") is pleased to announce the acquisition of the Serpent gold project in N",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/orogen-royalties-acquires-serpent-gold-113000674.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 11:30:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "95.91",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "97.23",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "100.93",
+          "value": "102.03",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4454.60",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4429.60",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.86",
-          "change": "+0.01%",
+          "value": "6.60",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        95.80000305175781,
-        95.87000274658203,
-        95.88999938964844,
-        95.87999725341797,
-        95.88999938964844,
-        95.8499984741211,
-        95.83999633789062,
-        95.86000061035156,
-        95.87000274658203,
-        95.88999938964844,
-        95.91000366210938
+        97.4000015258789,
+        97.43000030517578,
+        97.43000030517578,
+        97.47000122070312,
+        97.47000122070312,
+        97.37000274658203,
+        97.33999633789062,
+        97.33999633789062,
+        97.2699966430664,
+        97.23999786376953,
+        97.2300033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-10 16:22 KST"
+      "status": "약세",
+      "freshness": "2026-09-10 20:35 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6321.74",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6305.69",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.74",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "98.93",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1340.08",
-          "change": "-0.04%",
+          "value": "1343.05",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "153.38",
+          "value": "154.05",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7053",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6966",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1340.75,
-        1340.77001953125,
-        1340.8299560546875,
-        1340.8399658203125,
-        1340.739990234375,
-        1340.75,
-        1340.5799560546875,
-        1340.47998046875,
-        1340.6800537109375,
-        1340.6300048828125,
-        1340.0799560546875
+        1343.6500244140625,
+        1343.47998046875,
+        1343.68994140625,
+        1343.530029296875,
+        1343.4599609375,
+        1343.449951171875,
+        1343.280029296875,
+        1343.3800048828125,
+        1343.3699951171875,
+        1343.27001953125,
+        1343.050048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-10 16:32 KST"
+      "status": "강세",
+      "freshness": "2026-09-10 20:45 KST"
     }
   ],
   "currentAction": {
