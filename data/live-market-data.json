@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "collectedAt": "2026-09-09T22:30:32Z",
+  "collectedAt": "2026-09-10T07:32:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "T. Rowe Price (TROW) Suffers a",
-      "impact": "시장 전반",
+      "title": "If a Stock Market Crash Is Coming,",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "In the latest trading session, T. Rowe Price (TROW) closed at $107.74, marking a -1.54% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html?.tsrc=rss"
+      "summary": "Stock market downturns can be unnerving, but they often create excellent buying opportunities for prepared investors.",
+      "link": "https://www.fool.com/investing/2026/09/10/if-stock-market-crash-smart-investors-growth-stock/?.tsrc=rss"
     },
     {
-      "title": "Clearway Energy (CWEN) Dipped More",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the latest trading session, Clearway Energy (CWEN) closed at $32.07, marking a -3.14% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html?.tsrc=rss"
+      "title": "Iran Said to Be Ready to Escalate",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "US President Donald Trump downplayed concerns about rising oil prices and the war with Iran. Meanwhile, Iran is ready to intensify the conflict and will escalate counterstrikes if ",
+      "link": "https://finance.yahoo.com/video/iran-said-ready-escalate-war-053810731.html?.tsrc=rss"
     },
     {
-      "title": "General Dynamics (GD) Falls More",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the closing of the recent trading day, General Dynamics (GD) stood at $352.67, denoting a -1.1% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-falls-more-221502200.html?.tsrc=rss"
+      "title": "Oil Holds Above $100 as U.S.-Iran",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices remain above $100 as escalating U.S.-Iran attacks on shipping raise fears of renewed disruption to Persian Gulf supplies.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-holds-above-100-u-053500292.html?.tsrc=rss"
     },
     {
-      "title": "Ouster, Inc. (OUST) Falls More",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Ouster, Inc. (OUST) closed at $36.24 in the latest trading session, marking a -3.33% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-falls-more-221502716.html?.tsrc=rss"
+      "title": "Tocvan Confirms Gold Mineralization",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "HERMOSILLO, MX / ACCESS Newswire / September 10, 2026 / (the \"Company\" or \"Tocvan\") (CSE:TOC)(OTCQB:TCVNF)(WKN:TV3/A2PE64) is pleased to announce new drill results from the El Mezq",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tocvan-confirms-gold-mineralization-along-053000579.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "T. Rowe Price (TROW) Suffers a",
-      "summary": "In the latest trading session, T. Rowe Price (TROW) closed at $107.74, marking a -1.54% move from the previous day.",
-      "impact": "시장 전반",
+      "title": "If a Stock Market Crash Is Coming,",
+      "summary": "Stock market downturns can be unnerving, but they often create excellent buying opportunities for prepared investors.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221504894.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 22:15:04 +0000"
+      "link": "https://www.fool.com/investing/2026/09/10/if-stock-market-crash-smart-investors-growth-stock/?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 07:26:00 +0000"
     },
     {
-      "title": "Clearway Energy (CWEN) Dipped More",
-      "summary": "In the latest trading session, Clearway Energy (CWEN) closed at $32.07, marking a -3.14% move from the previous day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-221503582.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 22:15:03 +0000"
+      "title": "Iran Said to Be Ready to Escalate",
+      "summary": "US President Donald Trump downplayed concerns about rising oil prices and the war with Iran. Meanwhile, Iran is ready to intensify the conflict and will escalate counterstrikes if ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/iran-said-ready-escalate-war-053810731.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 05:38:10 +0000"
     },
     {
-      "title": "General Dynamics (GD) Falls More",
-      "summary": "In the closing of the recent trading day, General Dynamics (GD) stood at $352.67, denoting a -1.1% move from the preceding trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-falls-more-221502200.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 22:15:02 +0000"
+      "title": "Oil Holds Above $100 as U.S.-Iran",
+      "summary": "Oil prices remain above $100 as escalating U.S.-Iran attacks on shipping raise fears of renewed disruption to Persian Gulf supplies.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-holds-above-100-u-053500292.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 05:35:00 +0000"
     },
     {
-      "title": "Ouster, Inc. (OUST) Falls More",
-      "summary": "Ouster, Inc. (OUST) closed at $36.24 in the latest trading session, marking a -3.33% move from the prior day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-falls-more-221502716.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 22:15:02 +0000"
+      "title": "Tocvan Confirms Gold Mineralization",
+      "summary": "HERMOSILLO, MX / ACCESS Newswire / September 10, 2026 / (the \"Company\" or \"Tocvan\") (CSE:TOC)(OTCQB:TCVNF)(WKN:TV3/A2PE64) is pleased to announce new drill results from the El Mezq",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/tocvan-confirms-gold-mineralization-along-053000579.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 05:30:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.10",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "102.14",
-          "change": "+0.05%",
+          "value": "95.91",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "100.93",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "Gold",
-          "value": "4447.00",
-          "change": "-0.00%",
+          "value": "4454.60",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.86",
-          "change": "-0.01%",
-          "direction": "down"
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        97.1500015258789,
-        97.18000030517578,
-        97.19999694824219,
-        97.22000122070312,
-        97.20999908447266,
-        97.1500015258789,
-        97.12999725341797,
-        97.1500015258789,
-        97.1500015258789,
-        97.12000274658203,
-        97.0999984741211
+        95.80000305175781,
+        95.87000274658203,
+        95.88999938964844,
+        95.87999725341797,
+        95.88999938964844,
+        95.8499984741211,
+        95.83999633789062,
+        95.86000061035156,
+        95.87000274658203,
+        95.88999938964844,
+        95.91000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-10 07:20 KST"
+      "status": "강세",
+      "freshness": "2026-09-10 16:22 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "7056.35",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "7042.44",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6302.04",
-          "change": "+0.06%",
+          "value": "6321.74",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.78",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "98.74",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1339.14",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1340.08",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "153.37",
+          "value": "153.38",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6977",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7053",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1339.199951171875,
-        1339.1600341796875,
-        1339.1300048828125,
-        1339.2099609375,
-        1339.1099853515625,
-        1339.3900146484375,
-        1339.9000244140625,
-        1339.1600341796875,
-        1339.1800537109375,
-        1339.1400146484375,
-        1339.1400146484375
+        1340.75,
+        1340.77001953125,
+        1340.8299560546875,
+        1340.8399658203125,
+        1340.739990234375,
+        1340.75,
+        1340.5799560546875,
+        1340.47998046875,
+        1340.6800537109375,
+        1340.6300048828125,
+        1340.0799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-10 07:23 KST"
+      "status": "완화",
+      "freshness": "2026-09-10 16:32 KST"
     }
   ],
   "currentAction": {
