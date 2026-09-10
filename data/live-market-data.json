@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10",
-  "collectedAt": "2026-09-10T11:45:20Z",
+  "date": "2026-09-11",
+  "collectedAt": "2026-09-10T22:31:01Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Ryanair CEO Michael O'Leary warns of",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Michael O'Leary said second-half pricing is uncertain as Brent crude holds above $100 a barrel amid Middle East tensions",
-      "link": "https://qz.com/ryanair-ceo-airfare-hikes-oil-prices-091026?.tsrc=rss"
+      "title": "Annaly Capital Management (NLY)",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The latest trading day saw Annaly Capital Management (NLY) settling at $22, representing a -2.7% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
-      "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
+      "title": "American Tower (AMT) Dips More Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The latest trading day saw American Tower (AMT) settling at $172.98, representing a -1.4% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-dips-more-221505097.html?.tsrc=rss"
     },
     {
-      "title": "Benton Discovers High-Grade Gold at",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Thunder Bay, Ontario--(Newsfile Corp. - September 10, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company has received hig",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/benton-discovers-high-grade-gold-113000603.html?.tsrc=rss"
+      "title": "the Market Dipped But Crescent",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the latest trading session, Crescent Energy (CRGY) closed at $14.41, marking a +1.19% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-crescent-energy-221505673.html?.tsrc=rss"
     },
     {
-      "title": "Orogen Royalties Acquires the",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / September 10, 2026 / (TSXV:OGN)(OTCQX:OGNNF) . (\"Orogen\" or the \"Company\") is pleased to announce the acquisition of the Serpent gold project in N",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/orogen-royalties-acquires-serpent-gold-113000674.html?.tsrc=rss"
+      "title": "V.F. (VFC) Declines More Than Market",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the latest trading session, V.F. (VFC) closed at $12.62, marking a -2.25% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-declines-more-221505130.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Ryanair CEO Michael O'Leary warns of",
-      "summary": "Michael O'Leary said second-half pricing is uncertain as Brent crude holds above $100 a barrel amid Middle East tensions",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://qz.com/ryanair-ceo-airfare-hikes-oil-prices-091026?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 11:40:34 +0000"
+      "title": "Annaly Capital Management (NLY)",
+      "summary": "The latest trading day saw Annaly Capital Management (NLY) settling at $22, representing a -2.7% change from its previous close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 11:35:57 +0000"
+      "title": "American Tower (AMT) Dips More Than",
+      "summary": "The latest trading day saw American Tower (AMT) settling at $172.98, representing a -1.4% change from its previous close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-dips-more-221505097.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Benton Discovers High-Grade Gold at",
-      "summary": "Thunder Bay, Ontario--(Newsfile Corp. - September 10, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company has received hig",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/benton-discovers-high-grade-gold-113000603.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 11:30:00 +0000"
+      "title": "the Market Dipped But Crescent",
+      "summary": "In the latest trading session, Crescent Energy (CRGY) closed at $14.41, marking a +1.19% move from the previous day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-crescent-energy-221505673.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Orogen Royalties Acquires the",
-      "summary": "VANCOUVER, BC / ACCESS Newswire / September 10, 2026 / (TSXV:OGN)(OTCQX:OGNNF) . (\"Orogen\" or the \"Company\") is pleased to announce the acquisition of the Serpent gold project in N",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/orogen-royalties-acquires-serpent-gold-113000674.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 11:30:00 +0000"
+      "title": "V.F. (VFC) Declines More Than Market",
+      "summary": "In the latest trading session, V.F. (VFC) closed at $12.62, marking a -2.25% move from the previous day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-declines-more-221505130.html?.tsrc=rss",
+      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.23",
-          "change": "-0.01%",
+          "value": "103.88",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "102.03",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "109.00",
+          "change": "-0.13%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4429.60",
-          "change": "+0.01%",
+          "value": "4361.10",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.60",
-          "change": "+0.02%",
+          "value": "6.52",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        97.4000015258789,
-        97.43000030517578,
-        97.43000030517578,
-        97.47000122070312,
-        97.47000122070312,
-        97.37000274658203,
-        97.33999633789062,
-        97.33999633789062,
-        97.2699966430664,
-        97.23999786376953,
-        97.2300033569336
+        103.87000274658203,
+        103.94999694824219,
+        104.05000305175781,
+        104.06999969482422,
+        104.0199966430664,
+        104.04000091552734,
+        104.0,
+        104.0199966430664,
+        104.0,
+        103.91000366210938,
+        103.87999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-10 20:35 KST"
+      "freshness": "2026-09-11 07:20 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.805%",
+          "value": "3.845%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.614%",
+          "value": "4.733%",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.837%",
+          "value": "4.944%",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.286%",
+          "value": "5.361%",
           "change": "-0.06%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.8389997482299805,
-        4.8389997482299805,
-        4.841000080108643,
-        4.8389997482299805,
-        4.836999893188477,
-        4.8389997482299805,
-        4.841000080108643,
-        4.841000080108643,
-        4.8389997482299805,
-        4.8389997482299805,
-        4.836999893188477
+        4.949999809265137,
+        4.949999809265137,
+        4.943999767303467,
+        4.946000099182129,
+        4.947999954223633,
+        4.947999954223633,
+        4.949999809265137,
+        4.947999954223633,
+        4.947999954223633,
+        4.946000099182129,
+        4.943999767303467
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-09-10 03:59 KST"
+      "freshness": "2026-09-11 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7637.70",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "7592.30",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26255.10",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "26083.95",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6305.69",
-          "change": "-0.00%",
+          "value": "6277.25",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        7642.419921875,
-        7638.2001953125,
-        7636.77978515625,
-        7637.22021484375,
-        7637.72021484375,
-        7638.47021484375,
-        7637.93017578125,
-        7637.759765625,
-        7637.14990234375,
-        7637.72021484375,
-        7637.7001953125
+        7594.3798828125,
+        7592.259765625,
+        7591.85986328125,
+        7590.6201171875,
+        7591.64013671875,
+        7592.1201171875,
+        7592.169921875,
+        7591.81982421875,
+        7591.8798828125,
+        7592.10009765625,
+        7592.2998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-09-10 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-09-11 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "98.93",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1343.05",
-          "change": "-0.02%",
+          "value": "99.09",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "154.05",
+          "name": "USDKRW",
+          "value": "1349.29",
           "change": "-0.01%",
           "direction": "down"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6966",
+          "name": "USDJPY",
+          "value": "154.44",
           "change": "+0.00%",
           "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7056",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1343.6500244140625,
-        1343.47998046875,
-        1343.68994140625,
-        1343.530029296875,
-        1343.4599609375,
-        1343.449951171875,
-        1343.280029296875,
-        1343.3800048828125,
-        1343.3699951171875,
-        1343.27001953125,
-        1343.050048828125
+        1349.1500244140625,
+        1349.050048828125,
+        1349.1400146484375,
+        1349.239990234375,
+        1349.239990234375,
+        1349.199951171875,
+        1349.2099609375,
+        1349.469970703125,
+        1349.260009765625,
+        1349.3699951171875,
+        1349.2900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-10 20:45 KST"
+      "status": "완화",
+      "freshness": "2026-09-11 07:30 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
