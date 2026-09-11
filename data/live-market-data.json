@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "collectedAt": "2026-09-11T07:32:15Z",
+  "collectedAt": "2026-09-11T11:44:41Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
+      "title": "Lower Oil Prices Boost European",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "European bourses tracked moderately higher midday Friday as traders weighed easing crude oil prices,",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/lower-oil-prices-boost-european-114056927.html?.tsrc=rss"
+    },
+    {
+      "title": "U.S. Stock Funds Rebound In August",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "U.S. stock market funds defied the normal late-summer doldrums in August, shrugging off rising bond yields and finishing the month higher.",
+      "link": "https://finance.yahoo.com/m/ec825678-0281-3276-ad73-f4273fd26c7b/u.s.-stock-funds-rebound-in.html?.tsrc=rss"
+    },
+    {
       "title": "Dow Jones Futures Rise, Oil Prices",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned modestly lower. Oracle and Adobe headlined earnings overnight with",
+      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned solidly lower. Oracle and Adobe headlined earnings overnight with ",
       "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
     },
     {
-      "title": "Can the ECB rate hike stop an",
+      "title": "Stock futures rise ahead of August",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The ECB is raising borrowing costs to stop expensive energy from fuelling lasting inflation. Economists disagree on how far rates must rise and how much growth could suffer.View on",
-      "link": "https://www.euronews.com/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss"
-    },
-    {
-      "title": "Oil Prices Surge to Four-Month Highs",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices have surged to their highest levels since May as widening Middle East hostilities intensify fears of prolonged supply disruptions.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-four-month-053000138.html?.tsrc=rss"
-    },
-    {
-      "title": "Micron Stock Just Sank",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Leading AI stocks are under pressure this week, and Micron just got hit with a substantial sell-off.",
-      "link": "https://www.fool.com/investing/2026/09/11/why-micron-stock-just-sank/?.tsrc=rss"
+      "summary": "Crude prices retreated from a sharp weekly surge tied to Middle East tensions, while the 10-year Treasury yield backed away from 5%",
+      "link": "https://qz.com/stock-futures-rise-oil-pullback-cpi-inflation-report-091126?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
+      "title": "Lower Oil Prices Boost European",
+      "summary": "European bourses tracked moderately higher midday Friday as traders weighed easing crude oil prices,",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/lower-oil-prices-boost-european-114056927.html?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 11:40:56 +0000"
+    },
+    {
+      "title": "U.S. Stock Funds Rebound In August",
+      "summary": "U.S. stock market funds defied the normal late-summer doldrums in August, shrugging off rising bond yields and finishing the month higher.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/ec825678-0281-3276-ad73-f4273fd26c7b/u.s.-stock-funds-rebound-in.html?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 11:35:43 +0000"
+    },
+    {
       "title": "Dow Jones Futures Rise, Oil Prices",
-      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned modestly lower. Oracle and Adobe headlined earnings overnight with",
+      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned solidly lower. Oracle and Adobe headlined earnings overnight with ",
       "impact": "채권, 금리",
       "importance": "high",
       "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "published": "Fri, 11 Sep 2026 07:20:23 +0000"
+      "published": "Fri, 11 Sep 2026 11:31:43 +0000"
     },
     {
-      "title": "Can the ECB rate hike stop an",
-      "summary": "The ECB is raising borrowing costs to stop expensive energy from fuelling lasting inflation. Economists disagree on how far rates must rise and how much growth could suffer.View on",
+      "title": "Stock futures rise ahead of August",
+      "summary": "Crude prices retreated from a sharp weekly surge tied to Middle East tensions, while the 10-year Treasury yield backed away from 5%",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.euronews.com/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss",
-      "published": "Fri, 11 Sep 2026 05:33:38 +0000"
-    },
-    {
-      "title": "Oil Prices Surge to Four-Month Highs",
-      "summary": "Oil prices have surged to their highest levels since May as widening Middle East hostilities intensify fears of prolonged supply disruptions.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-four-month-053000138.html?.tsrc=rss",
-      "published": "Fri, 11 Sep 2026 05:30:00 +0000"
-    },
-    {
-      "title": "Micron Stock Just Sank",
-      "summary": "Leading AI stocks are under pressure this week, and Micron just got hit with a substantial sell-off.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/11/why-micron-stock-just-sank/?.tsrc=rss",
-      "published": "Fri, 11 Sep 2026 04:54:13 +0000"
+      "link": "https://qz.com/stock-futures-rise-oil-pullback-cpi-inflation-report-091126?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 11:27:31 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "100.85",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "99.64",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "105.50",
+          "value": "104.38",
           "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4391.00",
-          "change": "-0.02%",
+          "value": "4374.70",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.54",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        100.5,
-        100.51000213623047,
-        100.66000366210938,
-        100.76000213623047,
-        100.69000244140625,
-        100.58000183105469,
-        100.58000183105469,
-        100.68000030517578,
-        100.73999786376953,
-        100.86000061035156,
-        100.8499984741211
+        99.30999755859375,
+        99.16000366210938,
+        99.20999908447266,
+        99.36000061035156,
+        99.51000213623047,
+        99.48999786376953,
+        99.54000091552734,
+        99.5199966430664,
+        99.55999755859375,
+        99.5999984741211,
+        99.63999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-11 16:22 KST"
+      "status": "강세",
+      "freshness": "2026-09-11 20:34 KST"
     },
     {
       "id": "bonds",
@@ -268,7 +268,7 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6299.11",
+          "value": "6312.87",
           "change": "-0.01%",
           "direction": "down"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.06",
-          "change": "+0.01%",
+          "value": "99.17",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1344.44",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1341.98",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "154.21",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "153.91",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7090",
+          "value": "6.6971",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1344.760009765625,
-        1344.5799560546875,
-        1344.5799560546875,
-        1343.5799560546875,
-        1343.7099609375,
-        1343.97998046875,
-        1344.18994140625,
-        1344.5,
-        1344.3699951171875,
-        1344.280029296875,
-        1344.43994140625
+        1341.93994140625,
+        1342.1300048828125,
+        1341.780029296875,
+        1341.97998046875,
+        1342.050048828125,
+        1342.2099609375,
+        1342.0699462890625,
+        1342.260009765625,
+        1342.2900390625,
+        1342.22998046875,
+        1341.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-11 16:32 KST"
+      "freshness": "2026-09-11 20:44 KST"
     }
   ],
   "currentAction": {
