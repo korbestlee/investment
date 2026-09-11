@@ -2,13 +2,13 @@
   "workflow": "refresh-live-snapshot",
   "status": "success",
   "message": "Snapshot refresh succeeded.",
-  "updatedAt": "2026-09-10T22:31:01Z",
-  "runId": "34537788637",
-  "runNumber": "200",
+  "updatedAt": "2026-09-11T07:32:16Z",
+  "runId": "34574755297",
+  "runNumber": "201",
   "runAttempt": "1",
   "branch": "main",
-  "commitSha": "100a0651d89a6a1ea4355db87e1384219450fdac",
-  "snapshotCollectedAt": "2026-09-10T22:31:01Z",
+  "commitSha": "3a7ba190abfb2fd5f9041e6fe455994aa1809775",
+  "snapshotCollectedAt": "2026-09-11T07:32:15Z",
   "schedule": [
     {
       "label": "한국장 중간",

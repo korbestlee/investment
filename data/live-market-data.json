@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "collectedAt": "2026-09-10T22:31:01Z",
+  "collectedAt": "2026-09-11T07:32:15Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Annaly Capital Management (NLY)",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw Annaly Capital Management (NLY) settling at $22, representing a -2.7% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html?.tsrc=rss"
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned modestly lower. Oracle and Adobe headlined earnings overnight with",
+      "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
     },
     {
-      "title": "American Tower (AMT) Dips More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw American Tower (AMT) settling at $172.98, representing a -1.4% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-dips-more-221505097.html?.tsrc=rss"
+      "title": "Can the ECB rate hike stop an",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The ECB is raising borrowing costs to stop expensive energy from fuelling lasting inflation. Economists disagree on how far rates must rise and how much growth could suffer.View on",
+      "link": "https://www.euronews.com/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss"
     },
     {
-      "title": "the Market Dipped But Crescent",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the latest trading session, Crescent Energy (CRGY) closed at $14.41, marking a +1.19% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-crescent-energy-221505673.html?.tsrc=rss"
+      "title": "Oil Prices Surge to Four-Month Highs",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices have surged to their highest levels since May as widening Middle East hostilities intensify fears of prolonged supply disruptions.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-four-month-053000138.html?.tsrc=rss"
     },
     {
-      "title": "V.F. (VFC) Declines More Than Market",
-      "impact": "시장 전반",
+      "title": "Micron Stock Just Sank",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "In the latest trading session, V.F. (VFC) closed at $12.62, marking a -2.25% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-declines-more-221505130.html?.tsrc=rss"
+      "summary": "Leading AI stocks are under pressure this week, and Micron just got hit with a substantial sell-off.",
+      "link": "https://www.fool.com/investing/2026/09/11/why-micron-stock-just-sank/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Annaly Capital Management (NLY)",
-      "summary": "The latest trading day saw Annaly Capital Management (NLY) settling at $22, representing a -2.7% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-suffers-221505331.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned modestly lower. Oracle and Adobe headlined earnings overnight with",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/c29e8241-4bb8-3a14-aa17-d5e2fa2c38f6/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 07:20:23 +0000"
     },
     {
-      "title": "American Tower (AMT) Dips More Than",
-      "summary": "The latest trading day saw American Tower (AMT) settling at $172.98, representing a -1.4% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-tower-amt-dips-more-221505097.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
+      "title": "Can the ECB rate hike stop an",
+      "summary": "The ECB is raising borrowing costs to stop expensive energy from fuelling lasting inflation. Economists disagree on how far rates must rise and how much growth could suffer.View on",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/09/11/can-the-ecb-rate-hike-stop-an-inflation-shock-driven-by-energy-costs?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 05:33:38 +0000"
     },
     {
-      "title": "the Market Dipped But Crescent",
-      "summary": "In the latest trading session, Crescent Energy (CRGY) closed at $14.41, marking a +1.19% move from the previous day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-crescent-energy-221505673.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
+      "title": "Oil Prices Surge to Four-Month Highs",
+      "summary": "Oil prices have surged to their highest levels since May as widening Middle East hostilities intensify fears of prolonged supply disruptions.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-four-month-053000138.html?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 05:30:00 +0000"
     },
     {
-      "title": "V.F. (VFC) Declines More Than Market",
-      "summary": "In the latest trading session, V.F. (VFC) closed at $12.62, marking a -2.25% move from the previous day.",
-      "impact": "시장 전반",
+      "title": "Micron Stock Just Sank",
+      "summary": "Leading AI stocks are under pressure this week, and Micron just got hit with a substantial sell-off.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/v-f-vfc-declines-more-221505130.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 22:15:05 +0000"
+      "link": "https://www.fool.com/investing/2026/09/11/why-micron-stock-just-sank/?.tsrc=rss",
+      "published": "Fri, 11 Sep 2026 04:54:13 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "103.88",
-          "change": "-0.03%",
+          "value": "100.85",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "109.00",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "105.50",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4361.10",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "4391.00",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.52",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.57",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        103.87000274658203,
-        103.94999694824219,
-        104.05000305175781,
-        104.06999969482422,
-        104.0199966430664,
-        104.04000091552734,
-        104.0,
-        104.0199966430664,
-        104.0,
-        103.91000366210938,
-        103.87999725341797
+        100.5,
+        100.51000213623047,
+        100.66000366210938,
+        100.76000213623047,
+        100.69000244140625,
+        100.58000183105469,
+        100.58000183105469,
+        100.68000030517578,
+        100.73999786376953,
+        100.86000061035156,
+        100.8499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-11 07:20 KST"
+      "freshness": "2026-09-11 16:22 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "7042.44",
-          "change": "-0.02%",
+          "value": "6919.23",
+          "change": "-0.22%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6277.25",
-          "change": "-0.04%",
+          "value": "6299.11",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.09",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.06",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1349.29",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1344.44",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "154.44",
-          "change": "+0.00%",
+          "value": "154.21",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7056",
+          "value": "6.7090",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1349.1500244140625,
-        1349.050048828125,
-        1349.1400146484375,
-        1349.239990234375,
-        1349.239990234375,
-        1349.199951171875,
-        1349.2099609375,
-        1349.469970703125,
-        1349.260009765625,
-        1349.3699951171875,
-        1349.2900390625
+        1344.760009765625,
+        1344.5799560546875,
+        1344.5799560546875,
+        1343.5799560546875,
+        1343.7099609375,
+        1343.97998046875,
+        1344.18994140625,
+        1344.5,
+        1344.3699951171875,
+        1344.280029296875,
+        1344.43994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-11 07:30 KST"
+      "status": "강세",
+      "freshness": "2026-09-11 16:32 KST"
     }
   ],
   "currentAction": {
