@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-14",
-  "collectedAt": "2026-09-14T13:16:44Z",
+  "date": "2026-09-15",
+  "collectedAt": "2026-09-14T23:05:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.06%",
+      "value": "-0.04%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.06%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Correction",
+      "title": "Tech stocks slump after AI execs",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.",
+      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?.tsrc=rss"
+    },
+    {
+      "title": "The 3 Best Dividend ETFs to Build",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Corrects the oil price percentage change in the sixth paragraph.) US equity futures were edging",
-      "link": "https://finance.yahoo.com/technology/ai/articles/correction-us-equity-futures-lower-130541409.html?.tsrc=rss"
+      "summary": "With Treasury yields now competitive enough to make most dividend ETFs look questionable, three funds still make a compelling case for equity income in retirement, but each one dem",
+      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/?.tsrc=rss"
     },
     {
-      "title": "Here is What to Know Beyond Why",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Zacks.com users have recently been watching Newmont (NEM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-newmont-corporation-130004296.html?.tsrc=rss"
+      "title": "Canada 10-year yield rises as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com -- Canada’s 10-year government bond yield rose on Monday as investors weighed persistent inflation pressures and higher oil prices after data showed annual consumer i",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html?.tsrc=rss"
     },
     {
-      "title": "Nice (NICE) Is a Trending Stock",
-      "impact": "지수, 위험선호",
+      "title": "the Market Dipped But Astrazeneca",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Nice (NICE) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nice-nice-trending-stock-facts-130003658.html?.tsrc=rss"
-    },
-    {
-      "title": "Is Most-Watched Stock Uber",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Uber (UBER) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-uber-technologies-130006635.html?.tsrc=rss"
+      "summary": "In the latest trading session, Astrazeneca (AZN) closed at $163.78, marking a +2.25% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Correction",
-      "summary": "(Corrects the oil price percentage change in the sixth paragraph.) US equity futures were edging",
+      "title": "Tech stocks slump after AI execs",
+      "summary": "The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?.tsrc=rss",
+      "published": "Mon, 14 Sep 2026 22:50:30 +0000"
+    },
+    {
+      "title": "The 3 Best Dividend ETFs to Build",
+      "summary": "With Treasury yields now competitive enough to make most dividend ETFs look questionable, three funds still make a compelling case for equity income in retirement, but each one dem",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/technology/ai/articles/correction-us-equity-futures-lower-130541409.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 13:05:41 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/?.tsrc=rss",
+      "published": "Mon, 14 Sep 2026 22:25:45 +0000"
     },
     {
-      "title": "Here is What to Know Beyond Why",
-      "summary": "Zacks.com users have recently been watching Newmont (NEM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-newmont-corporation-130004296.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 13:00:04 +0000"
+      "title": "Canada 10-year yield rises as",
+      "summary": "Investing.com -- Canada’s 10-year government bond yield rose on Monday as investors weighed persistent inflation pressures and higher oil prices after data showed annual consumer i",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html?.tsrc=rss",
+      "published": "Mon, 14 Sep 2026 22:24:08 +0000"
     },
     {
-      "title": "Nice (NICE) Is a Trending Stock",
-      "summary": "Nice (NICE) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "impact": "지수, 위험선호",
+      "title": "the Market Dipped But Astrazeneca",
+      "summary": "In the latest trading session, Astrazeneca (AZN) closed at $163.78, marking a +2.25% move from the previous day.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nice-nice-trending-stock-facts-130003658.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 13:00:03 +0000"
-    },
-    {
-      "title": "Is Most-Watched Stock Uber",
-      "summary": "Uber (UBER) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-uber-technologies-130006635.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 13:00:06 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html?.tsrc=rss",
+      "published": "Mon, 14 Sep 2026 22:15:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "104.10",
-          "change": "+0.05%",
+          "value": "101.97",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "109.14",
-          "change": "+0.04%",
+          "value": "106.30",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4309.70",
-          "change": "+0.03%",
+          "value": "4337.40",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.39",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "6.40",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        104.31999969482422,
-        104.37000274658203,
-        104.44000244140625,
-        104.22000122070312,
-        104.13999938964844,
-        104.30000305175781,
-        104.38999938964844,
-        104.5199966430664,
-        104.31999969482422,
-        104.05000305175781,
-        104.0999984741211
+        101.9800033569336,
+        101.97000122070312,
+        101.95999908447266,
+        101.91999816894531,
+        101.93000030517578,
+        101.93000030517578,
+        101.94999694824219,
+        101.94000244140625,
+        101.94000244140625,
+        101.94999694824219,
+        101.97000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-14 22:06 KST"
+      "freshness": "2026-09-15 07:55 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.920%",
+          "value": "3.935%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.806%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.790%",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.983%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.961%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.362%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.329%",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.980999946594238,
-        4.980999946594238,
-        4.9830002784729,
-        4.984999656677246,
-        4.984999656677246,
-        4.9830002784729,
-        4.9830002784729,
-        4.9830002784729,
-        4.9830002784729,
-        4.9830002784729,
-        4.9830002784729
+        4.960999965667725,
+        4.960999965667725,
+        4.963000297546387,
+        4.960999965667725,
+        4.960999965667725,
+        4.960999965667725,
+        4.960999965667725,
+        4.963000297546387,
+        4.963000297546387,
+        4.963000297546387,
+        4.960999965667725
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-09-14 22:01 KST"
+      "status": "완화",
+      "freshness": "2026-09-15 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,13 +250,13 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7655.50",
-          "change": "-0.06%",
+          "value": "7620.37",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26328.90",
+          "value": "26188.53",
           "change": "-0.05%",
           "direction": "down"
         },
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6248.40",
-          "change": "-0.04%",
+          "value": "6254.56",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        7661.330078125,
-        7659.35009765625,
-        7658.4501953125,
-        7658.419921875,
-        7659.0498046875,
-        7660.31982421875,
-        7659.47021484375,
-        7658.56982421875,
-        7658.6298828125,
-        7659.9501953125,
-        7655.5
+        7629.83984375,
+        7626.8798828125,
+        7626.60009765625,
+        7625.85009765625,
+        7624.9501953125,
+        7625.35986328125,
+        7622.31005859375,
+        7622.27978515625,
+        7623.85986328125,
+        7623.759765625,
+        7620.3701171875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-09-12 04:59 KST"
+      "freshness": "2026-09-15 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.47",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1349.50",
-          "change": "+0.02%",
+          "value": "1346.10",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "154.85",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "154.21",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
           "value": "6.6980",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1349.3800048828125,
-        1349.56005859375,
-        1350.030029296875,
-        1349.8900146484375,
-        1349.1800537109375,
-        1349.3299560546875,
-        1349.3399658203125,
-        1349.4000244140625,
-        1349.1199951171875,
-        1349.25,
-        1349.5
+        1346.8499755859375,
+        1346.4100341796875,
+        1346.43994140625,
+        1346.469970703125,
+        1346.449951171875,
+        1346.47998046875,
+        1346.47998046875,
+        1346.469970703125,
+        1345.97998046875,
+        1346.0899658203125,
+        1346.0999755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-14 22:16 KST"
+      "status": "강세",
+      "freshness": "2026-09-15 07:54 KST"
     }
   ],
   "currentAction": {
