@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-15",
-  "collectedAt": "2026-09-15T12:02:41Z",
+  "date": "2026-09-16",
+  "collectedAt": "2026-09-15T22:51:59Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,25 +34,25 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.04%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "High Petroleum Bills, Bond Yields",
+      "title": "S&P 500, Nasdaq Break Support;",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "European bourses tracked modestly lower midday Tuesday as traders weighed high crude prices and bond",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/high-petroleum-bills-bond-yields-115058354.html?.tsrc=rss"
+      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision.",
+      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss"
     },
     {
-      "title": "Morocco Strategic Minerals Reports",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "MONTRÉAL, Sept. 15, 2026 (GLOBE NEWSWIRE) -- Morocco Strategic Minerals Corporation. (TSXV: MCC) (\"Morocco Strategic Minerals\" or the \"Company\") announces new surface rock sampling",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/morocco-strategic-minerals-reports-gold-113700355.html?.tsrc=rss"
+      "title": "T. Rowe Price (TROW) Suffers a",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221505965.html?.tsrc=rss"
     },
     {
-      "title": "Jim Cramer on stocks' Monday rebound",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Three factors helped limit losses on Wall Street: oil reversed course, Treasury buyers emerged at 5%, and AI data center fears eased",
-      "link": "https://qz.com/jim-cramer-stocks-rebound-ai-oil-treasury-monday-091526?.tsrc=rss"
+      "title": "VirTra, Inc. (VTSI) Falls More",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html?.tsrc=rss"
     },
     {
-      "title": "Trifecta Gold Completes Rye Drill",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "* 6 holes totalling 1,852 m drilled at the Rye Project with assays expected in early October. * Surface rock sampling up to 19.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/trifecta-gold-completes-rye-drill-113000649.html?.tsrc=rss"
+      "title": "Rithm (RITM) Dips More Than Broader",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-dips-more-broader-221504129.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "High Petroleum Bills, Bond Yields",
-      "summary": "European bourses tracked modestly lower midday Tuesday as traders weighed high crude prices and bond",
+      "title": "S&P 500, Nasdaq Break Support;",
+      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/high-petroleum-bills-bond-yields-115058354.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 11:50:58 +0000"
+      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 22:34:35 +0000"
     },
     {
-      "title": "Morocco Strategic Minerals Reports",
-      "summary": "MONTRÉAL, Sept. 15, 2026 (GLOBE NEWSWIRE) -- Morocco Strategic Minerals Corporation. (TSXV: MCC) (\"Morocco Strategic Minerals\" or the \"Company\") announces new surface rock sampling",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/morocco-strategic-minerals-reports-gold-113700355.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 11:37:00 +0000"
+      "title": "T. Rowe Price (TROW) Suffers a",
+      "summary": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221505965.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Jim Cramer on stocks' Monday rebound",
-      "summary": "Three factors helped limit losses on Wall Street: oil reversed course, Treasury buyers emerged at 5%, and AI data center fears eased",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://qz.com/jim-cramer-stocks-rebound-ai-oil-treasury-monday-091526?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 11:30:42 +0000"
+      "title": "VirTra, Inc. (VTSI) Falls More",
+      "summary": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Trifecta Gold Completes Rye Drill",
-      "summary": "* 6 holes totalling 1,852 m drilled at the Rye Project with assays expected in early October. * Surface rock sampling up to 19.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/trifecta-gold-completes-rye-drill-113000649.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 11:30:00 +0000"
+      "title": "Rithm (RITM) Dips More Than Broader",
+      "summary": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-dips-more-broader-221504129.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 22:15:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "102.35",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "105.38",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "101.12",
-          "change": "-0.01%",
+          "value": "108.32",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4323.40",
-          "change": "-0.03%",
+          "value": "4336.90",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.41",
+          "value": "6.47",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        102.41000366210938,
-        102.37999725341797,
-        102.41999816894531,
-        102.25,
-        102.25,
-        102.23999786376953,
-        102.27999877929688,
-        102.37999725341797,
-        102.3499984741211,
-        102.36000061035156,
-        102.3499984741211
+        105.31999969482422,
+        105.33000183105469,
+        105.27999877929688,
+        105.30000305175781,
+        105.27999877929688,
+        105.27999877929688,
+        105.29000091552734,
+        105.30999755859375,
+        105.30000305175781,
+        105.30999755859375,
+        105.37999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-15 20:52 KST"
+      "status": "강세",
+      "freshness": "2026-09-16 07:41 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.935%",
+          "value": "3.960%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.790%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.826%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.961%",
-          "change": "-0.04%",
+          "value": "4.996%",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.329%",
+          "value": "5.364%",
           "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.960999965667725,
-        4.960999965667725,
-        4.963000297546387,
-        4.960999965667725,
-        4.960999965667725,
-        4.960999965667725,
-        4.960999965667725,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.960999965667725
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.001999855041504,
+        5.001999855041504,
+        5.001999855041504,
+        5.0,
+        5.0,
+        5.0,
+        4.995999813079834
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-09-15 03:59 KST"
+      "freshness": "2026-09-16 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7620.37",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "7585.51",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26188.53",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "25980.97",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6250.38",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6237.52",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7629.83984375,
-        7626.8798828125,
-        7626.60009765625,
-        7625.85009765625,
-        7624.9501953125,
-        7625.35986328125,
-        7622.31005859375,
-        7622.27978515625,
-        7623.85986328125,
-        7623.759765625,
-        7620.3701171875
+        7580.830078125,
+        7578.2001953125,
+        7578.43017578125,
+        7577.2001953125,
+        7578.22998046875,
+        7581.35009765625,
+        7580.6298828125,
+        7580.68994140625,
+        7580.91015625,
+        7584.14990234375,
+        7585.509765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-09-15 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-09-16 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.60",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.61",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1358.70",
-          "change": "-0.02%",
+          "value": "1362.68",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "154.93",
-          "change": "+0.01%",
+          "value": "155.09",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6996",
-          "change": "-0.17%",
-          "direction": "down"
+          "value": "6.7007",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1357.719970703125,
-        1359.219970703125,
-        1358.31005859375,
-        1359.0400390625,
-        1359.27001953125,
-        1359.31005859375,
-        1358.760009765625,
-        1358.02001953125,
-        1359.0799560546875,
-        1358.989990234375,
-        1358.699951171875
+        1363.1800537109375,
+        1363.0999755859375,
+        1363.0999755859375,
+        1363.1099853515625,
+        1362.81005859375,
+        1362.969970703125,
+        1363.0400390625,
+        1363.050048828125,
+        1362.81005859375,
+        1362.81005859375,
+        1362.6800537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-15 21:02 KST"
+      "status": "중립",
+      "freshness": "2026-09-16 07:00 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
