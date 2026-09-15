@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "collectedAt": "2026-09-14T23:05:56Z",
+  "collectedAt": "2026-09-15T08:04:11Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Tech stocks slump after AI execs",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.",
-      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?.tsrc=rss"
+      "title": "Avenrock Energy to purchase Parallax",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The acquisition will provide Avenrock with significant operations in Western Canada’s light oil sector, centred on Alberta’s East Shale Duvernay.",
+      "link": "https://www.offshore-technology.com/news/avenrock-energy-to-purchase-parallax-energy/?.tsrc=rss"
     },
     {
-      "title": "The 3 Best Dividend ETFs to Build",
+      "title": "FTSE 100 today",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Investing.com -- British stocks fell on Tuesday as a jump in oil prices on Saudi supply disruptions and rising tensions over the pace of AI development dampened market mood, oversh",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-slip-075124691.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks drop, oil climbs and Treasury",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "With Treasury yields now competitive enough to make most dividend ETFs look questionable, three funds still make a compelling case for equity income in retirement, but each one dem",
-      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/?.tsrc=rss"
+      "summary": "Asian stock markets sank on Tuesday, US Treasury yields hit a 19-year high and oil prices extended gains as rising Middle East tensions fuel inflation fears, while investors bet on",
+      "link": "https://finance.yahoo.com/markets/articles/most-markets-drop-oil-extends-025204412.html?.tsrc=rss"
     },
     {
-      "title": "Canada 10-year yield rises as",
-      "impact": "채권, 금리",
+      "title": "BofA Sees Chance of $150 Oil on",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com -- Canada’s 10-year government bond yield rose on Monday as investors weighed persistent inflation pressures and higher oil prices after data showed annual consumer i",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html?.tsrc=rss"
-    },
-    {
-      "title": "the Market Dipped But Astrazeneca",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the latest trading session, Astrazeneca (AZN) closed at $163.78, marking a +2.25% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html?.tsrc=rss"
+      "summary": "Francisco Blanch, commodities and derivatives research head at BofA Securities, says Brent oil prices could climb as high as $150 a barrel if critical infrastructure, like Saudi Ar",
+      "link": "https://finance.yahoo.com/video/bofa-sees-chance-150-oil-072157400.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tech stocks slump after AI execs",
-      "summary": "The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 22:50:30 +0000"
+      "title": "Avenrock Energy to purchase Parallax",
+      "summary": "The acquisition will provide Avenrock with significant operations in Western Canada’s light oil sector, centred on Alberta’s East Shale Duvernay.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.offshore-technology.com/news/avenrock-energy-to-purchase-parallax-energy/?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 07:58:58 +0000"
     },
     {
-      "title": "The 3 Best Dividend ETFs to Build",
-      "summary": "With Treasury yields now competitive enough to make most dividend ETFs look questionable, three funds still make a compelling case for equity income in retirement, but each one dem",
+      "title": "FTSE 100 today",
+      "summary": "Investing.com -- British stocks fell on Tuesday as a jump in oil prices on Saudi supply disruptions and rising tensions over the pace of AI development dampened market mood, oversh",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-slip-075124691.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 07:51:24 +0000"
+    },
+    {
+      "title": "Stocks drop, oil climbs and Treasury",
+      "summary": "Asian stock markets sank on Tuesday, US Treasury yields hit a 19-year high and oil prices extended gains as rising Middle East tensions fuel inflation fears, while investors bet on",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://247wallst.com/investing/etf/2026/09/14/the-3-best-dividend-etfs-to-build-lasting-retirement-income-in-2027/?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 22:25:45 +0000"
+      "link": "https://finance.yahoo.com/markets/articles/most-markets-drop-oil-extends-025204412.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 07:30:59 +0000"
     },
     {
-      "title": "Canada 10-year yield rises as",
-      "summary": "Investing.com -- Canada’s 10-year government bond yield rose on Monday as investors weighed persistent inflation pressures and higher oil prices after data showed annual consumer i",
-      "impact": "채권, 금리",
+      "title": "BofA Sees Chance of $150 Oil on",
+      "summary": "Francisco Blanch, commodities and derivatives research head at BofA Securities, says Brent oil prices could climb as high as $150 a barrel if critical infrastructure, like Saudi Ar",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/canada-10-yield-rises-inflation-222408354.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 22:24:08 +0000"
-    },
-    {
-      "title": "the Market Dipped But Astrazeneca",
-      "summary": "In the latest trading session, Astrazeneca (AZN) closed at $163.78, marking a +2.25% move from the previous day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-astrazeneca-azn-221504901.html?.tsrc=rss",
-      "published": "Mon, 14 Sep 2026 22:15:04 +0000"
+      "link": "https://finance.yahoo.com/video/bofa-sees-chance-150-oil-072157400.html?.tsrc=rss",
+      "published": "Tue, 15 Sep 2026 07:21:57 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.97",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "106.30",
-          "change": "+0.06%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4337.40",
+          "value": "103.52",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "102.73",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4317.40",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.40",
+          "value": "6.36",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.9800033569336,
-        101.97000122070312,
-        101.95999908447266,
-        101.91999816894531,
-        101.93000030517578,
-        101.93000030517578,
-        101.94999694824219,
-        101.94000244140625,
-        101.94000244140625,
-        101.94999694824219,
-        101.97000122070312
+        103.33999633789062,
+        103.29000091552734,
+        103.30999755859375,
+        103.30000305175781,
+        103.37000274658203,
+        103.47000122070312,
+        103.4800033569336,
+        103.55999755859375,
+        103.5199966430664,
+        103.51000213623047,
+        103.5199966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-15 07:55 KST"
+      "freshness": "2026-09-15 16:54 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6677.81",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "6620.50",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6254.56",
-          "change": "-0.03%",
+          "value": "6200.40",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.47",
+          "value": "99.62",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1346.10",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "154.21",
+          "value": "1361.38",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "USDJPY",
+          "value": "154.95",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6980",
+          "value": "6.7132",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1346.8499755859375,
-        1346.4100341796875,
-        1346.43994140625,
-        1346.469970703125,
-        1346.449951171875,
-        1346.47998046875,
-        1346.47998046875,
-        1346.469970703125,
-        1345.97998046875,
-        1346.0899658203125,
-        1346.0999755859375
+        1358.9200439453125,
+        1359.5799560546875,
+        1358.969970703125,
+        1358.7900390625,
+        1358.5999755859375,
+        1358.75,
+        1360.1099853515625,
+        1360.52001953125,
+        1360.780029296875,
+        1361.5799560546875,
+        1361.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-15 07:54 KST"
+      "status": "중립",
+      "freshness": "2026-09-15 17:04 KST"
     }
   ],
   "currentAction": {
