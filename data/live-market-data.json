@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16",
-  "collectedAt": "2026-09-16T11:58:52Z",
+  "date": "2026-09-17",
+  "collectedAt": "2026-09-16T22:53:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "+0.04%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The Stock Market Is Flashing a",
-      "impact": "지수, 위험선호",
+      "title": "S&P 500 Falls After Fed Rate Hike,",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
+      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
+    },
+    {
+      "title": "Halliburton (HAL) Dips More Than",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "The CAPE ratio is near a level last seen during the dot-com bubble.",
-      "link": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-flashing-a-warning-sign-rarely/?.tsrc=rss"
+      "summary": "Halliburton (HAL) closed at $34.51 in the latest trading session, marking a -3.25% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise As Oil",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
-      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as-oil.html?.tsrc=rss"
+      "title": "Intrusion Inc. (INTZ) Dips More Than",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Intrusion Inc. (INTZ) reached $0.77 at the closing of the latest trading day, reflecting a -3.85% change compared to its last close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-dips-more-221503997.html?.tsrc=rss"
     },
     {
-      "title": "Interest rate decision live",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Federal Reserve policymakers are widely expected to raise their benchmark for interest rates for the first time since July 2023 today.",
-      "link": "https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/?.tsrc=rss"
-    },
-    {
-      "title": "Stock futures rise ahead of Fed",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Markets are pricing in a 92.5% chance of a quarter-point rate hike Wednesday, which would be the Fed's first increase since 2023",
-      "link": "https://qz.com/stock-futures-fed-rate-decision-september-091626?.tsrc=rss"
+      "title": "Ginkgo Bioworks Holdings, Inc. (DNA)",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $7.06, signifying a +1% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Stock Market Is Flashing a",
-      "summary": "The CAPE ratio is near a level last seen during the dot-com bubble.",
-      "impact": "지수, 위험선호",
+      "title": "S&P 500 Falls After Fed Rate Hike,",
+      "summary": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 22:38:08 +0000"
+    },
+    {
+      "title": "Halliburton (HAL) Dips More Than",
+      "summary": "Halliburton (HAL) closed at $34.51 in the latest trading session, marking a -3.25% move from the prior day.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-flashing-a-warning-sign-rarely/?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 11:50:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise As Oil",
-      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as-oil.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 11:45:16 +0000"
+      "title": "Intrusion Inc. (INTZ) Dips More Than",
+      "summary": "Intrusion Inc. (INTZ) reached $0.77 at the closing of the latest trading day, reflecting a -3.85% change compared to its last close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-dips-more-221503997.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
     },
     {
-      "title": "Interest rate decision live",
-      "summary": "Federal Reserve policymakers are widely expected to raise their benchmark for interest rates for the first time since July 2023 today.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 11:43:53 +0000"
-    },
-    {
-      "title": "Stock futures rise ahead of Fed",
-      "summary": "Markets are pricing in a 92.5% chance of a quarter-point rate hike Wednesday, which would be the Fed's first increase since 2023",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://qz.com/stock-futures-fed-rate-decision-september-091626?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 11:30:59 +0000"
+      "title": "Ginkgo Bioworks Holdings, Inc. (DNA)",
+      "summary": "Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $7.06, signifying a +1% move from its prior day's close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "103.50",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "107.32",
+          "value": "101.97",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "105.52",
+          "change": "-0.06%",
+          "direction": "down"
+        },
+        {
           "name": "Gold",
-          "value": "4389.00",
-          "change": "-0.03%",
+          "value": "4310.80",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.52",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.45",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        103.05000305175781,
-        103.05000305175781,
-        103.33000183105469,
-        103.33999633789062,
-        103.36000061035156,
-        103.30999755859375,
-        103.38999938964844,
-        103.44000244140625,
-        103.47000122070312,
-        103.4800033569336,
-        103.5
+        101.91999816894531,
+        101.94999694824219,
+        101.97000122070312,
+        101.94999694824219,
+        101.94999694824219,
+        101.97000122070312,
+        101.95999908447266,
+        101.97000122070312,
+        101.97000122070312,
+        101.9800033569336,
+        101.97000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-16 20:48 KST"
+      "status": "약세",
+      "freshness": "2026-09-17 07:42 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.960%",
+          "value": "3.970%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.826%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.859%",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.996%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "5.006%",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.364%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.349%",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
+        4.974999904632568,
+        4.974999904632568,
+        4.979000091552734,
+        4.990000247955322,
+        4.991999626159668,
         5.0,
-        5.0,
-        5.0,
+        4.99399995803833,
+        4.995999813079834,
         5.0,
         5.001999855041504,
-        5.001999855041504,
-        5.001999855041504,
-        5.0,
-        5.0,
-        5.0,
-        4.995999813079834
+        5.00600004196167
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-09-16 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-09-17 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7585.51",
-          "change": "+0.02%",
+          "value": "7553.33",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25980.97",
-          "change": "+0.03%",
+          "value": "25985.53",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6274.85",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6271.93",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7580.830078125,
-        7578.2001953125,
-        7578.43017578125,
-        7577.2001953125,
-        7578.22998046875,
-        7581.35009765625,
-        7580.6298828125,
-        7580.68994140625,
-        7580.91015625,
-        7584.14990234375,
-        7585.509765625
+        7545.830078125,
+        7549.18994140625,
+        7547.31982421875,
+        7549.5498046875,
+        7548.52978515625,
+        7552.10986328125,
+        7552.1201171875,
+        7553.43994140625,
+        7550.97021484375,
+        7550.6298828125,
+        7553.330078125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-09-16 04:59 KST"
+      "freshness": "2026-09-17 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.68",
-          "change": "+0.01%",
+          "value": "100.34",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1365.21",
-          "change": "-0.17%",
-          "direction": "down"
+          "value": "1377.23",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "155.02",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "156.24",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6951",
-          "change": "-0.17%",
+          "value": "6.6980",
+          "change": "-0.11%",
           "direction": "down"
         }
       ],
       "trend": [
-        1365.8599853515625,
-        1367.3800048828125,
-        1367.280029296875,
-        1367.5799560546875,
-        1367.3800048828125,
-        1367.6500244140625,
-        1367.8900146484375,
-        1366.06005859375,
-        1365.8699951171875,
-        1367.550048828125,
-        1365.2099609375
+        1376.81005859375,
+        1376.989990234375,
+        1376.7900390625,
+        1376.9100341796875,
+        1376.989990234375,
+        1377.25,
+        1377.0699462890625,
+        1376.510009765625,
+        1377.22998046875,
+        1376.530029296875,
+        1377.22998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-16 20:58 KST"
+      "freshness": "2026-09-17 07:53 KST"
     }
   ],
   "currentAction": {
