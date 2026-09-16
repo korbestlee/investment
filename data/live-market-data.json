@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "collectedAt": "2026-09-15T22:51:59Z",
+  "collectedAt": "2026-09-16T07:57:25Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.07%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "S&P 500, Nasdaq Break Support;",
+      "title": "Stocks head higher as traders",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision.",
-      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss"
+      "summary": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil price",
+      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html?.tsrc=rss"
     },
     {
-      "title": "T. Rowe Price (TROW) Suffers a",
-      "impact": "시장 전반",
+      "title": "Fundstrat’s Tom Lee Sees S&P 500",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221505965.html?.tsrc=rss"
+      "summary": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/fundstrat-s-tom-lee-sees-s-and-p-500-above-8-200-by-year-end-but-this-analyst-just-slashed-the-target-for-2026/cZtYJYfRB2L?.tsrc=rss"
     },
     {
-      "title": "VirTra, Inc. (VTSI) Falls More",
-      "impact": "시장 전반",
+      "title": "2 S&P 500 Stocks for Long-Term",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html?.tsrc=rss"
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html?.tsrc=rss"
     },
     {
-      "title": "Rithm (RITM) Dips More Than Broader",
-      "impact": "시장 전반",
+      "title": "2 Healthcare Stocks to Research",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-dips-more-broader-221504129.html?.tsrc=rss"
+      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
+      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-research-further-070037567.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500, Nasdaq Break Support;",
-      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision.",
+      "title": "Stocks head higher as traders",
+      "summary": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil price",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 22:34:35 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 07:35:05 +0000"
     },
     {
-      "title": "T. Rowe Price (TROW) Suffers a",
-      "summary": "T. Rowe Price (TROW) concluded the recent trading session at $104.23, signifying a -1.48% move from its prior day's close.",
-      "impact": "시장 전반",
+      "title": "Fundstrat’s Tom Lee Sees S&P 500",
+      "summary": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-suffers-221505965.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 22:15:05 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/fundstrat-s-tom-lee-sees-s-and-p-500-above-8-200-by-year-end-but-this-analyst-just-slashed-the-target-for-2026/cZtYJYfRB2L?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 07:32:02 +0000"
     },
     {
-      "title": "VirTra, Inc. (VTSI) Falls More",
-      "summary": "VirTra, Inc. (VTSI) closed at $2.9 in the latest trading session, marking a -1.02% move from the prior day.",
-      "impact": "시장 전반",
+      "title": "2 S&P 500 Stocks for Long-Term",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-falls-more-221505484.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 22:15:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 07:24:37 +0000"
     },
     {
-      "title": "Rithm (RITM) Dips More Than Broader",
-      "summary": "Rithm (RITM) closed at $9.57 in the latest trading session, marking a -2.05% move from the prior day.",
-      "impact": "시장 전반",
+      "title": "2 Healthcare Stocks to Research",
+      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-dips-more-broader-221504129.html?.tsrc=rss",
-      "published": "Tue, 15 Sep 2026 22:15:04 +0000"
+      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-research-further-070037567.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 07:00:37 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "105.38",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "104.05",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "108.32",
-          "change": "-0.09%",
+          "value": "107.49",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4336.90",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4376.80",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.47",
-          "change": "-0.01%",
+          "value": "6.49",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        105.31999969482422,
-        105.33000183105469,
-        105.27999877929688,
-        105.30000305175781,
-        105.27999877929688,
-        105.27999877929688,
-        105.29000091552734,
-        105.30999755859375,
-        105.30000305175781,
-        105.30999755859375,
-        105.37999725341797
+        104.08999633789062,
+        104.0999984741211,
+        104.05999755859375,
+        104.05999755859375,
+        104.04000091552734,
+        104.05000305175781,
+        104.05000305175781,
+        104.04000091552734,
+        104.0999984741211,
+        104.11000061035156,
+        104.05000305175781
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-16 07:41 KST"
+      "status": "약세",
+      "freshness": "2026-09-16 16:47 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6620.50",
-          "change": "-0.05%",
+          "value": "6679.18",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6237.52",
-          "change": "-0.01%",
+          "value": "6265.10",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.61",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "99.56",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1362.68",
-          "change": "-0.01%",
+          "value": "1364.40",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "155.09",
+          "value": "154.94",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7007",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7057",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1363.1800537109375,
-        1363.0999755859375,
-        1363.0999755859375,
-        1363.1099853515625,
-        1362.81005859375,
-        1362.969970703125,
-        1363.0400390625,
-        1363.050048828125,
-        1362.81005859375,
-        1362.81005859375,
-        1362.6800537109375
+        1365.9300537109375,
+        1364.8399658203125,
+        1366.6800537109375,
+        1364.6300048828125,
+        1366.2099609375,
+        1366.1800537109375,
+        1366.280029296875,
+        1365.97998046875,
+        1366.010009765625,
+        1364.8199462890625,
+        1364.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-09-16 07:00 KST"
+      "status": "완화",
+      "freshness": "2026-09-16 16:57 KST"
     }
   ],
   "currentAction": {
