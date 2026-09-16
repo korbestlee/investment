@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "collectedAt": "2026-09-16T07:57:25Z",
+  "collectedAt": "2026-09-16T11:58:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stocks head higher as traders",
+      "title": "The Stock Market Is Flashing a",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The CAPE ratio is near a level last seen during the dot-com bubble.",
+      "link": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-flashing-a-warning-sign-rarely/?.tsrc=rss"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Oil",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil price",
-      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html?.tsrc=rss"
+      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
+      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as-oil.html?.tsrc=rss"
     },
     {
-      "title": "Fundstrat’s Tom Lee Sees S&P 500",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/fundstrat-s-tom-lee-sees-s-and-p-500-above-8-200-by-year-end-but-this-analyst-just-slashed-the-target-for-2026/cZtYJYfRB2L?.tsrc=rss"
+      "title": "Interest rate decision live",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Federal Reserve policymakers are widely expected to raise their benchmark for interest rates for the first time since July 2023 today.",
+      "link": "https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/?.tsrc=rss"
     },
     {
-      "title": "2 S&P 500 Stocks for Long-Term",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html?.tsrc=rss"
-    },
-    {
-      "title": "2 Healthcare Stocks to Research",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
-      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-research-further-070037567.html?.tsrc=rss"
+      "title": "Stock futures rise ahead of Fed",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Markets are pricing in a 92.5% chance of a quarter-point rate hike Wednesday, which would be the Fed's first increase since 2023",
+      "link": "https://qz.com/stock-futures-fed-rate-decision-september-091626?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stocks head higher as traders",
-      "summary": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil price",
+      "title": "The Stock Market Is Flashing a",
+      "summary": "The CAPE ratio is near a level last seen during the dot-com bubble.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-flashing-a-warning-sign-rarely/?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 11:50:00 +0000"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Oil",
+      "summary": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 07:35:05 +0000"
+      "link": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as-oil.html?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 11:45:16 +0000"
     },
     {
-      "title": "Fundstrat’s Tom Lee Sees S&P 500",
-      "summary": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/fundstrat-s-tom-lee-sees-s-and-p-500-above-8-200-by-year-end-but-this-analyst-just-slashed-the-target-for-2026/cZtYJYfRB2L?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 07:32:02 +0000"
+      "title": "Interest rate decision live",
+      "summary": "Federal Reserve policymakers are widely expected to raise their benchmark for interest rates for the first time since July 2023 today.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 11:43:53 +0000"
     },
     {
-      "title": "2 S&P 500 Stocks for Long-Term",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 07:24:37 +0000"
-    },
-    {
-      "title": "2 Healthcare Stocks to Research",
-      "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as h",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-research-further-070037567.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 07:00:37 +0000"
+      "title": "Stock futures rise ahead of Fed",
+      "summary": "Markets are pricing in a 92.5% chance of a quarter-point rate hike Wednesday, which would be the Fed's first increase since 2023",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://qz.com/stock-futures-fed-rate-decision-september-091626?.tsrc=rss",
+      "published": "Wed, 16 Sep 2026 11:30:59 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "104.05",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "103.50",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "107.49",
-          "change": "-0.05%",
+          "value": "107.32",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4376.80",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4389.00",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.49",
-          "change": "-0.05%",
+          "value": "6.52",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        104.08999633789062,
-        104.0999984741211,
-        104.05999755859375,
-        104.05999755859375,
-        104.04000091552734,
-        104.05000305175781,
-        104.05000305175781,
-        104.04000091552734,
-        104.0999984741211,
-        104.11000061035156,
-        104.05000305175781
+        103.05000305175781,
+        103.05000305175781,
+        103.33000183105469,
+        103.33999633789062,
+        103.36000061035156,
+        103.30999755859375,
+        103.38999938964844,
+        103.44000244140625,
+        103.47000122070312,
+        103.4800033569336,
+        103.5
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-16 16:47 KST"
+      "status": "강세",
+      "freshness": "2026-09-16 20:48 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6265.10",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6274.85",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "99.56",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "99.68",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1364.40",
-          "change": "-0.03%",
+          "value": "1365.21",
+          "change": "-0.17%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "154.94",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "155.02",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7057",
-          "change": "-0.00%",
+          "value": "6.6951",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        1365.9300537109375,
-        1364.8399658203125,
-        1366.6800537109375,
-        1364.6300048828125,
-        1366.2099609375,
-        1366.1800537109375,
-        1366.280029296875,
-        1365.97998046875,
-        1366.010009765625,
-        1364.8199462890625,
-        1364.4000244140625
+        1365.8599853515625,
+        1367.3800048828125,
+        1367.280029296875,
+        1367.5799560546875,
+        1367.3800048828125,
+        1367.6500244140625,
+        1367.8900146484375,
+        1366.06005859375,
+        1365.8699951171875,
+        1367.550048828125,
+        1365.2099609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-16 16:57 KST"
+      "status": "강세",
+      "freshness": "2026-09-16 20:58 KST"
     }
   ],
   "currentAction": {
