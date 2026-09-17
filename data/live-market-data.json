@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "collectedAt": "2026-09-16T22:53:43Z",
+  "collectedAt": "2026-09-17T08:01:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,13 +46,13 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "S&P 500 Falls After Fed Rate Hike,",
+      "title": "1 Industrials Stock to Consider",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
-      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. But they are at the whim of volatile macroeconomic factors that influence capital s",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-consider-now-075204252.html?.tsrc=rss"
     },
     {
-      "title": "Halliburton (HAL) Dips More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Halliburton (HAL) closed at $34.51 in the latest trading session, marking a -3.25% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html?.tsrc=rss"
+      "title": "1 Industrials Stock for Long-Term",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But they are at the whim of volatile macroeconomic factors ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-074404134.html?.tsrc=rss"
     },
     {
-      "title": "Intrusion Inc. (INTZ) Dips More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Intrusion Inc. (INTZ) reached $0.77 at the closing of the latest trading day, reflecting a -3.85% change compared to its last close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-dips-more-221503997.html?.tsrc=rss"
+      "title": "Most stocks rise as Fed hikes and",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Most equities rose Thursday after the Federal Reserve hiked interest rates for the first time in three years and boss Kevin Warsh sounded a hawkish note that ramped up bets on anot",
+      "link": "https://finance.yahoo.com/economy/policy/articles/most-stocks-rise-fed-hikes-024434772.html?.tsrc=rss"
     },
     {
-      "title": "Ginkgo Bioworks Holdings, Inc. (DNA)",
-      "impact": "시장 전반",
+      "title": "If the Stock Market Crashes, History",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $7.06, signifying a +1% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html?.tsrc=rss"
+      "summary": "Recession fears are back, but history has promising news for investors.",
+      "link": "https://www.fool.com/investing/2026/09/17/if-the-stock-market-crashes-history-says-this-1-in/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500 Falls After Fed Rate Hike,",
-      "summary": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
+      "title": "1 Industrials Stock to Consider",
+      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. But they are at the whim of volatile macroeconomic factors that influence capital s",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 22:38:08 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-consider-now-075204252.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 07:52:04 +0000"
     },
     {
-      "title": "Halliburton (HAL) Dips More Than",
-      "summary": "Halliburton (HAL) closed at $34.51 in the latest trading session, marking a -3.25% move from the prior day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-dips-more-broader-221503382.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
+      "title": "1 Industrials Stock for Long-Term",
+      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But they are at the whim of volatile macroeconomic factors ",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-074404134.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 07:44:04 +0000"
     },
     {
-      "title": "Intrusion Inc. (INTZ) Dips More Than",
-      "summary": "Intrusion Inc. (INTZ) reached $0.77 at the closing of the latest trading day, reflecting a -3.85% change compared to its last close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-dips-more-221503997.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
+      "title": "Most stocks rise as Fed hikes and",
+      "summary": "Most equities rose Thursday after the Federal Reserve hiked interest rates for the first time in three years and boss Kevin Warsh sounded a hawkish note that ramped up bets on anot",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/most-stocks-rise-fed-hikes-024434772.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 07:24:48 +0000"
     },
     {
-      "title": "Ginkgo Bioworks Holdings, Inc. (DNA)",
-      "summary": "Ginkgo Bioworks Holdings, Inc. (DNA) concluded the recent trading session at $7.06, signifying a +1% move from its prior day's close.",
-      "impact": "시장 전반",
+      "title": "If the Stock Market Crashes, History",
+      "summary": "Recession fears are back, but history has promising news for investors.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-221503724.html?.tsrc=rss",
-      "published": "Wed, 16 Sep 2026 22:15:03 +0000"
+      "link": "https://www.fool.com/investing/2026/09/17/if-the-stock-market-crashes-history-says-this-1-in/?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 07:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.97",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "101.52",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "105.52",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "104.59",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4310.80",
-          "change": "-0.00%",
+          "value": "4369.40",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.45",
+          "value": "6.56",
           "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        101.91999816894531,
-        101.94999694824219,
-        101.97000122070312,
-        101.94999694824219,
-        101.94999694824219,
-        101.97000122070312,
-        101.95999908447266,
-        101.97000122070312,
-        101.97000122070312,
-        101.9800033569336,
-        101.97000122070312
+        101.2300033569336,
+        101.25,
+        101.31999969482422,
+        101.33999633789062,
+        101.47000122070312,
+        101.48999786376953,
+        101.43000030517578,
+        101.44999694824219,
+        101.44000244140625,
+        101.48999786376953,
+        101.5199966430664
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-17 07:42 KST"
+      "status": "강세",
+      "freshness": "2026-09-17 16:51 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6679.18",
-          "change": "-0.04%",
+          "value": "6699.40",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6271.93",
-          "change": "-0.01%",
+          "value": "6309.40",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.34",
-          "change": "+0.00%",
+          "value": "100.19",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1377.23",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "1383.87",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "156.24",
+          "value": "155.70",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6980",
-          "change": "-0.11%",
+          "value": "6.7068",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        1376.81005859375,
-        1376.989990234375,
-        1376.7900390625,
-        1376.9100341796875,
-        1376.989990234375,
-        1377.25,
-        1377.0699462890625,
-        1376.510009765625,
-        1377.22998046875,
-        1376.530029296875,
-        1377.22998046875
+        1383.02001953125,
+        1383.1800537109375,
+        1383.8800048828125,
+        1383.780029296875,
+        1383.780029296875,
+        1383.9100341796875,
+        1383.719970703125,
+        1383.7099609375,
+        1383.5999755859375,
+        1383.97998046875,
+        1383.8699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-17 07:53 KST"
+      "freshness": "2026-09-17 17:01 KST"
     }
   ],
   "currentAction": {
