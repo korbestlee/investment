@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "collectedAt": "2026-09-17T08:01:17Z",
+  "collectedAt": "2026-09-17T12:00:21Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "1 Industrials Stock to Consider",
-      "impact": "채권, 금리",
+      "title": "NevGold Intercepts 1.06 g/t Oxide Au",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. But they are at the whim of volatile macroeconomic factors that influence capital s",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-consider-now-075204252.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) -- NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce addition",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nevgold-intercepts-1-06-g-114500651.html?.tsrc=rss"
     },
     {
-      "title": "1 Industrials Stock for Long-Term",
+      "title": "Dow Jones Futures Rise After Hawkish",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But they are at the whim of volatile macroeconomic factors ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-074404134.html?.tsrc=rss"
+      "summary": "A positive day two reaction to the Fed rate hike and hawkish Warsh comments? AMD, Bloom Energy are flirting with buy signals.",
+      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures-rise-after.html?.tsrc=rss"
     },
     {
-      "title": "Most stocks rise as Fed hikes and",
+      "title": "Easing Oil Bills, Steady Interest",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Most equities rose Thursday after the Federal Reserve hiked interest rates for the first time in three years and boss Kevin Warsh sounded a hawkish note that ramped up bets on anot",
-      "link": "https://finance.yahoo.com/economy/policy/articles/most-stocks-rise-fed-hikes-024434772.html?.tsrc=rss"
+      "summary": "European bourses tracked moderately higher midday Thursday as global crude oil prices again eased, a",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-bills-steady-interest-114201068.html?.tsrc=rss"
     },
     {
-      "title": "If the Stock Market Crashes, History",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Recession fears are back, but history has promising news for investors.",
-      "link": "https://www.fool.com/investing/2026/09/17/if-the-stock-market-crashes-history-says-this-1-in/?.tsrc=rss"
+      "title": "Wall Street set for a green day as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "US stocks rose in premarket trading on Thursday as oil prices edged lower and Wednesday's interest rate hike offered some reassurance that the Federal Reserve was working to contai",
+      "link": "https://www.proactiveinvestors.com/companies/news/1098694/wall-street-set-for-a-green-day-as-fed-rate-hike-eases-inflation-fears-1098694.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "1 Industrials Stock to Consider",
-      "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. But they are at the whim of volatile macroeconomic factors that influence capital s",
-      "impact": "채권, 금리",
+      "title": "NevGold Intercepts 1.06 g/t Oxide Au",
+      "summary": "Vancouver, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) -- NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce addition",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-consider-now-075204252.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 07:52:04 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nevgold-intercepts-1-06-g-114500651.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 11:45:00 +0000"
     },
     {
-      "title": "1 Industrials Stock for Long-Term",
-      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But they are at the whim of volatile macroeconomic factors ",
+      "title": "Dow Jones Futures Rise After Hawkish",
+      "summary": "A positive day two reaction to the Fed rate hike and hawkish Warsh comments? AMD, Bloom Energy are flirting with buy signals.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-074404134.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 07:44:04 +0000"
+      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 11:44:19 +0000"
     },
     {
-      "title": "Most stocks rise as Fed hikes and",
-      "summary": "Most equities rose Thursday after the Federal Reserve hiked interest rates for the first time in three years and boss Kevin Warsh sounded a hawkish note that ramped up bets on anot",
+      "title": "Easing Oil Bills, Steady Interest",
+      "summary": "European bourses tracked moderately higher midday Thursday as global crude oil prices again eased, a",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/most-stocks-rise-fed-hikes-024434772.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 07:24:48 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-bills-steady-interest-114201068.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 11:42:01 +0000"
     },
     {
-      "title": "If the Stock Market Crashes, History",
-      "summary": "Recession fears are back, but history has promising news for investors.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/17/if-the-stock-market-crashes-history-says-this-1-in/?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 07:20:00 +0000"
+      "title": "Wall Street set for a green day as",
+      "summary": "US stocks rose in premarket trading on Thursday as oil prices edged lower and Wednesday's interest rate hike offered some reassurance that the Federal Reserve was working to contai",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.proactiveinvestors.com/companies/news/1098694/wall-street-set-for-a-green-day-as-fed-rate-hike-eases-inflation-fears-1098694.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 11:34:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.52",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "100.74",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "104.59",
-          "change": "+0.02%",
+          "value": "99.44",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4369.40",
+          "value": "4371.40",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.56",
-          "change": "+0.01%",
+          "value": "6.59",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        101.2300033569336,
-        101.25,
-        101.31999969482422,
-        101.33999633789062,
-        101.47000122070312,
-        101.48999786376953,
-        101.43000030517578,
-        101.44999694824219,
-        101.44000244140625,
-        101.48999786376953,
-        101.5199966430664
+        100.91000366210938,
+        100.83000183105469,
+        100.76000213623047,
+        100.69999694824219,
+        100.69000244140625,
+        100.69000244140625,
+        100.69000244140625,
+        100.72000122070312,
+        100.70999908447266,
+        100.75,
+        100.73999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-17 16:51 KST"
+      "status": "약세",
+      "freshness": "2026-09-17 20:50 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6309.40",
-          "change": "-0.03%",
+          "value": "6306.43",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.19",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "100.26",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1383.87",
-          "change": "-0.01%",
+          "value": "1383.98",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "155.70",
+          "value": "155.88",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7068",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6959",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1383.02001953125,
-        1383.1800537109375,
+        1384.7099609375,
+        1384.75,
+        1384.5799560546875,
+        1384.6199951171875,
+        1384.6199951171875,
+        1384.550048828125,
+        1384.5799560546875,
+        1384.75,
         1383.8800048828125,
-        1383.780029296875,
-        1383.780029296875,
-        1383.9100341796875,
-        1383.719970703125,
-        1383.7099609375,
-        1383.5999755859375,
-        1383.97998046875,
-        1383.8699951171875
+        1384.18994140625,
+        1383.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-17 17:01 KST"
+      "status": "완화",
+      "freshness": "2026-09-17 21:00 KST"
     }
   ],
   "currentAction": {
