@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "collectedAt": "2026-09-17T12:00:21Z",
+  "date": "2026-09-18",
+  "collectedAt": "2026-09-17T22:49:55Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,19 +34,19 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.04%",
+      "value": "-0.05%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.08%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "NevGold Intercepts 1.06 g/t Oxide Au",
+      "title": "S&P 500, Nasdaq Rebound Above Key",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The S&P 500 and Nasdaq regain their 50-day lines and Treasury yields fall in a bullish day two Fed reaction. SpaceX, AMD, Moderna are buys.",
+      "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Higher As",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) -- NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce addition",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/nevgold-intercepts-1-06-g-114500651.html?.tsrc=rss"
+      "summary": "The S&P 500 and Nasdaq recorded their best day in six weeks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise After Hawkish",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "A positive day two reaction to the Fed rate hike and hawkish Warsh comments? AMD, Bloom Energy are flirting with buy signals.",
-      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures-rise-after.html?.tsrc=rss"
+      "title": "M-tron Industries, Inc. (MPTI) Stock",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "M-tron Industries, Inc. (MPTI) closed the most recent trading day at $74.92, moving 1.55% from the previous trading session.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221503429.html?.tsrc=rss"
     },
     {
-      "title": "Easing Oil Bills, Steady Interest",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "European bourses tracked moderately higher midday Thursday as global crude oil prices again eased, a",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-bills-steady-interest-114201068.html?.tsrc=rss"
-    },
-    {
-      "title": "Wall Street set for a green day as",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "US stocks rose in premarket trading on Thursday as oil prices edged lower and Wednesday's interest rate hike offered some reassurance that the Federal Reserve was working to contai",
-      "link": "https://www.proactiveinvestors.com/companies/news/1098694/wall-street-set-for-a-green-day-as-fed-rate-hike-eases-inflation-fears-1098694.html?.tsrc=rss"
+      "title": "VICI Properties Inc. (VICI) Stock",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, VICI Properties Inc. (VICI) stood at $24.11, denoting a -1.71% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-stock-221503797.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "NevGold Intercepts 1.06 g/t Oxide Au",
-      "summary": "Vancouver, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) -- NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce addition",
+      "title": "S&P 500, Nasdaq Rebound Above Key",
+      "summary": "The S&P 500 and Nasdaq regain their 50-day lines and Treasury yields fall in a bullish day two Fed reaction. SpaceX, AMD, Moderna are buys.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/1921e6e5-7c6c-3cc6-ae73-750d397323c3/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 22:33:59 +0000"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Higher As",
+      "summary": "The S&P 500 and Nasdaq recorded their best day in six weeks.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/nevgold-intercepts-1-06-g-114500651.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 11:45:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-amid-drop-in-oil-prices/cZtscNsRBdY?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 22:22:14 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise After Hawkish",
-      "summary": "A positive day two reaction to the Fed rate hike and hawkish Warsh comments? AMD, Bloom Energy are flirting with buy signals.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/d657761c-bf99-3091-88b4-e770125e96a8/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 11:44:19 +0000"
+      "title": "M-tron Industries, Inc. (MPTI) Stock",
+      "summary": "M-tron Industries, Inc. (MPTI) closed the most recent trading day at $74.92, moving 1.55% from the previous trading session.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221503429.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 22:15:03 +0000"
     },
     {
-      "title": "Easing Oil Bills, Steady Interest",
-      "summary": "European bourses tracked moderately higher midday Thursday as global crude oil prices again eased, a",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-bills-steady-interest-114201068.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 11:42:01 +0000"
-    },
-    {
-      "title": "Wall Street set for a green day as",
-      "summary": "US stocks rose in premarket trading on Thursday as oil prices edged lower and Wednesday's interest rate hike offered some reassurance that the Federal Reserve was working to contai",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1098694/wall-street-set-for-a-green-day-as-fed-rate-hike-eases-inflation-fears-1098694.html?.tsrc=rss",
-      "published": "Thu, 17 Sep 2026 11:34:00 +0000"
+      "title": "VICI Properties Inc. (VICI) Stock",
+      "summary": "In the closing of the recent trading day, VICI Properties Inc. (VICI) stood at $24.11, denoting a -1.71% move from the preceding trading day.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-stock-221503797.html?.tsrc=rss",
+      "published": "Thu, 17 Sep 2026 22:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "100.74",
+          "value": "101.19",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "99.44",
-          "change": "+0.10%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4371.40",
-          "change": "-0.02%",
+          "value": "104.07",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
-          "name": "Copper",
-          "value": "6.59",
-          "change": "+0.02%",
+          "name": "Gold",
+          "value": "4388.30",
+          "change": "+0.00%",
           "direction": "up"
+        },
+        {
+          "name": "Copper",
+          "value": "6.62",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        100.91000366210938,
-        100.83000183105469,
-        100.76000213623047,
-        100.69999694824219,
-        100.69000244140625,
-        100.69000244140625,
-        100.69000244140625,
-        100.72000122070312,
-        100.70999908447266,
-        100.75,
-        100.73999786376953
+        101.25,
+        101.26000213623047,
+        101.26000213623047,
+        101.26000213623047,
+        101.22000122070312,
+        101.26000213623047,
+        101.22000122070312,
+        101.20999908447266,
+        101.19000244140625,
+        101.19999694824219,
+        101.19000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-17 20:50 KST"
+      "freshness": "2026-09-18 07:35 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.970%",
+          "value": "3.965%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.859%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "4.801%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.006%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "4.947%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.349%",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "5.296%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.974999904632568,
-        4.974999904632568,
-        4.979000091552734,
-        4.990000247955322,
-        4.991999626159668,
-        5.0,
-        4.99399995803833,
-        4.995999813079834,
-        5.0,
-        5.001999855041504,
-        5.00600004196167
+        4.950999736785889,
+        4.949000358581543,
+        4.949000358581543,
+        4.950999736785889,
+        4.949000358581543,
+        4.949000358581543,
+        4.949000358581543,
+        4.950999736785889,
+        4.947000026702881,
+        4.949000358581543,
+        4.947000026702881
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-09-17 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-09-18 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7553.33",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "7637.05",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25985.53",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "26414.72",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6306.43",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6324.48",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7545.830078125,
-        7549.18994140625,
-        7547.31982421875,
-        7549.5498046875,
-        7548.52978515625,
-        7552.10986328125,
-        7552.1201171875,
-        7553.43994140625,
-        7550.97021484375,
-        7550.6298828125,
-        7553.330078125
+        7639.33984375,
+        7642.5,
+        7644.68017578125,
+        7644.0400390625,
+        7646.2099609375,
+        7642.5400390625,
+        7642.2099609375,
+        7642.7001953125,
+        7641.85009765625,
+        7641.22021484375,
+        7637.0498046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-09-17 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-09-18 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.26",
+          "value": "100.24",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1380.03",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1383.98",
+          "name": "USDJPY",
+          "value": "155.95",
           "change": "-0.02%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "155.88",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6959",
+          "value": "6.6961",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1384.7099609375,
-        1384.75,
-        1384.5799560546875,
-        1384.6199951171875,
-        1384.6199951171875,
-        1384.550048828125,
-        1384.5799560546875,
-        1384.75,
-        1383.8800048828125,
-        1384.18994140625,
-        1383.97998046875
+        1380.010009765625,
+        1379.989990234375,
+        1379.969970703125,
+        1379.989990234375,
+        1380.030029296875,
+        1379.989990234375,
+        1380.02001953125,
+        1380.02001953125,
+        1380.0,
+        1380.050048828125,
+        1380.030029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-17 21:00 KST"
+      "status": "중립",
+      "freshness": "2026-09-18 07:49 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
