@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "collectedAt": "2026-09-21T08:15:06Z",
+  "collectedAt": "2026-09-21T13:16:29Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,91 +40,91 @@
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil Prices Slide as Traders Bet on",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices fell to their lowest in more than a week as traders focused on potential U.S.-Iran diplomacy and recovering Saudi exports despite continued regional escalation.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-traders-bet-054500383.html?.tsrc=rss"
-    },
-    {
-      "title": "History Says This Chip ETF Keeps",
+      "title": "Investors Heavily Search PDD",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The fund's wins came by double-digit margins -- and its two losses were about twice as deep as the market's.",
-      "link": "https://www.fool.com/investing/2026/09/20/history-says-this-chip-etf-keeps-beating-the-s-and-p-500-it-has-trailed-the-index-only-twice-since-2016/?.tsrc=rss"
+      "summary": "Zacks.com users have recently been watching PDD Holdings Inc. Sponsored ADR (PDD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-pdd-holdings-130006776.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise; Can The",
+      "title": "The resilient stock market is",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html?.tsrc=rss"
+      "summary": "Keep an eye on what's happening underneath the surface of the market.",
+      "link": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html?.tsrc=rss"
     },
     {
-      "title": "Strategists Say Market's ‘Wall of",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Oil surged and yields hit 5%, yet the S&P held steady. Strategists explain why this wall of worry looks healthy.",
-      "link": "https://beincrypto.com/wall-of-worry-stock-market-resilience/?.tsrc=rss"
+      "title": "Visa Inc. (V) is Attracting Investor",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Visa (V) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-attracting-investor-130006315.html?.tsrc=rss"
+    },
+    {
+      "title": "Super Micro Computer, Inc. (SMCI) Is",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Super Micro (SMCI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-130006446.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil Prices Slide as Traders Bet on",
-      "summary": "Oil prices fell to their lowest in more than a week as traders focused on potential U.S.-Iran diplomacy and recovering Saudi exports despite continued regional escalation.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slide-traders-bet-054500383.html?.tsrc=rss",
-      "published": "Mon, 21 Sep 2026 05:45:00 +0000"
-    },
-    {
-      "title": "History Says This Chip ETF Keeps",
-      "summary": "The fund's wins came by double-digit margins -- and its two losses were about twice as deep as the market's.",
+      "title": "Investors Heavily Search PDD",
+      "summary": "Zacks.com users have recently been watching PDD Holdings Inc. Sponsored ADR (PDD) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/20/history-says-this-chip-etf-keeps-beating-the-s-and-p-500-it-has-trailed-the-index-only-twice-since-2016/?.tsrc=rss",
-      "published": "Mon, 21 Sep 2026 03:18:01 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-pdd-holdings-130006776.html?.tsrc=rss",
+      "published": "Mon, 21 Sep 2026 13:00:06 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise; Can The",
-      "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "title": "The resilient stock market is",
+      "summary": "Keep an eye on what's happening underneath the surface of the market.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/832159c8-6dc5-38e6-b838-d7db7090ca09/dow-jones-futures-rise%3B-can.html?.tsrc=rss",
-      "published": "Mon, 21 Sep 2026 02:50:22 +0000"
+      "link": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html?.tsrc=rss",
+      "published": "Mon, 21 Sep 2026 13:02:13 +0000"
     },
     {
-      "title": "Strategists Say Market's ‘Wall of",
-      "summary": "Oil surged and yields hit 5%, yet the S&P held steady. Strategists explain why this wall of worry looks healthy.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://beincrypto.com/wall-of-worry-stock-market-resilience/?.tsrc=rss",
-      "published": "Mon, 21 Sep 2026 02:26:42 +0000"
+      "title": "Visa Inc. (V) is Attracting Investor",
+      "summary": "Visa (V) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-attracting-investor-130006315.html?.tsrc=rss",
+      "published": "Mon, 21 Sep 2026 13:00:06 +0000"
+    },
+    {
+      "title": "Super Micro Computer, Inc. (SMCI) Is",
+      "summary": "Super Micro (SMCI) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-130006446.html?.tsrc=rss",
+      "published": "Mon, 21 Sep 2026 13:00:06 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.20",
-          "change": "+0.05%",
+          "value": "93.20",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "97.61",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "101.01",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4386.00",
-          "change": "+0.00%",
+          "value": "4397.60",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.76",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.82",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        94.0999984741211,
-        93.91000366210938,
-        93.94000244140625,
-        94.02999877929688,
-        94.05000305175781,
-        94.19000244140625,
-        94.12000274658203,
-        94.19999694824219,
-        94.20999908447266,
-        94.1500015258789,
-        94.19999694824219
+        93.54000091552734,
+        93.55000305175781,
+        93.54000091552734,
+        93.69999694824219,
+        93.38999938964844,
+        93.25,
+        93.12000274658203,
+        93.1500015258789,
+        93.08000183105469,
+        93.0999984741211,
+        93.19999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-21 17:04 KST"
+      "freshness": "2026-09-21 22:06 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.978%",
+          "value": "3.980%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.856%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.827%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.998%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.967%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.331%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.301%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.0,
-        4.998000144958496,
-        4.998000144958496,
-        5.0,
-        4.998000144958496,
-        4.998000144958496,
-        4.998000144958496,
-        5.0,
-        5.0,
-        5.0,
-        4.998000144958496
+        4.965000152587891,
+        4.9670000076293945,
+        4.9670000076293945,
+        4.9670000076293945,
+        4.970000267028809,
+        4.970999717712402,
+        4.970999717712402,
+        4.9670000076293945,
+        4.9670000076293945,
+        4.965000152587891,
+        4.9670000076293945
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-09-19 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-09-21 22:01 KST"
     },
     {
       "id": "indices",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6291.34",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6320.42",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.33",
+          "value": "100.27",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1372.52",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1374.87",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
           "name": "USDJPY",
-          "value": "157.15",
-          "change": "-0.00%",
+          "value": "157.32",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6950",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6835",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1375.030029296875,
-        1375.050048828125,
-        1374.6300048828125,
-        1374.8299560546875,
-        1375.030029296875,
-        1375.010009765625,
-        1374.550048828125,
-        1373.8800048828125,
-        1374.1600341796875,
-        1374.4100341796875,
-        1374.8699951171875
+        1372.260009765625,
+        1372.3800048828125,
+        1372.3299560546875,
+        1372.1300048828125,
+        1372.47998046875,
+        1372.800048828125,
+        1372.530029296875,
+        1372.489990234375,
+        1372.5,
+        1372.530029296875,
+        1372.52001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-21 17:14 KST"
+      "status": "강세",
+      "freshness": "2026-09-21 22:16 KST"
     }
   ],
   "currentAction": {
