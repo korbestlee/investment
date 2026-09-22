@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "collectedAt": "2026-09-22T12:00:25Z",
+  "date": "2026-09-23",
+  "collectedAt": "2026-09-22T22:54:44Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.05%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Tech Strength, Soft Oil Elevate",
+      "title": "The Market Is Near Another All-Time",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sideli",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq Hits New High; Sandisk,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
+    },
+    {
+      "title": "Gold Slides as Fed Fears Take Over",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "European bourses tracked moderately higher midday Tuesday as traders favored tech shares and weighed",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-strength-soft-oil-elevate-114638815.html?.tsrc=rss"
+      "summary": "Higher-for-longer rates are reshaping bullion's investment case",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html?.tsrc=rss"
     },
     {
-      "title": "Viscount Reports 7.9 metres (26 ft)",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "All ten 2026 drill holes were located outside the currently defined Kate NI 43-101 resource boundary, with drill sites ranging from 67.7 metres (219 ft) to approximately 1 km from ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/viscount-reports-7-9-metres-114500867.html?.tsrc=rss"
-    },
-    {
-      "title": "3 Reasons OTIS is Risky and 1 Stock",
+      "title": "Sirius XM (SIRI) Stock Moves -3.32%",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Over the past six months, Otis’s shares (currently trading at $66.84) have posted a disappointing 15.4% loss, well below the S&P 500’s 16.2% gain. This might have investors contemp",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-otis-risky-1-114146888.html?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq hits record close as AI",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Nasdaq Composite jumped 2.3% on Monday, while S&P 500 and Dow futures pointed to a steady open Tuesday",
-      "link": "https://qz.com/nasdaq-record-close-ai-stocks-futures-steady-092226?.tsrc=rss"
+      "summary": "In the latest trading session, Sirius XM (SIRI) closed at $26.53, marking a -3.32% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-moves-221504240.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tech Strength, Soft Oil Elevate",
-      "summary": "European bourses tracked moderately higher midday Tuesday as traders favored tech shares and weighed",
+      "title": "The Market Is Near Another All-Time",
+      "summary": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sideli",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
+      "published": "Tue, 22 Sep 2026 22:25:53 +0000"
+    },
+    {
+      "title": "Nasdaq Hits New High; Sandisk,",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+      "published": "Tue, 22 Sep 2026 22:24:19 +0000"
+    },
+    {
+      "title": "Gold Slides as Fed Fears Take Over",
+      "summary": "Higher-for-longer rates are reshaping bullion's investment case",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-strength-soft-oil-elevate-114638815.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 11:46:38 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html?.tsrc=rss",
+      "published": "Tue, 22 Sep 2026 22:15:16 +0000"
     },
     {
-      "title": "Viscount Reports 7.9 metres (26 ft)",
-      "summary": "All ten 2026 drill holes were located outside the currently defined Kate NI 43-101 resource boundary, with drill sites ranging from 67.7 metres (219 ft) to approximately 1 km from ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/viscount-reports-7-9-metres-114500867.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 11:45:00 +0000"
-    },
-    {
-      "title": "3 Reasons OTIS is Risky and 1 Stock",
-      "summary": "Over the past six months, Otis’s shares (currently trading at $66.84) have posted a disappointing 15.4% loss, well below the S&P 500’s 16.2% gain. This might have investors contemp",
+      "title": "Sirius XM (SIRI) Stock Moves -3.32%",
+      "summary": "In the latest trading session, Sirius XM (SIRI) closed at $26.53, marking a -3.32% move from the previous day.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-otis-risky-1-114146888.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 11:41:46 +0000"
-    },
-    {
-      "title": "Nasdaq hits record close as AI",
-      "summary": "The Nasdaq Composite jumped 2.3% on Monday, while S&P 500 and Dow futures pointed to a steady open Tuesday",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://qz.com/nasdaq-record-close-ai-stocks-futures-steady-092226?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 11:26:26 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-moves-221504240.html?.tsrc=rss",
+      "published": "Tue, 22 Sep 2026 22:15:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.99",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "89.63",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "98.22",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "98.44",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4357.60",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4401.30",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.84",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.90",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        89.93000030517578,
-        90.08000183105469,
-        90.08999633789062,
-        90.05000305175781,
-        90.08000183105469,
-        89.9800033569336,
-        90.06999969482422,
-        89.9800033569336,
-        89.91000366210938,
-        89.98999786376953,
-        89.98999786376953
+        89.62999725341797,
+        89.63999938964844,
+        89.63999938964844,
+        89.6500015258789,
+        89.69000244140625,
+        89.70999908447266,
+        89.69000244140625,
+        89.66999816894531,
+        89.66999816894531,
+        89.66000366210938,
+        89.62999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-09-22 20:50 KST"
+      "status": "약세",
+      "freshness": "2026-09-23 07:44 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.982%",
+          "value": "4.005%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.834%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.842%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.963%",
+          "value": "4.968%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.296%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.303%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.965000152587891,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387,
-        4.963000297546387
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.970000267028809,
+        4.970000267028809,
+        4.9679999351501465,
+        4.9679999351501465,
+        4.9679999351501465
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-09-22 03:59 KST"
+      "freshness": "2026-09-23 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7764.22",
-          "change": "-0.05%",
+          "value": "7764.27",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "27120.59",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "27241.53",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6345.19",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6329.94",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7772.72998046875,
-        7768.7998046875,
-        7768.8701171875,
-        7769.43994140625,
-        7768.58984375,
-        7767.5,
-        7767.68994140625,
-        7767.8798828125,
+        7777.35986328125,
+        7776.169921875,
+        7777.27001953125,
+        7778.1298828125,
+        7776.22021484375,
+        7773.56005859375,
         7768.259765625,
-        7768.35986328125,
-        7764.22021484375
+        7768.14990234375,
+        7767.0498046875,
+        7765.27001953125,
+        7764.27001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-09-22 04:59 KST"
+      "freshness": "2026-09-23 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.39",
+          "value": "100.54",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1355.16",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "157.45",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDKRW",
-          "value": "1356.37",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "157.14",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6884",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6897",
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1356.1400146484375,
-        1355.97998046875,
-        1356.1199951171875,
-        1356.06005859375,
-        1356.0699462890625,
-        1356.1400146484375,
-        1356.0799560546875,
-        1356.1500244140625,
-        1356.3299560546875,
-        1356.219970703125,
-        1356.3699951171875
+        1355.25,
+        1355.4200439453125,
+        1355.4000244140625,
+        1355.4100341796875,
+        1355.31005859375,
+        1355.3399658203125,
+        1355.3199462890625,
+        1355.22998046875,
+        1355.050048828125,
+        1355.43994140625,
+        1355.1600341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-22 21:00 KST"
+      "status": "강세",
+      "freshness": "2026-09-23 07:54 KST"
     }
   ],
   "currentAction": {
