@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "collectedAt": "2026-09-23T08:00:17Z",
+  "collectedAt": "2026-09-23T12:03:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil falls below $100 after Trump",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Brent crude fell on Wednesday morning after Donald Trump said US and Iranian representatives had held what he called “very productive” talks. Reports that Saudi Arabia is restartin",
-      "link": "https://www.euronews.com/2026/09/23/oil-falls-below-100-after-trump-reports-talks-with-iran?.tsrc=rss"
+      "title": "Dow Jones Futures Fall After Nasdaq",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures-fall-after.html?.tsrc=rss"
     },
     {
-      "title": "Solstice Minerals CEO speaks with",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Solstice Minerals (ASX:SLS) CEO Nick Castleden talked with Proactive at the ASX Small and Mid-Cap Conference about the company’s flagship Nanadie Copper-Gold Project. Solstice is a",
-      "link": "https://finance.yahoo.com/video/solstice-minerals-ceo-speaks-proactive-061618669.html?.tsrc=rss"
+      "title": "Analysts Think 6 S&P 500 Stocks Are",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "There's a joke on Wall Street that analysts never saw an S&P 500 stock they didn't like. Well, that doesn't seem to be the case now.",
+      "link": "https://finance.yahoo.com/m/1361e2ec-e530-333f-878c-de76a2462d42/analysts-think-6-s%26p-500.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market",
+      "title": "US-Iran Outlook, Oil Prices Cap",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "U.S. stock futures are posting slight gains early Wednesday as Wall Street digests an aggressive UN address from President Donald Trump on Iran, cooling crude oil prices, and fresh",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61938049/stock-market-will-sp-500-open-up-or-down-today-43?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+      "summary": "European bourses were mixed and muted midday Wednesday as traders mulled US President Donald Trump's",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/us-iran-outlook-oil-prices-113706827.html?.tsrc=rss"
     },
     {
-      "title": "Asian shares are mixed and oil",
+      "title": "Nasdaq hits record high as U.S.-Iran",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian shares were mixed Wednesday after Wall Street held near its record and oil prices fell following U.S. President Donald Trump’s remarks that United States and Iranian official",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html?.tsrc=rss"
+      "summary": "The tech-heavy index posted its fourth straight gain on Tuesday while Brent crude hovered near $99 a barrel ahead of Wednesday's open",
+      "link": "https://qz.com/nasdaq-record-high-oil-prices-iran-talks-092326?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil falls below $100 after Trump",
-      "summary": "Brent crude fell on Wednesday morning after Donald Trump said US and Iranian representatives had held what he called “very productive” talks. Reports that Saudi Arabia is restartin",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.euronews.com/2026/09/23/oil-falls-below-100-after-trump-reports-talks-with-iran?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 07:24:24 +0000"
+      "title": "Dow Jones Futures Fall After Nasdaq",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures-fall-after.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 11:57:01 +0000"
     },
     {
-      "title": "Solstice Minerals CEO speaks with",
-      "summary": "Solstice Minerals (ASX:SLS) CEO Nick Castleden talked with Proactive at the ASX Small and Mid-Cap Conference about the company’s flagship Nanadie Copper-Gold Project. Solstice is a",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/video/solstice-minerals-ceo-speaks-proactive-061618669.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 06:16:18 +0000"
+      "title": "Analysts Think 6 S&P 500 Stocks Are",
+      "summary": "There's a joke on Wall Street that analysts never saw an S&P 500 stock they didn't like. Well, that doesn't seem to be the case now.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/1361e2ec-e530-333f-878c-de76a2462d42/analysts-think-6-s%26p-500.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 11:42:58 +0000"
     },
     {
-      "title": "Stock Market",
-      "summary": "U.S. stock futures are posting slight gains early Wednesday as Wall Street digests an aggressive UN address from President Donald Trump on Iran, cooling crude oil prices, and fresh",
+      "title": "US-Iran Outlook, Oil Prices Cap",
+      "summary": "European bourses were mixed and muted midday Wednesday as traders mulled US President Donald Trump's",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61938049/stock-market-will-sp-500-open-up-or-down-today-43?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 06:03:48 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/us-iran-outlook-oil-prices-113706827.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 11:37:06 +0000"
     },
     {
-      "title": "Asian shares are mixed and oil",
-      "summary": "Asian shares were mixed Wednesday after Wall Street held near its record and oil prices fell following U.S. President Donald Trump’s remarks that United States and Iranian official",
+      "title": "Nasdaq hits record high as U.S.-Iran",
+      "summary": "The tech-heavy index posted its fourth straight gain on Tuesday while Brent crude hovered near $99 a barrel ahead of Wednesday's open",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 06:00:41 +0000"
+      "link": "https://qz.com/nasdaq-record-high-oil-prices-iran-talks-092326?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 11:25:50 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.82",
+          "value": "90.62",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "95.33",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "96.19",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4360.20",
+          "value": "4346.20",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.84",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.80",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        89.7699966430664,
-        89.75,
-        89.7300033569336,
-        89.69000244140625,
-        89.66000366210938,
-        89.7300033569336,
-        89.80000305175781,
-        89.91999816894531,
-        89.91000366210938,
-        89.81999969482422,
-        89.81999969482422
+        90.81999969482422,
+        90.73999786376953,
+        90.68000030517578,
+        90.61000061035156,
+        90.56999969482422,
+        90.62000274658203,
+        90.52999877929688,
+        90.58000183105469,
+        90.55999755859375,
+        90.62000274658203,
+        90.62000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-09-23 16:50 KST"
+      "freshness": "2026-09-23 20:53 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6347.80",
-          "change": "+0.02%",
+          "value": "6298.17",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.78",
+          "value": "100.87",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1365.43",
-          "change": "-0.02%",
+          "value": "1364.78",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.76",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.91",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.7064",
-          "change": "+0.00%",
+          "value": "6.7065",
+          "change": "+0.14%",
           "direction": "up"
         }
       ],
       "trend": [
-        1365.510009765625,
-        1365.0999755859375,
-        1365.0400390625,
-        1364.8800048828125,
-        1365.4200439453125,
-        1365.5,
-        1365.52001953125,
-        1365.8800048828125,
-        1365.68994140625,
-        1365.77001953125,
-        1365.4300537109375
+        1364.949951171875,
+        1364.5899658203125,
+        1364.699951171875,
+        1364.699951171875,
+        1364.6800537109375,
+        1364.530029296875,
+        1364.780029296875,
+        1364.800048828125,
+        1364.5799560546875,
+        1364.8599853515625,
+        1364.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-09-23 17:00 KST"
+      "freshness": "2026-09-23 21:03 KST"
     }
   ],
   "currentAction": {
