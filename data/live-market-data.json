@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "collectedAt": "2026-09-23T12:03:17Z",
+  "date": "2026-09-24",
+  "collectedAt": "2026-09-23T22:55:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "+0.06%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall After Nasdaq",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures-fall-after.html?.tsrc=rss"
-    },
-    {
-      "title": "Analysts Think 6 S&P 500 Stocks Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "There's a joke on Wall Street that analysts never saw an S&P 500 stock they didn't like. Well, that doesn't seem to be the case now.",
-      "link": "https://finance.yahoo.com/m/1361e2ec-e530-333f-878c-de76a2462d42/analysts-think-6-s%26p-500.html?.tsrc=rss"
-    },
-    {
-      "title": "US-Iran Outlook, Oil Prices Cap",
+      "title": "Here's Why AngloGold Ashanti (AU)",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "European bourses were mixed and muted midday Wednesday as traders mulled US President Donald Trump's",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/us-iran-outlook-oil-prices-113706827.html?.tsrc=rss"
+      "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq hits record high as U.S.-Iran",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The tech-heavy index posted its fourth straight gain on Tuesday while Brent crude hovered near $99 a barrel ahead of Wednesday's open",
-      "link": "https://qz.com/nasdaq-record-high-oil-prices-iran-talks-092326?.tsrc=rss"
+      "title": "United Airlines (UAL) Registers a",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss"
+    },
+    {
+      "title": "Sunrun (RUN) Dips More Than Broader",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow Inc. (DOW) Rises As Market Takes",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The latest trading day saw Dow Inc. (DOW) settling at $28.65, representing a +1.6% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-rises-market-221503795.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall After Nasdaq",
-      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures-fall-after.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 11:57:01 +0000"
-    },
-    {
-      "title": "Analysts Think 6 S&P 500 Stocks Are",
-      "summary": "There's a joke on Wall Street that analysts never saw an S&P 500 stock they didn't like. Well, that doesn't seem to be the case now.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/1361e2ec-e530-333f-878c-de76a2462d42/analysts-think-6-s%26p-500.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 11:42:58 +0000"
-    },
-    {
-      "title": "US-Iran Outlook, Oil Prices Cap",
-      "summary": "European bourses were mixed and muted midday Wednesday as traders mulled US President Donald Trump's",
+      "title": "Here's Why AngloGold Ashanti (AU)",
+      "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/us-iran-outlook-oil-prices-113706827.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 11:37:06 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 22:15:05 +0000"
     },
     {
-      "title": "Nasdaq hits record high as U.S.-Iran",
-      "summary": "The tech-heavy index posted its fourth straight gain on Tuesday while Brent crude hovered near $99 a barrel ahead of Wednesday's open",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://qz.com/nasdaq-record-high-oil-prices-iran-talks-092326?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 11:25:50 +0000"
+      "title": "United Airlines (UAL) Registers a",
+      "summary": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 22:15:04 +0000"
+    },
+    {
+      "title": "Sunrun (RUN) Dips More Than Broader",
+      "summary": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 22:15:04 +0000"
+    },
+    {
+      "title": "Dow Inc. (DOW) Rises As Market Takes",
+      "summary": "The latest trading day saw Dow Inc. (DOW) settling at $28.65, representing a +1.6% change from its previous close.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-rises-market-221503795.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 22:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.62",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "92.41",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "96.19",
-          "change": "-0.04%",
+          "value": "98.07",
+          "change": "-0.14%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4346.20",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4323.30",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.80",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.79",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        90.81999969482422,
-        90.73999786376953,
-        90.68000030517578,
-        90.61000061035156,
-        90.56999969482422,
-        90.62000274658203,
-        90.52999877929688,
-        90.58000183105469,
-        90.55999755859375,
-        90.62000274658203,
-        90.62000274658203
+        92.45999908447266,
+        92.44000244140625,
+        92.47000122070312,
+        92.44999694824219,
+        92.41999816894531,
+        92.41000366210938,
+        92.41999816894531,
+        92.4000015258789,
+        92.38999938964844,
+        92.43000030517578,
+        92.41000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-09-23 20:53 KST"
+      "status": "약세",
+      "freshness": "2026-09-24 07:44 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.005%",
+          "value": "4.028%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.842%",
-          "change": "-0.04%",
+          "value": "4.997%",
+          "change": "-0.12%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.968%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.114%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.303%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.401%",
+          "change": "-0.07%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9679999351501465,
-        4.970000267028809,
-        4.970000267028809,
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9679999351501465
+        5.125,
+        5.125,
+        5.125,
+        5.125,
+        5.125,
+        5.125,
+        5.122000217437744,
+        5.122000217437744,
+        5.119999885559082,
+        5.118000030517578,
+        5.113999843597412
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-09-23 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-09-24 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7764.27",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7708.55",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "27241.53",
-          "change": "+0.01%",
+          "value": "26943.61",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6298.17",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6304.71",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7777.35986328125,
-        7776.169921875,
-        7777.27001953125,
-        7778.1298828125,
-        7776.22021484375,
-        7773.56005859375,
-        7768.259765625,
-        7768.14990234375,
-        7767.0498046875,
-        7765.27001953125,
-        7764.27001953125
+        7709.14013671875,
+        7699.89990234375,
+        7697.27001953125,
+        7696.1298828125,
+        7699.31982421875,
+        7697.85986328125,
+        7702.6201171875,
+        7703.009765625,
+        7704.25,
+        7703.9501953125,
+        7708.5498046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-09-23 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-09-24 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.87",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.11",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1364.78",
+          "value": "1365.87",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.91",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "158.29",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7065",
-          "change": "+0.14%",
-          "direction": "up"
+          "value": "6.7019",
+          "change": "-0.13%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1364.949951171875,
-        1364.5899658203125,
-        1364.699951171875,
-        1364.699951171875,
-        1364.6800537109375,
-        1364.530029296875,
-        1364.780029296875,
-        1364.800048828125,
-        1364.5799560546875,
-        1364.8599853515625,
-        1364.780029296875
+        1366.6099853515625,
+        1365.0799560546875,
+        1366.0400390625,
+        1365.81005859375,
+        1366.010009765625,
+        1365.56005859375,
+        1366.1600341796875,
+        1366.6500244140625,
+        1365.5,
+        1365.989990234375,
+        1365.8699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-23 21:03 KST"
+      "status": "강세",
+      "freshness": "2026-09-24 07:55 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
