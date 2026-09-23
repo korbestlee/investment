@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "collectedAt": "2026-09-22T22:54:44Z",
+  "collectedAt": "2026-09-23T08:00:17Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The Market Is Near Another All-Time",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sideli",
-      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq Hits New High; Sandisk,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
-    },
-    {
-      "title": "Gold Slides as Fed Fears Take Over",
-      "impact": "채권, 금리",
+      "title": "Oil falls below $100 after Trump",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Higher-for-longer rates are reshaping bullion's investment case",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html?.tsrc=rss"
+      "summary": "Brent crude fell on Wednesday morning after Donald Trump said US and Iranian representatives had held what he called “very productive” talks. Reports that Saudi Arabia is restartin",
+      "link": "https://www.euronews.com/2026/09/23/oil-falls-below-100-after-trump-reports-talks-with-iran?.tsrc=rss"
     },
     {
-      "title": "Sirius XM (SIRI) Stock Moves -3.32%",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "In the latest trading session, Sirius XM (SIRI) closed at $26.53, marking a -3.32% move from the previous day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-moves-221504240.html?.tsrc=rss"
+      "title": "Solstice Minerals CEO speaks with",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Solstice Minerals (ASX:SLS) CEO Nick Castleden talked with Proactive at the ASX Small and Mid-Cap Conference about the company’s flagship Nanadie Copper-Gold Project. Solstice is a",
+      "link": "https://finance.yahoo.com/video/solstice-minerals-ceo-speaks-proactive-061618669.html?.tsrc=rss"
+    },
+    {
+      "title": "Stock Market",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "U.S. stock futures are posting slight gains early Wednesday as Wall Street digests an aggressive UN address from President Donald Trump on Iran, cooling crude oil prices, and fresh",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61938049/stock-market-will-sp-500-open-up-or-down-today-43?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+    },
+    {
+      "title": "Asian shares are mixed and oil",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares were mixed Wednesday after Wall Street held near its record and oil prices fell following U.S. President Donald Trump’s remarks that United States and Iranian official",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Market Is Near Another All-Time",
-      "summary": "Buying into an all-time high at 66 feels like the worst possible timing, but the data on what actually happens next might change how you think about that cash sitting on the sideli",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/etf/2026/09/22/the-market-is-near-another-all-time-high-and-youre-66-with-cash-to-invest-buying-now-feels-like-the-top-these-3-etfs-are-how-you-get-in-anyway/?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 22:25:53 +0000"
-    },
-    {
-      "title": "Nasdaq Hits New High; Sandisk,",
-      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/280f5dd6-365f-3a6a-91c9-2a9551e64657/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 22:24:19 +0000"
-    },
-    {
-      "title": "Gold Slides as Fed Fears Take Over",
-      "summary": "Higher-for-longer rates are reshaping bullion's investment case",
-      "impact": "채권, 금리",
+      "title": "Oil falls below $100 after Trump",
+      "summary": "Brent crude fell on Wednesday morning after Donald Trump said US and Iranian representatives had held what he called “very productive” talks. Reports that Saudi Arabia is restartin",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slides-fed-fears-over-221516465.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 22:15:16 +0000"
+      "link": "https://www.euronews.com/2026/09/23/oil-falls-below-100-after-trump-reports-talks-with-iran?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 07:24:24 +0000"
     },
     {
-      "title": "Sirius XM (SIRI) Stock Moves -3.32%",
-      "summary": "In the latest trading session, Sirius XM (SIRI) closed at $26.53, marking a -3.32% move from the previous day.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-moves-221504240.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 22:15:04 +0000"
+      "title": "Solstice Minerals CEO speaks with",
+      "summary": "Solstice Minerals (ASX:SLS) CEO Nick Castleden talked with Proactive at the ASX Small and Mid-Cap Conference about the company’s flagship Nanadie Copper-Gold Project. Solstice is a",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/solstice-minerals-ceo-speaks-proactive-061618669.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 06:16:18 +0000"
+    },
+    {
+      "title": "Stock Market",
+      "summary": "U.S. stock futures are posting slight gains early Wednesday as Wall Street digests an aggressive UN address from President Donald Trump on Iran, cooling crude oil prices, and fresh",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/09/61938049/stock-market-will-sp-500-open-up-or-down-today-43?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 06:03:48 +0000"
+    },
+    {
+      "title": "Asian shares are mixed and oil",
+      "summary": "Asian shares were mixed Wednesday after Wall Street held near its record and oil prices fell following U.S. President Donald Trump’s remarks that United States and Iranian official",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-060041660.html?.tsrc=rss",
+      "published": "Wed, 23 Sep 2026 06:00:41 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.63",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "89.82",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "98.44",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "95.33",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4401.30",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4360.20",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.90",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.84",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        89.62999725341797,
-        89.63999938964844,
-        89.63999938964844,
-        89.6500015258789,
+        89.7699966430664,
+        89.75,
+        89.7300033569336,
         89.69000244140625,
-        89.70999908447266,
-        89.69000244140625,
-        89.66999816894531,
-        89.66999816894531,
         89.66000366210938,
-        89.62999725341797
+        89.7300033569336,
+        89.80000305175781,
+        89.91999816894531,
+        89.91000366210938,
+        89.81999969482422,
+        89.81999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-23 07:44 KST"
+      "status": "중립",
+      "freshness": "2026-09-23 16:50 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "7037.46",
-          "change": "-0.18%",
+          "value": "7049.77",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6329.94",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6347.80",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.54",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "100.78",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1355.16",
+          "value": "1365.43",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.45",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "157.76",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6897",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "6.7064",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1355.25,
-        1355.4200439453125,
-        1355.4000244140625,
-        1355.4100341796875,
-        1355.31005859375,
-        1355.3399658203125,
-        1355.3199462890625,
-        1355.22998046875,
-        1355.050048828125,
-        1355.43994140625,
-        1355.1600341796875
+        1365.510009765625,
+        1365.0999755859375,
+        1365.0400390625,
+        1364.8800048828125,
+        1365.4200439453125,
+        1365.5,
+        1365.52001953125,
+        1365.8800048828125,
+        1365.68994140625,
+        1365.77001953125,
+        1365.4300537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-23 07:54 KST"
+      "status": "완화",
+      "freshness": "2026-09-23 17:00 KST"
     }
   ],
   "currentAction": {
