@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "collectedAt": "2026-09-24T12:08:37Z",
+  "date": "2026-09-25",
+  "collectedAt": "2026-09-24T23:10:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.06%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.07%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "2 S&P 500 Stocks Worth Your",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-120054557.html?.tsrc=rss"
+      "title": "Market Chatter",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Australian hedge fund manager Raphael Lamm sees the recent decline in gold as temporary, Bloomberg r",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-gold-selloff-temporary-230133518.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Fall As Treasury",
+      "title": "Market Rally Resilient As Yields,",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. ",
-      "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss"
+      "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is on tap.",
+      "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html?.tsrc=rss"
     },
     {
-      "title": "Higher Bond Yields, Oil Prices Blunt",
+      "title": "The Market Looks Expensive. This ETF",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "European bourses tracked modestly lower midday Thursday, pressured by rising bond yields and oil pri",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-bond-yields-oil-prices-115344461.html?.tsrc=rss"
+      "summary": "With the S&P 500 trading at stretched valuations, one lesser-known ETF takes a completely different approach to generating income, one that doesn't depend on stocks continuing to c",
+      "link": "https://247wallst.com/investing/etf/2026/09/24/the-market-looks-expensive-this-etf-pays-a-11-86-yield-while-you-wait-for-it-to-come-down/?.tsrc=rss"
     },
     {
-      "title": "Sky Quarry Restarts Nevada's Only",
+      "title": "High Dividend ETFs Are Beating the",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Nevada air permit secured and facility work completed at Eagle SpringsWOODS CROSS, Utah, Sept. 24, 2026 (GLOBE NEWSWIRE) -- Sky Quarry Inc. (NASDAQ: SKYQ) (\"Sky Quarry\" or the \"Com",
-      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-restarts-nevadas-only-114500202.html?.tsrc=rss"
+      "summary": "Growth stocks dominated for years, but 2026 has handed dividend ETFs an unexpected edge, and three funds yielding over 3% are proving the rotation is real. The question is whether ",
+      "link": "https://247wallst.com/investing/etf/2026/09/24/high-dividend-etfs-are-beating-the-sp-500-again-in-2026-and-these-3-pay-over-3-percent-while-doing-it/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "2 S&P 500 Stocks Worth Your",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-120054557.html?.tsrc=rss",
-      "published": "Thu, 24 Sep 2026 12:00:54 +0000"
+      "title": "Market Chatter",
+      "summary": "Australian hedge fund manager Raphael Lamm sees the recent decline in gold as temporary, Bloomberg r",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-gold-selloff-temporary-230133518.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 23:01:33 +0000"
     },
     {
-      "title": "Dow Jones Futures Fall As Treasury",
-      "summary": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. ",
+      "title": "Market Rally Resilient As Yields,",
+      "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is on tap.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
-      "published": "Thu, 24 Sep 2026 11:58:29 +0000"
+      "link": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 22:45:11 +0000"
     },
     {
-      "title": "Higher Bond Yields, Oil Prices Blunt",
-      "summary": "European bourses tracked modestly lower midday Thursday, pressured by rising bond yields and oil pri",
+      "title": "The Market Looks Expensive. This ETF",
+      "summary": "With the S&P 500 trading at stretched valuations, one lesser-known ETF takes a completely different approach to generating income, one that doesn't depend on stocks continuing to c",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-bond-yields-oil-prices-115344461.html?.tsrc=rss",
-      "published": "Thu, 24 Sep 2026 11:53:44 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/09/24/the-market-looks-expensive-this-etf-pays-a-11-86-yield-while-you-wait-for-it-to-come-down/?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 21:52:47 +0000"
     },
     {
-      "title": "Sky Quarry Restarts Nevada's Only",
-      "summary": "Nevada air permit secured and facility work completed at Eagle SpringsWOODS CROSS, Utah, Sept. 24, 2026 (GLOBE NEWSWIRE) -- Sky Quarry Inc. (NASDAQ: SKYQ) (\"Sky Quarry\" or the \"Com",
+      "title": "High Dividend ETFs Are Beating the",
+      "summary": "Growth stocks dominated for years, but 2026 has handed dividend ETFs an unexpected edge, and three funds yielding over 3% are proving the rotation is real. The question is whether ",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-restarts-nevadas-only-114500202.html?.tsrc=rss",
-      "published": "Thu, 24 Sep 2026 11:45:00 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/09/24/high-dividend-etfs-are-beating-the-sp-500-again-in-2026-and-these-3-pay-over-3-percent-while-doing-it/?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 21:38:44 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "93.57",
-          "change": "-0.07%",
+          "value": "94.33",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "104.79",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "106.45",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4296.80",
-          "change": "+0.01%",
+          "value": "4308.40",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.77",
-          "change": "+0.01%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        93.62999725341797,
-        93.69999694824219,
-        93.73999786376953,
-        93.69000244140625,
-        93.63999938964844,
-        93.6500015258789,
-        93.69999694824219,
-        93.73999786376953,
-        93.69999694824219,
-        93.63999938964844,
-        93.56999969482422
+        94.37000274658203,
+        94.37000274658203,
+        94.41999816894531,
+        94.4000015258789,
+        94.38999938964844,
+        94.37000274658203,
+        94.37999725341797,
+        94.37000274658203,
+        94.33000183105469,
+        94.36000061035156,
+        94.33000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-09-24 20:58 KST"
+      "freshness": "2026-09-25 08:00 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.028%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.068%",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "UST 5Y",
-          "value": "4.997%",
-          "change": "-0.12%",
-          "direction": "down"
+          "value": "5.025%",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.114%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "5.162%",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.401%",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "5.461%",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.125,
-        5.125,
-        5.125,
-        5.125,
-        5.125,
-        5.125,
-        5.122000217437744,
-        5.122000217437744,
-        5.119999885559082,
-        5.118000030517578,
-        5.113999843597412
+        5.159999847412109,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.1579999923706055,
+        5.161999702453613
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-09-24 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-09-25 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7708.55",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "7703.83",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26943.61",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "26937.53",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6287.24",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6273.95",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7709.14013671875,
-        7699.89990234375,
-        7697.27001953125,
-        7696.1298828125,
-        7699.31982421875,
-        7697.85986328125,
-        7702.6201171875,
-        7703.009765625,
-        7704.25,
-        7703.9501953125,
-        7708.5498046875
+        7704.2900390625,
+        7705.740234375,
+        7710.1201171875,
+        7709.08984375,
+        7710.47021484375,
+        7710.06005859375,
+        7707.5400390625,
+        7706.14990234375,
+        7705.06982421875,
+        7704.509765625,
+        7703.830078125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-09-24 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-09-25 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.30",
-          "change": "+0.01%",
+          "value": "101.25",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1368.50",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.86",
-          "change": "+0.01%",
+          "value": "1366.81",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.7020",
+          "name": "USDJPY",
+          "value": "158.77",
           "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.7037",
+          "change": "-0.13%",
           "direction": "down"
         }
       ],
       "trend": [
-        1368.1700439453125,
-        1368.22998046875,
-        1369.0899658203125,
-        1367.739990234375,
-        1368.780029296875,
-        1368.949951171875,
-        1368.239990234375,
-        1368.27001953125,
-        1368.9300537109375,
-        1368.6800537109375,
-        1368.5
+        1365.1800537109375,
+        1365.22998046875,
+        1365.25,
+        1365.3699951171875,
+        1367.0,
+        1366.989990234375,
+        1366.219970703125,
+        1366.2099609375,
+        1366.5699462890625,
+        1366.0799560546875,
+        1366.81005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-24 21:08 KST"
+      "freshness": "2026-09-25 08:08 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
