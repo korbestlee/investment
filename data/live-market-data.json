@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "collectedAt": "2026-09-23T22:55:17Z",
+  "collectedAt": "2026-09-24T07:51:42Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -11,7 +11,7 @@
     "indices": "intraday chart",
     "commodities": "intraday chart",
     "bonds": "intraday chart",
-    "news": "live rss"
+    "news": "unavailable"
   },
   "signals": [
     {
@@ -46,13 +46,13 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,68 +65,25 @@
   ],
   "issues": [
     {
-      "title": "Here's Why AngloGold Ashanti (AU)",
-      "impact": "원자재, 인플레 기대",
+      "title": "미 10년물 금리 -0.08%",
+      "impact": "채권, 주식",
       "importance": "high",
-      "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss"
+      "summary": "장기금리 변화가 성장주 밸류에이션과 위험선호를 동시에 건드립니다."
     },
     {
-      "title": "United Airlines (UAL) Registers a",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss"
+      "title": "DXY 101.07",
+      "impact": "환율, 신흥국 자산",
+      "importance": "high",
+      "summary": "달러 강세가 원화와 아시아 통화에 압력을 줍니다."
     },
     {
-      "title": "Sunrun (RUN) Dips More Than Broader",
-      "impact": "시장 전반",
+      "title": "WTI +0.01%",
+      "impact": "원자재, 인플레 기대",
       "importance": "mid",
-      "summary": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Inc. (DOW) Rises As Market Takes",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw Dow Inc. (DOW) settling at $28.65, representing a +1.6% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-rises-market-221503795.html?.tsrc=rss"
+      "summary": "유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다."
     }
   ],
-  "newsItems": [
-    {
-      "title": "Here's Why AngloGold Ashanti (AU)",
-      "summary": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 22:15:05 +0000"
-    },
-    {
-      "title": "United Airlines (UAL) Registers a",
-      "summary": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 22:15:04 +0000"
-    },
-    {
-      "title": "Sunrun (RUN) Dips More Than Broader",
-      "summary": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 22:15:04 +0000"
-    },
-    {
-      "title": "Dow Inc. (DOW) Rises As Market Takes",
-      "summary": "The latest trading day saw Dow Inc. (DOW) settling at $28.65, representing a +1.6% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-rises-market-221503795.html?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 22:15:03 +0000"
-    }
-  ],
+  "newsItems": [],
   "criteria": [
     {
       "title": "변화의 크기",
@@ -154,45 +111,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.41",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "92.11",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "98.07",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "98.20",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4323.30",
-          "change": "-0.02%",
+          "value": "4316.80",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.79",
+          "value": "6.78",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        92.45999908447266,
-        92.44000244140625,
-        92.47000122070312,
-        92.44999694824219,
-        92.41999816894531,
-        92.41000366210938,
-        92.41999816894531,
-        92.4000015258789,
-        92.38999938964844,
-        92.43000030517578,
-        92.41000366210938
+        92.26000213623047,
+        92.18000030517578,
+        92.16999816894531,
+        92.2300033569336,
+        92.20999908447266,
+        92.12999725341797,
+        92.08000183105469,
+        92.0999984741211,
+        92.13999938964844,
+        92.0999984741211,
+        92.11000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-24 07:44 KST"
+      "status": "강세",
+      "freshness": "2026-09-24 16:41 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +225,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6304.71",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6297.18",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +255,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.11",
+          "value": "101.07",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1365.27",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDKRW",
-          "value": "1365.87",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDJPY",
-          "value": "158.29",
-          "change": "+0.00%",
+          "value": "158.13",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7019",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "6.7102",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1366.6099853515625,
-        1365.0799560546875,
-        1366.0400390625,
-        1365.81005859375,
-        1366.010009765625,
-        1365.56005859375,
-        1366.1600341796875,
-        1366.6500244140625,
-        1365.5,
-        1365.989990234375,
-        1365.8699951171875
+        1367.5,
+        1366.8900146484375,
+        1367.0400390625,
+        1366.6600341796875,
+        1366.5899658203125,
+        1366.2099609375,
+        1365.3599853515625,
+        1365.5699462890625,
+        1365.780029296875,
+        1365.260009765625,
+        1365.27001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-24 07:55 KST"
+      "status": "완화",
+      "freshness": "2026-09-24 16:51 KST"
     }
   ],
   "currentAction": {
