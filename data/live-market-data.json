@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "collectedAt": "2026-09-24T07:51:42Z",
+  "collectedAt": "2026-09-24T12:08:37Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -11,7 +11,7 @@
     "indices": "intraday chart",
     "commodities": "intraday chart",
     "bonds": "intraday chart",
-    "news": "unavailable"
+    "news": "live rss"
   },
   "signals": [
     {
@@ -46,44 +46,87 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "미 10년물 금리 -0.08%",
-      "impact": "채권, 주식",
-      "importance": "high",
-      "summary": "장기금리 변화가 성장주 밸류에이션과 위험선호를 동시에 건드립니다."
-    },
-    {
-      "title": "DXY 101.07",
-      "impact": "환율, 신흥국 자산",
-      "importance": "high",
-      "summary": "달러 강세가 원화와 아시아 통화에 압력을 줍니다."
-    },
-    {
-      "title": "WTI +0.01%",
-      "impact": "원자재, 인플레 기대",
+      "title": "2 S&P 500 Stocks Worth Your",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "유가 방향이 인플레이션 재가열 우려를 자극하는지 봅니다."
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-120054557.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow Jones Futures Fall As Treasury",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. ",
+      "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss"
+    },
+    {
+      "title": "Higher Bond Yields, Oil Prices Blunt",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "European bourses tracked modestly lower midday Thursday, pressured by rising bond yields and oil pri",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-bond-yields-oil-prices-115344461.html?.tsrc=rss"
+    },
+    {
+      "title": "Sky Quarry Restarts Nevada's Only",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Nevada air permit secured and facility work completed at Eagle SpringsWOODS CROSS, Utah, Sept. 24, 2026 (GLOBE NEWSWIRE) -- Sky Quarry Inc. (NASDAQ: SKYQ) (\"Sky Quarry\" or the \"Com",
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-restarts-nevadas-only-114500202.html?.tsrc=rss"
     }
   ],
-  "newsItems": [],
+  "newsItems": [
+    {
+      "title": "2 S&P 500 Stocks Worth Your",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-120054557.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 12:00:54 +0000"
+    },
+    {
+      "title": "Dow Jones Futures Fall As Treasury",
+      "summary": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. ",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 11:58:29 +0000"
+    },
+    {
+      "title": "Higher Bond Yields, Oil Prices Blunt",
+      "summary": "European bourses tracked modestly lower midday Thursday, pressured by rising bond yields and oil pri",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/higher-bond-yields-oil-prices-115344461.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 11:53:44 +0000"
+    },
+    {
+      "title": "Sky Quarry Restarts Nevada's Only",
+      "summary": "Nevada air permit secured and facility work completed at Eagle SpringsWOODS CROSS, Utah, Sept. 24, 2026 (GLOBE NEWSWIRE) -- Sky Quarry Inc. (NASDAQ: SKYQ) (\"Sky Quarry\" or the \"Com",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/sky-quarry-restarts-nevadas-only-114500202.html?.tsrc=rss",
+      "published": "Thu, 24 Sep 2026 11:45:00 +0000"
+    }
+  ],
   "criteria": [
     {
       "title": "변화의 크기",
@@ -111,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.11",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "93.57",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "98.20",
+          "value": "104.79",
+          "change": "-0.05%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4296.80",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4316.80",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
           "name": "Copper",
-          "value": "6.78",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.77",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        92.26000213623047,
-        92.18000030517578,
-        92.16999816894531,
-        92.2300033569336,
-        92.20999908447266,
-        92.12999725341797,
-        92.08000183105469,
-        92.0999984741211,
-        92.13999938964844,
-        92.0999984741211,
-        92.11000061035156
+        93.62999725341797,
+        93.69999694824219,
+        93.73999786376953,
+        93.69000244140625,
+        93.63999938964844,
+        93.6500015258789,
+        93.69999694824219,
+        93.73999786376953,
+        93.69999694824219,
+        93.63999938964844,
+        93.56999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-24 16:41 KST"
+      "status": "약세",
+      "freshness": "2026-09-24 20:58 KST"
     },
     {
       "id": "bonds",
@@ -225,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6297.18",
-          "change": "+0.01%",
+          "value": "6287.24",
+          "change": "+0.05%",
           "direction": "up"
         }
       ],
@@ -255,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.07",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1365.27",
-          "change": "+0.00%",
+          "value": "101.30",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1368.50",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDJPY",
-          "value": "158.13",
-          "change": "+0.02%",
+          "value": "158.86",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7102",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7020",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1367.5,
-        1366.8900146484375,
-        1367.0400390625,
-        1366.6600341796875,
-        1366.5899658203125,
-        1366.2099609375,
-        1365.3599853515625,
-        1365.5699462890625,
-        1365.780029296875,
-        1365.260009765625,
-        1365.27001953125
+        1368.1700439453125,
+        1368.22998046875,
+        1369.0899658203125,
+        1367.739990234375,
+        1368.780029296875,
+        1368.949951171875,
+        1368.239990234375,
+        1368.27001953125,
+        1368.9300537109375,
+        1368.6800537109375,
+        1368.5
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-24 16:51 KST"
+      "status": "강세",
+      "freshness": "2026-09-24 21:08 KST"
     }
   ],
   "currentAction": {
