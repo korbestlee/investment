@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "collectedAt": "2026-09-25T08:14:23Z",
+  "collectedAt": "2026-09-25T12:08:03Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "HSBC shuffles oil stocks ratings,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com -- HSBC on Friday upgraded BP and TotalEnergies to Buy from Hold, raising earnings and cash flow estimates across its global oil coverage after lifting its Brent crud",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-shuffles-oil-stocks-ratings-074201093.html?.tsrc=rss"
-    },
-    {
-      "title": "European equities edge higher as",
+      "title": "US Equity Futures Higher Pre-Bell as",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com - European equities snapped back on Friday, recovering from a near one-week low in the prior session as a 1% drop in crude oil prices offered relief to energy-intensi",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-edge-higher-easing-073403876.html?.tsrc=rss"
+      "summary": "US equity futures were edging higher pre-bell Friday as traders observed Treasury yields continuing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-115359713.html?.tsrc=rss"
     },
     {
-      "title": "Asian markets mixed after recent oil",
+      "title": "Easing Oil Prices, Stable Bond",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Asian markets were mixed Friday after recent oil price surges, as US and Japanese bond yields hit multi-year highs with no clear end in sight for the Middle East war.Japan's 10-yea",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-recent-oil-072512362.html?.tsrc=rss"
+      "summary": "European bourses tracked moderately higher midday Friday as global crude prices eased, while some be",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-stable-bond-114456990.html?.tsrc=rss"
     },
     {
-      "title": "US Bond Yields Keep Climbing",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "In a Stocktwits poll gauging where investors would rather put their money, a majority voted for stocks.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-bond-yields-keep-climbing-but-retail-traders-still-can-t-get-enough-stocks/cZMOGNPRBai?.tsrc=rss"
+      "title": "1 Software Stock for Long-Term",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to strong returns for SaaS stocks lately as ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-long-term-114437433.html?.tsrc=rss"
+    },
+    {
+      "title": "Alphabet Trades for 17 Times",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Alphabet is still a great stock to buy, but there's a caveat to its valuation.",
+      "link": "https://www.fool.com/investing/2026/09/25/alphabet-trades-for-17-times-earnings-the-sp-500-t/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "HSBC shuffles oil stocks ratings,",
-      "summary": "Investing.com -- HSBC on Friday upgraded BP and TotalEnergies to Buy from Hold, raising earnings and cash flow estimates across its global oil coverage after lifting its Brent crud",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-shuffles-oil-stocks-ratings-074201093.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 07:42:01 +0000"
-    },
-    {
-      "title": "European equities edge higher as",
-      "summary": "Investing.com - European equities snapped back on Friday, recovering from a near one-week low in the prior session as a 1% drop in crude oil prices offered relief to energy-intensi",
+      "title": "US Equity Futures Higher Pre-Bell as",
+      "summary": "US equity futures were edging higher pre-bell Friday as traders observed Treasury yields continuing",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-edge-higher-easing-073403876.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 07:34:03 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-115359713.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 11:53:59 +0000"
     },
     {
-      "title": "Asian markets mixed after recent oil",
-      "summary": "Asian markets were mixed Friday after recent oil price surges, as US and Japanese bond yields hit multi-year highs with no clear end in sight for the Middle East war.Japan's 10-yea",
+      "title": "Easing Oil Prices, Stable Bond",
+      "summary": "European bourses tracked moderately higher midday Friday as global crude prices eased, while some be",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-recent-oil-072512362.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 07:25:12 +0000"
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-stable-bond-114456990.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 11:44:56 +0000"
     },
     {
-      "title": "US Bond Yields Keep Climbing",
-      "summary": "In a Stocktwits poll gauging where investors would rather put their money, a majority voted for stocks.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-bond-yields-keep-climbing-but-retail-traders-still-can-t-get-enough-stocks/cZMOGNPRBai?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 07:16:20 +0000"
+      "title": "1 Software Stock for Long-Term",
+      "summary": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to strong returns for SaaS stocks lately as ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-long-term-114437433.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 11:44:37 +0000"
+    },
+    {
+      "title": "Alphabet Trades for 17 Times",
+      "summary": "Alphabet is still a great stock to buy, but there's a caveat to its valuation.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/09/25/alphabet-trades-for-17-times-earnings-the-sp-500-t/?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 11:35:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "93.63",
-          "change": "+0.05%",
+          "value": "92.45",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "99.43",
+          "value": "98.33",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4310.50",
-          "change": "+0.00%",
+          "value": "4340.40",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.74",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.78",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        93.68000030517578,
-        93.63999938964844,
-        93.5999984741211,
-        93.5999984741211,
-        93.58999633789062,
-        93.58000183105469,
-        93.52999877929688,
-        93.52999877929688,
-        93.62000274658203,
-        93.58000183105469,
-        93.62999725341797
+        92.33000183105469,
+        92.4000015258789,
+        92.4800033569336,
+        92.41000366210938,
+        92.44999694824219,
+        92.33999633789062,
+        92.37999725341797,
+        92.38999938964844,
+        92.37000274658203,
+        92.44000244140625,
+        92.44999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-25 17:04 KST"
+      "freshness": "2026-09-25 20:57 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6312.75",
-          "change": "-0.00%",
+          "value": "6321.89",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
@@ -298,19 +298,19 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.14",
-          "change": "+0.01%",
+          "value": "100.98",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1355.02",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1354.12",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.15",
+          "value": "157.60",
           "change": "-0.01%",
           "direction": "down"
         },
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1355.3199462890625,
-        1355.47998046875,
-        1355.2099609375,
-        1355.1800537109375,
-        1355.6300048828125,
-        1355.4599609375,
-        1354.949951171875,
-        1354.949951171875,
-        1355.469970703125,
-        1355.1099853515625,
-        1355.02001953125
+        1353.3299560546875,
+        1353.27001953125,
+        1353.43994140625,
+        1353.47998046875,
+        1353.3900146484375,
+        1353.47998046875,
+        1353.5899658203125,
+        1353.8800048828125,
+        1353.780029296875,
+        1353.9599609375,
+        1354.1199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-25 17:09 KST"
+      "freshness": "2026-09-25 21:07 KST"
     }
   ],
   "currentAction": {
