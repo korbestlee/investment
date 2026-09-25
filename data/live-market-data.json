@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-25",
-  "collectedAt": "2026-09-25T12:08:03Z",
+  "date": "2026-09-26",
+  "collectedAt": "2026-09-25T23:16:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "US Equity Futures Higher Pre-Bell as",
-      "impact": "채권, 금리",
+      "title": "S&P 500, Dow, Nasdaq End Week Higher",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "US equity futures were edging higher pre-bell Friday as traders observed Treasury yields continuing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-115359713.html?.tsrc=rss"
+      "summary": "Iran pitched a seven-day roadmap to end conflict with the U.S., the New York Times reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-week-higher-on-chipmaker-strength-easing-oil-amid-signs-of-easing-us-iran-conflict-meta-cost-msft-crwd-skhy-in-focus/cZMOFkXRBOV?.tsrc=rss"
     },
     {
-      "title": "Easing Oil Prices, Stable Bond",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "European bourses tracked moderately higher midday Friday as global crude prices eased, while some be",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-stable-bond-114456990.html?.tsrc=rss"
+      "title": "Nigeria Joins IEA As Crude Output",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Nigeria joins the IEA as crude output hits a six-year high and Dangote plots a $48.8 billion refinery IPO amid a renewables push.",
+      "link": "https://finance.yahoo.com/energy/articles/nigeria-joins-iea-crude-output-220000262.html?.tsrc=rss"
     },
     {
-      "title": "1 Software Stock for Long-Term",
+      "title": "Pacific Biosciences of California",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to strong returns for SaaS stocks lately as ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-long-term-114437433.html?.tsrc=rss"
+      "summary": "In the latest trading session, Pacific Biosciences of California (PACB) closed at $1.62, marking a +2.53% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pacific-biosciences-california-pacb-beats-211503793.html?.tsrc=rss"
     },
     {
-      "title": "Alphabet Trades for 17 Times",
-      "impact": "지수, 위험선호",
+      "title": "T. Rowe Price (TROW) Surpasses",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Alphabet is still a great stock to buy, but there's a caveat to its valuation.",
-      "link": "https://www.fool.com/investing/2026/09/25/alphabet-trades-for-17-times-earnings-the-sp-500-t/?.tsrc=rss"
+      "summary": "T. Rowe Price (TROW) closed at $105.51 in the latest trading session, marking a +1.19% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-surpasses-211503047.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "US Equity Futures Higher Pre-Bell as",
-      "summary": "US equity futures were edging higher pre-bell Friday as traders observed Treasury yields continuing",
-      "impact": "채권, 금리",
+      "title": "S&P 500, Dow, Nasdaq End Week Higher",
+      "summary": "Iran pitched a seven-day roadmap to end conflict with the U.S., the New York Times reported.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-115359713.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 11:53:59 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-week-higher-on-chipmaker-strength-easing-oil-amid-signs-of-easing-us-iran-conflict-meta-cost-msft-crwd-skhy-in-focus/cZMOFkXRBOV?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 22:51:48 +0000"
     },
     {
-      "title": "Easing Oil Prices, Stable Bond",
-      "summary": "European bourses tracked moderately higher midday Friday as global crude prices eased, while some be",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/easing-oil-prices-stable-bond-114456990.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 11:44:56 +0000"
+      "title": "Nigeria Joins IEA As Crude Output",
+      "summary": "Nigeria joins the IEA as crude output hits a six-year high and Dangote plots a $48.8 billion refinery IPO amid a renewables push.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/nigeria-joins-iea-crude-output-220000262.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 22:00:00 +0000"
     },
     {
-      "title": "1 Software Stock for Long-Term",
-      "summary": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to strong returns for SaaS stocks lately as ",
+      "title": "Pacific Biosciences of California",
+      "summary": "In the latest trading session, Pacific Biosciences of California (PACB) closed at $1.62, marking a +2.53% move from the previous day.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-long-term-114437433.html?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 11:44:37 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pacific-biosciences-california-pacb-beats-211503793.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 21:15:03 +0000"
     },
     {
-      "title": "Alphabet Trades for 17 Times",
-      "summary": "Alphabet is still a great stock to buy, but there's a caveat to its valuation.",
-      "impact": "지수, 위험선호",
+      "title": "T. Rowe Price (TROW) Surpasses",
+      "summary": "T. Rowe Price (TROW) closed at $105.51 in the latest trading session, marking a +1.19% move from the prior day.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/09/25/alphabet-trades-for-17-times-earnings-the-sp-500-t/?.tsrc=rss",
-      "published": "Fri, 25 Sep 2026 11:35:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-surpasses-211503047.html?.tsrc=rss",
+      "published": "Fri, 25 Sep 2026 21:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.45",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "92.44",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "98.33",
+          "value": "97.47",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4340.40",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4320.50",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
           "value": "6.78",
-          "change": "+0.03%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        92.33000183105469,
-        92.4000015258789,
-        92.4800033569336,
         92.41000366210938,
+        92.3499984741211,
+        92.36000061035156,
+        92.41999816894531,
+        92.48999786376953,
         92.44999694824219,
-        92.33999633789062,
-        92.37999725341797,
-        92.38999938964844,
-        92.37000274658203,
+        92.47000122070312,
+        92.41000366210938,
         92.44000244140625,
-        92.44999694824219
+        92.45999908447266,
+        92.44000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-09-25 20:57 KST"
+      "status": "약세",
+      "freshness": "2026-09-26 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.068%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.070%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.025%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.007%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "5.162%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.184%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.461%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "5.504%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.159999847412109,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.1579999923706055,
-        5.161999702453613
+        5.185999870300293,
+        5.184000015258789,
+        5.184000015258789,
+        5.184000015258789,
+        5.184000015258789,
+        5.185999870300293,
+        5.184000015258789,
+        5.184000015258789,
+        5.184000015258789,
+        5.184000015258789,
+        5.184000015258789
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-09-25 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-09-26 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7703.83",
-          "change": "-0.01%",
+          "value": "7742.32",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26937.53",
-          "change": "-0.02%",
+          "value": "27064.88",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6321.89",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6301.77",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7704.2900390625,
-        7705.740234375,
-        7710.1201171875,
-        7709.08984375,
-        7710.47021484375,
-        7710.06005859375,
-        7707.5400390625,
-        7706.14990234375,
-        7705.06982421875,
-        7704.509765625,
-        7703.830078125
+        7746.39990234375,
+        7750.6201171875,
+        7749.89990234375,
+        7748.419921875,
+        7749.31982421875,
+        7747.43017578125,
+        7745.68017578125,
+        7744.240234375,
+        7745.39990234375,
+        7744.83984375,
+        7742.31982421875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-09-25 04:59 KST"
+      "freshness": "2026-09-26 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,21 +298,21 @@
       "items": [
         {
           "name": "DXY",
-          "value": "100.98",
+          "value": "101.04",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1354.12",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1355.28",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.60",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "157.18",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1353.3299560546875,
-        1353.27001953125,
-        1353.43994140625,
-        1353.47998046875,
-        1353.3900146484375,
-        1353.47998046875,
-        1353.5899658203125,
-        1353.8800048828125,
-        1353.780029296875,
-        1353.9599609375,
-        1354.1199951171875
+        1355.8900146484375,
+        1355.8199462890625,
+        1356.1700439453125,
+        1355.199951171875,
+        1355.47998046875,
+        1354.93994140625,
+        1356.1300048828125,
+        1355.4200439453125,
+        1355.0400390625,
+        1355.6400146484375,
+        1355.280029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-09-25 21:07 KST"
+      "freshness": "2026-09-26 05:59 KST"
     }
   ],
   "currentAction": {
