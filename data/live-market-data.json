@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-29",
-  "collectedAt": "2026-09-29T13:16:29Z",
+  "date": "2026-09-30",
+  "collectedAt": "2026-09-29T23:39:55Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.11%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "CEO Pay Tops $18 Million as Turnover",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "NEW YORK, September 29, 2026--Median granted CEO pay at S&P 500 companies rose by more than 8% in 2025 to reach $18.2 million, while cash sign-on bonuses for incoming CEOs hit a si",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-pay-tops-18-million-130000938.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
+      "title": "Dow Jones Futures Rise With Micron,",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125440523.html?.tsrc=rss"
+      "summary": "Stocks are resilient as Treasury yields rise but aren't thriving. Bloom Energy surged. Inflation data, Micron earnings loom.",
+      "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss"
     },
     {
-      "title": "2 S&P 500 Stocks with Promising",
+      "title": "Accelevation Announces Pricing of",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-promising-124802738.html?.tsrc=rss"
+      "summary": "MIAMISBURG, Ohio, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Accelevation Holdings Corp. (“Accelevation”) today announced the pricing of its initial public offering of 30,000,000 shares of",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/accelevation-announces-pricing-initial-public-230400236.html?.tsrc=rss"
     },
     {
-      "title": "Dow Rises As Oil Prices, Treasury",
+      "title": "S&P 500, Dow Extend Losses From",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as oil prices and Treasury yields fall. Nvidia stock rallies above a buy point.",
-      "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-rises.html?.tsrc=rss"
+      "summary": "30-year Treasury yields are at their highest level since 2002.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss"
+    },
+    {
+      "title": "My mom paid $1,000 for a flight that",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "The same route, a few months apart, and the reason has nothing to do with fuel.",
+      "link": "https://www.thestreet.com/travel/airlines-are-raising-prices-but-many-fares-are-actually-falling?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "CEO Pay Tops $18 Million as Turnover",
-      "summary": "NEW YORK, September 29, 2026--Median granted CEO pay at S&P 500 companies rose by more than 8% in 2025 to reach $18.2 million, while cash sign-on bonuses for incoming CEOs hit a si",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-pay-tops-18-million-130000938.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "title": "Dow Jones Futures Rise With Micron,",
+      "summary": "Stocks are resilient as Treasury yields rise but aren't thriving. Bloom Energy surged. Inflation data, Micron earnings loom.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125440523.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 12:54:40 +0000"
+      "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "Tue, 29 Sep 2026 23:10:02 +0000"
     },
     {
-      "title": "2 S&P 500 Stocks with Promising",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
+      "title": "Accelevation Announces Pricing of",
+      "summary": "MIAMISBURG, Ohio, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Accelevation Holdings Corp. (“Accelevation”) today announced the pricing of its initial public offering of 30,000,000 shares of",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-promising-124802738.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 12:48:02 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/accelevation-announces-pricing-initial-public-230400236.html?.tsrc=rss",
+      "published": "Tue, 29 Sep 2026 23:04:00 +0000"
     },
     {
-      "title": "Dow Rises As Oil Prices, Treasury",
-      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as oil prices and Treasury yields fall. Nvidia stock rallies above a buy point.",
+      "title": "S&P 500, Dow Extend Losses From",
+      "summary": "30-year Treasury yields are at their highest level since 2002.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 12:42:03 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
+      "published": "Tue, 29 Sep 2026 22:30:08 +0000"
+    },
+    {
+      "title": "My mom paid $1,000 for a flight that",
+      "summary": "The same route, a few months apart, and the reason has nothing to do with fuel.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.thestreet.com/travel/airlines-are-raising-prices-but-many-fares-are-actually-falling?.tsrc=rss",
+      "published": "Tue, 29 Sep 2026 22:07:49 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.57",
-          "change": "-0.11%",
-          "direction": "down"
+          "value": "89.28",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "96.29",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "96.01",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4187.10",
+          "value": "4213.50",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.61",
-          "change": "+0.02%",
+          "value": "6.66",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        90.5999984741211,
-        90.68000030517578,
-        90.7300033569336,
-        90.7699966430664,
-        90.55000305175781,
-        90.72000122070312,
-        90.80999755859375,
-        90.7300033569336,
-        90.66000366210938,
-        90.66999816894531,
-        90.56999969482422
+        89.23999786376953,
+        89.29000091552734,
+        89.30000305175781,
+        89.30000305175781,
+        89.31999969482422,
+        89.31999969482422,
+        89.37000274658203,
+        89.3499984741211,
+        89.31999969482422,
+        89.2300033569336,
+        89.27999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-09-29 22:06 KST"
+      "status": "강세",
+      "freshness": "2026-09-30 08:29 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.090%",
+          "value": "4.065%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.064%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.063%",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.232%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.255%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.561%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.594%",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.223999977111816,
-        5.220999717712402,
-        5.22599983215332,
-        5.22599983215332,
-        5.22599983215332,
-        5.22599983215332,
-        5.227999687194824,
-        5.230000019073486,
-        5.230000019073486,
-        5.23199987411499,
-        5.23199987411499
+        5.263999938964844,
+        5.265999794006348,
+        5.265999794006348,
+        5.263999938964844,
+        5.263999938964844,
+        5.261000156402588,
+        5.263999938964844,
+        5.261000156402588,
+        5.261000156402588,
+        5.258999824523926,
+        5.255000114440918
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-09-29 22:01 KST"
+      "status": "완화",
+      "freshness": "2026-09-30 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7684.50",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "7671.85",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26822.09",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "26802.66",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6343.73",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6314.70",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7681.85986328125,
-        7681.18994140625,
-        7683.5,
-        7681.6201171875,
-        7681.08984375,
-        7678.14990234375,
-        7678.6201171875,
-        7680.93994140625,
-        7683.18017578125,
-        7684.68017578125,
-        7684.5
+        7671.2001953125,
+        7671.75,
+        7673.4501953125,
+        7674.4501953125,
+        7674.58984375,
+        7674.740234375,
+        7670.31005859375,
+        7668.91015625,
+        7672.419921875,
+        7671.1298828125,
+        7671.85009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-09-29 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-09-30 04:59 KST"
     },
     {
       "id": "fx",
@@ -299,44 +299,44 @@
         {
           "name": "DXY",
           "value": "101.38",
-          "change": "+0.00%",
-          "direction": "up"
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1354.95",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1351.93",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.33",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "157.41",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.6964",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6987",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1354.6099853515625,
-        1354.5899658203125,
-        1354.550048828125,
-        1354.5799560546875,
-        1354.6800537109375,
-        1354.780029296875,
-        1355.25,
-        1354.8900146484375,
-        1354.969970703125,
-        1355.199951171875,
-        1354.949951171875
+        1353.25,
+        1351.5699462890625,
+        1352.02001953125,
+        1351.949951171875,
+        1351.97998046875,
+        1352.18994140625,
+        1352.1300048828125,
+        1352.1400146484375,
+        1352.010009765625,
+        1351.1400146484375,
+        1351.9300537109375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-09-29 22:16 KST"
+      "status": "완화",
+      "freshness": "2026-09-30 08:39 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
