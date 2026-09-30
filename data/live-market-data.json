@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "collectedAt": "2026-09-29T23:39:55Z",
+  "collectedAt": "2026-09-30T09:03:56Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.07%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Rise With Micron,",
+      "title": "Dow, S&P 500, Nasdaq futures little",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks are resilient as Treasury yields rise but aren't thriving. Bloom Energy surged. Inflation data, Micron earnings loom.",
-      "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss"
+      "summary": "US stock futures steadied on Wednesday after Treasury yields advanced to fresh multidecade highs and investors awaited the latest signal on sticky inflation.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html?.tsrc=rss"
     },
     {
-      "title": "Accelevation Announces Pricing of",
+      "title": "The Stock Market Is Going to Soar,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "MIAMISBURG, Ohio, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Accelevation Holdings Corp. (“Accelevation”) today announced the pricing of its initial public offering of 30,000,000 shares of",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/accelevation-announces-pricing-initial-public-230400236.html?.tsrc=rss"
+      "summary": "The Wall Street consensus says the S&P 500 will advance 21% in the next year.",
+      "link": "https://www.fool.com/investing/2026/09/30/stock-market-will-soar-wall-street-what-investors-should-do/?.tsrc=rss"
     },
     {
-      "title": "S&P 500, Dow Extend Losses From",
+      "title": "Is a 5% Treasury Yield a Threat to",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "30-year Treasury yields are at their highest level since 2002.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss"
+      "summary": "Cathie Wood says a 10-year Treasury yield above 5% shows a working market, not a threat to stocks. See her 230-year case.",
+      "link": "https://beincrypto.com/cathie-wood-10-year-treasury-yield/?.tsrc=rss"
     },
     {
-      "title": "My mom paid $1,000 for a flight that",
-      "impact": "시장 전반",
+      "title": "Are Nasdaq Futures Rising Premarket?",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The same route, a few months apart, and the reason has nothing to do with fuel.",
-      "link": "https://www.thestreet.com/travel/airlines-are-raising-prices-but-many-fares-are-actually-falling?.tsrc=rss"
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ stayed ‘bullish.’",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-pce-gdp-micron-tesla-capr-vnda-hood-stocks/cZMFR9TRBhd?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise With Micron,",
-      "summary": "Stocks are resilient as Treasury yields rise but aren't thriving. Bloom Energy surged. Inflation data, Micron earnings loom.",
+      "title": "Dow, S&P 500, Nasdaq futures little",
+      "summary": "US stock futures steadied on Wednesday after Treasury yields advanced to fresh multidecade highs and investors awaited the latest signal on sticky inflation.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/0f05df74-8e19-37cc-8a3a-5b6885fbc760/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 23:10:02 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html?.tsrc=rss",
+      "published": "Wed, 30 Sep 2026 08:03:39 +0000"
     },
     {
-      "title": "Accelevation Announces Pricing of",
-      "summary": "MIAMISBURG, Ohio, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Accelevation Holdings Corp. (“Accelevation”) today announced the pricing of its initial public offering of 30,000,000 shares of",
+      "title": "The Stock Market Is Going to Soar,",
+      "summary": "The Wall Street consensus says the S&P 500 will advance 21% in the next year.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/accelevation-announces-pricing-initial-public-230400236.html?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 23:04:00 +0000"
+      "link": "https://www.fool.com/investing/2026/09/30/stock-market-will-soar-wall-street-what-investors-should-do/?.tsrc=rss",
+      "published": "Wed, 30 Sep 2026 08:32:01 +0000"
     },
     {
-      "title": "S&P 500, Dow Extend Losses From",
-      "summary": "30-year Treasury yields are at their highest level since 2002.",
+      "title": "Is a 5% Treasury Yield a Threat to",
+      "summary": "Cathie Wood says a 10-year Treasury yield above 5% shows a working market, not a threat to stocks. See her 230-year case.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-extend-losses-from-elevated-yield-pressure-spcx-tgt-aapl-mu-ntap-in-focus/cZMZLlCRBW0?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 22:30:08 +0000"
+      "link": "https://beincrypto.com/cathie-wood-10-year-treasury-yield/?.tsrc=rss",
+      "published": "Wed, 30 Sep 2026 08:31:49 +0000"
     },
     {
-      "title": "My mom paid $1,000 for a flight that",
-      "summary": "The same route, a few months apart, and the reason has nothing to do with fuel.",
-      "impact": "시장 전반",
+      "title": "Are Nasdaq Futures Rising Premarket?",
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ stayed ‘bullish.’",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.thestreet.com/travel/airlines-are-raising-prices-but-many-fares-are-actually-falling?.tsrc=rss",
-      "published": "Tue, 29 Sep 2026 22:07:49 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-pce-gdp-micron-tesla-capr-vnda-hood-stocks/cZMFR9TRBhd?.tsrc=rss",
+      "published": "Wed, 30 Sep 2026 08:29:53 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.28",
-          "change": "+0.06%",
+          "value": "89.72",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "96.01",
-          "change": "+0.01%",
+          "value": "96.76",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4213.50",
-          "change": "-0.01%",
+          "value": "4226.70",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.66",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.64",
+          "change": "-0.07%",
+          "direction": "down"
         }
       ],
       "trend": [
-        89.23999786376953,
-        89.29000091552734,
-        89.30000305175781,
-        89.30000305175781,
-        89.31999969482422,
-        89.31999969482422,
+        89.66000366210938,
+        89.61000061035156,
+        89.58000183105469,
         89.37000274658203,
-        89.3499984741211,
-        89.31999969482422,
-        89.2300033569336,
-        89.27999877929688
+        89.44999694824219,
+        89.38999938964844,
+        89.44999694824219,
+        89.48999786376953,
+        89.5999984741211,
+        89.62000274658203,
+        89.72000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-09-30 08:29 KST"
+      "freshness": "2026-09-30 17:53 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6826.16",
+          "value": "6862.19",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6314.70",
-          "change": "+0.00%",
+          "value": "6329.90",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.38",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.26",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1351.93",
-          "change": "+0.06%",
+          "value": "1352.88",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.41",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "157.00",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6987",
-          "change": "-0.06%",
+          "value": "6.6968",
+          "change": "-0.11%",
           "direction": "down"
         }
       ],
       "trend": [
-        1353.25,
-        1351.5699462890625,
-        1352.02001953125,
-        1351.949951171875,
-        1351.97998046875,
-        1352.18994140625,
-        1352.1300048828125,
-        1352.1400146484375,
-        1352.010009765625,
-        1351.1400146484375,
-        1351.9300537109375
+        1351.6099853515625,
+        1352.27001953125,
+        1351.8699951171875,
+        1351.5799560546875,
+        1351.3800048828125,
+        1351.6800537109375,
+        1351.52001953125,
+        1351.8499755859375,
+        1352.47998046875,
+        1352.47998046875,
+        1352.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-09-30 08:39 KST"
+      "status": "강세",
+      "freshness": "2026-09-30 18:03 KST"
     }
   ],
   "currentAction": {
