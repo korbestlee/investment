@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "collectedAt": "2026-10-01T09:29:09Z",
+  "collectedAt": "2026-10-01T13:49:59Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.16%",
+      "value": "-0.09%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.11%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.08%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "S&P 500 alarm bells are starting to",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Keep an eye on market breadth.",
-      "link": "https://finance.yahoo.com/markets/article/sp-500-alarm-bells-are-starting-to-go-off-092605517.html?.tsrc=rss"
-    },
-    {
-      "title": "1 Insurance Stock for Long-Term",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Insurance firms play a critical role in the financial system, offering everything from property coverage to life insurance and specialized risk solutions. But concerns about claims",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-insurance-stock-long-term-090107992.html?.tsrc=rss"
-    },
-    {
-      "title": "Ottawa expected to fast-track West",
+      "title": "Dow Flat As Yields Keep Rising;",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Ottawa is widely expected to designate the proposed $44B pipeline as a project of national interest, putting the government-backed line on an accelerated regulatory track",
-      "link": "https://financialpost.com/commodities/energy/ottawa-expected-to-fast-track-west-coast-oil-pipeline?.tsrc=rss"
+      "summary": "The Dow Jones index climbs Thursday even as Treasury yields extend their gains. Micron stock drops on earnings.",
+      "link": "https://finance.yahoo.com/m/5f6e8554-d4a8-3f1c-bce8-2f5074e2e587/stock-market-today%3A-dow-flat.html?.tsrc=rss"
     },
     {
-      "title": "Tech Rally Rolls On to Kick Off",
+      "title": "Sector Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Energy stocks were falling premarket Thursday, with the State Street Energy Select Sector SPDR ETF (",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-premarket-132758055.html?.tsrc=rss"
+    },
+    {
+      "title": "Agnico Eagle Mines (AEM), What Is",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Agnico Eagle Mines (AEM) drew fresh attention after a 1.1% gain on September 29, 2026, as investors reacted to supportive gold prices and its long-term plan to increase production ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-drawing-130752290.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Tech stocks were on track to open higher at the start of October as investors bet the Federal Reserve would hold interest rates steady at its end-of-month policy meeting.",
-      "link": "https://finance.yahoo.com/m/f5822262-8310-31c0-8bf9-0b1a69d0e8a3/tech-rally-rolls-on-to-kick.html?.tsrc=rss"
+      "summary": "(Updates with economic data, recent oil price movements, world markets' overview, and corporate stoc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125420163.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "S&P 500 alarm bells are starting to",
-      "summary": "Keep an eye on market breadth.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/sp-500-alarm-bells-are-starting-to-go-off-092605517.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 09:26:05 +0000"
-    },
-    {
-      "title": "1 Insurance Stock for Long-Term",
-      "summary": "Insurance firms play a critical role in the financial system, offering everything from property coverage to life insurance and specialized risk solutions. But concerns about claims",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-insurance-stock-long-term-090107992.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 09:01:07 +0000"
-    },
-    {
-      "title": "Ottawa expected to fast-track West",
-      "summary": "Ottawa is widely expected to designate the proposed $44B pipeline as a project of national interest, putting the government-backed line on an accelerated regulatory track",
+      "title": "Dow Flat As Yields Keep Rising;",
+      "summary": "The Dow Jones index climbs Thursday even as Treasury yields extend their gains. Micron stock drops on earnings.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://financialpost.com/commodities/energy/ottawa-expected-to-fast-track-west-coast-oil-pipeline?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 09:00:08 +0000"
+      "link": "https://finance.yahoo.com/m/5f6e8554-d4a8-3f1c-bce8-2f5074e2e587/stock-market-today%3A-dow-flat.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 13:47:53 +0000"
     },
     {
-      "title": "Tech Rally Rolls On to Kick Off",
-      "summary": "Tech stocks were on track to open higher at the start of October as investors bet the Federal Reserve would hold interest rates steady at its end-of-month policy meeting.",
+      "title": "Sector Update",
+      "summary": "Energy stocks were falling premarket Thursday, with the State Street Energy Select Sector SPDR ETF (",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-premarket-132758055.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 13:27:58 +0000"
+    },
+    {
+      "title": "Agnico Eagle Mines (AEM), What Is",
+      "summary": "Agnico Eagle Mines (AEM) drew fresh attention after a 1.1% gain on September 29, 2026, as investors reacted to supportive gold prices and its long-term plan to increase production ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-drawing-130752290.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 13:07:52 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with economic data, recent oil price movements, world markets' overview, and corporate stoc",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/f5822262-8310-31c0-8bf9-0b1a69d0e8a3/tech-rally-rolls-on-to-kick.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 08:28:04 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125420163.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 12:54:20 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.53",
-          "change": "+0.08%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "100.35",
-          "change": "-0.06%",
+          "value": "90.99",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "100.50",
+          "change": "+0.06%",
+          "direction": "up"
+        },
+        {
           "name": "Gold",
-          "value": "4189.60",
-          "change": "-0.00%",
+          "value": "4194.50",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.53",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.57",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        92.68000030517578,
-        92.69999694824219,
-        92.66000366210938,
-        92.62999725341797,
-        92.51000213623047,
-        92.5999984741211,
-        92.62000274658203,
-        92.5199966430664,
-        92.5,
-        92.45999908447266,
-        92.52999877929688
+        90.6500015258789,
+        90.66999816894531,
+        90.52999877929688,
+        90.62000274658203,
+        90.56999969482422,
+        90.75,
+        90.88999938964844,
+        90.94999694824219,
+        90.9800033569336,
+        91.0,
+        90.98999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-01 18:19 KST"
+      "status": "약세",
+      "freshness": "2026-10-01 22:39 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.030%",
+          "value": "4.008%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.089%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.086%",
+          "change": "+0.12%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.293%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.308%",
+          "change": "+0.11%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.638%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.666%",
+          "change": "+0.09%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.297999858856201,
-        5.293000221252441,
-        5.297999858856201,
-        5.295000076293945,
-        5.295000076293945,
-        5.293000221252441,
-        5.293000221252441,
-        5.293000221252441,
-        5.295000076293945,
-        5.293000221252441,
-        5.293000221252441
+        5.318999767303467,
+        5.316999912261963,
+        5.315000057220459,
+        5.316999912261963,
+        5.318999767303467,
+        5.318999767303467,
+        5.316999912261963,
+        5.315000057220459,
+        5.308000087738037,
+        5.302000045776367,
+        5.308000087738037
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-10-01 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-10-01 22:34 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7653.56",
-          "change": "-0.16%",
+          "value": "7655.72",
+          "change": "-0.09%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26866.44",
-          "change": "-0.15%",
+          "value": "26891.78",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6205.67",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6236.28",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7682.60986328125,
-        7673.93994140625,
-        7673.58984375,
-        7675.4599609375,
-        7675.43994140625,
-        7666.18994140625,
-        7666.93017578125,
-        7667.31982421875,
-        7667.39990234375,
-        7666.06982421875,
-        7653.56005859375
+        7676.97998046875,
+        7673.60009765625,
+        7668.22998046875,
+        7667.080078125,
+        7664.0400390625,
+        7664.5498046875,
+        7665.66015625,
+        7663.72998046875,
+        7660.259765625,
+        7662.4599609375,
+        7655.72021484375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-10-01 04:59 KST"
+      "freshness": "2026-10-01 22:49 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.76",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.80",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1361.32",
-          "change": "+0.05%",
+          "value": "1361.69",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.37",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "157.96",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
           "value": "6.6987",
-          "change": "-0.09%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1361.280029296875,
+        1361.9200439453125,
+        1361.8800048828125,
+        1362.0799560546875,
+        1362.5799560546875,
+        1362.5699462890625,
+        1362.47998046875,
+        1361.5799560546875,
+        1362.239990234375,
         1361.47998046875,
-        1360.8199462890625,
-        1360.3800048828125,
-        1360.8599853515625,
-        1360.8800048828125,
-        1361.3800048828125,
-        1361.25,
-        1360.949951171875,
-        1360.6800537109375,
-        1361.3199462890625
+        1361.5,
+        1361.68994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-01 18:29 KST"
+      "status": "강세",
+      "freshness": "2026-10-01 22:49 KST"
     }
   ],
   "currentAction": {
