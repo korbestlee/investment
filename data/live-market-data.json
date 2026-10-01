@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "collectedAt": "2026-09-30T23:43:15Z",
+  "collectedAt": "2026-10-01T09:29:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "'AI or bust",
+      "title": "S&P 500 alarm bells are starting to",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Wall Street fared better than expected in September, given the month's historical reputation as the worst month for stocks.",
-      "link": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html?.tsrc=rss"
+      "summary": "Keep an eye on market breadth.",
+      "link": "https://finance.yahoo.com/markets/article/sp-500-alarm-bells-are-starting-to-go-off-092605517.html?.tsrc=rss"
     },
     {
-      "title": "Micron Earnings Crush Views, S&P 500",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Nasdaq faded while the S&P 500 fell to its 50-day as Treasury yields keep running. Micron earnings easily beat views.",
-      "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss"
-    },
-    {
-      "title": "The war with Iran upended markets",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "It’s been a brutal month for bonds — but stocks mostly shrugged off the turmoil.",
-      "link": "https://www.cnn.com/2026/09/30/business/us-stocks-bonds-iran?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Dow End Lower As Investors",
+      "title": "1 Insurance Stock for Long-Term",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Dow ended the month lower, its first monthly decline since March this year.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-investors-shrug-off-cooler-than-expected-inflation-data-mgm-spcx-aapl-tsm-in-focus/cZMFmUrRBL1?.tsrc=rss"
+      "summary": "Insurance firms play a critical role in the financial system, offering everything from property coverage to life insurance and specialized risk solutions. But concerns about claims",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-insurance-stock-long-term-090107992.html?.tsrc=rss"
+    },
+    {
+      "title": "Ottawa expected to fast-track West",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Ottawa is widely expected to designate the proposed $44B pipeline as a project of national interest, putting the government-backed line on an accelerated regulatory track",
+      "link": "https://financialpost.com/commodities/energy/ottawa-expected-to-fast-track-west-coast-oil-pipeline?.tsrc=rss"
+    },
+    {
+      "title": "Tech Rally Rolls On to Kick Off",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Tech stocks were on track to open higher at the start of October as investors bet the Federal Reserve would hold interest rates steady at its end-of-month policy meeting.",
+      "link": "https://finance.yahoo.com/m/f5822262-8310-31c0-8bf9-0b1a69d0e8a3/tech-rally-rolls-on-to-kick.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "'AI or bust",
-      "summary": "Wall Street fared better than expected in September, given the month's historical reputation as the worst month for stocks.",
+      "title": "S&P 500 alarm bells are starting to",
+      "summary": "Keep an eye on market breadth.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html?.tsrc=rss",
-      "published": "Wed, 30 Sep 2026 22:47:59 +0000"
+      "link": "https://finance.yahoo.com/markets/article/sp-500-alarm-bells-are-starting-to-go-off-092605517.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 09:26:05 +0000"
     },
     {
-      "title": "Micron Earnings Crush Views, S&P 500",
-      "summary": "The Nasdaq faded while the S&P 500 fell to its 50-day as Treasury yields keep running. Micron earnings easily beat views.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/958fb542-74b3-3d16-bde8-baba1e31461e/dow-jones-futures%3A-micron.html?.tsrc=rss",
-      "published": "Wed, 30 Sep 2026 23:38:19 +0000"
-    },
-    {
-      "title": "The war with Iran upended markets",
-      "summary": "It’s been a brutal month for bonds — but stocks mostly shrugged off the turmoil.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.cnn.com/2026/09/30/business/us-stocks-bonds-iran?.tsrc=rss",
-      "published": "Wed, 30 Sep 2026 22:15:36 +0000"
-    },
-    {
-      "title": "S&P 500, Dow End Lower As Investors",
-      "summary": "Dow ended the month lower, its first monthly decline since March this year.",
+      "title": "1 Insurance Stock for Long-Term",
+      "summary": "Insurance firms play a critical role in the financial system, offering everything from property coverage to life insurance and specialized risk solutions. But concerns about claims",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-investors-shrug-off-cooler-than-expected-inflation-data-mgm-spcx-aapl-tsm-in-focus/cZMFmUrRBL1?.tsrc=rss",
-      "published": "Wed, 30 Sep 2026 21:23:29 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-insurance-stock-long-term-090107992.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 09:01:07 +0000"
+    },
+    {
+      "title": "Ottawa expected to fast-track West",
+      "summary": "Ottawa is widely expected to designate the proposed $44B pipeline as a project of national interest, putting the government-backed line on an accelerated regulatory track",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://financialpost.com/commodities/energy/ottawa-expected-to-fast-track-west-coast-oil-pipeline?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 09:00:08 +0000"
+    },
+    {
+      "title": "Tech Rally Rolls On to Kick Off",
+      "summary": "Tech stocks were on track to open higher at the start of October as investors bet the Federal Reserve would hold interest rates steady at its end-of-month policy meeting.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/f5822262-8310-31c0-8bf9-0b1a69d0e8a3/tech-rally-rolls-on-to-kick.html?.tsrc=rss",
+      "published": "Thu, 01 Oct 2026 08:28:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.09",
-          "change": "+0.01%",
+          "value": "92.53",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "97.67",
-          "change": "-0.02%",
+          "value": "100.35",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4184.00",
-          "change": "-0.01%",
+          "value": "4189.60",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.63",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.53",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        90.08000183105469,
-        90.08000183105469,
-        90.06999969482422,
-        90.08000183105469,
-        90.08999633789062,
-        90.0999984741211,
-        90.08999633789062,
-        90.06999969482422,
-        90.08000183105469,
-        90.08000183105469,
-        90.08999633789062
+        92.68000030517578,
+        92.69999694824219,
+        92.66000366210938,
+        92.62999725341797,
+        92.51000213623047,
+        92.5999984741211,
+        92.62000274658203,
+        92.5199966430664,
+        92.5,
+        92.45999908447266,
+        92.52999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-01 08:33 KST"
+      "freshness": "2026-10-01 18:19 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6862.19",
-          "change": "+0.02%",
+          "value": "6950.30",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6273.94",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6205.67",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.46",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1357.14",
-          "change": "-0.04%",
+          "value": "101.76",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "157.47",
-          "change": "+0.00%",
+          "name": "USDKRW",
+          "value": "1361.32",
+          "change": "+0.05%",
           "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.37",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
           "value": "6.6987",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "-0.09%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1358.0699462890625,
-        1358.0,
-        1357.6500244140625,
-        1357.8699951171875,
-        1357.9000244140625,
-        1357.3699951171875,
-        1357.3800048828125,
-        1357.3900146484375,
-        1357.0699462890625,
-        1357.6700439453125,
-        1357.1400146484375
+        1361.280029296875,
+        1361.47998046875,
+        1360.8199462890625,
+        1360.3800048828125,
+        1360.8599853515625,
+        1360.8800048828125,
+        1361.3800048828125,
+        1361.25,
+        1360.949951171875,
+        1360.6800537109375,
+        1361.3199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-01 08:43 KST"
+      "status": "완화",
+      "freshness": "2026-10-01 18:29 KST"
     }
   ],
   "currentAction": {
