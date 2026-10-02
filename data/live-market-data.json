@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-02",
-  "collectedAt": "2026-10-02T13:05:47Z",
+  "date": "2026-10-03",
+  "collectedAt": "2026-10-02T23:44:58Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.03%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Update",
-      "impact": "채권, 금리",
+      "title": "McFarlane Files Updated Mineral",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125850945.html?.tsrc=rss"
+      "summary": "Key Highlights 1.07 million indicated ounces of gold at 0.96 g/t contained in 34.68 million tonnes15.09 million inferred ounces of gold at 0.87 g/t contained in 183.05 million tonn",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mcfarlane-files-updated-mineral-estimate-223700658.html?.tsrc=rss"
     },
     {
-      "title": "Jobs Report",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "An October Fed rate hike is even less likely now.",
-      "link": "https://finance.yahoo.com/m/3e182634-ed94-3343-806f-8c347a8e5466/jobs-report%3A-soft-hiring.html?.tsrc=rss"
+      "title": "U.S. economy adds just 29,000 jobs",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
+      "link": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast?cid=external-feeds_iluminar_yahoo&.tsrc=rss"
     },
     {
-      "title": "Dow Rallies 500 Points On Surprise",
+      "title": "S&P 500, Nasdaq, Dow End Week Higher",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss"
+    },
+    {
+      "title": "Equinix (EQIX) Outpaced the Stock",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stock Market Today: The Dow Jones index rallies 500 points Friday on a surprise jobs report. Nike stock plunges on earnings.",
-      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-dow.html?.tsrc=rss"
-    },
-    {
-      "title": "Citi Says Investor Risk Positioning",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Citi said investor risk positioning remains concentrated in large-cap equities, while sentiment towards small-cap stocks continues to be bearish, according to a note from the bank.",
-      "link": "https://investorshub.advfn.com/market-news/article/37344/citi-says-investor-risk-positioning-remains-concentrated-in-large-cap-stocks?.tsrc=rss"
+      "summary": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-equinix-eqix-outpaced-stock-211502399.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Update",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "impact": "채권, 금리",
+      "title": "McFarlane Files Updated Mineral",
+      "summary": "Key Highlights 1.07 million indicated ounces of gold at 0.96 g/t contained in 34.68 million tonnes15.09 million inferred ounces of gold at 0.87 g/t contained in 183.05 million tonn",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125850945.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 12:58:50 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mcfarlane-files-updated-mineral-estimate-223700658.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 22:37:00 +0000"
     },
     {
-      "title": "Jobs Report",
-      "summary": "An October Fed rate hike is even less likely now.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/3e182634-ed94-3343-806f-8c347a8e5466/jobs-report%3A-soft-hiring.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 12:56:12 +0000"
+      "title": "U.S. economy adds just 29,000 jobs",
+      "summary": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 22:33:32 +0000"
     },
     {
-      "title": "Dow Rallies 500 Points On Surprise",
-      "summary": "Stock Market Today: The Dow Jones index rallies 500 points Friday on a surprise jobs report. Nike stock plunges on earnings.",
+      "title": "S&P 500, Nasdaq, Dow End Week Higher",
+      "summary": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 22:28:59 +0000"
+    },
+    {
+      "title": "Equinix (EQIX) Outpaced the Stock",
+      "summary": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 12:47:28 +0000"
-    },
-    {
-      "title": "Citi Says Investor Risk Positioning",
-      "summary": "Citi said investor risk positioning remains concentrated in large-cap equities, while sentiment towards small-cap stocks continues to be bearish, according to a note from the bank.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/37344/citi-says-investor-risk-positioning-remains-concentrated-in-large-cap-stocks?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 12:24:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-equinix-eqix-outpaced-stock-211502399.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 21:15:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.34",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "91.26",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "99.54",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "102.70",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4243.20",
-          "change": "+0.03%",
+          "value": "4172.10",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.58",
-          "change": "+0.01%",
+          "change": "+0.05%",
           "direction": "up"
         }
       ],
       "trend": [
-        89.4000015258789,
-        89.43000030517578,
-        89.37999725341797,
-        89.43000030517578,
-        89.4000015258789,
-        89.48999786376953,
-        89.4800033569336,
-        89.44999694824219,
-        89.4000015258789,
-        89.37999725341797,
-        89.33999633789062
+        91.29000091552734,
+        91.25,
+        91.33000183105469,
+        91.31999969482422,
+        91.33999633789062,
+        91.19000244140625,
+        91.2300033569336,
+        91.2699966430664,
+        91.23999786376953,
+        91.22000122070312,
+        91.26000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-02 21:55 KST"
+      "status": "강세",
+      "freshness": "2026-10-03 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.955%",
+          "value": "3.993%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.941%",
+          "value": "5.055%",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
+          "name": "UST 10Y",
+          "value": "5.277%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "UST 10Y",
-          "value": "5.188%",
-          "change": "+0.04%",
-          "direction": "up"
-        },
-        {
           "name": "UST 30Y",
-          "value": "5.577%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "5.630%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.175999641418457,
-        5.179999828338623,
-        5.179999828338623,
-        5.182000160217285,
-        5.185999870300293,
-        5.185999870300293,
-        5.179999828338623,
-        5.179999828338623,
-        5.184000015258789,
-        5.185999870300293,
-        5.188000202178955
+        5.2769999504089355,
+        5.279000282287598,
+        5.2769999504089355,
+        5.279000282287598,
+        5.279000282287598,
+        5.279000282287598,
+        5.279000282287598,
+        5.279000282287598,
+        5.281000137329102,
+        5.2769999504089355,
+        5.2769999504089355
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-10-02 21:50 KST"
+      "status": "중립",
+      "freshness": "2026-10-03 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7668.82",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "7723.49",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26878.79",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "27186.73",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6233.62",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6232.84",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7676.9501953125,
-        7681.8798828125,
-        7682.47998046875,
-        7680.06005859375,
-        7677.77001953125,
-        7673.43017578125,
-        7669.60009765625,
-        7669.7998046875,
-        7668.31982421875,
-        7666.5498046875,
-        7668.81982421875
+        7724.10986328125,
+        7725.83984375,
+        7725.60009765625,
+        7725.81005859375,
+        7727.490234375,
+        7723.259765625,
+        7721.93017578125,
+        7723.60009765625,
+        7724.75,
+        7723.64990234375,
+        7723.490234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-10-02 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-10-03 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.81",
+          "value": "101.92",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1344.38",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "1342.51",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "157.21",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "157.83",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
           "value": "6.6987",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "change": "-0.08%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1344.9300537109375,
-        1344.8699951171875,
-        1344.9300537109375,
-        1344.6800537109375,
-        1344.0899658203125,
-        1344.3800048828125,
-        1344.3800048828125,
-        1343.3800048828125,
-        1343.8900146484375,
-        1344.0400390625,
-        1344.3800048828125
+        1343.0999755859375,
+        1343.0899658203125,
+        1343.4200439453125,
+        1342.989990234375,
+        1343.030029296875,
+        1343.0999755859375,
+        1343.3499755859375,
+        1343.050048828125,
+        1342.510009765625,
+        1342.510009765625,
+        1342.510009765625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-02 22:05 KST"
+      "freshness": "2026-10-03 06:18 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
