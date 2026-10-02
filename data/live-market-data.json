@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "collectedAt": "2026-10-02T09:04:40Z",
+  "collectedAt": "2026-10-02T13:05:47Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,91 +40,91 @@
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures rise",
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html?.tsrc=rss"
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125850945.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Stock market rises slightly off key levels with Micron, Lumentum around buy points. Tesla deliveries, jobs report loom.",
-      "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
-    },
-    {
-      "title": "Asian stocks hit as oil spike fans",
+      "title": "Jobs Report",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Most Asian stocks dropped Friday as investors grow increasingly concerned about surging oil prices and bond yields, while key jobs data later in the day will be pored over for an i",
-      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-drop-oil-spike-025216685.html?.tsrc=rss"
+      "summary": "An October Fed rate hike is even less likely now.",
+      "link": "https://finance.yahoo.com/m/3e182634-ed94-3343-806f-8c347a8e5466/jobs-report%3A-soft-hiring.html?.tsrc=rss"
     },
     {
-      "title": "US Stock Market Today",
+      "title": "Dow Rallies 500 Points On Surprise",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Oct, 2 2026 US stock futures are mixed in early trade, with E-mini S&P 500 contracts roughly flat while Nasdaq-100 futures edge ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080644968.html?.tsrc=rss"
+      "summary": "Stock Market Today: The Dow Jones index rallies 500 points Friday on a surprise jobs report. Nike stock plunges on earnings.",
+      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-dow.html?.tsrc=rss"
+    },
+    {
+      "title": "Citi Says Investor Risk Positioning",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Citi said investor risk positioning remains concentrated in large-cap equities, while sentiment towards small-cap stocks continues to be bearish, according to a note from the bank.",
+      "link": "https://investorshub.advfn.com/market-news/article/37344/citi-says-investor-risk-positioning-remains-concentrated-in-large-cap-stocks?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures rise",
-      "summary": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
+      "title": "Update",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 08:06:23 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125850945.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 12:58:50 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices",
-      "summary": "Stock market rises slightly off key levels with Micron, Lumentum around buy points. Tesla deliveries, jobs report loom.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 08:55:49 +0000"
-    },
-    {
-      "title": "Asian stocks hit as oil spike fans",
-      "summary": "Most Asian stocks dropped Friday as investors grow increasingly concerned about surging oil prices and bond yields, while key jobs data later in the day will be pored over for an i",
+      "title": "Jobs Report",
+      "summary": "An October Fed rate hike is even less likely now.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-drop-oil-spike-025216685.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 08:19:06 +0000"
+      "link": "https://finance.yahoo.com/m/3e182634-ed94-3343-806f-8c347a8e5466/jobs-report%3A-soft-hiring.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 12:56:12 +0000"
     },
     {
-      "title": "US Stock Market Today",
-      "summary": "The Morning Bull - US Market Morning Update Friday, Oct, 2 2026 US stock futures are mixed in early trade, with E-mini S&P 500 contracts roughly flat while Nasdaq-100 futures edge ",
+      "title": "Dow Rallies 500 Points On Surprise",
+      "summary": "Stock Market Today: The Dow Jones index rallies 500 points Friday on a surprise jobs report. Nike stock plunges on earnings.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080644968.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 08:06:44 +0000"
+      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 12:47:28 +0000"
+    },
+    {
+      "title": "Citi Says Investor Risk Positioning",
+      "summary": "Citi said investor risk positioning remains concentrated in large-cap equities, while sentiment towards small-cap stocks continues to be bearish, according to a note from the bank.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/37344/citi-says-investor-risk-positioning-remains-concentrated-in-large-cap-stocks?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 12:24:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.19",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "89.34",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "99.20",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "99.54",
+          "change": "-0.10%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4212.80",
-          "change": "+0.01%",
+          "value": "4243.20",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "+0.02%",
+          "value": "6.58",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        89.55999755859375,
-        89.37999725341797,
         89.4000015258789,
+        89.43000030517578,
+        89.37999725341797,
+        89.43000030517578,
+        89.4000015258789,
+        89.48999786376953,
+        89.4800033569336,
         89.44999694824219,
-        89.33999633789062,
-        89.38999938964844,
-        89.16000366210938,
-        89.12000274658203,
-        89.2300033569336,
-        89.18000030517578,
-        89.19000244140625
+        89.4000015258789,
+        89.37999725341797,
+        89.33999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-02 17:54 KST"
+      "status": "약세",
+      "freshness": "2026-10-02 21:55 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.982%",
+          "value": "3.955%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.005%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.941%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "5.237%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.188%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.603%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "5.577%",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.236999988555908,
-        5.234000205993652,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.238999843597412,
-        5.236999988555908
+        5.175999641418457,
+        5.179999828338623,
+        5.179999828338623,
+        5.182000160217285,
+        5.185999870300293,
+        5.185999870300293,
+        5.179999828338623,
+        5.179999828338623,
+        5.184000015258789,
+        5.185999870300293,
+        5.188000202178955
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-02 03:59 KST"
+      "status": "압박",
+      "freshness": "2026-10-02 21:50 KST"
     },
     {
       "id": "indices",
@@ -268,7 +268,7 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6251.84",
+          "value": "6233.62",
           "change": "+0.02%",
           "direction": "up"
         }
@@ -298,21 +298,21 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.93",
-          "change": "-0.00%",
+          "value": "101.81",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1348.21",
-          "change": "+0.01%",
+          "value": "1344.38",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.62",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "157.21",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1347.1800537109375,
-        1346.280029296875,
-        1346.8499755859375,
-        1346.8900146484375,
-        1344.8800048828125,
-        1346.7900390625,
-        1347.510009765625,
-        1348.1800537109375,
-        1348.18994140625,
-        1348.1400146484375,
-        1348.2099609375
+        1344.9300537109375,
+        1344.8699951171875,
+        1344.9300537109375,
+        1344.6800537109375,
+        1344.0899658203125,
+        1344.3800048828125,
+        1344.3800048828125,
+        1343.3800048828125,
+        1343.8900146484375,
+        1344.0400390625,
+        1344.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-02 18:04 KST"
+      "freshness": "2026-10-02 22:05 KST"
     }
   ],
   "currentAction": {
