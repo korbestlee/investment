@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "collectedAt": "2026-10-01T23:51:40Z",
+  "collectedAt": "2026-10-02T09:04:40Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.03%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "RingCentral, Sprout Social,",
+      "title": "Dow, S&P 500, Nasdaq futures rise",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "A number of stocks jumped in the afternoon session after strength across artificial intelligence and technology equities helped lift major market averages, offsetting macroeconomic",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-sprout-social-blackline-sprinklr-233307066.html?.tsrc=rss"
+      "summary": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html?.tsrc=rss"
     },
     {
-      "title": "Thomson Reuters Stock Topped the",
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Stock market rises slightly off key levels with Micron, Lumentum around buy points. Tesla deliveries, jobs report loom.",
+      "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss"
+    },
+    {
+      "title": "Asian stocks hit as oil spike fans",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Most Asian stocks dropped Friday as investors grow increasingly concerned about surging oil prices and bond yields, while key jobs data later in the day will be pored over for an i",
+      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-drop-oil-spike-025216685.html?.tsrc=rss"
+    },
+    {
+      "title": "US Stock Market Today",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "It's leaving the past behind, and investors cheered the move.",
-      "link": "https://www.fool.com/investing/2026/10/01/why-thomson-reuters-stock-topped-the-market-on-thursday/?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow Futures Inch",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "10-year Treasury yields cooled off from the 2002 highs on Thursday.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-cheer-cooling-yields-googl-mu-mat-nvda-in-focus/cZD0mZmRB01?.tsrc=rss"
-    },
-    {
-      "title": "Capital Regency Expands Multi-Asset",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Capital Regency Expands Multi-Asset Investment Platform With Access to 100+ International Markets Capital Regency London, UK, Oct. 01, 2026 (GLOBE NEWSWIRE) -- Capital Regency has ",
-      "link": "https://finance.yahoo.com/markets/articles/capital-regency-expands-multi-asset-225800866.html?.tsrc=rss"
+      "summary": "The Morning Bull - US Market Morning Update Friday, Oct, 2 2026 US stock futures are mixed in early trade, with E-mini S&P 500 contracts roughly flat while Nasdaq-100 futures edge ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080644968.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "RingCentral, Sprout Social,",
-      "summary": "A number of stocks jumped in the afternoon session after strength across artificial intelligence and technology equities helped lift major market averages, offsetting macroeconomic",
+      "title": "Dow, S&P 500, Nasdaq futures rise",
+      "summary": "The Labor Department's September jobs report, oil prices, and bond yields were the key things to watch on Friday in markets.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-sprout-social-blackline-sprinklr-233307066.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 23:33:07 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 08:06:23 +0000"
     },
     {
-      "title": "Thomson Reuters Stock Topped the",
-      "summary": "It's leaving the past behind, and investors cheered the move.",
+      "title": "Dow Jones Futures Rise, Oil Prices",
+      "summary": "Stock market rises slightly off key levels with Micron, Lumentum around buy points. Tesla deliveries, jobs report loom.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 08:55:49 +0000"
+    },
+    {
+      "title": "Asian stocks hit as oil spike fans",
+      "summary": "Most Asian stocks dropped Friday as investors grow increasingly concerned about surging oil prices and bond yields, while key jobs data later in the day will be pored over for an i",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-drop-oil-spike-025216685.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 08:19:06 +0000"
+    },
+    {
+      "title": "US Stock Market Today",
+      "summary": "The Morning Bull - US Market Morning Update Friday, Oct, 2 2026 US stock futures are mixed in early trade, with E-mini S&P 500 contracts roughly flat while Nasdaq-100 futures edge ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/01/why-thomson-reuters-stock-topped-the-market-on-thursday/?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 23:31:39 +0000"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow Futures Inch",
-      "summary": "10-year Treasury yields cooled off from the 2002 highs on Thursday.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-inch-higher-as-investors-cheer-cooling-yields-googl-mu-mat-nvda-in-focus/cZD0mZmRB01?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 23:27:59 +0000"
-    },
-    {
-      "title": "Capital Regency Expands Multi-Asset",
-      "summary": "Capital Regency Expands Multi-Asset Investment Platform With Access to 100+ International Markets Capital Regency London, UK, Oct. 01, 2026 (GLOBE NEWSWIRE) -- Capital Regency has ",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/articles/capital-regency-expands-multi-asset-225800866.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 22:58:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080644968.html?.tsrc=rss",
+      "published": "Fri, 02 Oct 2026 08:06:44 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.99",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "89.19",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "102.43",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "99.20",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4207.60",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4212.80",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.58",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.57",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        93.01000213623047,
-        93.0199966430664,
-        93.01000213623047,
-        93.01000213623047,
-        93.0,
-        92.98999786376953,
-        92.9800033569336,
-        92.9800033569336,
-        92.9800033569336,
-        92.98999786376953,
-        92.98999786376953
+        89.55999755859375,
+        89.37999725341797,
+        89.4000015258789,
+        89.44999694824219,
+        89.33999633789062,
+        89.38999938964844,
+        89.16000366210938,
+        89.12000274658203,
+        89.2300033569336,
+        89.18000030517578,
+        89.19000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-10-02 08:41 KST"
+      "status": "강세",
+      "freshness": "2026-10-02 17:54 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6950.30",
-          "change": "+0.05%",
+          "value": "6983.47",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6188.13",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6251.84",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,19 +298,19 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.02",
-          "change": "-0.03%",
+          "value": "101.93",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1360.18",
-          "change": "+0.02%",
+          "value": "1348.21",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.87",
+          "value": "157.62",
           "change": "-0.01%",
           "direction": "down"
         },
@@ -322,21 +322,21 @@
         }
       ],
       "trend": [
-        1360.0,
-        1359.9300537109375,
-        1359.9599609375,
-        1359.93994140625,
-        1359.93994140625,
-        1359.6500244140625,
-        1359.8800048828125,
-        1360.050048828125,
-        1359.739990234375,
-        1359.8800048828125,
-        1360.1800537109375
+        1347.1800537109375,
+        1346.280029296875,
+        1346.8499755859375,
+        1346.8900146484375,
+        1344.8800048828125,
+        1346.7900390625,
+        1347.510009765625,
+        1348.1800537109375,
+        1348.18994140625,
+        1348.1400146484375,
+        1348.2099609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-02 08:51 KST"
+      "freshness": "2026-10-02 18:04 KST"
     }
   ],
   "currentAction": {
