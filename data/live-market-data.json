@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-03",
-  "collectedAt": "2026-10-02T23:44:58Z",
+  "date": "2026-10-05",
+  "collectedAt": "2026-10-05T09:40:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "McFarlane Files Updated Mineral",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Key Highlights 1.07 million indicated ounces of gold at 0.96 g/t contained in 34.68 million tonnes15.09 million inferred ounces of gold at 0.87 g/t contained in 183.05 million tonn",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/mcfarlane-files-updated-mineral-estimate-223700658.html?.tsrc=rss"
-    },
-    {
-      "title": "U.S. economy adds just 29,000 jobs",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
-      "link": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast?cid=external-feeds_iluminar_yahoo&.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow End Week Higher",
+      "title": "Dow, S&P 500, Nasdaq futures drift",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss"
+      "summary": "Investors took stock of rising bond yields and the upcoming earnings season ahead of a relatively quiet week.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html?.tsrc=rss"
     },
     {
-      "title": "Equinix (EQIX) Outpaced the Stock",
+      "title": "Nasdaq, S&P 500, Dow Futures Steady",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ remained ‘bullish’ since last week.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-steady-ahead-of-fed-minutes-this-week-tsla-spcx-cbrs-qcom-ptc-ibrx-stocks-in-focus/cZDpqtXRBSV?.tsrc=rss"
+    },
+    {
+      "title": "The S&P 500 Has Never Been Lower 12",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-equinix-eqix-outpaced-stock-211502399.html?.tsrc=rss"
+      "summary": "Will the 20th time be the charm?",
+      "link": "https://www.fool.com/investing/2026/10/05/the-s-and-p-500-has-never-been-lower-12-months-after-a-midterm-election-not-once-in-19-tries-here-s-whether-2026-could-finally-break-that-streak/?.tsrc=rss"
+    },
+    {
+      "title": "Ithaca Energy shares rise 3% on $860",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Investing.com -- Shares in North Sea oil producer Ithaca Energy rose 3% on Monday after it agreed to buy Suncor Energy’s offshore Canadian assets for $860 million in cash, marking ",
+      "link": "https://finance.yahoo.com/energy/articles/ithaca-energy-shares-rise-3-083048014.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "McFarlane Files Updated Mineral",
-      "summary": "Key Highlights 1.07 million indicated ounces of gold at 0.96 g/t contained in 34.68 million tonnes15.09 million inferred ounces of gold at 0.87 g/t contained in 183.05 million tonn",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/mcfarlane-files-updated-mineral-estimate-223700658.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 22:37:00 +0000"
-    },
-    {
-      "title": "U.S. economy adds just 29,000 jobs",
-      "summary": "ZipRecruiter labor economist Nicole Bachaud reacts to the numbers.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 22:33:32 +0000"
-    },
-    {
-      "title": "S&P 500, Nasdaq, Dow End Week Higher",
-      "summary": "The U.S. economy added 29,000 jobs last month, with unemployment rising to 4.2%, lower than what economists expected.",
+      "title": "Dow, S&P 500, Nasdaq futures drift",
+      "summary": "Investors took stock of rising bond yields and the upcoming earnings season ahead of a relatively quiet week.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 22:28:59 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 08:12:20 +0000"
     },
     {
-      "title": "Equinix (EQIX) Outpaced the Stock",
-      "summary": "The latest trading day saw Equinix (EQIX) settling at $1, representing a +1.32% change from its previous close.",
+      "title": "Nasdaq, S&P 500, Dow Futures Steady",
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ remained ‘bullish’ since last week.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-steady-ahead-of-fed-minutes-this-week-tsla-spcx-cbrs-qcom-ptc-ibrx-stocks-in-focus/cZDpqtXRBSV?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 08:52:40 +0000"
+    },
+    {
+      "title": "The S&P 500 Has Never Been Lower 12",
+      "summary": "Will the 20th time be the charm?",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-equinix-eqix-outpaced-stock-211502399.html?.tsrc=rss",
-      "published": "Fri, 02 Oct 2026 21:15:02 +0000"
+      "link": "https://www.fool.com/investing/2026/10/05/the-s-and-p-500-has-never-been-lower-12-months-after-a-midterm-election-not-once-in-19-tries-here-s-whether-2026-could-finally-break-that-streak/?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 08:46:01 +0000"
+    },
+    {
+      "title": "Ithaca Energy shares rise 3% on $860",
+      "summary": "Investing.com -- Shares in North Sea oil producer Ithaca Energy rose 3% on Monday after it agreed to buy Suncor Energy’s offshore Canadian assets for $860 million in cash, marking ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/ithaca-energy-shares-rise-3-083048014.html?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 08:30:48 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.26",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "90.29",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "102.70",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "102.01",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4172.10",
-          "change": "+0.07%",
+          "value": "4194.80",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.58",
-          "change": "+0.05%",
+          "value": "6.61",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        91.29000091552734,
-        91.25,
-        91.33000183105469,
-        91.31999969482422,
-        91.33999633789062,
-        91.19000244140625,
-        91.2300033569336,
-        91.2699966430664,
-        91.23999786376953,
-        91.22000122070312,
-        91.26000213623047
+        90.61000061035156,
+        90.56999969482422,
+        90.33999633789062,
+        90.26000213623047,
+        90.16999816894531,
+        90.22000122070312,
+        90.26000213623047,
+        90.26000213623047,
+        90.2699966430664,
+        90.30000305175781,
+        90.29000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-03 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-10-05 18:30 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6232.84",
-          "change": "-0.00%",
+          "value": "6225.65",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.92",
-          "change": "-0.01%",
+          "value": "102.09",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1342.51",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1343.62",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.83",
+          "value": "157.91",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6987",
-          "change": "-0.08%",
+          "value": "6.6963",
+          "change": "-0.13%",
           "direction": "down"
         }
       ],
       "trend": [
-        1343.0999755859375,
-        1343.0899658203125,
-        1343.4200439453125,
         1342.989990234375,
-        1343.030029296875,
-        1343.0999755859375,
+        1343.31005859375,
         1343.3499755859375,
-        1343.050048828125,
-        1342.510009765625,
-        1342.510009765625,
-        1342.510009765625
+        1343.68994140625,
+        1343.449951171875,
+        1343.56005859375,
+        1343.5400390625,
+        1343.6600341796875,
+        1343.52001953125,
+        1343.75,
+        1343.6199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-03 06:18 KST"
+      "freshness": "2026-10-05 18:40 KST"
     }
   ],
   "currentAction": {
