@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "collectedAt": "2026-10-05T15:12:40Z",
+  "collectedAt": "2026-10-06T01:17:12Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,19 +40,19 @@
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.14%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "The Global Diesel Crisis Could",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Diesel just crossed $6.50 a gallon, and two emergency moves landed within hours of each other on opposite sides of the planet. One came from an old alliance under pressure, the oth",
-      "link": "https://247wallst.com/investing/2026/10/05/the-global-diesel-crisis-could-finally-get-some-relief-from-an-unexpected-source/?.tsrc=rss"
-    },
-    {
-      "title": "2 S&P 500 Stocks to Research Further",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-144300843.html?.tsrc=rss"
-    },
-    {
-      "title": "1 S&P 500 Stock with Exciting",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-143500027.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow Dips As Treasury Yields Rise;",
-      "impact": "채권, 금리",
+      "title": "Oil prices edge lower as markets",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Stock Market Today: The Dow Jones index falls Monday as Treasury yields climb. Nvidia stock rallies above a buy point.",
-      "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow-dips.html?.tsrc=rss"
+      "summary": "Investing.com-- Oil prices fell early-Tuesday, extending recent losses after major producer Saudi Aramco unexpectedly cut November crude prices for Asia, while focus remained on su",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html?.tsrc=rss"
+    },
+    {
+      "title": "Standard Chartered Says Hormuz Oil",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Exporters have adapted through pipelines, bypass ports and extensive ship-to-ship transfers, but the system is more expensive, inefficient and increasingly stretched, with elevated",
+      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-says-hormuz-oil-000000808.html?.tsrc=rss"
+    },
+    {
+      "title": "Review & Preview",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading.",
+      "link": "https://finance.yahoo.com/m/e58c053f-e869-304f-a891-acec3e7826f5/review-%26-preview%3A-artificial.html?.tsrc=rss"
+    },
+    {
+      "title": "Nasdaq Hits Record Highs; TSMC,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
+      "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Global Diesel Crisis Could",
-      "summary": "Diesel just crossed $6.50 a gallon, and two emergency moves landed within hours of each other on opposite sides of the planet. One came from an old alliance under pressure, the oth",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/10/05/the-global-diesel-crisis-could-finally-get-some-relief-from-an-unexpected-source/?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 14:44:56 +0000"
-    },
-    {
-      "title": "2 S&P 500 Stocks to Research Further",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-144300843.html?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 14:43:00 +0000"
-    },
-    {
-      "title": "1 S&P 500 Stock with Exciting",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-143500027.html?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 14:35:00 +0000"
-    },
-    {
-      "title": "Dow Dips As Treasury Yields Rise;",
-      "summary": "Stock Market Today: The Dow Jones index falls Monday as Treasury yields climb. Nvidia stock rallies above a buy point.",
-      "impact": "채권, 금리",
+      "title": "Oil prices edge lower as markets",
+      "summary": "Investing.com-- Oil prices fell early-Tuesday, extending recent losses after major producer Saudi Aramco unexpectedly cut November crude prices for Asia, while focus remained on su",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/b052bf47-576e-3ce4-8529-4e950340dfb3/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 14:14:17 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 00:39:03 +0000"
+    },
+    {
+      "title": "Standard Chartered Says Hormuz Oil",
+      "summary": "Exporters have adapted through pipelines, bypass ports and extensive ship-to-ship transfers, but the system is more expensive, inefficient and increasingly stretched, with elevated",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-says-hormuz-oil-000000808.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Review & Preview",
+      "summary": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/e58c053f-e869-304f-a891-acec3e7826f5/review-%26-preview%3A-artificial.html?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 23:55:00 +0000"
+    },
+    {
+      "title": "Nasdaq Hits Record Highs; TSMC,",
+      "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+      "published": "Mon, 05 Oct 2026 22:35:32 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.63",
-          "change": "+0.14%",
-          "direction": "up"
+          "value": "89.41",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "102.10",
-          "change": "+0.15%",
-          "direction": "up"
+          "value": "100.38",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4173.10",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4176.40",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.64",
+          "value": "6.68",
           "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.4800033569336,
-        90.45999908447266,
-        90.37000274658203,
-        90.45999908447266,
-        90.4000015258789,
-        90.37999725341797,
-        90.44000244140625,
-        90.52999877929688,
-        90.5,
-        90.5,
-        90.62999725341797
+        89.37999725341797,
+        89.38999938964844,
+        89.38999938964844,
+        89.41000366210938,
+        89.37999725341797,
+        89.37999725341797,
+        89.38999938964844,
+        89.4000015258789,
+        89.41000366210938,
+        89.41000366210938,
+        89.41000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-06 00:02 KST"
+      "status": "중립",
+      "freshness": "2026-10-06 10:07 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.003%",
+          "value": "4.018%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.073%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.066%",
+          "change": "-0.12%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.315%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.311%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.670%",
-          "change": "-0.02%",
+          "value": "5.665%",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        5.313000202178955,
-        5.315000057220459,
-        5.315000057220459,
+        5.329999923706055,
+        5.329999923706055,
+        5.328000068664551,
+        5.325999736785889,
+        5.324000358581543,
+        5.324000358581543,
+        5.324000358581543,
+        5.322000026702881,
         5.318999767303467,
-        5.316999912261963,
-        5.316999912261963,
-        5.316999912261963,
         5.315000057220459,
-        5.318999767303467,
-        5.315000057220459,
-        5.315000057220459
+        5.310999870300293
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-10-05 23:57 KST"
+      "status": "완화",
+      "freshness": "2026-10-06 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7754.17",
+          "value": "7774.22",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "27387.49",
-          "change": "+0.02%",
+          "value": "27471.42",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "KOSPI",
-          "value": "6983.47",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6989.82",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6244.78",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6236.42",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7755.3701171875,
-        7754.259765625,
-        7756.6298828125,
-        7755.14990234375,
-        7754.35986328125,
-        7754.72021484375,
-        7754.259765625,
-        7752.7998046875,
-        7754.16015625,
-        7753.14990234375,
-        7754.169921875
+        7778.43994140625,
+        7775.10986328125,
+        7774.89990234375,
+        7773.02978515625,
+        7772.39013671875,
+        7771.740234375,
+        7770.0498046875,
+        7771.58984375,
+        7772.2001953125,
+        7773.2099609375,
+        7774.22021484375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-10-06 00:12 KST"
+      "freshness": "2026-10-06 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.18",
+          "value": "102.09",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1344.38",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDKRW",
-          "value": "1342.10",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
           "name": "USDJPY",
-          "value": "158.03",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.83",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6963",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6938",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1341.800048828125,
-        1342.1700439453125,
-        1342.3199462890625,
-        1342.3399658203125,
-        1342.1400146484375,
-        1342.1300048828125,
-        1341.27001953125,
-        1341.760009765625,
-        1342.02001953125,
-        1341.75,
-        1342.0999755859375
+        1342.3800048828125,
+        1343.3800048828125,
+        1343.280029296875,
+        1343.47998046875,
+        1343.5799560546875,
+        1344.280029296875,
+        1344.780029296875,
+        1344.6800537109375,
+        1344.510009765625,
+        1344.280029296875,
+        1344.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-06 00:12 KST"
+      "status": "완화",
+      "freshness": "2026-10-06 10:17 KST"
     }
   ],
   "currentAction": {
