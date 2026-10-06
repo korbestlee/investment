@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "collectedAt": "2026-10-06T13:34:03Z",
+  "date": "2026-10-07",
+  "collectedAt": "2026-10-06T23:45:52Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,25 +34,25 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.04%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.05%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Bank of America says the end of AI",
+      "title": "3 Value ETFs Head to Head. One",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the Nasdaq's (^IXIC) fresh record high in conjunction with the note Bank of America published on Monday.",
-      "link": "https://finance.yahoo.com/video/why-bank-america-says-end-130640291.html?.tsrc=rss"
+      "summary": "Three large-cap value funds share the same general playbook but landed in very different places over the past year, and the gap comes down to decisions buried inside their indexes ",
+      "link": "https://247wallst.com/investing/etf/2026/10/06/3-value-etfs-head-to-head-one-charges-0-03-and-returned-19-over-the-past-year/?.tsrc=rss"
     },
     {
-      "title": "Sector Update",
+      "title": "Curtiss-Wright, Tecnoglass, AAON,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Energy stocks were declining pre-bell Tuesday, with the State Street Energy Select Sector SPDR ETF (",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-pre-132705799.html?.tsrc=rss"
+      "summary": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data c",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-tecnoglass-aaon-primoris-224034093.html?.tsrc=rss"
     },
     {
-      "title": "Exchange-Traded Funds, Equity",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131237791.html?.tsrc=rss"
+      "title": "S&P 500 And Nasdaq 100 Soar To",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Constellation Energy was the top Nasdaq 100 gainer on its multi-year nuclear power deal with Google.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-soar-to-record-highs-amid-rising-bets-of-strong-quarterly-earnings-ceg-lcid-spcx-mrvl-in-focus/cZDtSxvRBlj?.tsrc=rss"
     },
     {
-      "title": "3 Oil Stocks With Direct Exposure To",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Energy chokepoints from the Strait of Hormuz to Bab el-Mandeb are back on every trader’s screen, as headlines from Yemen, Iran and Saudi Arabia keep a firm floor under oil risk. Pr",
-      "link": "https://finance.yahoo.com/energy/articles/3-oil-stocks-direct-exposure-130739980.html?.tsrc=rss"
+      "title": "S&P 500 Hits High As Astera, GE",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Bank of America says the end of AI",
-      "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the Nasdaq's (^IXIC) fresh record high in conjunction with the note Bank of America published on Monday.",
+      "title": "3 Value ETFs Head to Head. One",
+      "summary": "Three large-cap value funds share the same general playbook but landed in very different places over the past year, and the gap comes down to decisions buried inside their indexes ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/video/why-bank-america-says-end-130640291.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 13:06:40 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/10/06/3-value-etfs-head-to-head-one-charges-0-03-and-returned-19-over-the-past-year/?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 23:03:05 +0000"
     },
     {
-      "title": "Sector Update",
-      "summary": "Energy stocks were declining pre-bell Tuesday, with the State Street Energy Select Sector SPDR ETF (",
+      "title": "Curtiss-Wright, Tecnoglass, AAON,",
+      "summary": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data c",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-pre-132705799.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 13:27:05 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-tecnoglass-aaon-primoris-224034093.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 22:40:34 +0000"
     },
     {
-      "title": "Exchange-Traded Funds, Equity",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131237791.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 13:12:37 +0000"
+      "title": "S&P 500 And Nasdaq 100 Soar To",
+      "summary": "Constellation Energy was the top Nasdaq 100 gainer on its multi-year nuclear power deal with Google.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-soar-to-record-highs-amid-rising-bets-of-strong-quarterly-earnings-ceg-lcid-spcx-mrvl-in-focus/cZDtSxvRBlj?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 22:35:29 +0000"
     },
     {
-      "title": "3 Oil Stocks With Direct Exposure To",
-      "summary": "Energy chokepoints from the Strait of Hormuz to Bab el-Mandeb are back on every trader’s screen, as headlines from Yemen, Iran and Saudi Arabia keep a firm floor under oil risk. Pr",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/3-oil-stocks-direct-exposure-130739980.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 13:07:39 +0000"
+      "title": "S&P 500 Hits High As Astera, GE",
+      "summary": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 22:35:06 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "88.02",
-          "change": "+0.05%",
+          "value": "89.99",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "97.99",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "101.15",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4192.00",
-          "change": "-0.03%",
+          "value": "4196.50",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.64",
+          "value": "6.66",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        87.87000274658203,
-        87.95999908447266,
-        88.0199966430664,
-        88.01000213623047,
-        88.08999633789062,
-        88.19000244140625,
-        88.05000305175781,
-        87.94999694824219,
-        88.04000091552734,
-        87.9800033569336,
-        88.0199966430664
+        89.87999725341797,
+        89.87000274658203,
+        89.86000061035156,
+        89.87000274658203,
+        89.91000366210938,
+        89.91999816894531,
+        89.9000015258789,
+        89.91999816894531,
+        89.91999816894531,
+        89.94000244140625,
+        89.98999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-06 22:23 KST"
+      "freshness": "2026-10-07 08:31 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.035%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.037%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "5.037%",
+          "value": "5.028%",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.288%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "5.269%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.661%",
-          "change": "+0.02%",
+          "value": "5.641%",
+          "change": "+0.04%",
           "direction": "up"
         }
       ],
       "trend": [
-        5.2769999504089355,
+        5.270999908447266,
+        5.270999908447266,
         5.2729997634887695,
-        5.2769999504089355,
-        5.2820000648498535,
-        5.283999919891357,
-        5.283999919891357,
-        5.2860002517700195,
-        5.288000106811523,
-        5.2860002517700195,
-        5.2860002517700195,
-        5.288000106811523
+        5.2729997634887695,
+        5.2729997634887695,
+        5.2729997634887695,
+        5.2729997634887695,
+        5.270999908447266,
+        5.269000053405762,
+        5.269000053405762,
+        5.269000053405762
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-10-06 22:18 KST"
+      "status": "중립",
+      "freshness": "2026-10-07 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7812.32",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7819.83",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "27636.13",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "27601.91",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6268.97",
-          "change": "+0.01%",
+          "value": "6276.13",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7772.39013671875,
-        7771.740234375,
-        7770.0498046875,
-        7771.58984375,
-        7772.2001953125,
-        7773.2099609375,
-        7774.22021484375,
-        7816.22998046875,
-        7810.56005859375,
-        7813.0498046875,
-        7812.31982421875
+        7823.08984375,
+        7822.06982421875,
+        7821.2099609375,
+        7821.10009765625,
+        7819.8701171875,
+        7818.33984375,
+        7820.08984375,
+        7818.740234375,
+        7819.080078125,
+        7819.60986328125,
+        7819.830078125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-06 22:33 KST"
+      "status": "강세",
+      "freshness": "2026-10-07 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.87",
-          "change": "+0.01%",
+          "value": "101.89",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1338.44",
-          "change": "-0.01%",
+          "value": "1338.70",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.97",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "158.28",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6918",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.7040",
+          "change": "+0.18%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1338.5400390625,
-        1339.3599853515625,
-        1338.43994140625,
-        1338.699951171875,
-        1338.4200439453125,
-        1338.6500244140625,
-        1338.6800537109375,
-        1338.949951171875,
-        1338.530029296875,
-        1338.6099853515625,
-        1338.43994140625
+        1337.43994140625,
+        1338.199951171875,
+        1339.1400146484375,
+        1339.510009765625,
+        1339.6400146484375,
+        1339.6800537109375,
+        1339.6300048828125,
+        1339.7099609375,
+        1339.5699462890625,
+        1338.9300537109375,
+        1338.699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-06 22:33 KST"
+      "freshness": "2026-10-07 08:45 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
