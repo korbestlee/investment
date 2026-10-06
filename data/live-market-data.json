@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "collectedAt": "2026-10-06T01:17:12Z",
+  "collectedAt": "2026-10-06T09:29:44Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices edge lower as markets",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow, S&P 500, Nasdaq futures climb",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com-- Oil prices fell early-Tuesday, extending recent losses after major producer Saudi Aramco unexpectedly cut November crude prices for Asia, while focus remained on su",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html?.tsrc=rss"
+      "summary": "Stocks continued to march higher despite rising bond yields.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html?.tsrc=rss"
     },
     {
-      "title": "Standard Chartered Says Hormuz Oil",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Exporters have adapted through pipelines, bypass ports and extensive ship-to-ship transfers, but the system is more expensive, inefficient and increasingly stretched, with elevated",
-      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-says-hormuz-oil-000000808.html?.tsrc=rss"
-    },
-    {
-      "title": "Review & Preview",
+      "title": "1 S&P 500 Stock with Competitive",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading.",
-      "link": "https://finance.yahoo.com/m/e58c053f-e869-304f-a891-acec3e7826f5/review-%26-preview%3A-artificial.html?.tsrc=rss"
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-competitive-085634187.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Hits Record Highs; TSMC,",
+      "title": "Are Nasdaq, Dow Futures Rising",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
-      "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus/cZDsUNgRBk1?.tsrc=rss"
+    },
+    {
+      "title": "1 S&P 500 Stock on Our Watchlist and",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-081634736.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices edge lower as markets",
-      "summary": "Investing.com-- Oil prices fell early-Tuesday, extending recent losses after major producer Saudi Aramco unexpectedly cut November crude prices for Asia, while focus remained on su",
-      "impact": "원자재, 인플레 기대",
+      "title": "Dow, S&P 500, Nasdaq futures climb",
+      "summary": "Stocks continued to march higher despite rising bond yields.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-003903887.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 00:39:03 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-6-dow-sp-500-nasdaq-080526166.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 08:05:26 +0000"
     },
     {
-      "title": "Standard Chartered Says Hormuz Oil",
-      "summary": "Exporters have adapted through pipelines, bypass ports and extensive ship-to-ship transfers, but the system is more expensive, inefficient and increasingly stretched, with elevated",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-says-hormuz-oil-000000808.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Review & Preview",
-      "summary": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading.",
+      "title": "1 S&P 500 Stock with Competitive",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/e58c053f-e869-304f-a891-acec3e7826f5/review-%26-preview%3A-artificial.html?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 23:55:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-competitive-085634187.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 08:56:34 +0000"
     },
     {
-      "title": "Nasdaq Hits Record Highs; TSMC,",
-      "summary": "Dow Jones Futures: The Nasdaq hit a record high Monday as Nvidia and TSMC broke out past buy point. Elon Musk-led SPCX and TSLA rallied.",
+      "title": "Are Nasdaq, Dow Futures Rising",
+      "summary": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "Mon, 05 Oct 2026 22:35:32 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus/cZDsUNgRBk1?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 08:39:37 +0000"
+    },
+    {
+      "title": "1 S&P 500 Stock on Our Watchlist and",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-081634736.html?.tsrc=rss",
+      "published": "Tue, 06 Oct 2026 08:16:34 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.41",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "87.62",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "100.38",
+          "value": "98.53",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4176.40",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4182.40",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.68",
-          "change": "-0.01%",
+          "value": "6.65",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        89.37999725341797,
-        89.38999938964844,
-        89.38999938964844,
-        89.41000366210938,
-        89.37999725341797,
-        89.37999725341797,
-        89.38999938964844,
-        89.4000015258789,
-        89.41000366210938,
-        89.41000366210938,
-        89.41000366210938
+        87.97000122070312,
+        87.91000366210938,
+        87.80999755859375,
+        87.91000366210938,
+        87.88999938964844,
+        87.81999969482422,
+        87.66000366210938,
+        87.69999694824219,
+        87.68000030517578,
+        87.61000061035156,
+        87.62000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-10-06 10:07 KST"
+      "status": "강세",
+      "freshness": "2026-10-06 18:19 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "6989.82",
-          "change": "-0.04%",
+          "value": "6939.39",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6236.42",
-          "change": "+0.04%",
+          "value": "6288.42",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.09",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "102.06",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1344.38",
+          "value": "1338.79",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.22",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "157.83",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6938",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.6918",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1342.3800048828125,
-        1343.3800048828125,
-        1343.280029296875,
-        1343.47998046875,
-        1343.5799560546875,
-        1344.280029296875,
-        1344.780029296875,
-        1344.6800537109375,
-        1344.510009765625,
-        1344.280029296875,
-        1344.3800048828125
+        1338.719970703125,
+        1339.1800537109375,
+        1338.780029296875,
+        1338.699951171875,
+        1338.7900390625,
+        1339.5400390625,
+        1339.06005859375,
+        1338.8900146484375,
+        1338.7900390625,
+        1339.3800048828125,
+        1338.7900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-06 10:17 KST"
+      "status": "중립",
+      "freshness": "2026-10-06 18:29 KST"
     }
   ],
   "currentAction": {
