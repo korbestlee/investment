@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "collectedAt": "2026-10-06T23:45:52Z",
+  "collectedAt": "2026-10-07T09:25:49Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.04%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "3 Value ETFs Head to Head. One",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Three large-cap value funds share the same general playbook but landed in very different places over the past year, and the gap comes down to decisions buried inside their indexes ",
-      "link": "https://247wallst.com/investing/etf/2026/10/06/3-value-etfs-head-to-head-one-charges-0-03-and-returned-19-over-the-past-year/?.tsrc=rss"
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "US stock futures were little changed on Wednesday morning as investors awaited minutes from the Fed's September meeting.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html?.tsrc=rss"
     },
     {
-      "title": "Curtiss-Wright, Tecnoglass, AAON,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data c",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-tecnoglass-aaon-primoris-224034093.html?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500 And Nasdaq 100 Soar To",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Constellation Energy was the top Nasdaq 100 gainer on its multi-year nuclear power deal with Google.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-soar-to-record-highs-amid-rising-bets-of-strong-quarterly-earnings-ceg-lcid-spcx-mrvl-in-focus/cZDtSxvRBlj?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500 Hits High As Astera, GE",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
+      "title": "Dow Jones Futures Fall, Yields Rise",
+      "impact": "채권, 금리",
+      "importance": "high",
       "summary": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
-      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures-fall%2C.html?.tsrc=rss"
+    },
+    {
+      "title": "The S&P 500 Just Had One of Its",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 experienced a historic breadth divergence. It's possible that it doesn't end soon.",
+      "link": "https://www.fool.com/investing/2026/10/07/sp-500-one-strangest-months-years-history-says/?.tsrc=rss"
+    },
+    {
+      "title": "1 Healthcare Stock with Competitive",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their m",
+      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-competitive-advantages-085647379.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "3 Value ETFs Head to Head. One",
-      "summary": "Three large-cap value funds share the same general playbook but landed in very different places over the past year, and the gap comes down to decisions buried inside their indexes ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/etf/2026/10/06/3-value-etfs-head-to-head-one-charges-0-03-and-returned-19-over-the-past-year/?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 23:03:05 +0000"
+      "title": "Dow, S&P 500, Nasdaq futures steady",
+      "summary": "US stock futures were little changed on Wednesday morning as investors awaited minutes from the Fed's September meeting.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 08:02:41 +0000"
     },
     {
-      "title": "Curtiss-Wright, Tecnoglass, AAON,",
-      "summary": "A number of stocks jumped in the morning session after surging capital spending for artificial intelligence infrastructure and defense bolstered demand across power systems, data c",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-tecnoglass-aaon-primoris-224034093.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 22:40:34 +0000"
-    },
-    {
-      "title": "S&P 500 And Nasdaq 100 Soar To",
-      "summary": "Constellation Energy was the top Nasdaq 100 gainer on its multi-year nuclear power deal with Google.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-soar-to-record-highs-amid-rising-bets-of-strong-quarterly-earnings-ceg-lcid-spcx-mrvl-in-focus/cZDtSxvRBlj?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 22:35:29 +0000"
-    },
-    {
-      "title": "S&P 500 Hits High As Astera, GE",
+      "title": "Dow Jones Futures Fall, Yields Rise",
       "summary": "The S&P 500 hit a high as the stock market extended a win streak. Astera Labs, GE Vernova and Arista Networks led AI stock buys.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures-fall%2C.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 09:18:35 +0000"
+    },
+    {
+      "title": "The S&P 500 Just Had One of Its",
+      "summary": "The S&P 500 experienced a historic breadth divergence. It's possible that it doesn't end soon.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/0af6d9e8-1837-3d24-bf26-336d6cf15361/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-      "published": "Tue, 06 Oct 2026 22:35:06 +0000"
+      "link": "https://www.fool.com/investing/2026/10/07/sp-500-one-strangest-months-years-history-says/?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 09:12:00 +0000"
+    },
+    {
+      "title": "1 Healthcare Stock with Competitive",
+      "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their m",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-competitive-advantages-085647379.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 08:56:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "89.99",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "89.89",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "101.15",
+          "value": "101.84",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4196.50",
-          "change": "-0.02%",
+          "value": "4149.20",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.66",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.64",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        89.87999725341797,
+        89.69999694824219,
         89.87000274658203,
-        89.86000061035156,
-        89.87000274658203,
-        89.91000366210938,
-        89.91999816894531,
-        89.9000015258789,
-        89.91999816894531,
-        89.91999816894531,
         89.94000244140625,
-        89.98999786376953
+        89.94000244140625,
+        89.86000061035156,
+        89.94000244140625,
+        89.8499984741211,
+        89.83000183105469,
+        89.88999938964844,
+        89.91000366210938,
+        89.88999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-07 08:31 KST"
+      "status": "약세",
+      "freshness": "2026-10-07 18:15 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6939.39",
-          "change": "-0.01%",
+          "value": "6826.18",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6276.13",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6214.47",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.89",
-          "change": "+0.04%",
+          "value": "102.28",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1338.70",
-          "change": "-0.02%",
+          "value": "1338.37",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.28",
+          "value": "158.24",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.7040",
-          "change": "+0.18%",
+          "value": "6.7048",
+          "change": "+0.17%",
           "direction": "up"
         }
       ],
       "trend": [
-        1337.43994140625,
-        1338.199951171875,
-        1339.1400146484375,
-        1339.510009765625,
-        1339.6400146484375,
-        1339.6800537109375,
-        1339.6300048828125,
-        1339.7099609375,
-        1339.5699462890625,
-        1338.9300537109375,
-        1338.699951171875
+        1338.3299560546875,
+        1338.47998046875,
+        1338.27001953125,
+        1338.449951171875,
+        1338.1800537109375,
+        1338.52001953125,
+        1338.530029296875,
+        1338.4200439453125,
+        1338.550048828125,
+        1338.4100341796875,
+        1338.3699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-07 08:45 KST"
+      "freshness": "2026-10-07 18:25 KST"
     }
   ],
   "currentAction": {
