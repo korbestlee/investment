@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "collectedAt": "2026-10-07T13:49:27Z",
+  "date": "2026-10-08",
+  "collectedAt": "2026-10-08T00:09:08Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.07%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "10-year Treasury yield hits highest",
+      "title": "2 High-Yield Stocks to Buy in",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Stocks retreated on Wednesday as Treasury yields resumed their climb.",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2002-as-stocks-retreat-alphacheck-134621987.html?.tsrc=rss"
+      "summary": "If you are looking for yield and can think long-term, you'll want to consider Bristol Myers Squibb and Realty Income today.",
+      "link": "https://www.fool.com/investing/2026/10/07/2-high-yield-stocks-to-buy-in-october-hint-bristol/?.tsrc=rss"
     },
     {
-      "title": "What powered the S&P 500 to new",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss what's powering new record highs from the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC).",
-      "link": "https://finance.yahoo.com/video/powered-p-500-record-highs-130927479.html?.tsrc=rss"
-    },
-    {
-      "title": "Pacific Coast Energy Company",
+      "title": "S&P 500 And Nasdaq 100 Slip From",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "ORCUTT, Calif., October 07, 2026--Pacific Coast Energy Company announces strategic agreements with PDVSA to develop and operate Delta and Cabimas oil blocks.",
-      "link": "https://finance.yahoo.com/energy/articles/pacific-coast-energy-company-announces-133000834.html?.tsrc=rss"
+      "summary": "The 30-year bond yield hit its highest level since May 2002 at 5.732%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-slip-from-record-highs-amid-pressure-from-soaring-treasury-yields-spcx-amd-nvda-mrvl-in-focus/cZDvp0iRBZ9?.tsrc=rss"
     },
     {
-      "title": "Sector Update",
+      "title": "Small Cap Watch",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Energy stocks were advancing premarket Wednesday, with the State Street Energy Select Sector SPDR ET",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-premarket-132633404.html?.tsrc=rss"
+      "summary": "The S&P/ASX Small Ordinaries (XSO) edged higher in the latest session, gaining 5.10 points or 0.15% to 3,310.30. Despite the modest daily rise, the small-cap benchmark remains unde",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099773/small-cap-watch-aumega-lightning-minerals-and-noxopharm-advance-key-programs-1099773.html?.tsrc=rss"
+    },
+    {
+      "title": "The S&P 500 Just Reached a New",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The benchmark closed above 7,800 for the first time.",
+      "link": "https://www.fool.com/investing/2026/10/07/the-s-and-p-500-just-reached-a-new-record-here-s-what-history-says-about-buying-stocks-now/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "10-year Treasury yield hits highest",
-      "summary": "Stocks retreated on Wednesday as Treasury yields resumed their climb.",
+      "title": "2 High-Yield Stocks to Buy in",
+      "summary": "If you are looking for yield and can think long-term, you'll want to consider Bristol Myers Squibb and Realty Income today.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2002-as-stocks-retreat-alphacheck-134621987.html?.tsrc=rss",
-      "published": "Wed, 07 Oct 2026 13:46:21 +0000"
+      "link": "https://www.fool.com/investing/2026/10/07/2-high-yield-stocks-to-buy-in-october-hint-bristol/?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 23:35:00 +0000"
     },
     {
-      "title": "What powered the S&P 500 to new",
-      "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss what's powering new record highs from the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC).",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/video/powered-p-500-record-highs-130927479.html?.tsrc=rss",
-      "published": "Wed, 07 Oct 2026 13:09:27 +0000"
-    },
-    {
-      "title": "Pacific Coast Energy Company",
-      "summary": "ORCUTT, Calif., October 07, 2026--Pacific Coast Energy Company announces strategic agreements with PDVSA to develop and operate Delta and Cabimas oil blocks.",
+      "title": "S&P 500 And Nasdaq 100 Slip From",
+      "summary": "The 30-year bond yield hit its highest level since May 2002 at 5.732%.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/pacific-coast-energy-company-announces-133000834.html?.tsrc=rss",
-      "published": "Wed, 07 Oct 2026 13:30:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-and-nasdaq-100-slip-from-record-highs-amid-pressure-from-soaring-treasury-yields-spcx-amd-nvda-mrvl-in-focus/cZDvp0iRBZ9?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 22:50:51 +0000"
     },
     {
-      "title": "Sector Update",
-      "summary": "Energy stocks were advancing premarket Wednesday, with the State Street Energy Select Sector SPDR ET",
+      "title": "Small Cap Watch",
+      "summary": "The S&P/ASX Small Ordinaries (XSO) edged higher in the latest session, gaining 5.10 points or 0.15% to 3,310.30. Despite the modest daily rise, the small-cap benchmark remains unde",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-premarket-132633404.html?.tsrc=rss",
-      "published": "Wed, 07 Oct 2026 13:26:33 +0000"
+      "link": "https://www.proactiveinvestors.com/companies/news/1099773/small-cap-watch-aumega-lightning-minerals-and-noxopharm-advance-key-programs-1099773.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 22:43:00 +0000"
+    },
+    {
+      "title": "The S&P 500 Just Reached a New",
+      "summary": "The benchmark closed above 7,800 for the first time.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/07/the-s-and-p-500-just-reached-a-new-record-here-s-what-history-says-about-buying-stocks-now/?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 22:30:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.91",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "89.00",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "102.53",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "101.00",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4109.90",
-          "change": "+0.01%",
+          "value": "4134.20",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.63",
-          "change": "-0.03%",
+          "value": "6.64",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.44999694824219,
-        90.6500015258789,
-        90.72000122070312,
-        90.68000030517578,
-        90.61000061035156,
-        90.7300033569336,
-        90.76000213623047,
-        90.7300033569336,
-        90.83999633789062,
-        90.93000030517578,
-        90.91000366210938
+        88.91999816894531,
+        88.94999694824219,
+        88.94000244140625,
+        88.95999908447266,
+        88.97000122070312,
+        88.97000122070312,
+        88.95999908447266,
+        88.97000122070312,
+        88.97000122070312,
+        88.94999694824219,
+        89.0
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-07 22:39 KST"
+      "status": "강세",
+      "freshness": "2026-10-08 08:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.043%",
+          "value": "4.037%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "5.095%",
-          "change": "+0.04%",
+          "value": "5.021%",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.358%",
-          "change": "+0.07%",
+          "value": "5.277%",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.725%",
-          "change": "+0.05%",
+          "value": "5.661%",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        5.354000091552734,
-        5.3580002784729,
-        5.361999988555908,
-        5.361999988555908,
-        5.361999988555908,
-        5.3580002784729,
-        5.361999988555908,
-        5.3580002784729,
-        5.3580002784729,
-        5.354000091552734,
-        5.3580002784729
+        5.270999908447266,
+        5.2729997634887695,
+        5.275000095367432,
+        5.275000095367432,
+        5.275000095367432,
+        5.275000095367432,
+        5.275000095367432,
+        5.2729997634887695,
+        5.275000095367432,
+        5.275000095367432,
+        5.2769999504089355
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "압박",
-      "freshness": "2026-10-07 22:34 KST"
+      "freshness": "2026-10-08 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7771.44",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "7800.26",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "27362.84",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "27534.01",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6168.44",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "6173.45",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7772.64013671875,
-        7772.16015625,
-        7771.85009765625,
-        7774.93017578125,
-        7773.0,
-        7775.06005859375,
-        7775.41015625,
-        7772.2900390625,
-        7768.14990234375,
-        7771.10986328125,
-        7771.43994140625
+        7797.06982421875,
+        7801.27978515625,
+        7799.68017578125,
+        7799.10986328125,
+        7800.22021484375,
+        7801.22998046875,
+        7802.27978515625,
+        7802.6298828125,
+        7802.2099609375,
+        7800.89013671875,
+        7800.259765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-10-07 22:49 KST"
+      "status": "약세",
+      "freshness": "2026-10-08 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.41",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "102.25",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1339.10",
-          "change": "-0.00%",
+          "value": "1337.97",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.22",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "157.89",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6933",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6948",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1339.4599609375,
-        1339.2900390625,
-        1339.0999755859375,
-        1338.93994140625,
-        1339.0,
-        1339.06005859375,
-        1338.81005859375,
-        1339.0699462890625,
-        1339.469970703125,
-        1339.1500244140625,
-        1339.0999755859375
+        1340.1800537109375,
+        1339.9200439453125,
+        1339.9000244140625,
+        1339.530029296875,
+        1339.3800048828125,
+        1339.6800537109375,
+        1339.280029296875,
+        1338.280029296875,
+        1337.97998046875,
+        1338.280029296875,
+        1337.969970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-07 22:26 KST"
+      "status": "강세",
+      "freshness": "2026-10-08 09:06 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
