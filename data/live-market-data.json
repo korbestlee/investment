@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08",
-  "collectedAt": "2026-10-08T13:57:22Z",
+  "date": "2026-10-09",
+  "collectedAt": "2026-10-09T00:17:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,13 +46,13 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Oil prices climb above $105 as bond",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Brent crude prices climbed back above $105 on Thursday as bond yields rose.",
-      "link": "https://finance.yahoo.com/markets/article/oil-prices-climb-above-105-as-bond-yields-rise-130907543.html?.tsrc=rss"
+      "title": "AI Stocks Tumble On OpenAI News;",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
+      "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss"
     },
     {
-      "title": "Stock Market Today (Oct. 8, 2025)",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Markets are turning more defensive as the Fed minutes reinforced the central bank’s hawkish bias.",
-      "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-08-2026?.tsrc=rss"
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+      "link": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss"
     },
     {
-      "title": "DoubleLine CAPE® and Fortune 500",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "A new DoubleLine paper proposes a choice of valuation and equal-weight strategies to complement investors' exposure to the S&P 500 given the index owes nearly 40% of its market cap",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doubleline-cape-fortune-500-strategies-133000531.html?.tsrc=rss"
+      "title": "History Says Every S&P 500 Bull",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The current run turns 4 on Monday. Should index fund buyers worry about its age?",
+      "link": "https://www.fool.com/investing/2026/10/08/history-says-every-s-and-p-500-bull-market-that-reached-its-4th-birthday-kept-going/?.tsrc=rss"
     },
     {
-      "title": "Precore Gold MagDrone Survey Defines",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "New high-resolution magnetic model strengthens geological targeting across and beyond Arikepay’s historically drilled gold-copper envelopVANCOUVER, British Columbia, Oct. 08, 2026 ",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/precore-gold-magdrone-survey-defines-133000360.html?.tsrc=rss"
+      "title": "Nasdaq 100 Ends Lower As Report Of",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices climb above $105 as bond",
-      "summary": "Brent crude prices climbed back above $105 on Thursday as bond yields rose.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/oil-prices-climb-above-105-as-bond-yields-rise-130907543.html?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 13:09:07 +0000"
+      "title": "AI Stocks Tumble On OpenAI News;",
+      "summary": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 00:05:47 +0000"
     },
     {
-      "title": "Stock Market Today (Oct. 8, 2025)",
-      "summary": "Markets are turning more defensive as the Fed minutes reinforced the central bank’s hawkish bias.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-08-2026?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 13:50:28 +0000"
+      "title": "Prediction",
+      "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss",
+      "published": "Thu, 08 Oct 2026 23:27:00 +0000"
     },
     {
-      "title": "DoubleLine CAPE® and Fortune 500",
-      "summary": "A new DoubleLine paper proposes a choice of valuation and equal-weight strategies to complement investors' exposure to the S&P 500 given the index owes nearly 40% of its market cap",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doubleline-cape-fortune-500-strategies-133000531.html?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 13:30:00 +0000"
+      "title": "History Says Every S&P 500 Bull",
+      "summary": "The current run turns 4 on Monday. Should index fund buyers worry about its age?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/08/history-says-every-s-and-p-500-bull-market-that-reached-its-4th-birthday-kept-going/?.tsrc=rss",
+      "published": "Thu, 08 Oct 2026 22:57:01 +0000"
     },
     {
-      "title": "Precore Gold MagDrone Survey Defines",
-      "summary": "New high-resolution magnetic model strengthens geological targeting across and beyond Arikepay’s historically drilled gold-copper envelopVANCOUVER, British Columbia, Oct. 08, 2026 ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/precore-gold-magdrone-survey-defines-133000360.html?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 13:30:00 +0000"
+      "title": "Nasdaq 100 Ends Lower As Report Of",
+      "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
+      "published": "Thu, 08 Oct 2026 22:55:19 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.24",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "91.24",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "104.65",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "103.97",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4152.30",
-          "change": "+0.00%",
+          "value": "4174.30",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.60",
+          "value": "6.57",
           "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        92.18000030517578,
-        92.06999969482422,
-        92.08000183105469,
-        92.25,
-        92.2300033569336,
-        92.22000122070312,
-        92.18000030517578,
-        92.23999786376953,
-        92.16999816894531,
-        92.20999908447266,
-        92.23999786376953
+        91.16999816894531,
+        91.16000366210938,
+        91.16999816894531,
+        91.20999908447266,
+        91.30000305175781,
+        91.4000015258789,
+        91.38999938964844,
+        91.33999633789062,
+        91.3499984741211,
+        91.26000213623047,
+        91.23999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-08 22:47 KST"
+      "status": "약세",
+      "freshness": "2026-10-09 09:07 KST"
     },
     {
       "id": "bonds",
@@ -208,39 +208,39 @@
         },
         {
           "name": "UST 5Y",
-          "value": "5.050%",
-          "change": "+0.04%",
+          "value": "4.991%",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.290%",
+          "value": "5.231%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.659%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.606%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.2860002517700195,
-        5.288000106811523,
-        5.289999961853027,
-        5.289999961853027,
-        5.293999671936035,
-        5.291999816894531,
-        5.293999671936035,
-        5.289999961853027,
-        5.289999961853027,
-        5.289999961853027,
-        5.289999961853027
+        5.234999656677246,
+        5.230999946594238,
+        5.230999946594238,
+        5.229000091552734,
+        5.229000091552734,
+        5.2270002365112305,
+        5.229000091552734,
+        5.2270002365112305,
+        5.2270002365112305,
+        5.230999946594238,
+        5.230999946594238
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-10-08 22:42 KST"
+      "freshness": "2026-10-09 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7780.16",
-          "change": "-0.01%",
+          "value": "7765.70",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "27370.32",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "27195.49",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6155.87",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6133.89",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7778.2900390625,
-        7778.41015625,
-        7782.06005859375,
-        7781.22998046875,
-        7783.56982421875,
-        7781.8798828125,
-        7781.66015625,
-        7776.9599609375,
-        7779.0498046875,
-        7780.75,
-        7780.16015625
+        7763.16015625,
+        7763.7900390625,
+        7761.9599609375,
+        7760.43994140625,
+        7759.25,
+        7761.02978515625,
+        7762.580078125,
+        7764.2001953125,
+        7764.02001953125,
+        7767.35986328125,
+        7765.7001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-10-08 22:57 KST"
+      "freshness": "2026-10-09 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.27",
-          "change": "-0.00%",
+          "value": "102.12",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1342.40",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.13",
+          "value": "1342.82",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDJPY",
+          "value": "158.07",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.7016",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "6.6938",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1342.1800537109375,
-        1342.3800048828125,
-        1342.239990234375,
-        1342.1300048828125,
-        1341.93994140625,
-        1341.9000244140625,
-        1342.280029296875,
-        1342.3900146484375,
-        1342.6800537109375,
-        1342.3900146484375,
-        1342.4000244140625
+        1342.8900146484375,
+        1342.8599853515625,
+        1342.8399658203125,
+        1342.760009765625,
+        1342.75,
+        1342.8499755859375,
+        1342.8499755859375,
+        1342.6700439453125,
+        1342.739990234375,
+        1342.8699951171875,
+        1342.8199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-08 22:57 KST"
+      "freshness": "2026-10-09 09:17 KST"
     }
   ],
   "currentAction": {
