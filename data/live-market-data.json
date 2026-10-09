@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "collectedAt": "2026-10-09T00:17:43Z",
+  "collectedAt": "2026-10-09T09:42:12Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "AI Stocks Tumble On OpenAI News;",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
-      "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss"
+      "title": "Oil Prices Decline as Trump Comments",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices moved lower on Friday after US President Donald Trump indicated that Washington would not launch military strikes against Iran before November’s congressional midterm el",
+      "link": "https://investorshub.advfn.com/market-news/article/37759/oil-prices-decline-as-trump-comments-on-iran-talks-ease-immediate-supply-concerns?.tsrc=rss"
     },
     {
-      "title": "Prediction",
+      "title": "US Stock Futures Rise as Investors",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
-      "link": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss"
+      "summary": "US stock futures moved higher on Friday as investors assessed differing reports about OpenAI’s revenue outlook, awaited quarterly results from Delta Air Lines and prepared for new ",
+      "link": "https://investorshub.advfn.com/market-news/article/37757/us-stock-futures-rise-as-investors-assess-openai-revenue-reports-delta-earnings-and-consumer-sentiment-dow-jones-sp-nasdaq-wall-street?.tsrc=rss"
     },
     {
-      "title": "History Says Every S&P 500 Bull",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The current run turns 4 on Monday. Should index fund buyers worry about its age?",
-      "link": "https://www.fool.com/investing/2026/10/08/history-says-every-s-and-p-500-bull-market-that-reached-its-4th-birthday-kept-going/?.tsrc=rss"
+      "title": "Brent Crude's Risk Premium Hits",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Brent crude's risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, reflecting persistent fears of disruptions in the Middle East",
+      "link": "https://finance.yahoo.com/m/54dbac49-064d-3a1b-943c-e357ac8073c8/brent-crude%27s-risk-premium.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq 100 Ends Lower As Report Of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss"
+      "title": "UBS flags level in gold prices where",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com -- Gold may retest support around $4,000 an ounce in the near term, UBS says, where the bank expects structural dip buyers to establish a floor, as rising real yields",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-level-gold-prices-091651885.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "AI Stocks Tumble On OpenAI News;",
-      "summary": "AI stocks sold off on OpenAI but much of the market was fine. Apple flashed a buy signal. A SpaceX spectrum buy hit Verizon, AT&T and T-Mobile late.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 00:05:47 +0000"
+      "title": "Oil Prices Decline as Trump Comments",
+      "summary": "Oil prices moved lower on Friday after US President Donald Trump indicated that Washington would not launch military strikes against Iran before November’s congressional midterm el",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/37759/oil-prices-decline-as-trump-comments-on-iran-talks-ease-immediate-supply-concerns?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 09:28:29 +0000"
     },
     {
-      "title": "Prediction",
-      "summary": "Intel stock has rallied as the market has re-evaluated its growing foundry capabilities. Now, it will have to deliver.",
+      "title": "US Stock Futures Rise as Investors",
+      "summary": "US stock futures moved higher on Friday as investors assessed differing reports about OpenAI’s revenue outlook, awaited quarterly results from Delta Air Lines and prepared for new ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/08/prediction-this-will-happen-to-intel-stock-in-2027/?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 23:27:00 +0000"
+      "link": "https://investorshub.advfn.com/market-news/article/37757/us-stock-futures-rise-as-investors-assess-openai-revenue-reports-delta-earnings-and-consumer-sentiment-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 09:25:40 +0000"
     },
     {
-      "title": "History Says Every S&P 500 Bull",
-      "summary": "The current run turns 4 on Monday. Should index fund buyers worry about its age?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/08/history-says-every-s-and-p-500-bull-market-that-reached-its-4th-birthday-kept-going/?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 22:57:01 +0000"
+      "title": "Brent Crude's Risk Premium Hits",
+      "summary": "Brent crude's risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, reflecting persistent fears of disruptions in the Middle East",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/54dbac49-064d-3a1b-943c-e357ac8073c8/brent-crude%27s-risk-premium.html?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 09:24:18 +0000"
     },
     {
-      "title": "Nasdaq 100 Ends Lower As Report Of",
-      "summary": "OpenAI’s annualized revenue was revealed to be short of the amount previously signaled, FT reported.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
-      "published": "Thu, 08 Oct 2026 22:55:19 +0000"
+      "title": "UBS flags level in gold prices where",
+      "summary": "Investing.com -- Gold may retest support around $4,000 an ounce in the near term, UBS says, where the bank expects structural dip buyers to establish a floor, as rising real yields",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-level-gold-prices-091651885.html?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 09:16:51 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.24",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "90.63",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "103.97",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "103.03",
+          "change": "+0.19%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4174.30",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4210.90",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.67",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        91.16999816894531,
-        91.16000366210938,
-        91.16999816894531,
-        91.20999908447266,
-        91.30000305175781,
-        91.4000015258789,
-        91.38999938964844,
-        91.33999633789062,
-        91.3499984741211,
-        91.26000213623047,
-        91.23999786376953
+        90.54000091552734,
+        90.55000305175781,
+        90.5199966430664,
+        90.5,
+        90.47000122070312,
+        90.45999908447266,
+        90.48999786376953,
+        90.45999908447266,
+        90.44000244140625,
+        90.62999725341797,
+        90.62999725341797
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-09 09:07 KST"
+      "status": "중립",
+      "freshness": "2026-10-09 18:32 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6133.89",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6190.67",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.12",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "102.08",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1342.82",
+          "value": "1341.40",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.25",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "158.07",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6938",
+          "value": "6.6815",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1342.8900146484375,
-        1342.8599853515625,
-        1342.8399658203125,
-        1342.760009765625,
-        1342.75,
-        1342.8499755859375,
-        1342.8499755859375,
-        1342.6700439453125,
-        1342.739990234375,
-        1342.8699951171875,
-        1342.8199462890625
+        1341.77001953125,
+        1341.81005859375,
+        1342.2099609375,
+        1342.219970703125,
+        1342.22998046875,
+        1342.27001953125,
+        1342.260009765625,
+        1344.0999755859375,
+        1339.4000244140625,
+        1341.4000244140625,
+        1341.4000244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-09 09:17 KST"
+      "status": "강세",
+      "freshness": "2026-10-09 18:29 KST"
     }
   ],
   "currentAction": {
