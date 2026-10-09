@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "collectedAt": "2026-10-09T09:42:12Z",
+  "collectedAt": "2026-10-09T13:40:57Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil Prices Decline as Trump Comments",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices moved lower on Friday after US President Donald Trump indicated that Washington would not launch military strikes against Iran before November’s congressional midterm el",
-      "link": "https://investorshub.advfn.com/market-news/article/37759/oil-prices-decline-as-trump-comments-on-iran-talks-ease-immediate-supply-concerns?.tsrc=rss"
-    },
-    {
-      "title": "US Stock Futures Rise as Investors",
+      "title": "Sector Update",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "US stock futures moved higher on Friday as investors assessed differing reports about OpenAI’s revenue outlook, awaited quarterly results from Delta Air Lines and prepared for new ",
-      "link": "https://investorshub.advfn.com/market-news/article/37757/us-stock-futures-rise-as-investors-assess-openai-revenue-reports-delta-earnings-and-consumer-sentiment-dow-jones-sp-nasdaq-wall-street?.tsrc=rss"
+      "summary": "Energy stocks were declining pre-bell Friday, with the State Street Energy Select Sector SPDR ETF (X",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-pre-133137204.html?.tsrc=rss"
     },
     {
-      "title": "Brent Crude's Risk Premium Hits",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Brent crude's risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, reflecting persistent fears of disruptions in the Middle East",
-      "link": "https://finance.yahoo.com/m/54dbac49-064d-3a1b-943c-e357ac8073c8/brent-crude%27s-risk-premium.html?.tsrc=rss"
-    },
-    {
-      "title": "UBS flags level in gold prices where",
+      "title": "Dow, S&P 500, and Nasdaq in Focus at",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com -- Gold may retest support around $4,000 an ounce in the near term, UBS says, where the bank expects structural dip buyers to establish a floor, as rising real yields",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-level-gold-prices-091651885.html?.tsrc=rss"
+      "summary": "The S&P 500 is set for a slightly higher open Friday, with the SPDR S&P 500 ETF (NYSEARCA:SPY) up 0.3% premarket near $776. Treasury yields pulling back from multiyear highs are he",
+      "link": "https://247wallst.com/investing/2026/10/09/stock-market-today-dow-sp-500-and-nasdaq-in-focus-at-the-opening-bell/?.tsrc=rss"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively tra",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132619334.html?.tsrc=rss"
+    },
+    {
+      "title": "AI Valuation Correction Could",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "UNCTAD highlighted the financial links between major technology companies and ‘not yet’ AI laboratories, raising concerns about their dependence on future AI-driven profits.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-valuation-correction-could-trigger-wider-market-sell-off-margin-calls-warns-un-report/cZD6pg3RBnT?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil Prices Decline as Trump Comments",
-      "summary": "Oil prices moved lower on Friday after US President Donald Trump indicated that Washington would not launch military strikes against Iran before November’s congressional midterm el",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/37759/oil-prices-decline-as-trump-comments-on-iran-talks-ease-immediate-supply-concerns?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 09:28:29 +0000"
-    },
-    {
-      "title": "US Stock Futures Rise as Investors",
-      "summary": "US stock futures moved higher on Friday as investors assessed differing reports about OpenAI’s revenue outlook, awaited quarterly results from Delta Air Lines and prepared for new ",
+      "title": "Sector Update",
+      "summary": "Energy stocks were declining pre-bell Friday, with the State Street Energy Select Sector SPDR ETF (X",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://investorshub.advfn.com/market-news/article/37757/us-stock-futures-rise-as-investors-assess-openai-revenue-reports-delta-earnings-and-consumer-sentiment-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 09:25:40 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-pre-133137204.html?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 13:31:37 +0000"
     },
     {
-      "title": "Brent Crude's Risk Premium Hits",
-      "summary": "Brent crude's risk premium reached an estimated $22 a barrel in September, the second-highest monthly level on record, reflecting persistent fears of disruptions in the Middle East",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/54dbac49-064d-3a1b-943c-e357ac8073c8/brent-crude%27s-risk-premium.html?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 09:24:18 +0000"
-    },
-    {
-      "title": "UBS flags level in gold prices where",
-      "summary": "Investing.com -- Gold may retest support around $4,000 an ounce in the near term, UBS says, where the bank expects structural dip buyers to establish a floor, as rising real yields",
+      "title": "Dow, S&P 500, and Nasdaq in Focus at",
+      "summary": "The S&P 500 is set for a slightly higher open Friday, with the SPDR S&P 500 ETF (NYSEARCA:SPY) up 0.3% premarket near $776. Treasury yields pulling back from multiyear highs are he",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-level-gold-prices-091651885.html?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 09:16:51 +0000"
+      "link": "https://247wallst.com/investing/2026/10/09/stock-market-today-dow-sp-500-and-nasdaq-in-focus-at-the-opening-bell/?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 13:30:51 +0000"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively tra",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132619334.html?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 13:26:19 +0000"
+    },
+    {
+      "title": "AI Valuation Correction Could",
+      "summary": "UNCTAD highlighted the financial links between major technology companies and ‘not yet’ AI laboratories, raising concerns about their dependence on future AI-driven profits.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://stocktwits.com/news-articles/markets/equity/ai-valuation-correction-could-trigger-wider-market-sell-off-margin-calls-warns-un-report/cZD6pg3RBnT?.tsrc=rss",
+      "published": "Fri, 09 Oct 2026 13:13:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.63",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Brent",
-          "value": "103.03",
-          "change": "+0.19%",
+          "value": "90.84",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "103.28",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
           "name": "Gold",
-          "value": "4210.90",
-          "change": "-0.01%",
+          "value": "4213.80",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.67",
-          "change": "-0.03%",
+          "value": "6.71",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.54000091552734,
-        90.55000305175781,
-        90.5199966430664,
-        90.5,
-        90.47000122070312,
-        90.45999908447266,
-        90.48999786376953,
-        90.45999908447266,
-        90.44000244140625,
-        90.62999725341797,
-        90.62999725341797
+        90.80000305175781,
+        90.8499984741211,
+        90.80999755859375,
+        90.81999969482422,
+        90.7300033569336,
+        90.7300033569336,
+        90.87000274658203,
+        90.91000366210938,
+        90.83999633789062,
+        90.81999969482422,
+        90.83999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-10-09 18:32 KST"
+      "status": "강세",
+      "freshness": "2026-10-09 22:30 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.043%",
+          "value": "4.057%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.991%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.028%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "5.231%",
+          "value": "5.257%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.606%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.621%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        5.234999656677246,
-        5.230999946594238,
-        5.230999946594238,
-        5.229000091552734,
-        5.229000091552734,
-        5.2270002365112305,
-        5.229000091552734,
-        5.2270002365112305,
-        5.2270002365112305,
-        5.230999946594238,
-        5.230999946594238
+        5.258999824523926,
+        5.256999969482422,
+        5.258999824523926,
+        5.258999824523926,
+        5.258999824523926,
+        5.261000156402588,
+        5.261000156402588,
+        5.261000156402588,
+        5.261000156402588,
+        5.256999969482422,
+        5.256999969482422
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-10-09 03:59 KST"
+      "freshness": "2026-10-09 22:25 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7765.70",
+          "value": "7792.07",
           "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "27195.49",
-          "change": "-0.03%",
+          "value": "27327.56",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6190.67",
-          "change": "+0.01%",
+          "value": "6199.59",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7763.16015625,
-        7763.7900390625,
-        7761.9599609375,
-        7760.43994140625,
-        7759.25,
-        7761.02978515625,
-        7762.580078125,
-        7764.2001953125,
-        7764.02001953125,
-        7767.35986328125,
-        7765.7001953125
+        7789.22998046875,
+        7787.5,
+        7793.31982421875,
+        7793.240234375,
+        7792.56005859375,
+        7791.580078125,
+        7790.39990234375,
+        7790.02978515625,
+        7792.33984375,
+        7793.8798828125,
+        7792.06982421875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-10-09 04:59 KST"
+      "freshness": "2026-10-09 22:40 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.08",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1341.40",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.25",
+          "value": "102.28",
           "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1341.15",
+          "change": "+0.04%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.33",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6815",
+          "value": "6.6915",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1341.77001953125,
-        1341.81005859375,
-        1342.2099609375,
-        1342.219970703125,
-        1342.22998046875,
-        1342.27001953125,
-        1342.260009765625,
-        1344.0999755859375,
-        1339.4000244140625,
-        1341.4000244140625,
-        1341.4000244140625
+        1340.9599609375,
+        1340.760009765625,
+        1341.0,
+        1341.22998046875,
+        1341.22998046875,
+        1340.8900146484375,
+        1341.219970703125,
+        1340.8900146484375,
+        1341.3199462890625,
+        1340.5799560546875,
+        1341.1500244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-09 18:29 KST"
+      "status": "완화",
+      "freshness": "2026-10-09 22:40 KST"
     }
   ],
   "currentAction": {
