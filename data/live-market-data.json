@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-10",
-  "collectedAt": "2026-10-09T23:59:53Z",
+  "date": "2026-10-12",
+  "collectedAt": "2026-10-12T09:52:07Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "CrowdStrike Holdings Stock Crushed",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "An analyst raised his price target on the cybersecurity company by 24%.",
-      "link": "https://www.fool.com/investing/2026/10/09/why-crowdstrike-holdings-stock-crushed-it-on-friday/?.tsrc=rss"
-    },
-    {
-      "title": "S&P 500, Nasdaq 100, Dow End Week",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Wall Street’s biggest banks, including JPMorgan, Morgan Stanley, and Wells Fargo, will report earnings next week.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss"
-    },
-    {
-      "title": "What Could Go Wrong At Chevron From",
-      "impact": "채권, 금리",
+      "title": "Dow, S&P 500, Nasdaq futures rise in",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Chevron (CVX) stock has returned 42% over the twelve months to October 8, 2026, comfortably ahead of the S&P 500's gain of about 17%. With elevated oil prices, investors currently ",
-      "link": "https://www.trefis.com/articles/618158/what-could-go-wrong-at-chevron-from-here/2026-10-09?.tsrc=rss"
+      "summary": "US stock futures rose on Monday morning as investors geared up for big bank earnings on Tuesday and watched energy markets for geopolitical developments.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html?.tsrc=rss"
     },
     {
-      "title": "Zoetis (ZTS) Outpaces Stock Market",
+      "title": "Oil prices drop as stocks rise after",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Most stock markets rose early Monday as oil prices fell after Donald Trump announced an \"energy ceasefire\" between Russia and Ukraine, which offset a fresh wave of Houthi attacks o",
+      "link": "https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire?.tsrc=rss"
+    },
+    {
+      "title": "These 3 Stocks Are Crushing the",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "In the most recent trading session, Zoetis (ZTS) closed at $74.81, indicating a +2.37% shift from the previous trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-zts-outpaces-stock-market-211505693.html?.tsrc=rss"
+      "summary": "Forget the \"Magnificent Seven\" in favor of the \"Tremendous Three\"?",
+      "link": "https://www.fool.com/investing/2026/10/12/these-3-stocks-are-crushing-the-magnificent-seven/?.tsrc=rss"
+    },
+    {
+      "title": "If I Could Hold Only 1 Dividend ETF",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "For the best long-term returns from dividend stocks, I'd rather bet on the rest of the world beyond America.",
+      "link": "https://www.fool.com/investing/2026/10/12/if-could-hold-dividend-etf-30-years-buy-vymi/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "CrowdStrike Holdings Stock Crushed",
-      "summary": "An analyst raised his price target on the cybersecurity company by 24%.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/09/why-crowdstrike-holdings-stock-crushed-it-on-friday/?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 23:16:18 +0000"
-    },
-    {
-      "title": "S&P 500, Nasdaq 100, Dow End Week",
-      "summary": "Wall Street’s biggest banks, including JPMorgan, Morgan Stanley, and Wells Fargo, will report earnings next week.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-100-dow-end-week-higher-with-traders-eyeing-earnings-season/cZxGPMYRBnl?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 22:53:11 +0000"
-    },
-    {
-      "title": "What Could Go Wrong At Chevron From",
-      "summary": "Chevron (CVX) stock has returned 42% over the twelve months to October 8, 2026, comfortably ahead of the S&P 500's gain of about 17%. With elevated oil prices, investors currently ",
-      "impact": "채권, 금리",
+      "title": "Dow, S&P 500, Nasdaq futures rise in",
+      "summary": "US stock futures rose on Monday morning as investors geared up for big bank earnings on Tuesday and watched energy markets for geopolitical developments.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.trefis.com/articles/618158/what-could-go-wrong-at-chevron-from-here/2026-10-09?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 22:13:59 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html?.tsrc=rss",
+      "published": "Mon, 12 Oct 2026 08:03:21 +0000"
     },
     {
-      "title": "Zoetis (ZTS) Outpaces Stock Market",
-      "summary": "In the most recent trading session, Zoetis (ZTS) closed at $74.81, indicating a +2.37% shift from the previous trading day.",
+      "title": "Oil prices drop as stocks rise after",
+      "summary": "Most stock markets rose early Monday as oil prices fell after Donald Trump announced an \"energy ceasefire\" between Russia and Ukraine, which offset a fresh wave of Houthi attacks o",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/10/12/stocks-rise-as-oil-prices-tumble-after-trump-hails-energy-ceasefire?.tsrc=rss",
+      "published": "Mon, 12 Oct 2026 09:26:38 +0000"
+    },
+    {
+      "title": "These 3 Stocks Are Crushing the",
+      "summary": "Forget the \"Magnificent Seven\" in favor of the \"Tremendous Three\"?",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-zts-outpaces-stock-market-211505693.html?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 21:15:05 +0000"
+      "link": "https://www.fool.com/investing/2026/10/12/these-3-stocks-are-crushing-the-magnificent-seven/?.tsrc=rss",
+      "published": "Mon, 12 Oct 2026 09:04:00 +0000"
+    },
+    {
+      "title": "If I Could Hold Only 1 Dividend ETF",
+      "summary": "For the best long-term returns from dividend stocks, I'd rather bet on the rest of the world beyond America.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/12/if-could-hold-dividend-etf-30-years-buy-vymi/?.tsrc=rss",
+      "published": "Mon, 12 Oct 2026 08:50:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "91.66",
+          "value": "92.74",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "105.74",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4195.50",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "Brent",
-          "value": "104.43",
-          "change": "+0.04%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4220.30",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
           "name": "Copper",
-          "value": "6.71",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.77",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        91.62999725341797,
-        91.5999984741211,
-        91.61000061035156,
-        91.58999633789062,
-        91.58999633789062,
-        91.55999755859375,
-        91.61000061035156,
-        91.66999816894531,
-        91.66999816894531,
-        91.66000366210938,
-        91.66000366210938
+        92.47000122070312,
+        92.45999908447266,
+        92.5,
+        92.62999725341797,
+        92.66999816894531,
+        92.72000122070312,
+        92.72000122070312,
+        92.70999908447266,
+        92.72000122070312,
+        92.75,
+        92.73999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-10-10 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-10-12 18:42 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "6668.03",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6408.43",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6176.93",
+          "value": "6205.29",
           "change": "+0.01%",
           "direction": "up"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.23",
+          "value": "102.36",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1340.02",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "1331.97",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.25",
-          "change": "-0.04%",
+          "value": "158.58",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6830",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6815",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1340.8900146484375,
-        1339.8399658203125,
-        1339.949951171875,
-        1340.9599609375,
-        1340.97998046875,
-        1341.3499755859375,
-        1339.6500244140625,
-        1340.1700439453125,
-        1340.0400390625,
-        1340.4300537109375,
-        1340.02001953125
+        1332.3299560546875,
+        1332.239990234375,
+        1332.3199462890625,
+        1332.0799560546875,
+        1332.199951171875,
+        1331.6199951171875,
+        1331.81005859375,
+        1332.0400390625,
+        1331.6099853515625,
+        1331.3900146484375,
+        1331.969970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "중립",
-      "freshness": "2026-10-10 05:59 KST"
+      "freshness": "2026-10-12 18:51 KST"
     }
   ],
   "currentAction": {
