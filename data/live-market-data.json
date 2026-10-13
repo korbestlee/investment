@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "collectedAt": "2026-10-12T16:00:52Z",
+  "collectedAt": "2026-10-13T01:59:18Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "A closer look at Big Banks ahead of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi takes a look at the biggest stories as the trading day kicks off, weighing in on the beginning of earnings season, what's lurking beneath",
-      "link": "https://finance.yahoo.com/video/a-closer-look-at-big-banks-ahead-of-q3-earnings--one-metric-meta-investors-should-watch-145616926.html?.tsrc=rss"
+      "title": "Gold slips near $4,160 as Middle",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com -- Gold prices extended losses on Tuesday as escalating conflict in the Middle East raised concerns over further energy supply disruptions, keeping inflation risks el",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html?.tsrc=rss"
     },
     {
-      "title": "Dow Outperforms In Mixed Trade;",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Dow Jones index rises Monday amid Trump's \"energy ceasefire.\" Salesforce stock jumps on an upgrade.",
-      "link": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-dow.html?.tsrc=rss"
+      "title": "Big Banks Kick Off Q3 Earnings With",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "As banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/big-banks-kick-off-q3-earnings-with-s-and-p-500-near-records-strategists-flag-what-could-move-markets/cZxBGJwRB8M?.tsrc=rss"
     },
     {
-      "title": "European Stocks Close Higher in",
+      "title": "Oil prices fall as Russia flags more",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "European stock markets closed higher in Monday trading as crude oil prices continued to rise followi",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-monday-154756041.html?.tsrc=rss"
+      "summary": "Investing.com-- Oil prices fell early-Tuesday after Russia said its diesel exports may exceed volumes announced under a supply deal with the U.S., heralding improved supplies.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-russia-flags-010032187.html?.tsrc=rss"
     },
     {
-      "title": "3 Consumer Stocks We’re Skeptical Of",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Consumer discretionary businesses are levered to the highs and lows of economic cycles. Unfortunately, the industry’s recent performance suggests demand may be fading as discretion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-skeptical-154303892.html?.tsrc=rss"
+      "title": "U.S. stock futures steady as bank",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com-- U.S. stock index futures were little changed on Monday night as investors braced for a busy week of corporate earnings and economic data, with quarterly results fro",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-bank-005516958.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "A closer look at Big Banks ahead of",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi takes a look at the biggest stories as the trading day kicks off, weighing in on the beginning of earnings season, what's lurking beneath",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/video/a-closer-look-at-big-banks-ahead-of-q3-earnings--one-metric-meta-investors-should-watch-145616926.html?.tsrc=rss",
-      "published": "Mon, 12 Oct 2026 14:56:16 +0000"
+      "title": "Gold slips near $4,160 as Middle",
+      "summary": "Investing.com -- Gold prices extended losses on Tuesday as escalating conflict in the Middle East raised concerns over further energy supply disruptions, keeping inflation risks el",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 01:50:39 +0000"
     },
     {
-      "title": "Dow Outperforms In Mixed Trade;",
-      "summary": "The Dow Jones index rises Monday amid Trump's \"energy ceasefire.\" Salesforce stock jumps on an upgrade.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/f6194faa-ca8b-383a-a9ab-a53b13d91fd1/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "Mon, 12 Oct 2026 15:56:02 +0000"
+      "title": "Big Banks Kick Off Q3 Earnings With",
+      "summary": "As banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/big-banks-kick-off-q3-earnings-with-s-and-p-500-near-records-strategists-flag-what-could-move-markets/cZxBGJwRB8M?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 01:33:36 +0000"
     },
     {
-      "title": "European Stocks Close Higher in",
-      "summary": "European stock markets closed higher in Monday trading as crude oil prices continued to rise followi",
+      "title": "Oil prices fall as Russia flags more",
+      "summary": "Investing.com-- Oil prices fell early-Tuesday after Russia said its diesel exports may exceed volumes announced under a supply deal with the U.S., heralding improved supplies.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-monday-154756041.html?.tsrc=rss",
-      "published": "Mon, 12 Oct 2026 15:47:56 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-russia-flags-010032187.html?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 01:00:32 +0000"
     },
     {
-      "title": "3 Consumer Stocks We’re Skeptical Of",
-      "summary": "Consumer discretionary businesses are levered to the highs and lows of economic cycles. Unfortunately, the industry’s recent performance suggests demand may be fading as discretion",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-skeptical-154303892.html?.tsrc=rss",
-      "published": "Mon, 12 Oct 2026 15:43:03 +0000"
+      "title": "U.S. stock futures steady as bank",
+      "summary": "Investing.com-- U.S. stock index futures were little changed on Monday night as investors braced for a busy week of corporate earnings and economic data, with quarterly results fro",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-bank-005516958.html?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 00:55:16 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "93.65",
-          "change": "-0.04%",
+          "value": "92.83",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "106.63",
-          "change": "-0.05%",
+          "value": "105.62",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4192.50",
-          "change": "+0.03%",
+          "value": "4175.30",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.75",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "6.71",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        93.69999694824219,
-        93.7300033569336,
-        93.72000122070312,
-        93.66000366210938,
-        93.62999725341797,
-        93.58000183105469,
-        93.55000305175781,
-        93.54000091552734,
-        93.63999938964844,
-        93.69000244140625,
-        93.6500015258789
+        92.80000305175781,
+        92.79000091552734,
+        92.75,
+        92.7699966430664,
+        92.7300033569336,
+        92.70999908447266,
+        92.72000122070312,
+        92.76000213623047,
+        92.80999755859375,
+        92.83999633789062,
+        92.83000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-13 00:50 KST"
+      "freshness": "2026-10-13 10:49 KST"
     },
     {
       "id": "bonds",
@@ -240,7 +240,7 @@
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-10-13 00:45 KST"
+      "freshness": "2026-10-13 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,20 +250,20 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7813.64",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "7807.79",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "27302.78",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "27250.03",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
-          "value": "6408.43",
-          "change": "-0.05%",
+          "value": "5996.50",
+          "change": "-0.12%",
           "direction": "down"
         },
         {
@@ -274,21 +274,21 @@
         }
       ],
       "trend": [
-        7814.81005859375,
-        7813.9599609375,
-        7814.2099609375,
-        7815.14990234375,
-        7815.77001953125,
-        7815.89990234375,
-        7816.009765625,
-        7814.81005859375,
-        7814.81982421875,
-        7814.93017578125,
-        7813.64013671875
+        7805.8798828125,
+        7807.35009765625,
+        7806.7099609375,
+        7805.77001953125,
+        7805.8701171875,
+        7804.97998046875,
+        7805.02978515625,
+        7804.68994140625,
+        7804.93994140625,
+        7806.85009765625,
+        7807.7900390625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-13 01:00 KST"
+      "status": "강세",
+      "freshness": "2026-10-13 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.58",
+          "value": "102.49",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1334.64",
-          "change": "+0.04%",
+          "value": "1337.38",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.71",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "158.29",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6821",
+          "value": "6.6939",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1334.1099853515625,
-        1334.18994140625,
-        1334.1300048828125,
-        1333.989990234375,
-        1334.52001953125,
-        1334.5799560546875,
-        1334.010009765625,
-        1333.949951171875,
-        1334.260009765625,
-        1334.050048828125,
-        1334.6400146484375
+        1338.1400146484375,
+        1338.1099853515625,
+        1338.0999755859375,
+        1338.22998046875,
+        1338.280029296875,
+        1337.8499755859375,
+        1337.8800048828125,
+        1337.6800537109375,
+        1337.5799560546875,
+        1337.25,
+        1337.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "중립",
-      "freshness": "2026-10-13 01:00 KST"
+      "freshness": "2026-10-13 10:59 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
