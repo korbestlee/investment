@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "collectedAt": "2026-10-13T01:59:18Z",
+  "collectedAt": "2026-10-13T09:48:04Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Gold slips near $4,160 as Middle",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com -- Gold prices extended losses on Tuesday as escalating conflict in the Middle East raised concerns over further energy supply disruptions, keeping inflation risks el",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html?.tsrc=rss"
-    },
-    {
-      "title": "Big Banks Kick Off Q3 Earnings With",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "As banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/big-banks-kick-off-q3-earnings-with-s-and-p-500-near-records-strategists-flag-what-could-move-markets/cZxBGJwRB8M?.tsrc=rss"
-    },
-    {
-      "title": "Oil prices fall as Russia flags more",
+      "title": "Dow, S&P 500, Nasdaq futures trade",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com-- Oil prices fell early-Tuesday after Russia said its diesel exports may exceed volumes announced under a supply deal with the U.S., heralding improved supplies.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-russia-flags-010032187.html?.tsrc=rss"
+      "summary": "US stock futures were muted on Tuesday as crosscurrents from bank earnings, a chip sell-off, and volatile oil prices clouded the market outlook.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-080236234.html?.tsrc=rss"
     },
     {
-      "title": "U.S. stock futures steady as bank",
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "A growing chorus of risks could spark a correction in the S&P 500 stock market index.",
+      "link": "https://www.fool.com/investing/2026/10/13/prediction-stock-market-crash-on-7-decades-history/?.tsrc=rss"
+    },
+    {
+      "title": "Oil Prices Diverge As Traders Weigh",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Brent futures fell as traders debated whether additional Russian diesel supplies could ease fuel shortages amid ongoing Middle East tensions.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/oil-prices-diverge-as-traders-weigh-russian-diesel-relief-against-saudi-supply-risks-uso-uco-in-focus/cZxBfVCRBoL?.tsrc=rss"
+    },
+    {
+      "title": "3 Financial Stocks Retail Investors",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com-- U.S. stock index futures were little changed on Monday night as investors braced for a busy week of corporate earnings and economic data, with quarterly results fro",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-bank-005516958.html?.tsrc=rss"
+      "summary": "AI investment is reshaping which countries pull the global economy forward, while higher oil prices and rising bond yields quietly change the rules of the game for financial stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-retail-investors-091009930.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Gold slips near $4,160 as Middle",
-      "summary": "Investing.com -- Gold prices extended losses on Tuesday as escalating conflict in the Middle East raised concerns over further energy supply disruptions, keeping inflation risks el",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 01:50:39 +0000"
-    },
-    {
-      "title": "Big Banks Kick Off Q3 Earnings With",
-      "summary": "As banks kick off the third-quarter earnings season this week, market experts expect the momentum from the second quarter to continue.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/big-banks-kick-off-q3-earnings-with-s-and-p-500-near-records-strategists-flag-what-could-move-markets/cZxBGJwRB8M?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 01:33:36 +0000"
-    },
-    {
-      "title": "Oil prices fall as Russia flags more",
-      "summary": "Investing.com-- Oil prices fell early-Tuesday after Russia said its diesel exports may exceed volumes announced under a supply deal with the U.S., heralding improved supplies.",
+      "title": "Dow, S&P 500, Nasdaq futures trade",
+      "summary": "US stock futures were muted on Tuesday as crosscurrents from bank earnings, a chip sell-off, and volatile oil prices clouded the market outlook.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-russia-flags-010032187.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 01:00:32 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-080236234.html?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 08:02:36 +0000"
     },
     {
-      "title": "U.S. stock futures steady as bank",
-      "summary": "Investing.com-- U.S. stock index futures were little changed on Monday night as investors braced for a busy week of corporate earnings and economic data, with quarterly results fro",
+      "title": "Prediction",
+      "summary": "A growing chorus of risks could spark a correction in the S&P 500 stock market index.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/13/prediction-stock-market-crash-on-7-decades-history/?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 09:39:00 +0000"
+    },
+    {
+      "title": "Oil Prices Diverge As Traders Weigh",
+      "summary": "Brent futures fell as traders debated whether additional Russian diesel supplies could ease fuel shortages amid ongoing Middle East tensions.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/oil-prices-diverge-as-traders-weigh-russian-diesel-relief-against-saudi-supply-risks-uso-uco-in-focus/cZxBfVCRBoL?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 09:16:48 +0000"
+    },
+    {
+      "title": "3 Financial Stocks Retail Investors",
+      "summary": "AI investment is reshaping which countries pull the global economy forward, while higher oil prices and rising bond yields quietly change the rules of the game for financial stocks",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-bank-005516958.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 00:55:16 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-retail-investors-091009930.html?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 09:10:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "92.83",
+          "value": "92.04",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "105.62",
-          "change": "-0.01%",
+          "value": "104.85",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4175.30",
-          "change": "+0.02%",
+          "value": "4208.00",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.71",
-          "change": "-0.02%",
+          "value": "6.76",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        92.80000305175781,
-        92.79000091552734,
-        92.75,
-        92.7699966430664,
-        92.7300033569336,
-        92.70999908447266,
-        92.72000122070312,
-        92.76000213623047,
-        92.80999755859375,
-        92.83999633789062,
-        92.83000183105469
+        92.04000091552734,
+        92.0199966430664,
+        92.04000091552734,
+        92.08000183105469,
+        92.02999877929688,
+        92.05000305175781,
+        92.05000305175781,
+        92.05000305175781,
+        92.08999633789062,
+        92.05000305175781,
+        92.04000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-13 10:49 KST"
+      "freshness": "2026-10-13 18:38 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5996.50",
-          "change": "-0.12%",
+          "value": "6005.98",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6196.47",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6217.99",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.49",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "102.34",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1337.38",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1339.01",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.29",
-          "change": "-0.00%",
+          "value": "158.07",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6939",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6.6828",
+          "change": "-0.17%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1338.1400146484375,
-        1338.1099853515625,
-        1338.0999755859375,
-        1338.22998046875,
-        1338.280029296875,
-        1337.8499755859375,
-        1337.8800048828125,
-        1337.6800537109375,
-        1337.5799560546875,
-        1337.25,
-        1337.3800048828125
+        1340.5999755859375,
+        1338.4599609375,
+        1337.8900146484375,
+        1337.75,
+        1337.9200439453125,
+        1338.0799560546875,
+        1338.739990234375,
+        1338.800048828125,
+        1338.760009765625,
+        1339.449951171875,
+        1339.010009765625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-10-13 10:59 KST"
+      "status": "완화",
+      "freshness": "2026-10-13 18:48 KST"
     }
   ],
   "currentAction": {
