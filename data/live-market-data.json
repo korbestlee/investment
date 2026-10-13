@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "collectedAt": "2026-10-13T14:31:33Z",
+  "date": "2026-10-14",
+  "collectedAt": "2026-10-13T23:42:41Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "-0.00%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.09%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Bank stocks rise on JPMorgan,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Stocks were mixed on Tuesday as big banks kicked off earnings season.",
-      "link": "https://finance.yahoo.com/markets/article/bank-stocks-rise-on-jpmorgan-goldman-earnings-as-chip-stocks-fall-alphacheck-135541160.html?.tsrc=rss"
-    },
-    {
-      "title": "3 Australian Gold Stocks Retail",
+      "title": "These 3 International Dividend ETFs",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Inflation data is about to take center stage again, and this time the ripple effects could be sharp for anything linked to interest rates, currencies, and gold. With the US CPI pri",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/3-australian-gold-stocks-retail-141024484.html?.tsrc=rss"
+      "summary": "Three international dividend ETFs quietly cleared a bar that most U.S. investors assumed only domestic funds could reach, outpacing the S&P 500 while handing investors a yield grea",
+      "link": "https://247wallst.com/investing/etf/2026/10/13/these-3-international-dividend-etfs-outyield-schd-and-are-beating-the-sp-500-over-the-past-year/?.tsrc=rss"
     },
     {
-      "title": "Russia Didn't Hit Any Ukrainian",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "President Donald Trump declared an energy ceasefire between the countries on Sunday, but Kyiv said Moscow was not abiding by it.",
-      "link": "https://www.ibtimes.com/russia-didnt-hit-any-ukrainian-energy-targets-tuesday-oil-prices-retreated-3808520?.tsrc=rss"
+      "title": "What Just Happened To Joby Stock?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Joby Aviation (JOBY) stock fell 68.4% in the twelve months to October 12, 2026, while the S&P 500 returned 20.5%. The decline stretched across the entire year as the company contin",
+      "link": "https://www.trefis.com/articles/618481/what-just-happened-to-joby-stock/2026-10-13?.tsrc=rss"
     },
     {
-      "title": "BC-Gold Futures",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, October 13.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 4180.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-140025200.html?.tsrc=rss"
+      "title": "Can Phinia Stock Compound Your",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Over the past three months, shares of Phinia (PHIN) have lost 28%, even as the S&P 500 gained 3.8%. The company has spent three years repurchasing its stock, reducing its total cou",
+      "link": "https://www.trefis.com/articles/618502/can-phinia-stock-compound-your-money/2026-10-13?.tsrc=rss"
+    },
+    {
+      "title": "What Could Derail Caterpillar Stock?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Investors holding Caterpillar (CAT) stock are paying 33.9 times earnings, compared with 21.9 for the S&P 500. Sustaining that premium requires durable growth, and a rapidly expandi",
+      "link": "https://www.trefis.com/articles/618509/what-could-derail-caterpillar-stock/2026-10-13?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Bank stocks rise on JPMorgan,",
-      "summary": "Stocks were mixed on Tuesday as big banks kicked off earnings season.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/bank-stocks-rise-on-jpmorgan-goldman-earnings-as-chip-stocks-fall-alphacheck-135541160.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 13:55:41 +0000"
-    },
-    {
-      "title": "3 Australian Gold Stocks Retail",
-      "summary": "Inflation data is about to take center stage again, and this time the ripple effects could be sharp for anything linked to interest rates, currencies, and gold. With the US CPI pri",
+      "title": "These 3 International Dividend ETFs",
+      "summary": "Three international dividend ETFs quietly cleared a bar that most U.S. investors assumed only domestic funds could reach, outpacing the S&P 500 while handing investors a yield grea",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/3-australian-gold-stocks-retail-141024484.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 14:10:24 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/10/13/these-3-international-dividend-etfs-outyield-schd-and-are-beating-the-sp-500-over-the-past-year/?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 22:03:09 +0000"
     },
     {
-      "title": "Russia Didn't Hit Any Ukrainian",
-      "summary": "President Donald Trump declared an energy ceasefire between the countries on Sunday, but Kyiv said Moscow was not abiding by it.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.ibtimes.com/russia-didnt-hit-any-ukrainian-energy-targets-tuesday-oil-prices-retreated-3808520?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 14:08:34 +0000"
+      "title": "What Just Happened To Joby Stock?",
+      "summary": "Joby Aviation (JOBY) stock fell 68.4% in the twelve months to October 12, 2026, while the S&P 500 returned 20.5%. The decline stretched across the entire year as the company contin",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.trefis.com/articles/618481/what-just-happened-to-joby-stock/2026-10-13?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 22:53:25 +0000"
     },
     {
-      "title": "BC-Gold Futures",
-      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, October 13.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 4180.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-140025200.html?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 14:00:25 +0000"
+      "title": "Can Phinia Stock Compound Your",
+      "summary": "Over the past three months, shares of Phinia (PHIN) have lost 28%, even as the S&P 500 gained 3.8%. The company has spent three years repurchasing its stock, reducing its total cou",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.trefis.com/articles/618502/can-phinia-stock-compound-your-money/2026-10-13?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 22:37:10 +0000"
+    },
+    {
+      "title": "What Could Derail Caterpillar Stock?",
+      "summary": "Investors holding Caterpillar (CAT) stock are paying 33.9 times earnings, compared with 21.9 for the S&P 500. Sustaining that premium requires durable growth, and a rapidly expandi",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.trefis.com/articles/618509/what-could-derail-caterpillar-stock/2026-10-13?.tsrc=rss",
+      "published": "Tue, 13 Oct 2026 22:05:19 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "93.64",
-          "change": "-0.09%",
+          "value": "94.64",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "105.88",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "106.21",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "4187.40",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4179.30",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.73",
-          "change": "-0.01%",
+          "value": "6.72",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        93.43000030517578,
-        93.58000183105469,
-        93.66000366210938,
-        93.7300033569336,
-        93.73999786376953,
-        93.6500015258789,
-        93.69000244140625,
-        93.66999816894531,
-        93.69000244140625,
-        93.72000122070312,
-        93.63999938964844
+        94.66000366210938,
+        94.6500015258789,
+        94.6500015258789,
+        94.6500015258789,
+        94.66000366210938,
+        94.68000030517578,
+        94.68000030517578,
+        94.66999816894531,
+        94.66000366210938,
+        94.6500015258789,
+        94.63999938964844
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-13 23:21 KST"
+      "freshness": "2026-10-14 08:32 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.063%",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "4.057%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "5.014%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.007%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "5.221%",
+          "value": "5.217%",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.568%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.563%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.224999904632568,
-        5.224999904632568,
-        5.2230000495910645,
         5.220999717712402,
         5.218999862670898,
         5.218999862670898,
-        5.2230000495910645,
-        5.2230000495910645,
-        5.2230000495910645,
-        5.2230000495910645,
-        5.220999717712402
+        5.218999862670898,
+        5.2170000076293945,
+        5.215000152587891,
+        5.2170000076293945,
+        5.218999862670898,
+        5.218999862670898,
+        5.218999862670898,
+        5.2170000076293945
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-10-13 23:16 KST"
+      "freshness": "2026-10-14 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7800.91",
-          "change": "-0.02%",
+          "value": "7805.59",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "27213.43",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "27204.50",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6172.67",
-          "change": "-0.03%",
+          "value": "6165.45",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        7800.419921875,
-        7802.009765625,
-        7803.169921875,
-        7803.93017578125,
-        7803.740234375,
-        7805.27001953125,
-        7804.16015625,
-        7803.6298828125,
-        7801.7099609375,
-        7802.33984375,
-        7800.91015625
+        7810.3798828125,
+        7806.75,
+        7805.6201171875,
+        7805.9501953125,
+        7807.89990234375,
+        7807.1201171875,
+        7805.22998046875,
+        7804.33984375,
+        7804.6201171875,
+        7805.8701171875,
+        7805.58984375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-10-13 23:31 KST"
+      "freshness": "2026-10-14 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.28",
-          "change": "-0.01%",
+          "value": "102.21",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1341.73",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "1341.23",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.38",
+          "value": "158.35",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6808",
+          "value": "6.6817",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1341.47998046875,
-        1341.199951171875,
-        1340.97998046875,
-        1340.8800048828125,
-        1340.93994140625,
-        1340.8499755859375,
-        1340.9599609375,
-        1341.02001953125,
-        1341.47998046875,
-        1341.2099609375,
-        1341.72998046875
+        1340.25,
+        1340.280029296875,
+        1341.260009765625,
+        1341.5400390625,
+        1340.6700439453125,
+        1340.5,
+        1340.8900146484375,
+        1341.27001953125,
+        1340.6099853515625,
+        1341.8499755859375,
+        1341.22998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-13 23:31 KST"
+      "freshness": "2026-10-14 08:42 KST"
     }
   ],
   "currentAction": {
