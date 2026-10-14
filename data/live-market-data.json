@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "collectedAt": "2026-10-14T08:04:51Z",
+  "collectedAt": "2026-10-14T12:17:54Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.15%",
+      "value": "+0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices rise after reported",
-      "impact": "원자재, 인플레 기대",
+      "title": "CPI Inflation Data To Set Stage For",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Oil prices rose on recent reports that Iran attacked ships in the Strait of Hormuz. European gas prices hovered near a four-year high, while Asian shares had a mixed reaction and E",
-      "link": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz?.tsrc=rss"
+      "summary": "Core CPI inflation is forecast to edge up to 2.5%.",
+      "link": "https://finance.yahoo.com/m/fecfb073-407a-3324-9100-d51a7afe6262/cpi-inflation-data-to-set.html?.tsrc=rss"
     },
     {
-      "title": "Thor Explorations Announces Q3 2026",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 14, 2026) - Thor Explorations Ltd. (AIM: THX) (TSXV: THX) (\"Thor Explorations\" or the \"Company\") is pleased to provide its th",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/thor-explorations-announces-q3-2026-060000650.html?.tsrc=rss"
-    },
-    {
-      "title": "IMF chief says Saudi attacks could",
-      "impact": "시장 전반",
+      "title": "No One Owns A Stock That Beat The",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "International Monetary Fund head Kristalina Georgieva said Wednesday that recent attacks on Saudi Arabia could impact people \"everywhere\", as conflict in the energy-rich region add",
-      "link": "https://finance.yahoo.com/economy/articles/imf-chief-says-saudi-attacks-055622801.html?.tsrc=rss"
+      "summary": "Here's a trick S&P 500 investors dream about — a stock that beats the index every year like clockwork. Too bad it doesn't exist.",
+      "link": "https://finance.yahoo.com/m/f91ee253-4e9b-3d11-9d63-69583ab32143/no-one-owns-a-stock-that-beat.html?.tsrc=rss"
     },
     {
-      "title": "Oil Prices Climb Above $106 as Iran",
+      "title": "Galantas Gold Intersects 11.84 g/t",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices climbed as Iran reportedly intensified tanker attacks in the Strait of Hormuz and reports of possible renewed U.S. strikes heightened fears of further supply disruptions",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-above-106-053131652.html?.tsrc=rss"
+      "summary": "Toronto, Ontario--(Newsfile Corp. - October 14, 2026) - Galantas Gold Corporation (TSXV: GAL) (AIM: GAL) (\"Galantas\" or the \"Company\") announces that the Company has received posit",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/galantas-gold-intersects-11-84-120000520.html?.tsrc=rss"
+    },
+    {
+      "title": "One of The S&P 500's Top-Yielding",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "This income-generating juggernaut may be one of the stock market's best-kept secrets.",
+      "link": "https://www.fool.com/investing/2026/10/14/one-of-the-sp-500s-top-yielding-dividend-stock-jus/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices rise after reported",
-      "summary": "Oil prices rose on recent reports that Iran attacked ships in the Strait of Hormuz. European gas prices hovered near a four-year high, while Asian shares had a mixed reaction and E",
-      "impact": "원자재, 인플레 기대",
+      "title": "CPI Inflation Data To Set Stage For",
+      "summary": "Core CPI inflation is forecast to edge up to 2.5%.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 07:17:41 +0000"
+      "link": "https://finance.yahoo.com/m/fecfb073-407a-3324-9100-d51a7afe6262/cpi-inflation-data-to-set.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 12:06:24 +0000"
     },
     {
-      "title": "Thor Explorations Announces Q3 2026",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 14, 2026) - Thor Explorations Ltd. (AIM: THX) (TSXV: THX) (\"Thor Explorations\" or the \"Company\") is pleased to provide its th",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/thor-explorations-announces-q3-2026-060000650.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 06:00:00 +0000"
-    },
-    {
-      "title": "IMF chief says Saudi attacks could",
-      "summary": "International Monetary Fund head Kristalina Georgieva said Wednesday that recent attacks on Saudi Arabia could impact people \"everywhere\", as conflict in the energy-rich region add",
-      "impact": "시장 전반",
+      "title": "No One Owns A Stock That Beat The",
+      "summary": "Here's a trick S&P 500 investors dream about — a stock that beats the index every year like clockwork. Too bad it doesn't exist.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/economy/articles/imf-chief-says-saudi-attacks-055622801.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 05:56:22 +0000"
+      "link": "https://finance.yahoo.com/m/f91ee253-4e9b-3d11-9d63-69583ab32143/no-one-owns-a-stock-that-beat.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 12:00:53 +0000"
     },
     {
-      "title": "Oil Prices Climb Above $106 as Iran",
-      "summary": "Oil prices climbed as Iran reportedly intensified tanker attacks in the Strait of Hormuz and reports of possible renewed U.S. strikes heightened fears of further supply disruptions",
+      "title": "Galantas Gold Intersects 11.84 g/t",
+      "summary": "Toronto, Ontario--(Newsfile Corp. - October 14, 2026) - Galantas Gold Corporation (TSXV: GAL) (AIM: GAL) (\"Galantas\" or the \"Company\") announces that the Company has received posit",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-above-106-053131652.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 05:31:31 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/galantas-gold-intersects-11-84-120000520.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "One of The S&P 500's Top-Yielding",
+      "summary": "This income-generating juggernaut may be one of the stock market's best-kept secrets.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/10/14/one-of-the-sp-500s-top-yielding-dividend-stock-jus/?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 11:52:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.28",
-          "change": "-0.15%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "105.86",
-          "change": "-0.11%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4171.30",
-          "change": "+0.00%",
+          "value": "95.74",
+          "change": "+0.06%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "106.25",
+          "change": "+0.07%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "4168.80",
+          "change": "-0.09%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.75",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.76",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        94.62000274658203,
-        94.51000213623047,
-        94.4800033569336,
-        94.5199966430664,
-        94.47000122070312,
-        94.48999786376953,
-        94.52999877929688,
-        94.5999984741211,
-        94.44000244140625,
-        94.41999816894531,
-        94.27999877929688
+        95.91999816894531,
+        95.77999877929688,
+        95.77999877929688,
+        95.81999969482422,
+        95.70999908447266,
+        95.55000305175781,
+        95.62999725341797,
+        95.6500015258789,
+        95.6500015258789,
+        95.68000030517578,
+        95.73999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-14 16:54 KST"
+      "status": "강세",
+      "freshness": "2026-10-14 21:07 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6195.24",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6201.97",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.18",
-          "change": "+0.00%",
+          "value": "102.22",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1335.38",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1336.98",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "158.37",
+          "value": "158.46",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6924",
+          "value": "6.6820",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         }
       ],
       "trend": [
-        1335.1700439453125,
-        1335.6300048828125,
-        1335.3900146484375,
-        1335.5799560546875,
-        1335.4200439453125,
-        1335.7099609375,
-        1335.43994140625,
-        1335.8199462890625,
-        1335.5999755859375,
-        1335.1700439453125,
-        1335.3800048828125
+        1336.6099853515625,
+        1336.6300048828125,
+        1336.6300048828125,
+        1336.6400146484375,
+        1336.9200439453125,
+        1336.7900390625,
+        1336.8399658203125,
+        1337.300048828125,
+        1336.97998046875,
+        1336.97998046875,
+        1336.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-14 17:04 KST"
+      "freshness": "2026-10-14 21:17 KST"
     }
   ],
   "currentAction": {
