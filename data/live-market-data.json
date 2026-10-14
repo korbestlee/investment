@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "collectedAt": "2026-10-13T23:42:41Z",
+  "collectedAt": "2026-10-14T08:04:51Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.15%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "These 3 International Dividend ETFs",
-      "impact": "채권, 금리",
+      "title": "Oil prices rise after reported",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Three international dividend ETFs quietly cleared a bar that most U.S. investors assumed only domestic funds could reach, outpacing the S&P 500 while handing investors a yield grea",
-      "link": "https://247wallst.com/investing/etf/2026/10/13/these-3-international-dividend-etfs-outyield-schd-and-are-beating-the-sp-500-over-the-past-year/?.tsrc=rss"
+      "summary": "Oil prices rose on recent reports that Iran attacked ships in the Strait of Hormuz. European gas prices hovered near a four-year high, while Asian shares had a mixed reaction and E",
+      "link": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz?.tsrc=rss"
     },
     {
-      "title": "What Just Happened To Joby Stock?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Joby Aviation (JOBY) stock fell 68.4% in the twelve months to October 12, 2026, while the S&P 500 returned 20.5%. The decline stretched across the entire year as the company contin",
-      "link": "https://www.trefis.com/articles/618481/what-just-happened-to-joby-stock/2026-10-13?.tsrc=rss"
+      "title": "Thor Explorations Announces Q3 2026",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 14, 2026) - Thor Explorations Ltd. (AIM: THX) (TSXV: THX) (\"Thor Explorations\" or the \"Company\") is pleased to provide its th",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/thor-explorations-announces-q3-2026-060000650.html?.tsrc=rss"
     },
     {
-      "title": "Can Phinia Stock Compound Your",
-      "impact": "지수, 위험선호",
+      "title": "IMF chief says Saudi attacks could",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Over the past three months, shares of Phinia (PHIN) have lost 28%, even as the S&P 500 gained 3.8%. The company has spent three years repurchasing its stock, reducing its total cou",
-      "link": "https://www.trefis.com/articles/618502/can-phinia-stock-compound-your-money/2026-10-13?.tsrc=rss"
+      "summary": "International Monetary Fund head Kristalina Georgieva said Wednesday that recent attacks on Saudi Arabia could impact people \"everywhere\", as conflict in the energy-rich region add",
+      "link": "https://finance.yahoo.com/economy/articles/imf-chief-says-saudi-attacks-055622801.html?.tsrc=rss"
     },
     {
-      "title": "What Could Derail Caterpillar Stock?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Investors holding Caterpillar (CAT) stock are paying 33.9 times earnings, compared with 21.9 for the S&P 500. Sustaining that premium requires durable growth, and a rapidly expandi",
-      "link": "https://www.trefis.com/articles/618509/what-could-derail-caterpillar-stock/2026-10-13?.tsrc=rss"
+      "title": "Oil Prices Climb Above $106 as Iran",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices climbed as Iran reportedly intensified tanker attacks in the Strait of Hormuz and reports of possible renewed U.S. strikes heightened fears of further supply disruptions",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-above-106-053131652.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "These 3 International Dividend ETFs",
-      "summary": "Three international dividend ETFs quietly cleared a bar that most U.S. investors assumed only domestic funds could reach, outpacing the S&P 500 while handing investors a yield grea",
-      "impact": "채권, 금리",
+      "title": "Oil prices rise after reported",
+      "summary": "Oil prices rose on recent reports that Iran attacked ships in the Strait of Hormuz. European gas prices hovered near a four-year high, while Asian shares had a mixed reaction and E",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://247wallst.com/investing/etf/2026/10/13/these-3-international-dividend-etfs-outyield-schd-and-are-beating-the-sp-500-over-the-past-year/?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 22:03:09 +0000"
+      "link": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 07:17:41 +0000"
     },
     {
-      "title": "What Just Happened To Joby Stock?",
-      "summary": "Joby Aviation (JOBY) stock fell 68.4% in the twelve months to October 12, 2026, while the S&P 500 returned 20.5%. The decline stretched across the entire year as the company contin",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.trefis.com/articles/618481/what-just-happened-to-joby-stock/2026-10-13?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 22:53:25 +0000"
+      "title": "Thor Explorations Announces Q3 2026",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 14, 2026) - Thor Explorations Ltd. (AIM: THX) (TSXV: THX) (\"Thor Explorations\" or the \"Company\") is pleased to provide its th",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/thor-explorations-announces-q3-2026-060000650.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 06:00:00 +0000"
     },
     {
-      "title": "Can Phinia Stock Compound Your",
-      "summary": "Over the past three months, shares of Phinia (PHIN) have lost 28%, even as the S&P 500 gained 3.8%. The company has spent three years repurchasing its stock, reducing its total cou",
-      "impact": "지수, 위험선호",
+      "title": "IMF chief says Saudi attacks could",
+      "summary": "International Monetary Fund head Kristalina Georgieva said Wednesday that recent attacks on Saudi Arabia could impact people \"everywhere\", as conflict in the energy-rich region add",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.trefis.com/articles/618502/can-phinia-stock-compound-your-money/2026-10-13?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 22:37:10 +0000"
+      "link": "https://finance.yahoo.com/economy/articles/imf-chief-says-saudi-attacks-055622801.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 05:56:22 +0000"
     },
     {
-      "title": "What Could Derail Caterpillar Stock?",
-      "summary": "Investors holding Caterpillar (CAT) stock are paying 33.9 times earnings, compared with 21.9 for the S&P 500. Sustaining that premium requires durable growth, and a rapidly expandi",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.trefis.com/articles/618509/what-could-derail-caterpillar-stock/2026-10-13?.tsrc=rss",
-      "published": "Tue, 13 Oct 2026 22:05:19 +0000"
+      "title": "Oil Prices Climb Above $106 as Iran",
+      "summary": "Oil prices climbed as Iran reportedly intensified tanker attacks in the Strait of Hormuz and reports of possible renewed U.S. strikes heightened fears of further supply disruptions",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-above-106-053131652.html?.tsrc=rss",
+      "published": "Wed, 14 Oct 2026 05:31:31 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.64",
-          "change": "-0.01%",
+          "value": "94.28",
+          "change": "-0.15%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "106.21",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "105.86",
+          "change": "-0.11%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4179.30",
+          "value": "4171.30",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.72",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.75",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        94.66000366210938,
-        94.6500015258789,
-        94.6500015258789,
-        94.6500015258789,
-        94.66000366210938,
-        94.68000030517578,
-        94.68000030517578,
-        94.66999816894531,
-        94.66000366210938,
-        94.6500015258789,
-        94.63999938964844
+        94.62000274658203,
+        94.51000213623047,
+        94.4800033569336,
+        94.5199966430664,
+        94.47000122070312,
+        94.48999786376953,
+        94.52999877929688,
+        94.5999984741211,
+        94.44000244140625,
+        94.41999816894531,
+        94.27999877929688
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-14 08:32 KST"
+      "freshness": "2026-10-14 16:54 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "6005.98",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "5985.37",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6165.45",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6195.24",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.21",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "102.18",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1341.23",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "1335.38",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.35",
+          "value": "158.37",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6817",
+          "value": "6.6924",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1340.25,
-        1340.280029296875,
-        1341.260009765625,
-        1341.5400390625,
-        1340.6700439453125,
-        1340.5,
-        1340.8900146484375,
-        1341.27001953125,
-        1340.6099853515625,
-        1341.8499755859375,
-        1341.22998046875
+        1335.1700439453125,
+        1335.6300048828125,
+        1335.3900146484375,
+        1335.5799560546875,
+        1335.4200439453125,
+        1335.7099609375,
+        1335.43994140625,
+        1335.8199462890625,
+        1335.5999755859375,
+        1335.1700439453125,
+        1335.3800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-14 08:42 KST"
+      "status": "강세",
+      "freshness": "2026-10-14 17:04 KST"
     }
   ],
   "currentAction": {
