@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "collectedAt": "2026-10-14T23:09:58Z",
+  "collectedAt": "2026-10-15T07:46:13Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.06%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Techs Fall On Anthropic News After",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Tech futures fall as Anthropic revenue jumps, but not enough? The stock market tested key levels on AI fears. Taiwan Semiconductor earnings loom.",
-      "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html?.tsrc=rss"
-    },
-    {
-      "title": "First Helium Announces Strategic",
+      "title": "Tech stocks lead rout after US",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Acquisition complements the Company's Charlie Lake shallow heavy oil discovery and expands near-term production opportunitiesCALGARY, AB / ACCESS Newswire / October 14, 2026 / . (\"",
-      "link": "https://finance.yahoo.com/energy/articles/first-helium-announces-strategic-shallow-215500749.html?.tsrc=rss"
+      "summary": "Asian stocks plunged Thursday as tech firms suffered another painful rout after forecast-topping US inflation data fuelled expectations the Federal Reserve will have to ramp intere",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-lead-rout-us-025325296.html?.tsrc=rss"
     },
     {
-      "title": "Bank of America Sets a New Target",
+      "title": "Oil Prices Fall as Trump Considers",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Bank of America sees gold below $4,000 into year-end. See why, and what the daily chart says about $3,950 support.",
-      "link": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/?.tsrc=rss"
+      "summary": "Oil prices declined as the Trump administration considered easing sanctions on shadow fleet tankers to reduce record shipping costs amid persistent Middle East supply disruptions.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-considers-051907774.html?.tsrc=rss"
     },
     {
-      "title": "the Market Dipped But Waste",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "In the most recent trading session, Waste Management (WM) closed at $215.75, indicating a +1.85% shift from the previous trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-waste-management-211505083.html?.tsrc=rss"
+      "title": "Peter Schiff Says Most Stocks Are in",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Peter Schiff says most stocks are in a bear market as 479 hit 52-week lows. Goldman data shows AI leaders carry the S&P 500.",
+      "link": "https://beincrypto.com/peter-schiff-most-stocks-bear-market/?.tsrc=rss"
+    },
+    {
+      "title": "iMetal Resources Advances Phase 4",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 15, 2026) - iMetal Resources Inc. (TSXV: IMR) (OTCQB: IMRFF) (FSE: A7VA) (\"iMetal\" or the \"Company\") is pleased to provide an",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/imetal-resources-advances-phase-4-040500838.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Techs Fall On Anthropic News After",
-      "summary": "Tech futures fall as Anthropic revenue jumps, but not enough? The stock market tested key levels on AI fears. Taiwan Semiconductor earnings loom.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 22:59:36 +0000"
-    },
-    {
-      "title": "First Helium Announces Strategic",
-      "summary": "Acquisition complements the Company's Charlie Lake shallow heavy oil discovery and expands near-term production opportunitiesCALGARY, AB / ACCESS Newswire / October 14, 2026 / . (\"",
+      "title": "Tech stocks lead rout after US",
+      "summary": "Asian stocks plunged Thursday as tech firms suffered another painful rout after forecast-topping US inflation data fuelled expectations the Federal Reserve will have to ramp intere",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/first-helium-announces-strategic-shallow-215500749.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 21:55:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-lead-rout-us-025325296.html?.tsrc=rss",
+      "published": "Thu, 15 Oct 2026 07:27:14 +0000"
     },
     {
-      "title": "Bank of America Sets a New Target",
-      "summary": "Bank of America sees gold below $4,000 into year-end. See why, and what the daily chart says about $3,950 support.",
+      "title": "Oil Prices Fall as Trump Considers",
+      "summary": "Oil prices declined as the Trump administration considered easing sanctions on shadow fleet tankers to reduce record shipping costs amid persistent Middle East supply disruptions.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 21:19:48 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-considers-051907774.html?.tsrc=rss",
+      "published": "Thu, 15 Oct 2026 05:19:07 +0000"
     },
     {
-      "title": "the Market Dipped But Waste",
-      "summary": "In the most recent trading session, Waste Management (WM) closed at $215.75, indicating a +1.85% shift from the previous trading day.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-waste-management-211505083.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 21:15:05 +0000"
+      "title": "Peter Schiff Says Most Stocks Are in",
+      "summary": "Peter Schiff says most stocks are in a bear market as 479 hit 52-week lows. Goldman data shows AI leaders carry the S&P 500.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/peter-schiff-most-stocks-bear-market/?.tsrc=rss",
+      "published": "Thu, 15 Oct 2026 04:17:00 +0000"
+    },
+    {
+      "title": "iMetal Resources Advances Phase 4",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 15, 2026) - iMetal Resources Inc. (TSXV: IMR) (OTCQB: IMRFF) (FSE: A7VA) (\"iMetal\" or the \"Company\") is pleased to provide an",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/imetal-resources-advances-phase-4-040500838.html?.tsrc=rss",
+      "published": "Thu, 15 Oct 2026 04:05:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "94.93",
-          "change": "-0.03%",
+          "value": "93.96",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "105.86",
-          "change": "-0.01%",
+          "value": "103.93",
+          "change": "-0.10%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4127.70",
+          "value": "4163.60",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.61",
+          "value": "6.55",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        95.02999877929688,
-        95.02999877929688,
-        95.0199966430664,
-        95.01000213623047,
-        95.04000091552734,
-        95.01000213623047,
-        95.0199966430664,
-        94.98999786376953,
-        94.95999908447266,
-        94.95999908447266,
-        94.93000030517578
+        93.79000091552734,
+        93.76000213623047,
+        93.73999786376953,
+        93.8499984741211,
+        93.77999877929688,
+        93.7699966430664,
+        93.80000305175781,
+        93.93000030517578,
+        94.0199966430664,
+        94.0199966430664,
+        93.95999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-15 07:58 KST"
+      "freshness": "2026-10-15 16:36 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5985.37",
-          "change": "+0.04%",
+          "value": "5484.38",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6193.70",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6142.39",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.53",
+          "value": "102.07",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1342.75",
-          "change": "+0.09%",
-          "direction": "up"
+          "value": "1342.67",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.10",
+          "value": "157.93",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6876",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "6.6909",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1341.6300048828125,
-        1341.4200439453125,
-        1341.3900146484375,
-        1341.489990234375,
-        1341.5999755859375,
-        1341.1800537109375,
-        1341.56005859375,
-        1341.550048828125,
-        1341.56005859375,
-        1341.5,
-        1342.75
+        1342.719970703125,
+        1342.47998046875,
+        1342.6500244140625,
+        1342.199951171875,
+        1342.550048828125,
+        1342.3699951171875,
+        1342.780029296875,
+        1342.5400390625,
+        1342.56005859375,
+        1342.780029296875,
+        1342.6700439453125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-15 08:09 KST"
+      "freshness": "2026-10-15 16:46 KST"
     }
   ],
   "currentAction": {
