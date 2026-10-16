@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "collectedAt": "2026-10-16T07:34:25Z",
+  "collectedAt": "2026-10-16T11:50:45Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil Prices Head for Weekly Gain as",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices are heading for a weekly gain as Strait of Hormuz disruptions and falling U.S. crude inventories outweigh efforts to ease global supply pressures.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-weekly-gain-053000638.html?.tsrc=rss"
+      "title": "Dow, S&P 500, Nasdaq futures mixed",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stocks futures were mixed on Friday, with the S&P 500 and Nasdaq on track for weekly losses, capping a volatile week.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise; Anthropic",
+      "title": "Dow Jones Futures Rise; Tesla Flies",
       "impact": "시장 전반",
       "importance": "mid",
       "summary": "Tech futures fell on $2 trillion Anthropic valuation doubts after a wild, positive session. Tesla revealed a flying Roadster.",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B-tesla.html?.tsrc=rss"
     },
     {
-      "title": "3 European Gas Stocks Investors",
+      "title": "3 Healthcare Stocks That Concern Us",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "European gas markets have lurched back into focus as early cold weather, stubbornly high crude prices and disrupted supply routes keep energy costs elevated. That mix creates both ",
-      "link": "https://finance.yahoo.com/energy/articles/3-european-gas-stocks-investors-021458209.html?.tsrc=rss"
+      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
+      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-113139821.html?.tsrc=rss"
     },
     {
-      "title": "The S&P 500 Went More Than 50",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Since 1950, 54 past calm streaks like this have a full year of results.",
-      "link": "https://www.fool.com/investing/2026/10/15/the-s-and-p-500-went-more-than-50-trading-days-without-a-1-drop-that-streak-just-ended-what-s-next/?.tsrc=rss"
+      "title": "Halfway Through October, Diesel Is",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil Market Daily News Commentary - Global onshore oil inventories are hovering at their lowest levels since at least 2016, according to the International Energy Agency's October Oi",
+      "link": "https://finance.yahoo.com/energy/articles/halfway-october-diesel-setting-terms-113000824.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil Prices Head for Weekly Gain as",
-      "summary": "Oil prices are heading for a weekly gain as Strait of Hormuz disruptions and falling U.S. crude inventories outweigh efforts to ease global supply pressures.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-head-weekly-gain-053000638.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 05:30:00 +0000"
+      "title": "Dow, S&P 500, Nasdaq futures mixed",
+      "summary": "Stocks futures were mixed on Friday, with the S&P 500 and Nasdaq on track for weekly losses, capping a volatile week.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 11:29:39 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise; Anthropic",
+      "title": "Dow Jones Futures Rise; Tesla Flies",
       "summary": "Tech futures fell on $2 trillion Anthropic valuation doubts after a wild, positive session. Tesla revealed a flying Roadster.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 03:11:57 +0000"
+      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B-tesla.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 11:41:32 +0000"
     },
     {
-      "title": "3 European Gas Stocks Investors",
-      "summary": "European gas markets have lurched back into focus as early cold weather, stubbornly high crude prices and disrupted supply routes keep energy costs elevated. That mix creates both ",
+      "title": "3 Healthcare Stocks That Concern Us",
+      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/3-european-gas-stocks-investors-021458209.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 02:14:58 +0000"
+      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-113139821.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 11:31:39 +0000"
     },
     {
-      "title": "The S&P 500 Went More Than 50",
-      "summary": "Since 1950, 54 past calm streaks like this have a full year of results.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/15/the-s-and-p-500-went-more-than-50-trading-days-without-a-1-drop-that-streak-just-ended-what-s-next/?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 02:03:01 +0000"
+      "title": "Halfway Through October, Diesel Is",
+      "summary": "Oil Market Daily News Commentary - Global onshore oil inventories are hovering at their lowest levels since at least 2016, according to the International Energy Agency's October Oi",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/halfway-october-diesel-setting-terms-113000824.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 11:30:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "95.72",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "105.26",
+          "value": "96.21",
           "change": "+0.04%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4209.00",
-          "change": "+0.01%",
+          "name": "Brent",
+          "value": "106.39",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "4198.50",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.61",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.64",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        95.72000122070312,
-        95.76000213623047,
-        95.7699966430664,
-        95.76000213623047,
-        95.72000122070312,
-        95.69999694824219,
-        95.6500015258789,
-        95.66000366210938,
-        95.66999816894531,
-        95.69000244140625,
-        95.72000122070312
+        96.16999816894531,
+        96.20999908447266,
+        96.2699966430664,
+        96.37000274658203,
+        96.29000091552734,
+        96.27999877929688,
+        96.19000244140625,
+        96.13999938964844,
+        96.16999816894531,
+        96.16999816894531,
+        96.20999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-16 16:24 KST"
+      "freshness": "2026-10-16 20:40 KST"
     },
     {
       "id": "bonds",
@@ -268,8 +268,8 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6201.46",
-          "change": "+0.00%",
+          "value": "6204.13",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.81",
+          "value": "101.67",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1331.59",
-          "change": "+0.00%",
+          "value": "1331.87",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.95",
-          "change": "-0.00%",
+          "value": "158.01",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6862",
+          "value": "6.6754",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1331.469970703125,
+        1331.780029296875,
+        1331.4000244140625,
+        1331.8299560546875,
+        1331.6600341796875,
+        1331.7900390625,
+        1332.0799560546875,
+        1331.5999755859375,
         1331.5899658203125,
-        1331.4300537109375,
-        1331.3900146484375,
-        1331.3800048828125,
-        1331.6800537109375,
-        1331.43994140625,
-        1331.530029296875,
-        1331.5799560546875,
-        1331.5799560546875,
-        1331.5899658203125
+        1331.5699462890625,
+        1331.739990234375,
+        1331.8699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-16 16:34 KST"
+      "freshness": "2026-10-16 20:50 KST"
     }
   ],
   "currentAction": {
