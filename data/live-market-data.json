@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "collectedAt": "2026-10-16T11:50:45Z",
+  "date": "2026-10-17",
+  "collectedAt": "2026-10-16T22:47:07Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.05%",
+      "value": "-0.04%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures mixed",
+      "title": "Nasdaq 100 Records Worst Week In 18",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stocks futures were mixed on Friday, with the S&P 500 and Nasdaq on track for weekly losses, capping a volatile week.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss"
+      "summary": "The Philadelphia Semiconductor Index fell for an eighth straight day, the longest slide since 2008.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise; Tesla Flies",
+      "title": "Equinix (EQIX) Stock Moves -1.03%",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "In the most recent trading session, Equinix (EQIX) closed at $985.98, indicating a -1.03% shift from the previous trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-moves-1-211507168.html?.tsrc=rss"
+    },
+    {
+      "title": "Ralph Lauren (RL) Falls More Steeply",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Tech futures fell on $2 trillion Anthropic valuation doubts after a wild, positive session. Tesla revealed a flying Roadster.",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B-tesla.html?.tsrc=rss"
+      "summary": "The latest trading day saw Ralph Lauren (RL) settling at $384.94, representing a -1.57% change from its previous close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-falls-more-211507113.html?.tsrc=rss"
     },
     {
-      "title": "3 Healthcare Stocks That Concern Us",
-      "impact": "지수, 위험선호",
+      "title": "Doximity (DOCS) Dipped More Than",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-113139821.html?.tsrc=rss"
-    },
-    {
-      "title": "Halfway Through October, Diesel Is",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil Market Daily News Commentary - Global onshore oil inventories are hovering at their lowest levels since at least 2016, according to the International Energy Agency's October Oi",
-      "link": "https://finance.yahoo.com/energy/articles/halfway-october-diesel-setting-terms-113000824.html?.tsrc=rss"
+      "summary": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-docs-dipped-more-211506322.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures mixed",
-      "summary": "Stocks futures were mixed on Friday, with the S&P 500 and Nasdaq on track for weekly losses, capping a volatile week.",
+      "title": "Nasdaq 100 Records Worst Week In 18",
+      "summary": "The Philadelphia Semiconductor Index fell for an eighth straight day, the longest slide since 2008.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 11:29:39 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 22:15:34 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise; Tesla Flies",
-      "summary": "Tech futures fell on $2 trillion Anthropic valuation doubts after a wild, positive session. Tesla revealed a flying Roadster.",
+      "title": "Equinix (EQIX) Stock Moves -1.03%",
+      "summary": "In the most recent trading session, Equinix (EQIX) closed at $985.98, indicating a -1.03% shift from the previous trading day.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-moves-1-211507168.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 21:15:07 +0000"
+    },
+    {
+      "title": "Ralph Lauren (RL) Falls More Steeply",
+      "summary": "The latest trading day saw Ralph Lauren (RL) settling at $384.94, representing a -1.57% change from its previous close.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B-tesla.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 11:41:32 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-falls-more-211507113.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 21:15:07 +0000"
     },
     {
-      "title": "3 Healthcare Stocks That Concern Us",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
-      "impact": "지수, 위험선호",
+      "title": "Doximity (DOCS) Dipped More Than",
+      "summary": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-113139821.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 11:31:39 +0000"
-    },
-    {
-      "title": "Halfway Through October, Diesel Is",
-      "summary": "Oil Market Daily News Commentary - Global onshore oil inventories are hovering at their lowest levels since at least 2016, according to the International Energy Agency's October Oi",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/halfway-october-diesel-setting-terms-113000824.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 11:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-docs-dipped-more-211506322.html?.tsrc=rss",
+      "published": "Fri, 16 Oct 2026 21:15:06 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "96.21",
-          "change": "+0.04%",
+          "value": "99.04",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "106.39",
-          "change": "+0.10%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "4198.50",
-          "change": "-0.00%",
+          "value": "109.69",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4186.70",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.64",
-          "change": "-0.01%",
+          "value": "6.56",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        96.16999816894531,
-        96.20999908447266,
-        96.2699966430664,
-        96.37000274658203,
-        96.29000091552734,
-        96.27999877929688,
-        96.19000244140625,
-        96.13999938964844,
-        96.16999816894531,
-        96.16999816894531,
-        96.20999908447266
+        98.9800033569336,
+        98.93000030517578,
+        98.9000015258789,
+        98.95999908447266,
+        98.95999908447266,
+        99.01000213623047,
+        98.93000030517578,
+        98.95999908447266,
+        98.9800033569336,
+        99.01000213623047,
+        99.04000091552734
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-16 20:40 KST"
+      "freshness": "2026-10-17 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,7 +202,7 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.088%",
+          "value": "4.070%",
           "change": "+0.00%",
           "direction": "neutral"
         },
@@ -214,33 +214,33 @@
         },
         {
           "name": "UST 10Y",
-          "value": "5.089%",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5.098%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.429%",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "5.436%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.081000328063965,
-        5.081000328063965,
-        5.081000328063965,
-        5.081000328063965,
-        5.083000183105469,
-        5.083000183105469,
-        5.081000328063965,
-        5.085000038146973,
-        5.085000038146973,
-        5.085000038146973,
-        5.0889997482299805
+        5.104000091552734,
+        5.104000091552734,
+        5.1020002365112305,
+        5.1020002365112305,
+        5.1020002365112305,
+        5.0980000495910645,
+        5.093999862670898,
+        5.0980000495910645,
+        5.095999717712402,
+        5.0980000495910645,
+        5.0980000495910645
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-10-16 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-10-17 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7743.88",
-          "change": "-0.05%",
+          "value": "7658.74",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26712.26",
-          "change": "-0.07%",
+          "value": "26137.85",
+          "change": "-0.06%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6204.13",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6203.26",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7748.490234375,
-        7741.93017578125,
-        7742.7998046875,
-        7741.10986328125,
-        7745.6298828125,
-        7746.1201171875,
-        7744.10986328125,
-        7745.5,
-        7747.06982421875,
-        7747.72998046875,
-        7743.8798828125
+        7652.490234375,
+        7653.56982421875,
+        7654.10986328125,
+        7657.89013671875,
+        7656.77978515625,
+        7656.47021484375,
+        7657.8701171875,
+        7661.10009765625,
+        7657.2998046875,
+        7661.81005859375,
+        7658.740234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-10-16 04:59 KST"
+      "freshness": "2026-10-17 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.67",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.78",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1331.87",
+          "value": "1334.20",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "USDJPY",
+          "value": "157.99",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "158.01",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6754",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6768",
+          "change": "-0.13%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1331.780029296875,
-        1331.4000244140625,
-        1331.8299560546875,
-        1331.6600341796875,
-        1331.7900390625,
-        1332.0799560546875,
-        1331.5999755859375,
-        1331.5899658203125,
-        1331.5699462890625,
-        1331.739990234375,
-        1331.8699951171875
+        1334.4000244140625,
+        1334.47998046875,
+        1334.469970703125,
+        1334.4000244140625,
+        1334.510009765625,
+        1334.4200439453125,
+        1334.4599609375,
+        1334.31005859375,
+        1334.3199462890625,
+        1334.199951171875,
+        1334.199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-16 20:50 KST"
+      "status": "강세",
+      "freshness": "2026-10-17 06:00 KST"
     }
   ],
   "currentAction": {
