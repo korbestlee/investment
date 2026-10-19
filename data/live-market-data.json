@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "collectedAt": "2026-10-16T22:47:07Z",
+  "date": "2026-10-19",
+  "collectedAt": "2026-10-19T08:08:27Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq 100 Records Worst Week In 18",
+      "title": "Oil Prices Slip as Trump-Putin",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices edged lower on expectations of additional Russian diesel supplies, but continued disruption in the Strait of Hormuz kept crude benchmarks elevated.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slip-trump-putin-052500608.html?.tsrc=rss"
+    },
+    {
+      "title": "Mullman",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices pulled back from a five-month high as traders weighed escalating tensions in the Middle East against surprisingly resilient supply. Houthi attacks on Saudi Arabia are in",
+      "link": "https://finance.yahoo.com/video/mullman-houthi-attacks-impose-near-052454149.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow Futures Rise Despite 'Black",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Philadelphia Semiconductor Index fell for an eighth straight day, the longest slide since 2008.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss"
+      "summary": "U.S. stock futures were higher late Sunday, signaling a bounce from Friday’s slide in the Nasdaq Composite, even as calls for a Black Monday crash were trending. The Fear Is ‘Overd",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-despite-black-044614736.html?.tsrc=rss"
     },
     {
-      "title": "Equinix (EQIX) Stock Moves -1.03%",
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500,",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "In the most recent trading session, Equinix (EQIX) closed at $985.98, indicating a -1.03% shift from the previous trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-moves-1-211507168.html?.tsrc=rss"
-    },
-    {
-      "title": "Ralph Lauren (RL) Falls More Steeply",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "The latest trading day saw Ralph Lauren (RL) settling at $384.94, representing a -1.57% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-falls-more-211507113.html?.tsrc=rss"
-    },
-    {
-      "title": "Doximity (DOCS) Dipped More Than",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-docs-dipped-more-211506322.html?.tsrc=rss"
+      "summary": "U.S. stock futures rebound after the Nasdaq’s worst week since early June, as investors look ahead to earnings from Netflix, Tesla and Meta.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq 100 Records Worst Week In 18",
-      "summary": "The Philadelphia Semiconductor Index fell for an eighth straight day, the longest slide since 2008.",
+      "title": "Oil Prices Slip as Trump-Putin",
+      "summary": "Oil prices edged lower on expectations of additional Russian diesel supplies, but continued disruption in the Strait of Hormuz kept crude benchmarks elevated.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-slip-trump-putin-052500608.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 05:25:00 +0000"
+    },
+    {
+      "title": "Mullman",
+      "summary": "Oil prices pulled back from a five-month high as traders weighed escalating tensions in the Middle East against surprisingly resilient supply. Houthi attacks on Saudi Arabia are in",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/video/mullman-houthi-attacks-impose-near-052454149.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 05:24:54 +0000"
+    },
+    {
+      "title": "Dow Futures Rise Despite 'Black",
+      "summary": "U.S. stock futures were higher late Sunday, signaling a bounce from Friday’s slide in the Nasdaq Composite, even as calls for a Black Monday crash were trending. The Fear Is ‘Overd",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 22:15:34 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-rise-despite-black-044614736.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:46:14 +0000"
     },
     {
-      "title": "Equinix (EQIX) Stock Moves -1.03%",
-      "summary": "In the most recent trading session, Equinix (EQIX) closed at $985.98, indicating a -1.03% shift from the previous trading day.",
+      "title": "No ‘Black Monday’? Nasdaq, S&P 500,",
+      "summary": "U.S. stock futures rebound after the Nasdaq’s worst week since early June, as investors look ahead to earnings from Netflix, Tesla and Meta.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-moves-1-211507168.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 21:15:07 +0000"
-    },
-    {
-      "title": "Ralph Lauren (RL) Falls More Steeply",
-      "summary": "The latest trading day saw Ralph Lauren (RL) settling at $384.94, representing a -1.57% change from its previous close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-falls-more-211507113.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 21:15:07 +0000"
-    },
-    {
-      "title": "Doximity (DOCS) Dipped More Than",
-      "summary": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-docs-dipped-more-211506322.html?.tsrc=rss",
-      "published": "Fri, 16 Oct 2026 21:15:06 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/no-black-monday-nasdaq-s-and-p-500-dow-futures-spike-as-big-tech-earnings-loom-this-week-retail-stays-cautious/cZx8aBfRBt6?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 04:07:56 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "99.04",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "96.85",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "109.69",
-          "change": "-0.01%",
+          "value": "107.06",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4186.70",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "4196.00",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.56",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6.59",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        98.9800033569336,
-        98.93000030517578,
-        98.9000015258789,
-        98.95999908447266,
-        98.95999908447266,
-        99.01000213623047,
-        98.93000030517578,
-        98.95999908447266,
-        98.9800033569336,
-        99.01000213623047,
-        99.04000091552734
+        96.94000244140625,
+        96.9000015258789,
+        96.94000244140625,
+        96.83999633789062,
+        96.79000091552734,
+        96.80000305175781,
+        96.77999877929688,
+        96.7699966430664,
+        96.77999877929688,
+        96.8499984741211,
+        96.8499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-17 05:59 KST"
+      "status": "중립",
+      "freshness": "2026-10-19 16:58 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5718.95",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5721.95",
+          "change": "+0.15%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6203.26",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6146.88",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.78",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1334.20",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDJPY",
-          "value": "157.99",
+          "value": "102.06",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6768",
-          "change": "-0.13%",
+          "name": "USDKRW",
+          "value": "1331.06",
+          "change": "-0.05%",
           "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.14",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.6809",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1334.4000244140625,
-        1334.47998046875,
-        1334.469970703125,
-        1334.4000244140625,
-        1334.510009765625,
-        1334.4200439453125,
-        1334.4599609375,
-        1334.31005859375,
-        1334.3199462890625,
-        1334.199951171875,
-        1334.199951171875
+        1332.280029296875,
+        1332.2099609375,
+        1331.5799560546875,
+        1331.489990234375,
+        1331.25,
+        1331.1099853515625,
+        1331.1400146484375,
+        1330.8599853515625,
+        1331.2099609375,
+        1331.7099609375,
+        1331.06005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-17 06:00 KST"
+      "freshness": "2026-10-19 17:08 KST"
     }
   ],
   "currentAction": {
