@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "collectedAt": "2026-10-19T13:51:53Z",
+  "date": "2026-10-20",
+  "collectedAt": "2026-10-19T23:34:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.06%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Tech rebounds as semiconductor",
+      "title": "Nasdaq 100 Sees Best Day In Nearly A",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stocks gained on Monday as investors shifted their focus to earnings from Netflix, Tesla, and Meta.",
-      "link": "https://finance.yahoo.com/markets/article/tech-rebounds-as-semiconductor-stocks-jump-alphacheck-135003909.html?.tsrc=rss"
+      "summary": "The Philadelphia Semiconductor Index added about 1.6%.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss"
     },
     {
-      "title": "Goldman Sachs is still betting on a",
+      "title": "Forget GLD. Investors Sent $500",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Momentum tech stocks tied to the AI boom may be triggering market tremors, but Goldman Sachs still thinks the year will end just fine for investors.",
-      "link": "https://finance.yahoo.com/markets/article/goldman-sachs-is-still-betting-on-a-nice-year-end-rally-for-the-sp-500-134755098.html?.tsrc=rss"
+      "summary": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine p",
+      "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss"
     },
     {
-      "title": "Fortitude Gold Reports Third Quarter",
-      "impact": "원자재, 인플레 기대",
+      "title": "Worried About the Stock Market? This",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "COLORADO SPRINGS, CO / ACCESS Newswire / October 19, 2026 / (OTCQB:FTCO) (the \"Company\") today announced preliminary third quarter gold production of 2,139 ounces. Fortitude Gold i",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-reports-third-quarter-133000187.html?.tsrc=rss"
+      "summary": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
+      "link": "https://www.fool.com/investing/2026/10/19/worried-about-the-stock-market-this-high-yielding-etf-can-provide-stability-and-generate-passive-income-for-decades/?.tsrc=rss"
     },
     {
-      "title": "3 Healthcare Stocks That Concern Us",
+      "title": "Nasdaq Jumps Past 1 Percent as VIX",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-132855491.html?.tsrc=rss"
+      "summary": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Ind",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Tech rebounds as semiconductor",
-      "summary": "Stocks gained on Monday as investors shifted their focus to earnings from Netflix, Tesla, and Meta.",
+      "title": "Nasdaq 100 Sees Best Day In Nearly A",
+      "summary": "The Philadelphia Semiconductor Index added about 1.6%.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/tech-rebounds-as-semiconductor-stocks-jump-alphacheck-135003909.html?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 13:50:03 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 23:00:23 +0000"
     },
     {
-      "title": "Goldman Sachs is still betting on a",
-      "summary": "Momentum tech stocks tied to the AI boom may be triggering market tremors, but Goldman Sachs still thinks the year will end just fine for investors.",
+      "title": "Forget GLD. Investors Sent $500",
+      "summary": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine p",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/goldman-sachs-is-still-betting-on-a-nice-year-end-rally-for-the-sp-500-134755098.html?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 13:47:55 +0000"
+      "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 22:47:32 +0000"
     },
     {
-      "title": "Fortitude Gold Reports Third Quarter",
-      "summary": "COLORADO SPRINGS, CO / ACCESS Newswire / October 19, 2026 / (OTCQB:FTCO) (the \"Company\") today announced preliminary third quarter gold production of 2,139 ounces. Fortitude Gold i",
-      "impact": "원자재, 인플레 기대",
+      "title": "Worried About the Stock Market? This",
+      "summary": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-reports-third-quarter-133000187.html?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 13:30:00 +0000"
+      "link": "https://www.fool.com/investing/2026/10/19/worried-about-the-stock-market-this-high-yielding-etf-can-provide-stability-and-generate-passive-income-for-decades/?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 22:20:02 +0000"
     },
     {
-      "title": "3 Healthcare Stocks That Concern Us",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from",
+      "title": "Nasdaq Jumps Past 1 Percent as VIX",
+      "summary": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Ind",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-concern-us-132855491.html?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 13:28:55 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 22:11:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.51",
-          "change": "+0.06%",
+          "value": "98.26",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "108.08",
+          "value": "109.28",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4155.30",
           "change": "+0.04%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4174.40",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
           "name": "Copper",
-          "value": "6.56",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6.57",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        97.23999786376953,
-        97.19999694824219,
-        97.26000213623047,
-        97.33999633789062,
-        97.36000061035156,
-        97.25,
-        97.22000122070312,
-        97.44999694824219,
-        97.5199966430664,
-        97.44999694824219,
-        97.51000213623047
+        98.2699966430664,
+        98.26000213623047,
+        98.2699966430664,
+        98.26000213623047,
+        98.26000213623047,
+        98.22000122070312,
+        98.25,
+        98.25,
+        98.25,
+        98.25,
+        98.26000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-19 22:41 KST"
+      "freshness": "2026-10-20 08:24 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.077%",
+          "value": "4.075%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.904%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.929%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "5.100%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.136%",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.439%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.472%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        5.105999946594238,
-        5.105999946594238,
-        5.1020002365112305,
-        5.104000091552734,
-        5.105999946594238,
-        5.1020002365112305,
-        5.099999904632568,
-        5.104000091552734,
-        5.1020002365112305,
-        5.1020002365112305,
-        5.099999904632568
+        5.126999855041504,
+        5.126999855041504,
+        5.129000186920166,
+        5.13100004196167,
+        5.13100004196167,
+        5.13100004196167,
+        5.13100004196167,
+        5.13100004196167,
+        5.133000373840332,
+        5.133000373840332,
+        5.136000156402588
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-19 22:36 KST"
+      "status": "압박",
+      "freshness": "2026-10-20 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7693.31",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "7691.92",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26388.26",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "26438.33",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6124.30",
-          "change": "+0.03%",
+          "value": "6140.44",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        7699.16015625,
-        7697.06982421875,
-        7700.31005859375,
-        7696.93017578125,
-        7693.830078125,
-        7695.490234375,
-        7695.47021484375,
-        7695.509765625,
-        7694.5400390625,
-        7694.7998046875,
-        7693.31005859375
+        7704.759765625,
+        7695.58984375,
+        7695.009765625,
+        7693.2099609375,
+        7694.8798828125,
+        7696.31005859375,
+        7696.43017578125,
+        7695.02001953125,
+        7694.2998046875,
+        7691.490234375,
+        7691.919921875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-19 22:51 KST"
+      "status": "강세",
+      "freshness": "2026-10-20 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.89",
-          "change": "+0.01%",
+          "value": "101.97",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1329.98",
-          "change": "+0.03%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.38",
-          "change": "-0.01%",
+          "value": "1330.83",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6801",
-          "change": "+0.16%",
+          "name": "USDJPY",
+          "value": "158.58",
+          "change": "+0.00%",
           "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.6707",
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1330.3800048828125,
-        1330.0,
-        1329.8900146484375,
-        1330.0799560546875,
-        1329.969970703125,
-        1330.1800537109375,
-        1329.9300537109375,
-        1329.9300537109375,
-        1329.780029296875,
-        1329.5799560546875,
-        1329.97998046875
+        1330.5699462890625,
+        1330.6700439453125,
+        1330.6700439453125,
+        1330.5699462890625,
+        1330.5699462890625,
+        1330.739990234375,
+        1330.75,
+        1330.8800048828125,
+        1330.8699951171875,
+        1330.8900146484375,
+        1330.8299560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-19 22:51 KST"
+      "freshness": "2026-10-20 08:34 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
