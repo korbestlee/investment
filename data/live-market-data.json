@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20",
-  "collectedAt": "2026-10-20T12:02:23Z",
+  "date": "2026-10-21",
+  "collectedAt": "2026-10-20T23:08:41Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.06%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures mixed",
+      "title": "Dow Jones Futures Rise, AI Stocks",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 and Nasdaq pointed lower as the AI trade rebound stalled.",
-      "link": "https://finance.yahoo.com/markets/live/copy-stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-111612062.html?.tsrc=rss"
+      "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise%2C-ai.html?.tsrc=rss"
     },
     {
-      "title": "Trump announces $8 billion for",
+      "title": "September 2026 Quarterly Results",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Westgold Resources Limited (ASX: WGX) (TSX: WGX ) (Westgold or the Company) is pleased to report results for the period ending 30 September 2026 (Q1 FY27).",
+      "link": "https://finance.yahoo.com/news/september-2026-quarterly-results-221500296.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-weakness-213459750.html?.tsrc=rss"
+    },
+    {
+      "title": "Clearway Energy (CWEN) Exceeds",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "President Trump just announced aid for farmers to pay for soaring diesel costs.",
-      "link": "https://finance.yahoo.com/markets/article/trump-announces-8-billion-for-farmers-to-offset-soaring-diesel-costs-111330890.html?.tsrc=rss"
-    },
-    {
-      "title": "Here Are Tuesday’s Top Wall Street",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Pre-Market Stock Futures: Futures are mixed, but Nasdaq futures are lower as chipmakers come under attack this morning. The AI trade made a Monday comeback after a dreadful period ",
-      "link": "https://247wallst.com/investing/2026/10/20/here-are-tuesdays-top-wall-street-analyst-research-calls-akamai-technolgies-apple-blackrock-ford-motor-healthcare-realty-trust-noble-sunoco-lp-venture-global-western-midstream-partne/?.tsrc=rss"
-    },
-    {
-      "title": "French Turmoil, Crude Bills, Persian",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "European bourses tracked lower midday Tuesday as traders weighed sustained civil unrest in France, h",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/french-turmoil-crude-bills-persian-113431180.html?.tsrc=rss"
+      "summary": "Clearway Energy (CWEN) concluded the recent trading session at $30.24, signifying a +2.34% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-exceeds-market-211503117.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures mixed",
-      "summary": "The S&P 500 and Nasdaq pointed lower as the AI trade rebound stalled.",
+      "title": "Dow Jones Futures Rise, AI Stocks",
+      "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/copy-stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-111612062.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 11:16:12 +0000"
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise%2C-ai.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 22:48:28 +0000"
     },
     {
-      "title": "Trump announces $8 billion for",
-      "summary": "President Trump just announced aid for farmers to pay for soaring diesel costs.",
+      "title": "September 2026 Quarterly Results",
+      "summary": "Westgold Resources Limited (ASX: WGX) (TSX: WGX ) (Westgold or the Company) is pleased to report results for the period ending 30 September 2026 (Q1 FY27).",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/news/september-2026-quarterly-results-221500296.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 22:15:00 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-weakness-213459750.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 21:34:59 +0000"
+    },
+    {
+      "title": "Clearway Energy (CWEN) Exceeds",
+      "summary": "Clearway Energy (CWEN) concluded the recent trading session at $30.24, signifying a +2.34% move from its prior day's close.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/trump-announces-8-billion-for-farmers-to-offset-soaring-diesel-costs-111330890.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 11:13:30 +0000"
-    },
-    {
-      "title": "Here Are Tuesday’s Top Wall Street",
-      "summary": "Pre-Market Stock Futures: Futures are mixed, but Nasdaq futures are lower as chipmakers come under attack this morning. The AI trade made a Monday comeback after a dreadful period ",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://247wallst.com/investing/2026/10/20/here-are-tuesdays-top-wall-street-analyst-research-calls-akamai-technolgies-apple-blackrock-ford-motor-healthcare-realty-trust-noble-sunoco-lp-venture-global-western-midstream-partne/?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 11:57:53 +0000"
-    },
-    {
-      "title": "French Turmoil, Crude Bills, Persian",
-      "summary": "European bourses tracked lower midday Tuesday as traders weighed sustained civil unrest in France, h",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/french-turmoil-crude-bills-persian-113431180.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 11:34:31 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-exceeds-market-211503117.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 21:15:03 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "100.79",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "98.16",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "111.41",
+          "value": "109.12",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4139.90",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4138.30",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "-0.03%",
+          "value": "6.62",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.0199966430664,
-        100.9000015258789,
-        101.05000305175781,
-        101.04000091552734,
-        101.08999633789062,
-        101.01000213623047,
-        100.9800033569336,
-        100.97000122070312,
-        100.83000183105469,
-        100.81999969482422,
-        100.79000091552734
+        98.19999694824219,
+        98.13999938964844,
+        98.16000366210938,
+        98.19999694824219,
+        98.19999694824219,
+        98.1500015258789,
+        98.16000366210938,
+        98.12999725341797,
+        98.1500015258789,
+        98.12999725341797,
+        98.16000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-20 20:52 KST"
+      "status": "강세",
+      "freshness": "2026-10-21 07:57 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.075%",
+          "value": "4.080%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.929%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.935%",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.136%",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "5.117%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.472%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.425%",
+          "change": "-0.07%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.126999855041504,
-        5.126999855041504,
-        5.129000186920166,
-        5.13100004196167,
-        5.13100004196167,
-        5.13100004196167,
-        5.13100004196167,
-        5.13100004196167,
-        5.133000373840332,
-        5.133000373840332,
-        5.136000156402588
+        5.11899995803833,
+        5.11899995803833,
+        5.120999813079834,
+        5.120999813079834,
+        5.120999813079834,
+        5.11899995803833,
+        5.11899995803833,
+        5.11899995803833,
+        5.11899995803833,
+        5.11899995803833,
+        5.116999626159668
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-10-20 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-10-21 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7691.92",
-          "change": "+0.01%",
+          "value": "7711.70",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26438.33",
-          "change": "+0.03%",
+          "value": "26421.84",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6083.54",
-          "change": "+0.02%",
+          "value": "6124.94",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        7704.759765625,
-        7695.58984375,
-        7695.009765625,
-        7693.2099609375,
-        7694.8798828125,
-        7696.31005859375,
-        7696.43017578125,
-        7695.02001953125,
-        7694.2998046875,
-        7691.490234375,
-        7691.919921875
+        7711.25,
+        7709.14990234375,
+        7712.27001953125,
+        7712.22021484375,
+        7710.2001953125,
+        7711.64013671875,
+        7709.31982421875,
+        7711.43994140625,
+        7711.080078125,
+        7710.2001953125,
+        7711.7001953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-10-20 04:59 KST"
+      "freshness": "2026-10-21 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.88",
+          "value": "101.73",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1327.52",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.15",
-          "change": "+0.00%",
+          "value": "1326.63",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6664",
+          "name": "USDJPY",
+          "value": "158.27",
           "change": "+0.00%",
           "direction": "neutral"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.6673",
+          "change": "-0.15%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1328.1300048828125,
-        1327.8699951171875,
-        1327.77001953125,
-        1328.0799560546875,
-        1327.6199951171875,
-        1327.6300048828125,
-        1327.8699951171875,
-        1328.0,
-        1327.9599609375,
-        1327.9300537109375,
-        1327.52001953125
+        1325.6199951171875,
+        1325.93994140625,
+        1326.3199462890625,
+        1326.1700439453125,
+        1325.93994140625,
+        1325.989990234375,
+        1326.3299560546875,
+        1325.8800048828125,
+        1326.18994140625,
+        1326.3599853515625,
+        1326.6300048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-20 21:02 KST"
+      "freshness": "2026-10-21 08:08 KST"
     }
   ],
   "currentAction": {
