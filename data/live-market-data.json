@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "collectedAt": "2026-10-19T23:34:09Z",
+  "collectedAt": "2026-10-20T07:57:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq 100 Sees Best Day In Nearly A",
+      "title": "Should You Wait Until After the",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Philadelphia Semiconductor Index added about 1.6%.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss"
+      "summary": "With Nov. 3 two weeks away, is cash on the sidelines worth keeping until the votes are counted?",
+      "link": "https://www.fool.com/investing/2026/10/20/should-you-wait-until-after-the-midterm-elections-to-buy-the-s-and-p-500/?.tsrc=rss"
     },
     {
-      "title": "Forget GLD. Investors Sent $500",
+      "title": "Brent Tops $110 as Tanker Attacks",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine p",
-      "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss"
+      "summary": "Oil prices are climbing as renewed tanker attacks in the Strait of Hormuz and Houthi strikes on Saudi Arabia intensify concerns about Middle Eastern crude supplies.",
+      "link": "https://finance.yahoo.com/energy/articles/brent-tops-110-tanker-attacks-045606283.html?.tsrc=rss"
     },
     {
-      "title": "Worried About the Stock Market? This",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
-      "link": "https://www.fool.com/investing/2026/10/19/worried-about-the-stock-market-this-high-yielding-etf-can-provide-stability-and-generate-passive-income-for-decades/?.tsrc=rss"
-    },
-    {
-      "title": "Nasdaq Jumps Past 1 Percent as VIX",
+      "title": "Asia stocks slump as AI jitters",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Ind",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss"
+      "summary": "The MSCI Asia Pacific index declined 0.8%, while Hong Kong’s Hang Seng fell 1%, while China’s CSI 300 slipped 0.3% and the Shanghai Composite was little changed.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slump-ai-jitters-040903506.html?.tsrc=rss"
+    },
+    {
+      "title": "AP Top Extended Financial Headlines",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/ap-top-extended-financial-headlines-040000464.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq 100 Sees Best Day In Nearly A",
-      "summary": "The Philadelphia Semiconductor Index added about 1.6%.",
+      "title": "Should You Wait Until After the",
+      "summary": "With Nov. 3 two weeks away, is cash on the sidelines worth keeping until the votes are counted?",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 23:00:23 +0000"
+      "link": "https://www.fool.com/investing/2026/10/20/should-you-wait-until-after-the-midterm-elections-to-buy-the-s-and-p-500/?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 07:36:02 +0000"
     },
     {
-      "title": "Forget GLD. Investors Sent $500",
-      "summary": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine p",
+      "title": "Brent Tops $110 as Tanker Attacks",
+      "summary": "Oil prices are climbing as renewed tanker attacks in the Strait of Hormuz and Houthi strikes on Saudi Arabia intensify concerns about Middle Eastern crude supplies.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 22:47:32 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/brent-tops-110-tanker-attacks-045606283.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:56:06 +0000"
     },
     {
-      "title": "Worried About the Stock Market? This",
-      "summary": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/10/19/worried-about-the-stock-market-this-high-yielding-etf-can-provide-stability-and-generate-passive-income-for-decades/?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 22:20:02 +0000"
-    },
-    {
-      "title": "Nasdaq Jumps Past 1 Percent as VIX",
-      "summary": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Ind",
+      "title": "Asia stocks slump as AI jitters",
+      "summary": "The MSCI Asia Pacific index declined 0.8%, while Hong Kong’s Hang Seng fell 1%, while China’s CSI 300 slipped 0.3% and the Shanghai Composite was little changed.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss",
-      "published": "Mon, 19 Oct 2026 22:11:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-slump-ai-jitters-040903506.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:09:03 +0000"
+    },
+    {
+      "title": "AP Top Extended Financial Headlines",
+      "summary": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/ap-top-extended-financial-headlines-040000464.html?.tsrc=rss",
+      "published": "Tue, 20 Oct 2026 04:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "98.26",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "99.31",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "109.28",
-          "change": "-0.03%",
+          "value": "110.48",
+          "change": "-0.13%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4155.30",
-          "change": "+0.04%",
+          "value": "4143.20",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "+0.01%",
+          "value": "6.58",
+          "change": "+0.03%",
           "direction": "up"
         }
       ],
       "trend": [
-        98.2699966430664,
-        98.26000213623047,
-        98.2699966430664,
-        98.26000213623047,
-        98.26000213623047,
-        98.22000122070312,
-        98.25,
-        98.25,
-        98.25,
-        98.25,
-        98.26000213623047
+        99.55000305175781,
+        99.3499984741211,
+        99.3499984741211,
+        99.12999725341797,
+        99.12999725341797,
+        99.12999725341797,
+        99.2300033569336,
+        99.30999755859375,
+        99.31999969482422,
+        99.37999725341797,
+        99.30999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-20 08:24 KST"
+      "status": "약세",
+      "freshness": "2026-10-20 16:47 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5721.95",
-          "change": "+0.15%",
-          "direction": "up"
+          "value": "5529.17",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6140.44",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6088.20",
+          "change": "-0.04%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.97",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1330.83",
+          "value": "101.77",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "158.58",
+          "name": "USDKRW",
+          "value": "1326.61",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6707",
-          "change": "-0.14%",
+          "name": "USDJPY",
+          "value": "158.08",
+          "change": "-0.01%",
           "direction": "down"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.6783",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1330.5699462890625,
-        1330.6700439453125,
-        1330.6700439453125,
-        1330.5699462890625,
-        1330.5699462890625,
-        1330.739990234375,
-        1330.75,
-        1330.8800048828125,
-        1330.8699951171875,
-        1330.8900146484375,
-        1330.8299560546875
+        1326.9100341796875,
+        1326.199951171875,
+        1326.510009765625,
+        1326.4599609375,
+        1326.6300048828125,
+        1326.3800048828125,
+        1325.5999755859375,
+        1325.9100341796875,
+        1326.489990234375,
+        1326.5799560546875,
+        1326.6099853515625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-20 08:34 KST"
+      "status": "완화",
+      "freshness": "2026-10-20 16:57 KST"
     }
   ],
   "currentAction": {
