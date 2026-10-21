@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "collectedAt": "2026-10-21T08:02:34Z",
+  "collectedAt": "2026-10-21T12:17:10Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "SpaceX, Supermicro Revive AI Stocks;",
+      "title": "Ryanair CEO predicts biggest airfare",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Ryanair boss Michael O’Leary predicts European airfares could rise by up to 20% in 2027 as higher fuel costs, taxes and reduced capacity put pressure on airlines.View on euronews",
+      "link": "https://www.euronews.com/2026/10/21/ryanair-ceo-predicts-biggest-airfare-rise-in-european-history?.tsrc=rss"
+    },
+    {
+      "title": "10 S&P 500 Stocks Seeing The Biggest",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss"
+      "summary": "The S&P 500 stocks getting the heftiest EPS upgrades have something in common.",
+      "link": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html?.tsrc=rss"
     },
     {
-      "title": "If a Stock Market Crash Is Coming,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The market is in shaky territory, and the right strategy is more important than ever.",
-      "link": "https://www.fool.com/investing/2026/10/21/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss"
-    },
-    {
-      "title": "Stocktwits Midweek Energy Roundup",
+      "title": "Bitcoin and ethereum prices today,",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices have surged as concerns over Middle East supplies mount, with Brent crude breaching $110 a barrel and U.S. West Texas Intermediate rising to about $99.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-roundup-brent-crosses-110-a-barrel-musk-s-comments-on-power-for-ai-key-earnings-check/cZxtMSqRBHt?.tsrc=rss"
+      "summary": "Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened ",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html?.tsrc=rss"
     },
     {
-      "title": "The Top 15 Stocks in the S&P 500 Are",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The top 15 stocks now hold a record 46.7% of the S&P 500, far above the 27.2% share during the 2000 Dot-Com Bubble.",
-      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss"
+      "title": "AI Optimism Trumps Inflation Fears",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Good morning, as the leaves turn brown, markets remain in the green—driven by a mix of strong corporate earnings and pre-earnings optimism around mega-cap tech companies.",
+      "link": "https://finance.yahoo.com/m/8a02ac22-1451-3164-be8a-78ad7fb08f0f/ai-optimism-trumps-inflation.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "SpaceX, Supermicro Revive AI Stocks;",
-      "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
+      "title": "Ryanair CEO predicts biggest airfare",
+      "summary": "Ryanair boss Michael O’Leary predicts European airfares could rise by up to 20% in 2027 as higher fuel costs, taxes and reduced capacity put pressure on airlines.View on euronews",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://www.euronews.com/2026/10/21/ryanair-ceo-predicts-biggest-airfare-rise-in-european-history?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 11:47:02 +0000"
+    },
+    {
+      "title": "10 S&P 500 Stocks Seeing The Biggest",
+      "summary": "The S&P 500 stocks getting the heftiest EPS upgrades have something in common.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 07:56:15 +0000"
+      "link": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 11:39:47 +0000"
     },
     {
-      "title": "If a Stock Market Crash Is Coming,",
-      "summary": "The market is in shaky territory, and the right strategy is more important than ever.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/10/21/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 07:20:00 +0000"
-    },
-    {
-      "title": "Stocktwits Midweek Energy Roundup",
-      "summary": "Oil prices have surged as concerns over Middle East supplies mount, with Brent crude breaching $110 a barrel and U.S. West Texas Intermediate rising to about $99.",
+      "title": "Bitcoin and ethereum prices today,",
+      "summary": "Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-roundup-brent-crosses-110-a-barrel-musk-s-comments-on-power-for-ai-key-earnings-check/cZxtMSqRBHt?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 07:13:43 +0000"
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 11:37:36 +0000"
     },
     {
-      "title": "The Top 15 Stocks in the S&P 500 Are",
-      "summary": "The top 15 stocks now hold a record 46.7% of the S&P 500, far above the 27.2% share during the 2000 Dot-Com Bubble.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 06:12:00 +0000"
+      "title": "AI Optimism Trumps Inflation Fears",
+      "summary": "Good morning, as the leaves turn brown, markets remain in the green—driven by a mix of strong corporate earnings and pre-earnings optimism around mega-cap tech companies.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/8a02ac22-1451-3164-be8a-78ad7fb08f0f/ai-optimism-trumps-inflation.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 11:37:29 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "98.45",
-          "change": "-0.03%",
+          "value": "98.61",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "109.61",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4140.20",
+          "value": "109.37",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "4159.50",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.59",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "6.54",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        98.66000366210938,
-        98.58000183105469,
-        98.61000061035156,
-        98.54000091552734,
-        98.58000183105469,
-        98.58000183105469,
-        98.56999969482422,
+        98.51000213623047,
+        98.41999816894531,
+        98.5,
+        98.5199966430664,
         98.47000122070312,
-        98.44999694824219,
-        98.4800033569336,
-        98.44999694824219
+        98.44000244140625,
+        98.5,
+        98.56999969482422,
+        98.56999969482422,
+        98.62000274658203,
+        98.61000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-21 16:52 KST"
+      "freshness": "2026-10-21 21:07 KST"
     },
     {
       "id": "bonds",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6136.86",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6179.72",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.75",
+          "value": "101.66",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1323.64",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "1325.78",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.16",
-          "change": "+0.01%",
+          "value": "157.86",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6776",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6643",
+          "change": "-0.16%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1323.969970703125,
-        1323.989990234375,
-        1324.1099853515625,
-        1324.18994140625,
-        1324.3699951171875,
-        1324.1300048828125,
-        1323.6600341796875,
-        1324.300048828125,
-        1323.6800537109375,
-        1323.5999755859375,
-        1323.6400146484375
+        1325.780029296875,
+        1325.3199462890625,
+        1325.81005859375,
+        1325.47998046875,
+        1325.780029296875,
+        1325.280029296875,
+        1325.6600341796875,
+        1325.780029296875,
+        1325.68994140625,
+        1325.97998046875,
+        1325.780029296875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-21 17:02 KST"
+      "freshness": "2026-10-21 21:17 KST"
     }
   ],
   "currentAction": {
