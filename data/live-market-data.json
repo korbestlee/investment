@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "collectedAt": "2026-10-21T12:17:10Z",
+  "date": "2026-10-22",
+  "collectedAt": "2026-10-21T23:14:02Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Ryanair CEO predicts biggest airfare",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Ryanair boss Michael O’Leary predicts European airfares could rise by up to 20% in 2027 as higher fuel costs, taxes and reduced capacity put pressure on airlines.View on euronews",
-      "link": "https://www.euronews.com/2026/10/21/ryanair-ceo-predicts-biggest-airfare-rise-in-european-history?.tsrc=rss"
-    },
-    {
-      "title": "10 S&P 500 Stocks Seeing The Biggest",
+      "title": "Dow Jones Futures Fall; Meta, Tesla",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 stocks getting the heftiest EPS upgrades have something in common.",
-      "link": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html?.tsrc=rss"
+      "summary": "The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.",
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss"
     },
     {
-      "title": "Bitcoin and ethereum prices today,",
+      "title": "BEACH ENERGY REPORT 21% INCREASE IN",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened ",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html?.tsrc=rss"
+      "summary": "Newport Exploration Ltd (\"Newport\" or \"the Company\") provides an update for licences in the Cooper Basin, Australia, over which the Company has a 2.5% gross overriding royalty (\"GO",
+      "link": "https://finance.yahoo.com/energy/articles/beach-energy-report-21-increase-220200682.html?.tsrc=rss"
     },
     {
-      "title": "AI Optimism Trumps Inflation Fears",
-      "impact": "채권, 금리",
+      "title": "This $40 Gold Mining Stock Could",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Good morning, as the leaves turn brown, markets remain in the green—driven by a mix of strong corporate earnings and pre-earnings optimism around mega-cap tech companies.",
-      "link": "https://finance.yahoo.com/m/8a02ac22-1451-3164-be8a-78ad7fb08f0f/ai-optimism-trumps-inflation.html?.tsrc=rss"
+      "summary": "Barrick Mining's shares are down more than 6% this year, but all signs point to growth for the tier 1 gold mining company.",
+      "link": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/?.tsrc=rss"
+    },
+    {
+      "title": "BC-Select Stock Indices",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Wednesday, October 21. Change High Low  Dow Jones 15 Utilities 1081.",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013529.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Ryanair CEO predicts biggest airfare",
-      "summary": "Ryanair boss Michael O’Leary predicts European airfares could rise by up to 20% in 2027 as higher fuel costs, taxes and reduced capacity put pressure on airlines.View on euronews",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://www.euronews.com/2026/10/21/ryanair-ceo-predicts-biggest-airfare-rise-in-european-history?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 11:47:02 +0000"
-    },
-    {
-      "title": "10 S&P 500 Stocks Seeing The Biggest",
-      "summary": "The S&P 500 stocks getting the heftiest EPS upgrades have something in common.",
+      "title": "Dow Jones Futures Fall; Meta, Tesla",
+      "summary": "The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 11:39:47 +0000"
+      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:58:02 +0000"
     },
     {
-      "title": "Bitcoin and ethereum prices today,",
-      "summary": "Bitcoin opened at $82,940.14 on Wednesday, October 21, 2026, up 1.3% from Tuesday's open. As of 7:21 a.m. ET this morning, the price of bitcoin rose to $83,292.55. Ethereum opened ",
+      "title": "BEACH ENERGY REPORT 21% INCREASE IN",
+      "summary": "Newport Exploration Ltd (\"Newport\" or \"the Company\") provides an update for licences in the Cooper Basin, Australia, over which the Company has a 2.5% gross overriding royalty (\"GO",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-october-21-2026-crypto-to-outperform-stocks-and-gold-113736970.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 11:37:36 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/beach-energy-report-21-increase-220200682.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 22:02:00 +0000"
     },
     {
-      "title": "AI Optimism Trumps Inflation Fears",
-      "summary": "Good morning, as the leaves turn brown, markets remain in the green—driven by a mix of strong corporate earnings and pre-earnings optimism around mega-cap tech companies.",
-      "impact": "채권, 금리",
+      "title": "This $40 Gold Mining Stock Could",
+      "summary": "Barrick Mining's shares are down more than 6% this year, but all signs point to growth for the tier 1 gold mining company.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/8a02ac22-1451-3164-be8a-78ad7fb08f0f/ai-optimism-trumps-inflation.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 11:37:29 +0000"
+      "link": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 21:50:00 +0000"
+    },
+    {
+      "title": "BC-Select Stock Indices",
+      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Wednesday, October 21. Change High Low  Dow Jones 15 Utilities 1081.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013529.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 21:30:13 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "98.61",
-          "change": "-0.01%",
+          "value": "97.94",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "109.37",
-          "change": "+0.01%",
+          "value": "110.05",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4159.50",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4147.40",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.54",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.55",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        98.51000213623047,
-        98.41999816894531,
-        98.5,
-        98.5199966430664,
-        98.47000122070312,
-        98.44000244140625,
-        98.5,
-        98.56999969482422,
-        98.56999969482422,
-        98.62000274658203,
-        98.61000061035156
+        98.0199966430664,
+        98.01000213623047,
+        98.05000305175781,
+        98.02999877929688,
+        98.05999755859375,
+        98.05000305175781,
+        98.05000305175781,
+        98.05000305175781,
+        97.9800033569336,
+        97.97000122070312,
+        97.94000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-21 21:07 KST"
+      "freshness": "2026-10-22 08:01 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.080%",
+          "value": "4.063%",
+          "change": "+0.07%",
+          "direction": "up"
+        },
+        {
+          "name": "UST 5Y",
+          "value": "4.972%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "UST 5Y",
-          "value": "4.935%",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
           "name": "UST 10Y",
-          "value": "5.117%",
+          "value": "5.146%",
           "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.425%",
-          "change": "-0.07%",
+          "value": "5.439%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        5.11899995803833,
-        5.11899995803833,
-        5.120999813079834,
-        5.120999813079834,
-        5.120999813079834,
-        5.11899995803833,
-        5.11899995803833,
-        5.11899995803833,
-        5.11899995803833,
-        5.11899995803833,
-        5.116999626159668
+        5.130000114440918,
+        5.125,
+        5.130000114440918,
+        5.126999855041504,
+        5.126999855041504,
+        5.130000114440918,
+        5.136000156402588,
+        5.140000343322754,
+        5.144000053405762,
+        5.1479997634887695,
+        5.145999908447266
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "완화",
-      "freshness": "2026-10-21 03:59 KST"
+      "freshness": "2026-10-22 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7711.70",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "7757.22",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26421.84",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "26701.61",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6179.72",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6202.82",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7711.25,
-        7709.14990234375,
-        7712.27001953125,
-        7712.22021484375,
-        7710.2001953125,
-        7711.64013671875,
-        7709.31982421875,
-        7711.43994140625,
-        7711.080078125,
-        7710.2001953125,
-        7711.7001953125
+        7761.259765625,
+        7762.22021484375,
+        7761.10009765625,
+        7761.08984375,
+        7762.1298828125,
+        7761.93017578125,
+        7759.22998046875,
+        7760.64013671875,
+        7760.5498046875,
+        7759.509765625,
+        7757.22021484375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-10-21 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-10-22 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.66",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.69",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1325.78",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1326.19",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.86",
+          "value": "158.13",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6643",
-          "change": "-0.16%",
+          "value": "6.6653",
+          "change": "-0.15%",
           "direction": "down"
         }
       ],
       "trend": [
-        1325.780029296875,
-        1325.3199462890625,
-        1325.81005859375,
-        1325.47998046875,
-        1325.780029296875,
-        1325.280029296875,
-        1325.6600341796875,
-        1325.780029296875,
-        1325.68994140625,
-        1325.97998046875,
-        1325.780029296875
+        1326.010009765625,
+        1326.0,
+        1326.1300048828125,
+        1326.3299560546875,
+        1326.3299560546875,
+        1325.8900146484375,
+        1326.0,
+        1326.030029296875,
+        1326.050048828125,
+        1326.0899658203125,
+        1326.18994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-21 21:17 KST"
+      "status": "강세",
+      "freshness": "2026-10-22 08:11 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
