@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "collectedAt": "2026-10-20T23:08:41Z",
+  "collectedAt": "2026-10-21T08:02:34Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "+0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Rise, AI Stocks",
+      "title": "SpaceX, Supermicro Revive AI Stocks;",
       "impact": "지수, 위험선호",
       "importance": "mid",
       "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise%2C-ai.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss"
     },
     {
-      "title": "September 2026 Quarterly Results",
+      "title": "If a Stock Market Crash Is Coming,",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The market is in shaky territory, and the right strategy is more important than ever.",
+      "link": "https://www.fool.com/investing/2026/10/21/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss"
+    },
+    {
+      "title": "Stocktwits Midweek Energy Roundup",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Westgold Resources Limited (ASX: WGX) (TSX: WGX ) (Westgold or the Company) is pleased to report results for the period ending 30 September 2026 (Q1 FY27).",
-      "link": "https://finance.yahoo.com/news/september-2026-quarterly-results-221500296.html?.tsrc=rss"
+      "summary": "Oil prices have surged as concerns over Middle East supplies mount, with Brent crude breaching $110 a barrel and U.S. West Texas Intermediate rising to about $99.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-roundup-brent-crosses-110-a-barrel-musk-s-comments-on-power-for-ai-key-earnings-check/cZxtMSqRBHt?.tsrc=rss"
     },
     {
-      "title": "Update",
+      "title": "The Top 15 Stocks in the S&P 500 Are",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-weakness-213459750.html?.tsrc=rss"
-    },
-    {
-      "title": "Clearway Energy (CWEN) Exceeds",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Clearway Energy (CWEN) concluded the recent trading session at $30.24, signifying a +2.34% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-exceeds-market-211503117.html?.tsrc=rss"
+      "summary": "The top 15 stocks now hold a record 46.7% of the S&P 500, far above the 27.2% share during the 2000 Dot-Com Bubble.",
+      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Rise, AI Stocks",
+      "title": "SpaceX, Supermicro Revive AI Stocks;",
       "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures-rise%2C-ai.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 22:48:28 +0000"
+      "link": "https://finance.yahoo.com/m/40378091-9f13-35f6-a4eb-65961ef4434c/dow-jones-futures%3A-spacex%2C.html?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 07:56:15 +0000"
     },
     {
-      "title": "September 2026 Quarterly Results",
-      "summary": "Westgold Resources Limited (ASX: WGX) (TSX: WGX ) (Westgold or the Company) is pleased to report results for the period ending 30 September 2026 (Q1 FY27).",
+      "title": "If a Stock Market Crash Is Coming,",
+      "summary": "The market is in shaky territory, and the right strategy is more important than ever.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/10/21/if-a-stock-market-crash-is-coming-warren-buffett-s/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 07:20:00 +0000"
+    },
+    {
+      "title": "Stocktwits Midweek Energy Roundup",
+      "summary": "Oil prices have surged as concerns over Middle East supplies mount, with Brent crude breaching $110 a barrel and U.S. West Texas Intermediate rising to about $99.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/news/september-2026-quarterly-results-221500296.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 22:15:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-roundup-brent-crosses-110-a-barrel-musk-s-comments-on-power-for-ai-key-earnings-check/cZxtMSqRBHt?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 07:13:43 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "title": "The Top 15 Stocks in the S&P 500 Are",
+      "summary": "The top 15 stocks now hold a record 46.7% of the S&P 500, far above the 27.2% share during the 2000 Dot-Com Bubble.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-weakness-213459750.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 21:34:59 +0000"
-    },
-    {
-      "title": "Clearway Energy (CWEN) Exceeds",
-      "summary": "Clearway Energy (CWEN) concluded the recent trading session at $30.24, signifying a +2.34% move from its prior day's close.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-exceeds-market-211503117.html?.tsrc=rss",
-      "published": "Tue, 20 Oct 2026 21:15:03 +0000"
+      "link": "https://beincrypto.com/top-15-stocks-sp-500-record/?.tsrc=rss",
+      "published": "Wed, 21 Oct 2026 06:12:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "98.16",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "98.45",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "109.12",
-          "change": "-0.04%",
+          "value": "109.61",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4138.30",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4140.20",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.62",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "6.59",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        98.19999694824219,
-        98.13999938964844,
-        98.16000366210938,
-        98.19999694824219,
-        98.19999694824219,
-        98.1500015258789,
-        98.16000366210938,
-        98.12999725341797,
-        98.1500015258789,
-        98.12999725341797,
-        98.16000366210938
+        98.66000366210938,
+        98.58000183105469,
+        98.61000061035156,
+        98.54000091552734,
+        98.58000183105469,
+        98.58000183105469,
+        98.56999969482422,
+        98.47000122070312,
+        98.44999694824219,
+        98.4800033569336,
+        98.44999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-21 07:57 KST"
+      "status": "약세",
+      "freshness": "2026-10-21 16:52 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "5529.17",
-          "change": "-0.08%",
+          "value": "5703.27",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6124.94",
+          "value": "6136.86",
           "change": "+0.01%",
           "direction": "up"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.73",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "101.75",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1326.63",
-          "change": "+0.02%",
+          "value": "1323.64",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.27",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "158.16",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6673",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "6.6776",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1325.6199951171875,
-        1325.93994140625,
-        1326.3199462890625,
-        1326.1700439453125,
-        1325.93994140625,
-        1325.989990234375,
-        1326.3299560546875,
-        1325.8800048828125,
-        1326.18994140625,
-        1326.3599853515625,
-        1326.6300048828125
+        1323.969970703125,
+        1323.989990234375,
+        1324.1099853515625,
+        1324.18994140625,
+        1324.3699951171875,
+        1324.1300048828125,
+        1323.6600341796875,
+        1324.300048828125,
+        1323.6800537109375,
+        1323.5999755859375,
+        1323.6400146484375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-21 08:08 KST"
+      "status": "완화",
+      "freshness": "2026-10-21 17:02 KST"
     }
   ],
   "currentAction": {
