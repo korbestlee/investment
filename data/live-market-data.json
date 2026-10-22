@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "collectedAt": "2026-10-22T12:18:24Z",
+  "date": "2026-10-23",
+  "collectedAt": "2026-10-22T23:17:38Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.03%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,7 +52,7 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Oil prices gain on worries of",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices jumped over worries that escalating tensions in the Middle East will further cripple supply.",
-      "link": "https://finance.yahoo.com/markets/article/oil-price-gains-on-possible-escalation-of-iran-us-tensions-after-midterms-120738560.html?.tsrc=rss"
+      "title": "Moderna Crashes, Meta Fuels AI",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Fall, Nasdaq Back",
+      "title": "Micron Stock Dropped on Thursday",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Dow futures fell while Nasdaq futures tumbled in the wake of Tesla, Meta and other big earnings overnight.",
-      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%2C.html?.tsrc=rss"
+      "summary": "Micron was caught in a chip stock sell-off as rising oil prices and fresh concerns about funding the AI build-out weighed on investors.",
+      "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss"
     },
     {
-      "title": "Dow Falls As Oil Prices Jump; Meta,",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The Dow Jones index drops as oil prices jump on new planned U.S,-Israel strikes on Iran. Meta and Tesla fall on earnings.",
-      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-dow-falls.html?.tsrc=rss"
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-211833642.html?.tsrc=rss"
     },
     {
-      "title": "ProAm Expands Golden Ridge Property",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Extensive alteration and multiple geophysical targets support a broader search beyond the historical area of focused drilling at Poplar Mountain.Vancouver, British Columbia--(Newsf",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/proam-expands-golden-ridge-property-120000236.html?.tsrc=rss"
+      "title": "Diamondback Energy (FANG) Declines",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "In the closing of the recent trading day, Diamondback Energy (FANG) stood at $197.14, denoting a -1.89% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-declines-more-211504141.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices gain on worries of",
-      "summary": "Oil prices jumped over worries that escalating tensions in the Middle East will further cripple supply.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/oil-price-gains-on-possible-escalation-of-iran-us-tensions-after-midterms-120738560.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 12:07:38 +0000"
+      "title": "Moderna Crashes, Meta Fuels AI",
+      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 23:11:00 +0000"
     },
     {
-      "title": "Dow Jones Futures Fall, Nasdaq Back",
-      "summary": "Dow futures fell while Nasdaq futures tumbled in the wake of Tesla, Meta and other big earnings overnight.",
+      "title": "Micron Stock Dropped on Thursday",
+      "summary": "Micron was caught in a chip stock sell-off as rising oil prices and fresh concerns about funding the AI build-out weighed on investors.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%2C.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 12:14:02 +0000"
+      "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 22:49:01 +0000"
     },
     {
-      "title": "Dow Falls As Oil Prices Jump; Meta,",
-      "summary": "The Dow Jones index drops as oil prices jump on new planned U.S,-Israel strikes on Iran. Meta and Tesla fall on earnings.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/a6067e2b-5ce6-3182-915b-58daa8b6d0f9/stock-market-today%3A-dow-falls.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 12:13:35 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-211833642.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:18:33 +0000"
     },
     {
-      "title": "ProAm Expands Golden Ridge Property",
-      "summary": "Extensive alteration and multiple geophysical targets support a broader search beyond the historical area of focused drilling at Poplar Mountain.Vancouver, British Columbia--(Newsf",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/proam-expands-golden-ridge-property-120000236.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 12:00:00 +0000"
+      "title": "Diamondback Energy (FANG) Declines",
+      "summary": "In the closing of the recent trading day, Diamondback Energy (FANG) stood at $197.14, denoting a -1.89% move from the preceding trading day.",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-declines-more-211504141.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 21:15:04 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "99.47",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "99.01",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "112.00",
-          "change": "+0.13%",
-          "direction": "up"
+          "value": "112.80",
+          "change": "-0.16%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4080.80",
-          "change": "+0.02%",
+          "value": "4041.30",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.41",
+          "value": "6.40",
           "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        99.2699966430664,
-        99.31999969482422,
-        99.43000030517578,
-        99.4000015258789,
-        99.41999816894531,
-        99.48999786376953,
-        99.44999694824219,
-        99.4000015258789,
-        99.37999725341797,
-        99.44999694824219,
-        99.47000122070312
+        99.0,
+        98.98999786376953,
+        99.0,
+        98.95999908447266,
+        98.91000366210938,
+        98.91000366210938,
+        98.93000030517578,
+        98.98999786376953,
+        99.01000213623047,
+        99.01000213623047,
+        99.01000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-22 21:08 KST"
+      "status": "중립",
+      "freshness": "2026-10-23 08:07 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.063%",
-          "change": "+0.07%",
-          "direction": "up"
-        },
-        {
-          "name": "UST 5Y",
-          "value": "4.972%",
+          "value": "4.022%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "UST 5Y",
+          "value": "4.768%",
+          "change": "+0.04%",
+          "direction": "up"
+        },
+        {
           "name": "UST 10Y",
-          "value": "5.146%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.953%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.439%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.287%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        5.130000114440918,
-        5.125,
-        5.130000114440918,
-        5.126999855041504,
-        5.126999855041504,
-        5.130000114440918,
-        5.136000156402588,
-        5.140000343322754,
-        5.144000053405762,
-        5.1479997634887695,
-        5.145999908447266
+        4.953000068664551,
+        4.954999923706055,
+        4.953000068664551,
+        4.953000068664551,
+        4.953000068664551,
+        4.950999736785889,
+        4.949000358581543,
+        4.949000358581543,
+        4.950999736785889,
+        4.953000068664551,
+        4.953000068664551
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-22 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-10-23 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7757.22",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "7663.45",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26701.61",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "26017.75",
+          "change": "+0.06%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6118.87",
-          "change": "-0.01%",
+          "value": "6090.06",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        7761.259765625,
-        7762.22021484375,
-        7761.10009765625,
-        7761.08984375,
-        7762.1298828125,
-        7761.93017578125,
-        7759.22998046875,
-        7760.64013671875,
-        7760.5498046875,
-        7759.509765625,
-        7757.22021484375
+        7647.509765625,
+        7657.85986328125,
+        7659.7998046875,
+        7659.4599609375,
+        7657.56005859375,
+        7660.77001953125,
+        7662.33984375,
+        7659.60986328125,
+        7660.330078125,
+        7662.39990234375,
+        7663.4501953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-22 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-10-23 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.74",
+          "value": "101.62",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1323.86",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "1325.33",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.12",
-          "change": "+0.02%",
+          "value": "156.60",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6636",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "6.6651",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1323.6500244140625,
-        1324.5,
-        1323.6099853515625,
-        1324.6700439453125,
-        1324.3800048828125,
-        1323.4300537109375,
-        1324.3800048828125,
-        1324.4000244140625,
-        1323.530029296875,
-        1324.3199462890625,
-        1323.8599853515625
+        1324.989990234375,
+        1325.280029296875,
+        1325.1400146484375,
+        1325.4100341796875,
+        1325.2900390625,
+        1325.1600341796875,
+        1325.22998046875,
+        1325.2099609375,
+        1325.18994140625,
+        1325.18994140625,
+        1325.3299560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-22 21:18 KST"
+      "freshness": "2026-10-23 08:17 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
