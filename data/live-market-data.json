@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "collectedAt": "2026-10-21T23:14:02Z",
+  "collectedAt": "2026-10-22T08:00:34Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.00%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall; Meta, Tesla",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.",
-      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss"
-    },
-    {
-      "title": "BEACH ENERGY REPORT 21% INCREASE IN",
+      "title": "Supply Network And 2 Other",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Newport Exploration Ltd (\"Newport\" or \"the Company\") provides an update for licences in the Cooper Basin, Australia, over which the Company has a 2.5% gross overriding royalty (\"GO",
-      "link": "https://finance.yahoo.com/energy/articles/beach-energy-report-21-increase-220200682.html?.tsrc=rss"
+      "summary": "Oil prices have surged above US$111 a barrel after fresh attacks on Saudi oil facilities, reminding investors how quickly energy shocks can rattle global confidence. That kind of j",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supply-network-2-other-australian-071307490.html?.tsrc=rss"
     },
     {
-      "title": "This $40 Gold Mining Stock Could",
+      "title": "Maurel & Prom",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "PARIS, October 22, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
+      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-nine-064000209.html?.tsrc=rss"
+    },
+    {
+      "title": "Stock Market",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Barrick Mining's shares are down more than 6% this year, but all signs point to growth for the tier 1 gold mining company.",
-      "link": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/?.tsrc=rss"
+      "summary": "U.S. stock futures are flashing deep red early Thursday as Wall Street navigates a tech-led selloff, escalating diplomatic standoffs in the Middle East, and surging crude oil price",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62516693/stock-market-will-sp-500-open-up-or-down-today-63?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
     },
     {
-      "title": "BC-Select Stock Indices",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Wednesday, October 21. Change High Low  Dow Jones 15 Utilities 1081.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013529.html?.tsrc=rss"
+      "title": "Oil Prices Surge Above $111 as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices climbed as renewed Houthi attacks in Saudi Arabia and stalled diplomatic efforts with Iran heightened concerns about Middle East energy supplies.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-above-111-053000410.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall; Meta, Tesla",
-      "summary": "The Nasdaq moved above its 50-day line, led by SpaceX and SuperMicro. Tesla and Meta headlined big earnings late.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/2bd9a8b9-7491-307a-8f54-b091a90905b0/dow-jones-futures-fall%3B-meta%2C.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 22:58:02 +0000"
-    },
-    {
-      "title": "BEACH ENERGY REPORT 21% INCREASE IN",
-      "summary": "Newport Exploration Ltd (\"Newport\" or \"the Company\") provides an update for licences in the Cooper Basin, Australia, over which the Company has a 2.5% gross overriding royalty (\"GO",
+      "title": "Supply Network And 2 Other",
+      "summary": "Oil prices have surged above US$111 a barrel after fresh attacks on Saudi oil facilities, reminding investors how quickly energy shocks can rattle global confidence. That kind of j",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/beach-energy-report-21-increase-220200682.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 22:02:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/supply-network-2-other-australian-071307490.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 07:13:07 +0000"
     },
     {
-      "title": "This $40 Gold Mining Stock Could",
-      "summary": "Barrick Mining's shares are down more than 6% this year, but all signs point to growth for the tier 1 gold mining company.",
+      "title": "Maurel & Prom",
+      "summary": "PARIS, October 22, 2026--Regulatory News: Maurel & Prom (Paris:MAU):",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/energy/articles/maurel-prom-activity-first-nine-064000209.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 06:40:00 +0000"
+    },
+    {
+      "title": "Stock Market",
+      "summary": "U.S. stock futures are flashing deep red early Thursday as Wall Street navigates a tech-led selloff, escalating diplomatic standoffs in the Middle East, and surging crude oil price",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.fool.com/investing/2026/10/21/this-40-gold-mining-stock-could-turn-5000-into-a-f/?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 21:50:00 +0000"
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62516693/stock-market-will-sp-500-open-up-or-down-today-63?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 06:08:59 +0000"
     },
     {
-      "title": "BC-Select Stock Indices",
-      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Wednesday, October 21. Change High Low  Dow Jones 15 Utilities 1081.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013529.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 21:30:13 +0000"
+      "title": "Oil Prices Surge Above $111 as",
+      "summary": "Oil prices climbed as renewed Houthi attacks in Saudi Arabia and stalled diplomatic efforts with Iran heightened concerns about Middle East energy supplies.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-surge-above-111-053000410.html?.tsrc=rss",
+      "published": "Thu, 22 Oct 2026 05:30:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.94",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "99.87",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "110.05",
-          "change": "+0.02%",
+          "value": "112.24",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4147.40",
+          "value": "4102.60",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.55",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.42",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        98.0199966430664,
-        98.01000213623047,
-        98.05000305175781,
-        98.02999877929688,
-        98.05999755859375,
-        98.05000305175781,
-        98.05000305175781,
-        98.05000305175781,
-        97.9800033569336,
-        97.97000122070312,
-        97.94000244140625
+        99.62999725341797,
+        99.66000366210938,
+        99.66000366210938,
+        99.72000122070312,
+        99.69999694824219,
+        99.75,
+        99.75,
+        99.7300033569336,
+        99.83000183105469,
+        99.87000274658203,
+        99.87000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-22 08:01 KST"
+      "status": "중립",
+      "freshness": "2026-10-22 16:50 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5703.27",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5531.37",
+          "change": "+0.28%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6202.82",
-          "change": "+0.05%",
+          "value": "6116.35",
+          "change": "+0.04%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.69",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "101.56",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1326.19",
-          "change": "+0.01%",
+          "value": "1321.52",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "158.13",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.19",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6653",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "6.6729",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1326.010009765625,
-        1326.0,
-        1326.1300048828125,
-        1326.3299560546875,
-        1326.3299560546875,
-        1325.8900146484375,
-        1326.0,
-        1326.030029296875,
-        1326.050048828125,
-        1326.0899658203125,
-        1326.18994140625
+        1321.530029296875,
+        1321.6400146484375,
+        1321.0799560546875,
+        1321.3800048828125,
+        1321.4200439453125,
+        1321.4599609375,
+        1321.4000244140625,
+        1321.6199951171875,
+        1321.56005859375,
+        1320.8800048828125,
+        1321.52001953125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-22 08:11 KST"
+      "status": "완화",
+      "freshness": "2026-10-22 17:00 KST"
     }
   ],
   "currentAction": {
