@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "collectedAt": "2026-10-22T23:17:38Z",
+  "collectedAt": "2026-10-23T07:59:54Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Moderna Crashes, Meta Fuels AI",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
-      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss"
-    },
-    {
-      "title": "Micron Stock Dropped on Thursday",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Micron was caught in a chip stock sell-off as rising oil prices and fresh concerns about funding the AI build-out weighed on investors.",
-      "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-211833642.html?.tsrc=rss"
-    },
-    {
-      "title": "Diamondback Energy (FANG) Declines",
+      "title": "'Big Short' Investor Michael Burry",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "In the closing of the recent trading day, Diamondback Energy (FANG) stood at $197.14, denoting a -1.89% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-declines-more-211504141.html?.tsrc=rss"
+      "summary": "Burry’s Substack annual revenue potential could reach $232.2 million, more than double July’s estimate.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss"
+    },
+    {
+      "title": "3 Energy Stocks Worth Watching As",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Oil back above $113 Brent, a sharp hit to high growth tech stocks, and a rush into government bonds has flipped the market script and pushed old economy cash generators back onto i",
+      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-worth-watching-071406281.html?.tsrc=rss"
+    },
+    {
+      "title": "Stock Market",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "U.S. stock futures are leaning slightly lower early Friday as Wall Street navigates geopolitical stalemates, soaring oil prices, and fresh regulatory scrutiny on prediction markets",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62551350/stock-market-will-sp-500-open-up-or-down-today-64?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+    },
+    {
+      "title": "Gold Falls Below $4,000 for the",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold price dropped below $4,000 after a 2.6% Nasdaq slide, as analysts weigh a $3,900 test against central bank buying.",
+      "link": "https://beincrypto.com/gold-price-below-4000-tech-selloff/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Moderna Crashes, Meta Fuels AI",
-      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures%3A-moderna.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 23:11:00 +0000"
-    },
-    {
-      "title": "Micron Stock Dropped on Thursday",
-      "summary": "Micron was caught in a chip stock sell-off as rising oil prices and fresh concerns about funding the AI build-out weighed on investors.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 22:49:01 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-211833642.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 21:18:33 +0000"
-    },
-    {
-      "title": "Diamondback Energy (FANG) Declines",
-      "summary": "In the closing of the recent trading day, Diamondback Energy (FANG) stood at $197.14, denoting a -1.89% move from the preceding trading day.",
+      "title": "'Big Short' Investor Michael Burry",
+      "summary": "Burry’s Substack annual revenue potential could reach $232.2 million, more than double July’s estimate.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-fang-declines-more-211504141.html?.tsrc=rss",
-      "published": "Thu, 22 Oct 2026 21:15:04 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/michael-burry-bumps-up-substack-subscription-price-4-busted-bear-market-havens/cZxyIwoRBxR?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:16:46 +0000"
+    },
+    {
+      "title": "3 Energy Stocks Worth Watching As",
+      "summary": "Oil back above $113 Brent, a sharp hit to high growth tech stocks, and a rush into government bonds has flipped the market script and pushed old economy cash generators back onto i",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-worth-watching-071406281.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 07:14:06 +0000"
+    },
+    {
+      "title": "Stock Market",
+      "summary": "U.S. stock futures are leaning slightly lower early Friday as Wall Street navigates geopolitical stalemates, soaring oil prices, and fresh regulatory scrutiny on prediction markets",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62551350/stock-market-will-sp-500-open-up-or-down-today-64?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:36:08 +0000"
+    },
+    {
+      "title": "Gold Falls Below $4,000 for the",
+      "summary": "Gold price dropped below $4,000 after a 2.6% Nasdaq slide, as analysts weigh a $3,900 test against central bank buying.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://beincrypto.com/gold-price-below-4000-tech-selloff/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 06:16:52 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "99.01",
+          "value": "100.58",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "112.80",
-          "change": "-0.16%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "4041.30",
+          "value": "109.37",
           "change": "+0.04%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "4032.60",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "6.40",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.44",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        99.0,
-        98.98999786376953,
-        99.0,
-        98.95999908447266,
-        98.91000366210938,
-        98.91000366210938,
-        98.93000030517578,
-        98.98999786376953,
-        99.01000213623047,
-        99.01000213623047,
-        99.01000213623047
+        100.41000366210938,
+        100.45999908447266,
+        100.45999908447266,
+        100.45999908447266,
+        100.41000366210938,
+        100.45999908447266,
+        100.51000213623047,
+        100.62999725341797,
+        100.63999938964844,
+        100.58000183105469,
+        100.58000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "중립",
-      "freshness": "2026-10-23 08:07 KST"
+      "freshness": "2026-10-23 16:49 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5531.37",
-          "change": "+0.28%",
+          "value": "5524.45",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6090.06",
-          "change": "-0.05%",
+          "value": "6058.01",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.62",
+          "value": "101.79",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1325.33",
-          "change": "+0.01%",
+          "value": "1325.79",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "156.60",
+          "value": "156.96",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6651",
+          "value": "6.6701",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1324.989990234375,
-        1325.280029296875,
-        1325.1400146484375,
-        1325.4100341796875,
-        1325.2900390625,
-        1325.1600341796875,
-        1325.22998046875,
-        1325.2099609375,
-        1325.18994140625,
-        1325.18994140625,
-        1325.3299560546875
+        1325.949951171875,
+        1325.949951171875,
+        1325.3399658203125,
+        1325.3599853515625,
+        1325.530029296875,
+        1325.1500244140625,
+        1325.6199951171875,
+        1325.77001953125,
+        1325.510009765625,
+        1325.1800537109375,
+        1325.7900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-23 08:17 KST"
+      "freshness": "2026-10-23 16:59 KST"
     }
   ],
   "currentAction": {
