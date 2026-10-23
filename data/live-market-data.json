@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "collectedAt": "2026-10-23T12:00:22Z",
+  "date": "2026-10-24",
+  "collectedAt": "2026-10-23T23:05:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.07%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "History Favors Stocks Post-Midterms,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "US equity markets typically rise following midterm elections, but many on Wall Street aren't convinc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/history-favors-stocks-post-midterms-114829844.html?.tsrc=rss"
-    },
-    {
-      "title": "Earnings, Oil Prices Damp European",
+      "title": "S&P 500, Dow Drop As Elevated Oil",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "European bourses tracked moderately lower midday Friday as traders digested the unfolding earnings s",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/earnings-oil-prices-damp-european-114137897.html?.tsrc=rss"
+      "summary": "Brent crude rose 3.1% to end the session at $116.72 a barrel, the highest level since April.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Fall After Moderna",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
-      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures-fall-after.html?.tsrc=rss"
+      "title": "Webull And 2 Other Top Insider",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Oil prices holding above US$110 have pushed energy and transport costs higher, which keeps pressure on inflation and interest rates. In that kind of backdrop, businesses that are s",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/webull-2-other-top-insider-221201540.html?.tsrc=rss"
     },
     {
-      "title": "10% Of S&P 500 Stocks Sink Into",
+      "title": "Wes Moss Says $1 Million in the S&P",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "A million dollars in the S&P 500 generates far less dividend income than most retirees expect, and climbing toward higher yields introduces risks that only show up when markets tur",
+      "link": "https://247wallst.com/personal-finance/2026/10/23/wes-moss-says-1-million-in-the-sp-500-pays-just-12000-a-year-in-dividends-heres-his-fix/?.tsrc=rss"
+    },
+    {
+      "title": "3 Energy Stocks to Buy and Hold for",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "\"Stocks always go up,\" is a popular adage during an S&P 500 bull market. Too bad it isn't true.",
-      "link": "https://finance.yahoo.com/m/8b1d571c-9b64-3f47-a7b3-56976df396f9/10%25-of-s%26p-500-stocks-sink.html?.tsrc=rss"
+      "summary": "The energy sector is volatile and changing, which is why you want to stick with industry leaders like Exxon, TotalEnergies, and Enterprise.",
+      "link": "https://www.fool.com/investing/2026/10/23/3-energy-stocks-to-buy-and-hold-for-the-next-decad/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "History Favors Stocks Post-Midterms,",
-      "summary": "US equity markets typically rise following midterm elections, but many on Wall Street aren't convinc",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/history-favors-stocks-post-midterms-114829844.html?.tsrc=rss",
-      "published": "Fri, 23 Oct 2026 11:48:29 +0000"
-    },
-    {
-      "title": "Earnings, Oil Prices Damp European",
-      "summary": "European bourses tracked moderately lower midday Friday as traders digested the unfolding earnings s",
+      "title": "S&P 500, Dow Drop As Elevated Oil",
+      "summary": "Brent crude rose 3.1% to end the session at $116.72 a barrel, the highest level since April.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/earnings-oil-prices-damp-european-114137897.html?.tsrc=rss",
-      "published": "Fri, 23 Oct 2026 11:41:37 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-drop-as-elevated-oil-prices-stoke-inflation-fears-ahead-of-fed-meeting-next-week-aapl-axp-cart-uber-in-focus/cZxyHWvRBU4?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:35:57 +0000"
     },
     {
-      "title": "Dow Jones Futures Fall After Moderna",
-      "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/47e878bb-824d-3243-a8e9-b86b1c3f85d3/dow-jones-futures-fall-after.html?.tsrc=rss",
-      "published": "Fri, 23 Oct 2026 11:40:51 +0000"
+      "title": "Webull And 2 Other Top Insider",
+      "summary": "Oil prices holding above US$110 have pushed energy and transport costs higher, which keeps pressure on inflation and interest rates. In that kind of backdrop, businesses that are s",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/webull-2-other-top-insider-221201540.html?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:12:01 +0000"
     },
     {
-      "title": "10% Of S&P 500 Stocks Sink Into",
-      "summary": "\"Stocks always go up,\" is a popular adage during an S&P 500 bull market. Too bad it isn't true.",
+      "title": "Wes Moss Says $1 Million in the S&P",
+      "summary": "A million dollars in the S&P 500 generates far less dividend income than most retirees expect, and climbing toward higher yields introduces risks that only show up when markets tur",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://247wallst.com/personal-finance/2026/10/23/wes-moss-says-1-million-in-the-sp-500-pays-just-12000-a-year-in-dividends-heres-his-fix/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 22:00:07 +0000"
+    },
+    {
+      "title": "3 Energy Stocks to Buy and Hold for",
+      "summary": "The energy sector is volatile and changing, which is why you want to stick with industry leaders like Exxon, TotalEnergies, and Enterprise.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/8b1d571c-9b64-3f47-a7b3-56976df396f9/10%25-of-s%26p-500-stocks-sink.html?.tsrc=rss",
-      "published": "Fri, 23 Oct 2026 11:38:28 +0000"
+      "link": "https://www.fool.com/investing/2026/10/23/3-energy-stocks-to-buy-and-hold-for-the-next-decad/?.tsrc=rss",
+      "published": "Fri, 23 Oct 2026 21:35:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "100.70",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "103.44",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "109.80",
+          "value": "111.66",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4041.60",
-          "change": "+0.02%",
+          "value": "4010.00",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.49",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "6.50",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        100.94999694824219,
-        100.91000366210938,
-        100.55000305175781,
-        100.62999725341797,
-        100.68000030517578,
-        100.75,
-        100.63999938964844,
-        100.68000030517578,
-        100.70999908447266,
-        100.69000244140625,
-        100.69999694824219
+        103.19000244140625,
+        103.23999786376953,
+        103.25,
+        103.2699966430664,
+        103.23999786376953,
+        103.26000213623047,
+        103.27999877929688,
+        103.31999969482422,
+        103.38999938964844,
+        103.44000244140625,
+        103.44000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-23 20:50 KST"
+      "status": "중립",
+      "freshness": "2026-10-24 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.022%",
+          "value": "4.032%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.768%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.805%",
+          "change": "-0.10%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.953%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.988%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.287%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.315%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.953000068664551,
-        4.954999923706055,
-        4.953000068664551,
-        4.953000068664551,
-        4.953000068664551,
-        4.950999736785889,
-        4.949000358581543,
-        4.949000358581543,
-        4.950999736785889,
-        4.953000068664551,
-        4.953000068664551
+        4.986000061035156,
+        4.98799991607666,
+        4.98799991607666,
+        4.98799991607666,
+        4.98799991607666,
+        4.990000247955322,
+        4.991999626159668,
+        4.994999885559082,
+        4.991999626159668,
+        4.991999626159668,
+        4.98799991607666
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-10-23 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-10-24 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7663.45",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "7622.99",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "26017.75",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "25954.02",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6050.80",
-          "change": "-0.05%",
+          "value": "6059.38",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        7647.509765625,
-        7657.85986328125,
-        7659.7998046875,
-        7659.4599609375,
-        7657.56005859375,
-        7660.77001953125,
-        7662.33984375,
-        7659.60986328125,
-        7660.330078125,
-        7662.39990234375,
-        7663.4501953125
+        7627.2998046875,
+        7627.2900390625,
+        7623.77978515625,
+        7625.93017578125,
+        7624.9501953125,
+        7623.7099609375,
+        7623.0400390625,
+        7623.2998046875,
+        7624.2099609375,
+        7624.4599609375,
+        7622.990234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-10-23 04:59 KST"
+      "status": "약세",
+      "freshness": "2026-10-24 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.80",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.75",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1324.54",
+          "value": "1323.66",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "156.88",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "156.81",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6596",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6606",
+          "change": "-0.14%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1324.2099609375,
-        1323.949951171875,
-        1324.0799560546875,
-        1324.2900390625,
-        1324.1099853515625,
-        1324.27001953125,
-        1324.3800048828125,
-        1324.219970703125,
-        1324.280029296875,
-        1324.47998046875,
-        1324.5400390625
+        1323.3800048828125,
+        1323.4200439453125,
+        1323.719970703125,
+        1323.9599609375,
+        1323.969970703125,
+        1323.9200439453125,
+        1323.8599853515625,
+        1324.3599853515625,
+        1323.6600341796875,
+        1323.6600341796875,
+        1323.6600341796875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-23 21:00 KST"
+      "status": "강세",
+      "freshness": "2026-10-24 06:29 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
