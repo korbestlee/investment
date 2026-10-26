@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "collectedAt": "2026-10-26T08:10:51Z",
+  "collectedAt": "2026-10-26T13:28:59Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,7 +40,7 @@
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.09%",
+      "value": "-0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Galp raises 2026 guidance after Q3",
-      "impact": "시장 전반",
+      "title": "The 10 biggest stocks are faltering,",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Investing.com -- Galp raised its 2026 guidance after third-quarter core profit jumped 67% to €1.52 billion, beating forecasts on record refining margins.",
-      "link": "https://finance.yahoo.com/energy/articles/galp-raises-2026-guidance-q3-075559007.html?.tsrc=rss"
+      "summary": "The markets have seen a downward bias for months, in large part because of the biggest stocks.",
+      "link": "https://finance.yahoo.com/markets/article/the-10-biggest-stocks-are-faltering-and-its-dragging-the-sp-500-down-122521456.html?.tsrc=rss"
     },
     {
-      "title": "Stocks sink as traders brace for",
+      "title": "Dow Rises As Oil Prices Fall; Tesla",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Dow Jones index rises Monday as oil prices decline. Tesla stock rallies on an analyst upgrade.",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Asian stocks were mixed on Monday as investors geared up for a crucial run of central bank decisions and tech earnings, while oil prices retreated from a six-month high.Also in vie",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss"
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss"
     },
     {
-      "title": "Gold market and central banks",
+      "title": "Lode Gold Initiates Exploration to",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Russia and Kazakhstan are offloading some central-bank gold, while Poland's is buying more. What does this reshuffle mean for individual gold investors?View on euronews",
-      "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy?.tsrc=rss"
-    },
-    {
-      "title": "Saudi Arabia Turns to Singapore for",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Saudi Arabia plans to store crude oil in Singapore from the second half of 2027 to strengthen Asian supply security amid escalating Middle East conflict and shipping disruptions.",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-turns-singapore-oil-071500422.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 26, 2026) - Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") is pleased to annou",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-initiates-exploration-evaluate-130000734.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Galp raises 2026 guidance after Q3",
-      "summary": "Investing.com -- Galp raised its 2026 guidance after third-quarter core profit jumped 67% to €1.52 billion, beating forecasts on record refining margins.",
-      "impact": "시장 전반",
+      "title": "The 10 biggest stocks are faltering,",
+      "summary": "The markets have seen a downward bias for months, in large part because of the biggest stocks.",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/galp-raises-2026-guidance-q3-075559007.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 07:55:59 +0000"
+      "link": "https://finance.yahoo.com/markets/article/the-10-biggest-stocks-are-faltering-and-its-dragging-the-sp-500-down-122521456.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 12:25:21 +0000"
     },
     {
-      "title": "Stocks sink as traders brace for",
-      "summary": "Asian stocks were mixed on Monday as investors geared up for a crucial run of central bank decisions and tech earnings, while oil prices retreated from a six-month high.Also in vie",
+      "title": "Dow Rises As Oil Prices Fall; Tesla",
+      "summary": "The Dow Jones index rises Monday as oil prices decline. Tesla stock rallies on an analyst upgrade.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 13:06:46 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sink-traders-brace-tech-022128987.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 07:33:21 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 13:02:28 +0000"
     },
     {
-      "title": "Gold market and central banks",
-      "summary": "Russia and Kazakhstan are offloading some central-bank gold, while Poland's is buying more. What does this reshuffle mean for individual gold investors?View on euronews",
+      "title": "Lode Gold Initiates Exploration to",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 26, 2026) - Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") is pleased to annou",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 07:28:19 +0000"
-    },
-    {
-      "title": "Saudi Arabia Turns to Singapore for",
-      "summary": "Saudi Arabia plans to store crude oil in Singapore from the second half of 2027 to strengthen Asian supply security amid escalating Middle East conflict and shipping disruptions.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-turns-singapore-oil-071500422.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 07:15:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-initiates-exploration-evaluate-130000734.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 13:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.46",
-          "change": "-0.09%",
+          "value": "102.01",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "110.26",
-          "change": "-0.11%",
+          "value": "110.72",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4023.90",
-          "change": "+0.03%",
+          "value": "4026.30",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.52",
-          "change": "+0.05%",
+          "value": "6.53",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        101.55000305175781,
-        101.58999633789062,
-        101.62000274658203,
-        101.62999725341797,
-        101.66000366210938,
-        101.63999938964844,
-        101.56999969482422,
-        101.48999786376953,
-        101.52999877929688,
-        101.55000305175781,
-        101.45999908447266
+        101.55999755859375,
+        101.6500015258789,
+        101.86000061035156,
+        101.81999969482422,
+        101.94999694824219,
+        101.8499984741211,
+        101.94999694824219,
+        102.13999938964844,
+        102.01000213623047,
+        102.08000183105469,
+        102.01000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-26 17:00 KST"
+      "freshness": "2026-10-26 22:18 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.032%",
+          "value": "4.043%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.805%",
-          "change": "-0.10%",
-          "direction": "down"
+          "value": "4.819%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.988%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "4.990%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.315%",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "5.308%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
         4.986000061035156,
+        4.986000061035156,
+        4.986000061035156,
         4.98799991607666,
-        4.98799991607666,
-        4.98799991607666,
-        4.98799991607666,
+        4.98199987411499,
+        4.984000205993652,
+        4.986000061035156,
         4.990000247955322,
-        4.991999626159668,
-        4.994999885559082,
-        4.991999626159668,
-        4.991999626159668,
-        4.98799991607666
+        4.990000247955322,
+        4.990000247955322,
+        4.990000247955322
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-24 03:59 KST"
+      "status": "중립",
+      "freshness": "2026-10-26 22:13 KST"
     },
     {
       "id": "indices",
@@ -268,7 +268,7 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6059.38",
+          "value": "6107.77",
           "change": "-0.01%",
           "direction": "down"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.79",
+          "value": "101.95",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1323.58",
-          "change": "+0.02%",
+          "value": "1325.19",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.10",
-          "change": "-0.02%",
+          "value": "157.47",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6674",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6564",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1323.280029296875,
-        1323.4000244140625,
-        1323.47998046875,
-        1323.6099853515625,
-        1323.3299560546875,
-        1323.780029296875,
-        1324.0,
-        1323.8699951171875,
-        1323.280029296875,
-        1323.3800048828125,
-        1323.5799560546875
+        1324.93994140625,
+        1324.8499755859375,
+        1324.8499755859375,
+        1325.3199462890625,
+        1325.030029296875,
+        1325.47998046875,
+        1325.56005859375,
+        1325.5999755859375,
+        1325.6199951171875,
+        1325.1800537109375,
+        1325.18994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-26 17:10 KST"
+      "freshness": "2026-10-26 22:28 KST"
     }
   ],
   "currentAction": {
