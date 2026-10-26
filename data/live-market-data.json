@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "collectedAt": "2026-10-26T13:28:59Z",
+  "date": "2026-10-27",
+  "collectedAt": "2026-10-26T23:48:47Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.02%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.07%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The 10 biggest stocks are faltering,",
+      "title": "80% of S&P 500 stocks are in",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The markets have seen a downward bias for months, in large part because of the biggest stocks.",
-      "link": "https://finance.yahoo.com/markets/article/the-10-biggest-stocks-are-faltering-and-its-dragging-the-sp-500-down-122521456.html?.tsrc=rss"
+      "summary": "With more than 80% of S&P 500 stocks down at least 10% from their highs, Ted Thatcher, founder and president of Bright Lake Wealth Management, reveals why he’s bullish on Nvidia, M",
+      "link": "https://www.thestreet.com/video/80-of-sp-500-stocks-are-in-correction-territory-these-3-are-still-buy?.tsrc=rss"
     },
     {
-      "title": "Dow Rises As Oil Prices Fall; Tesla",
+      "title": "Beijing Pushes Domestic Oil",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The Dow Jones index rises Monday as oil prices decline. Tesla stock rallies on an analyst upgrade.",
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss"
+      "summary": "China is urging its oil and gas giants to boost domestic production, as the Iran war exposes Beijing's dependence on imported energy.",
+      "link": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html?.tsrc=rss"
     },
     {
-      "title": "Update",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss"
-    },
-    {
-      "title": "Lode Gold Initiates Exploration to",
+      "title": "FireFly makes another significant",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 26, 2026) - Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") is pleased to annou",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-initiates-exploration-evaluate-130000734.html?.tsrc=rss"
+      "summary": "Green Bay Copper-Gold Project, Canada The greenfields discovery, just 35km from the flagship Ming Mine, highlights the exploration potential of numerous targets to be tested at Gre",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/firefly-makes-another-significant-high-225200002.html?.tsrc=rss"
+    },
+    {
+      "title": "2 Reasons investors love Paymentus",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Over the past six months, Paymentus has been a great trade, beating the S&P 500 by 13.5%. Its stock price has climbed to $33.36, representing a healthy 20.3% increase. This was par",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-investors-love-paymentus-224647823.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The 10 biggest stocks are faltering,",
-      "summary": "The markets have seen a downward bias for months, in large part because of the biggest stocks.",
+      "title": "80% of S&P 500 stocks are in",
+      "summary": "With more than 80% of S&P 500 stocks down at least 10% from their highs, Ted Thatcher, founder and president of Bright Lake Wealth Management, reveals why he’s bullish on Nvidia, M",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/the-10-biggest-stocks-are-faltering-and-its-dragging-the-sp-500-down-122521456.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 12:25:21 +0000"
+      "link": "https://www.thestreet.com/video/80-of-sp-500-stocks-are-in-correction-territory-these-3-are-still-buy?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 23:29:26 +0000"
     },
     {
-      "title": "Dow Rises As Oil Prices Fall; Tesla",
-      "summary": "The Dow Jones index rises Monday as oil prices decline. Tesla stock rallies on an analyst upgrade.",
+      "title": "Beijing Pushes Domestic Oil",
+      "summary": "China is urging its oil and gas giants to boost domestic production, as the Iran war exposes Beijing's dependence on imported energy.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 13:06:46 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 23:00:00 +0000"
     },
     {
-      "title": "Update",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 13:02:28 +0000"
-    },
-    {
-      "title": "Lode Gold Initiates Exploration to",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 26, 2026) - Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") is pleased to annou",
+      "title": "FireFly makes another significant",
+      "summary": "Green Bay Copper-Gold Project, Canada The greenfields discovery, just 35km from the flagship Ming Mine, highlights the exploration potential of numerous targets to be tested at Gre",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/lode-gold-initiates-exploration-evaluate-130000734.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 13:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/firefly-makes-another-significant-high-225200002.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:52:00 +0000"
+    },
+    {
+      "title": "2 Reasons investors love Paymentus",
+      "summary": "Over the past six months, Paymentus has been a great trade, beating the S&P 500 by 13.5%. Its stock price has climbed to $33.36, representing a healthy 20.3% increase. This was par",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-investors-love-paymentus-224647823.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 22:46:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "102.01",
-          "change": "-0.07%",
+          "value": "101.43",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "110.72",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "110.36",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4026.30",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4024.40",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.53",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6.55",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        101.55999755859375,
-        101.6500015258789,
-        101.86000061035156,
-        101.81999969482422,
-        101.94999694824219,
-        101.8499984741211,
-        101.94999694824219,
-        102.13999938964844,
-        102.01000213623047,
-        102.08000183105469,
-        102.01000213623047
+        101.44000244140625,
+        101.41999816894531,
+        101.43000030517578,
+        101.43000030517578,
+        101.43000030517578,
+        101.44000244140625,
+        101.45999908447266,
+        101.47000122070312,
+        101.44000244140625,
+        101.44000244140625,
+        101.43000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-26 22:18 KST"
+      "freshness": "2026-10-27 08:38 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.043%",
+          "value": "4.025%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.819%",
+          "value": "4.824%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.990%",
+          "value": "4.986%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.308%",
+          "value": "5.301%",
           "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        4.986000061035156,
-        4.986000061035156,
-        4.986000061035156,
-        4.98799991607666,
+        4.98199987411499,
+        4.98199987411499,
+        4.98199987411499,
+        4.98199987411499,
+        4.98199987411499,
+        4.98199987411499,
         4.98199987411499,
         4.984000205993652,
         4.986000061035156,
-        4.990000247955322,
-        4.990000247955322,
-        4.990000247955322,
-        4.990000247955322
+        4.986000061035156,
+        4.986000061035156
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-10-26 22:13 KST"
+      "freshness": "2026-10-27 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7622.99",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "7676.61",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25954.02",
-          "change": "-0.02%",
+          "value": "26169.36",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6107.77",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6120.89",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7627.2998046875,
-        7627.2900390625,
-        7623.77978515625,
-        7625.93017578125,
-        7624.9501953125,
-        7623.7099609375,
-        7623.0400390625,
-        7623.2998046875,
-        7624.2099609375,
-        7624.4599609375,
-        7622.990234375
+        7679.259765625,
+        7677.77978515625,
+        7677.25,
+        7676.97021484375,
+        7674.830078125,
+        7675.830078125,
+        7675.080078125,
+        7676.3701171875,
+        7675.47021484375,
+        7675.4599609375,
+        7676.60986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-24 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-10-27 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.95",
+          "value": "102.03",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1325.19",
+          "value": "1324.48",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "157.57",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "157.47",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6564",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6593",
+          "change": "-0.15%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1324.93994140625,
-        1324.8499755859375,
-        1324.8499755859375,
-        1325.3199462890625,
-        1325.030029296875,
-        1325.47998046875,
-        1325.56005859375,
-        1325.5999755859375,
-        1325.6199951171875,
-        1325.1800537109375,
-        1325.18994140625
+        1324.52001953125,
+        1324.510009765625,
+        1324.52001953125,
+        1324.5899658203125,
+        1324.699951171875,
+        1324.6400146484375,
+        1324.72998046875,
+        1324.81005859375,
+        1325.280029296875,
+        1325.06005859375,
+        1324.47998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-26 22:28 KST"
+      "freshness": "2026-10-27 08:48 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
