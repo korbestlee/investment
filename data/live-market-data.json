@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "collectedAt": "2026-10-26T23:48:47Z",
+  "collectedAt": "2026-10-27T08:25:37Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "80% of S&P 500 stocks are in",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "With more than 80% of S&P 500 stocks down at least 10% from their highs, Ted Thatcher, founder and president of Bright Lake Wealth Management, reveals why he’s bullish on Nvidia, M",
-      "link": "https://www.thestreet.com/video/80-of-sp-500-stocks-are-in-correction-territory-these-3-are-still-buy?.tsrc=rss"
+      "title": "Dow, S&P 500, Nasdaq drift lower as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "US stock futures rose on Tuesday morning as the AI trade, earnings, and an upcoming Fed decision remained in focus.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html?.tsrc=rss"
     },
     {
-      "title": "Beijing Pushes Domestic Oil",
+      "title": "India’s Oil Buyers Squeezed by $123",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "China is urging its oil and gas giants to boost domestic production, as the Iran war exposes Beijing's dependence on imported energy.",
-      "link": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html?.tsrc=rss"
+      "summary": "India's crude oil import costs have surged as high oil prices and a weakening rupee squeeze fuel marketers' margins, while refiners shift purchases toward Middle Eastern suppliers.",
+      "link": "https://finance.yahoo.com/energy/articles/india-oil-buyers-squeezed-123-073000122.html?.tsrc=rss"
     },
     {
-      "title": "FireFly makes another significant",
+      "title": "UAMY Stock Rises Overnight As United",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Green Bay Copper-Gold Project, Canada The greenfields discovery, just 35km from the flagship Ming Mine, highlights the exploration potential of numerous targets to be tested at Gre",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/firefly-makes-another-significant-high-225200002.html?.tsrc=rss"
+      "summary": "Nolan Creek mining is underway, and first shipments are targeted by the end of 2026.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/uamy-stock-rises-overnight-as-united-states-antimony-sees-314-m-worth-gold-antimony-prospects-in-alaska/cZUIzpnRBzY?.tsrc=rss"
     },
     {
-      "title": "2 Reasons investors love Paymentus",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Over the past six months, Paymentus has been a great trade, beating the S&P 500 by 13.5%. Its stock price has climbed to $33.36, representing a healthy 20.3% increase. This was par",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-investors-love-paymentus-224647823.html?.tsrc=rss"
+      "title": "Warren Buffett Says Buy an S&P 500",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The Oracle of Omaha doesn't think most investors should pick individual stocks.",
+      "link": "https://www.fool.com/investing/2026/10/27/warren-buffett-sp-500-etf-500-month-20-years/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "80% of S&P 500 stocks are in",
-      "summary": "With more than 80% of S&P 500 stocks down at least 10% from their highs, Ted Thatcher, founder and president of Bright Lake Wealth Management, reveals why he’s bullish on Nvidia, M",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.thestreet.com/video/80-of-sp-500-stocks-are-in-correction-territory-these-3-are-still-buy?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 23:29:26 +0000"
+      "title": "Dow, S&P 500, Nasdaq drift lower as",
+      "summary": "US stock futures rose on Tuesday morning as the AI trade, earnings, and an upcoming Fed decision remained in focus.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 08:19:01 +0000"
     },
     {
-      "title": "Beijing Pushes Domestic Oil",
-      "summary": "China is urging its oil and gas giants to boost domestic production, as the Iran war exposes Beijing's dependence on imported energy.",
+      "title": "India’s Oil Buyers Squeezed by $123",
+      "summary": "India's crude oil import costs have surged as high oil prices and a weakening rupee squeeze fuel marketers' margins, while refiners shift purchases toward Middle Eastern suppliers.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/beijing-pushes-domestic-oil-production-230000429.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 23:00:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/india-oil-buyers-squeezed-123-073000122.html?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 07:30:00 +0000"
     },
     {
-      "title": "FireFly makes another significant",
-      "summary": "Green Bay Copper-Gold Project, Canada The greenfields discovery, just 35km from the flagship Ming Mine, highlights the exploration potential of numerous targets to be tested at Gre",
+      "title": "UAMY Stock Rises Overnight As United",
+      "summary": "Nolan Creek mining is underway, and first shipments are targeted by the end of 2026.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/firefly-makes-another-significant-high-225200002.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 22:52:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/uamy-stock-rises-overnight-as-united-states-antimony-sees-314-m-worth-gold-antimony-prospects-in-alaska/cZUIzpnRBzY?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 06:49:39 +0000"
     },
     {
-      "title": "2 Reasons investors love Paymentus",
-      "summary": "Over the past six months, Paymentus has been a great trade, beating the S&P 500 by 13.5%. Its stock price has climbed to $33.36, representing a healthy 20.3% increase. This was par",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-investors-love-paymentus-224647823.html?.tsrc=rss",
-      "published": "Mon, 26 Oct 2026 22:46:47 +0000"
+      "title": "Warren Buffett Says Buy an S&P 500",
+      "summary": "The Oracle of Omaha doesn't think most investors should pick individual stocks.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.fool.com/investing/2026/10/27/warren-buffett-sp-500-etf-500-month-20-years/?.tsrc=rss",
+      "published": "Tue, 27 Oct 2026 06:20:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.43",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "Brent",
-          "value": "110.36",
-          "change": "+0.07%",
+          "value": "102.42",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4024.40",
+          "name": "Brent",
+          "value": "111.31",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
+          "name": "Gold",
+          "value": "4010.30",
+          "change": "+0.03%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.55",
-          "change": "-0.01%",
+          "value": "6.57",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.44000244140625,
-        101.41999816894531,
-        101.43000030517578,
-        101.43000030517578,
-        101.43000030517578,
-        101.44000244140625,
-        101.45999908447266,
-        101.47000122070312,
-        101.44000244140625,
-        101.44000244140625,
-        101.43000030517578
+        102.23999786376953,
+        102.3499984741211,
+        102.30999755859375,
+        102.31999969482422,
+        102.30999755859375,
+        102.37000274658203,
+        102.30999755859375,
+        102.30000305175781,
+        102.4000015258789,
+        102.41000366210938,
+        102.41999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-27 08:38 KST"
+      "status": "강세",
+      "freshness": "2026-10-27 17:15 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5496.79",
-          "change": "+0.02%",
+          "value": "5654.57",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6120.89",
-          "change": "+0.01%",
+          "value": "6104.26",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.03",
+          "value": "102.17",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1324.48",
-          "change": "-0.04%",
+          "value": "1326.34",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.57",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.82",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6593",
-          "change": "-0.15%",
+          "value": "6.6671",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        1324.52001953125,
-        1324.510009765625,
-        1324.52001953125,
-        1324.5899658203125,
-        1324.699951171875,
-        1324.6400146484375,
-        1324.72998046875,
-        1324.81005859375,
-        1325.280029296875,
-        1325.06005859375,
-        1324.47998046875
+        1326.1199951171875,
+        1325.9000244140625,
+        1325.7900390625,
+        1325.780029296875,
+        1326.0799560546875,
+        1326.0899658203125,
+        1326.6099853515625,
+        1326.97998046875,
+        1326.4200439453125,
+        1326.530029296875,
+        1326.3399658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-10-27 08:48 KST"
+      "freshness": "2026-10-27 17:25 KST"
     }
   ],
   "currentAction": {
