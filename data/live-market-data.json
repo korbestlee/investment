@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28",
-  "collectedAt": "2026-10-28T13:28:19Z",
+  "date": "2026-10-29",
+  "collectedAt": "2026-10-28T23:58:49Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.03%",
+      "value": "+0.09%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.10%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.03%",
+      "value": "+0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "TSX futures muted ahead of Bank of",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com - Futures linked to Canada’s main stock index pointed slightly lower on Wednesday, as investors eyed a fresh climb in oil prices and prepared for a key Bank of Canada",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-muted-ahead-bank-131211082.html?.tsrc=rss"
-    },
-    {
-      "title": "Dynasty Gold Discovers New",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 28, 2026) - Dynasty Gold Corp. (TSXV: DYG) (FSE: D5G1) (OTC Oink: DGDCF) (\"Dynasty\" or the \"Company\") is pleased to report th",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dynasty-gold-discovers-mineralization-323m-130000796.html?.tsrc=rss"
-    },
-    {
-      "title": "Update",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss"
-    },
-    {
-      "title": "Stocks Without AI Are Beating the",
+      "title": "3 Reasons PGR has explosive upside",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Something unusual happened in October: the parts of the market farthest from AI surged while megacap tech stalled, and now a record-breaking gap is sitting right in the path of the",
-      "link": "https://247wallst.com/investing/2026/10/28/stocks-without-ai-are-beating-the-sp-500-by-6-points-this-month/?.tsrc=rss"
+      "summary": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-pgr-explosive-upside-234234706.html?.tsrc=rss"
+    },
+    {
+      "title": "Perma-Fix (PESI)",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-buy-sell-232634777.html?.tsrc=rss"
+    },
+    {
+      "title": "Semiconductor stocks lose momentum",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Key TakeawaysSemiconductor-related stocks experienced substantial outflows last week, while software attracted fresh investment. Historical analysis suggests broader market returns",
+      "link": "https://investorshub.advfn.com/market-news/article/38851/semiconductor-stocks-sp500-market-rotation?.tsrc=rss"
+    },
+    {
+      "title": "Microsoft Rises Late, But Google,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
+      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "TSX futures muted ahead of Bank of",
-      "summary": "Investing.com - Futures linked to Canada’s main stock index pointed slightly lower on Wednesday, as investors eyed a fresh climb in oil prices and prepared for a key Bank of Canada",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-muted-ahead-bank-131211082.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 13:12:11 +0000"
-    },
-    {
-      "title": "Dynasty Gold Discovers New",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 28, 2026) - Dynasty Gold Corp. (TSXV: DYG) (FSE: D5G1) (OTC Oink: DGDCF) (\"Dynasty\" or the \"Company\") is pleased to report th",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/dynasty-gold-discovers-mineralization-323m-130000796.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Update",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 12:51:30 +0000"
-    },
-    {
-      "title": "Stocks Without AI Are Beating the",
-      "summary": "Something unusual happened in October: the parts of the market farthest from AI surged while megacap tech stalled, and now a record-breaking gap is sitting right in the path of the",
+      "title": "3 Reasons PGR has explosive upside",
+      "summary": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/10/28/stocks-without-ai-are-beating-the-sp-500-by-6-points-this-month/?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 12:37:29 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-pgr-explosive-upside-234234706.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:42:34 +0000"
+    },
+    {
+      "title": "Perma-Fix (PESI)",
+      "summary": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-buy-sell-232634777.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:26:34 +0000"
+    },
+    {
+      "title": "Semiconductor stocks lose momentum",
+      "summary": "Key TakeawaysSemiconductor-related stocks experienced substantial outflows last week, while software attracted fresh investment. Historical analysis suggests broader market returns",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://investorshub.advfn.com/market-news/article/38851/semiconductor-stocks-sp500-market-rotation?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 22:01:41 +0000"
+    },
+    {
+      "title": "Microsoft Rises Late, But Google,",
+      "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 23:55:35 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.87",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "101.85",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "111.47",
-          "change": "+0.04%",
+          "value": "110.53",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4065.50",
-          "change": "-0.02%",
+          "value": "4066.60",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.66",
-          "change": "-0.03%",
+          "value": "6.68",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.5,
-        101.54000091552734,
-        101.5999984741211,
-        101.5999984741211,
-        101.61000061035156,
-        101.62999725341797,
-        101.66000366210938,
-        101.73999786376953,
+        101.86000061035156,
+        101.87000274658203,
         101.8499984741211,
-        101.9000015258789,
-        101.87000274658203
+        101.81999969482422,
+        101.77999877929688,
+        101.7699966430664,
+        101.83999633789062,
+        101.87999725341797,
+        101.81999969482422,
+        101.83000183105469,
+        101.8499984741211
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-28 22:18 KST"
+      "status": "강세",
+      "freshness": "2026-10-29 08:48 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.040%",
+          "value": "3.995%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.844%",
+          "value": "4.871%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.993%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.045%",
+          "change": "+0.10%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.298%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.361%",
+          "change": "+0.06%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.993000030517578,
-        4.994999885559082,
-        4.994999885559082,
-        4.994999885559082,
-        4.994999885559082,
-        4.994999885559082,
-        4.997000217437744,
-        4.994999885559082,
-        4.994999885559082,
-        4.994999885559082,
-        4.993000030517578
+        5.015999794006348,
+        5.011000156402588,
+        5.026000022888184,
+        5.029999732971191,
+        5.033999919891357,
+        5.0279998779296875,
+        5.043000221252441,
+        5.046999931335449,
+        5.045000076293945,
+        5.039999961853027,
+        5.045000076293945
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-28 22:13 KST"
+      "status": "압박",
+      "freshness": "2026-10-29 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7722.98",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "7748.03",
+          "change": "+0.09%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26474.90",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "26561.23",
+          "change": "+0.10%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6174.70",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6167.90",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7733.1298828125,
-        7730.169921875,
-        7729.080078125,
-        7728.77978515625,
-        7729.31982421875,
-        7726.47021484375,
-        7725.6201171875,
-        7724.47021484375,
-        7726.43017578125,
-        7725.16015625,
-        7722.97998046875
+        7744.490234375,
+        7745.89013671875,
+        7744.0498046875,
+        7745.89013671875,
+        7748.740234375,
+        7744.22998046875,
+        7744.240234375,
+        7742.93994140625,
+        7743.009765625,
+        7741.080078125,
+        7748.02978515625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-10-28 04:59 KST"
+      "status": "강세",
+      "freshness": "2026-10-29 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.35",
-          "change": "+0.01%",
+          "value": "102.09",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1341.23",
-          "change": "+0.00%",
+          "value": "1340.58",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.98",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "157.83",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6656",
-          "change": "-0.00%",
+          "value": "6.6549",
+          "change": "-0.16%",
           "direction": "down"
         }
       ],
       "trend": [
-        1340.530029296875,
-        1340.199951171875,
-        1340.1700439453125,
-        1340.0799560546875,
-        1340.530029296875,
+        1341.27001953125,
+        1340.239990234375,
+        1340.010009765625,
+        1339.280029296875,
+        1340.489990234375,
+        1340.9100341796875,
+        1340.1400146484375,
+        1340.5999755859375,
+        1340.969970703125,
         1340.4599609375,
-        1340.780029296875,
-        1340.6800537109375,
-        1341.050048828125,
-        1341.1800537109375,
-        1341.22998046875
+        1340.5799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-28 22:28 KST"
+      "freshness": "2026-10-29 08:58 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
