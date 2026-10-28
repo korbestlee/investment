@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "collectedAt": "2026-10-27T23:43:54Z",
+  "collectedAt": "2026-10-28T09:03:02Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Growth Stocks Rally, Tesla Clears",
+      "title": "Dow futures fall, S&P 500 and Nasdaq",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "A critical day for markets arrives, with a Fed decision and earnings results from Microsoft and Alphabet.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html?.tsrc=rss"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Rise",
       "impact": "채권, 금리",
       "importance": "high",
       "summary": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
     },
     {
-      "title": "Israel Election Deadlock Could Shake",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Israel's election deadlock raises fresh Iran war risks. Here's what it could mean for oil prices, stocks and Bitcoin.",
-      "link": "https://beincrypto.com/israel-election-deadlock-oil-stocks-crypto-markets/?.tsrc=rss"
-    },
-    {
-      "title": "/C O R R E C T I O N",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Two tankers carrying 1 million barrels of Venezuelan crude produced by North American Blue Energy Partners (NABEP) have arrived in Corpus Christi, Texas.",
-      "link": "https://finance.yahoo.com/energy/articles/c-o-r-r-e-222500721.html?.tsrc=rss"
-    },
-    {
-      "title": "BC-Select Stock Indices",
+      "title": "Is Amaero (ASX",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Tuesday, October 27. Change High Low  Dow Jones 15 Utilities 1103.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013782.html?.tsrc=rss"
+      "summary": "Amaero (ASX:3DA) has just been added to the NASDAQ Composite Index, putting the metal powders specialist on the radar of index-tracking funds and more U.S. focused investors. Amaer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amaero-asx-3da-still-undervalued-081155592.html?.tsrc=rss"
+    },
+    {
+      "title": "Investors rush to buy gold ahead of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold and silver purchases have skyrocketed by 210pc over the past fortnight amid uncertainty over tax raids in the autumn Budget.",
+      "link": "https://uk.finance.yahoo.com/news/investors-rush-buy-gold-ahead-080000067.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Growth Stocks Rally, Tesla Clears",
+      "title": "Dow futures fall, S&P 500 and Nasdaq",
+      "summary": "A critical day for markets arrives, with a Fed decision and earnings results from Microsoft and Alphabet.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 08:06:42 +0000"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Rise",
       "summary": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures%3A-growth.html?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 23:39:11 +0000"
+      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 08:56:18 +0000"
     },
     {
-      "title": "Israel Election Deadlock Could Shake",
-      "summary": "Israel's election deadlock raises fresh Iran war risks. Here's what it could mean for oil prices, stocks and Bitcoin.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://beincrypto.com/israel-election-deadlock-oil-stocks-crypto-markets/?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 23:17:46 +0000"
-    },
-    {
-      "title": "/C O R R E C T I O N",
-      "summary": "Two tankers carrying 1 million barrels of Venezuelan crude produced by North American Blue Energy Partners (NABEP) have arrived in Corpus Christi, Texas.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/c-o-r-r-e-222500721.html?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 22:25:00 +0000"
-    },
-    {
-      "title": "BC-Select Stock Indices",
-      "summary": "NEW YORK (AP) — Prices as of 5:30:00 PM Tuesday, October 27. Change High Low  Dow Jones 15 Utilities 1103.",
+      "title": "Is Amaero (ASX",
+      "summary": "Amaero (ASX:3DA) has just been added to the NASDAQ Composite Index, putting the metal powders specialist on the radar of index-tracking funds and more U.S. focused investors. Amaer",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/bc-select-stock-indices-213013782.html?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 21:30:13 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amaero-asx-3da-still-undervalued-081155592.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 08:11:55 +0000"
+    },
+    {
+      "title": "Investors rush to buy gold ahead of",
+      "summary": "Gold and silver purchases have skyrocketed by 210pc over the past fortnight amid uncertainty over tax raids in the autumn Budget.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://uk.finance.yahoo.com/news/investors-rush-buy-gold-ahead-080000067.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 08:00:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "99.98",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "101.59",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "109.49",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Gold",
-          "value": "4071.60",
-          "change": "-0.02%",
+          "value": "110.94",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
+          "name": "Gold",
+          "value": "4070.20",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "6.66",
-          "change": "-0.01%",
+          "value": "6.64",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        99.94000244140625,
-        99.91999816894531,
-        99.93000030517578,
-        99.94999694824219,
-        100.0,
-        99.94000244140625,
-        99.98999786376953,
-        99.98999786376953,
-        100.0,
-        100.0,
-        99.9800033569336
+        101.69999694824219,
+        101.63999938964844,
+        101.61000061035156,
+        101.62999725341797,
+        101.72000122070312,
+        101.58999633789062,
+        101.51000213623047,
+        101.5,
+        101.45999908447266,
+        101.55000305175781,
+        101.58999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-28 08:32 KST"
+      "status": "강세",
+      "freshness": "2026-10-28 17:52 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5654.57",
-          "change": "+0.05%",
+          "value": "5998.37",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6167.32",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6154.83",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.36",
-          "change": "+0.00%",
+          "value": "102.41",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1326.16",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "1338.98",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.98",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "157.72",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6655",
-          "change": "+0.15%",
-          "direction": "up"
+          "value": "6.6652",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1326.1600341796875,
-        1326.52001953125,
-        1326.1199951171875,
-        1326.1800537109375,
-        1326.1600341796875,
-        1326.4200439453125,
-        1326.550048828125,
-        1326.2099609375,
-        1326.18994140625,
-        1326.18994140625,
-        1326.1600341796875
+        1339.3399658203125,
+        1339.2900390625,
+        1339.3900146484375,
+        1338.969970703125,
+        1338.280029296875,
+        1337.9599609375,
+        1338.280029296875,
+        1338.0799560546875,
+        1338.97998046875,
+        1338.969970703125,
+        1338.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-28 08:43 KST"
+      "freshness": "2026-10-28 18:02 KST"
     }
   ],
   "currentAction": {
