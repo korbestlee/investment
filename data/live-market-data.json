@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "collectedAt": "2026-10-28T09:03:02Z",
+  "collectedAt": "2026-10-28T13:28:19Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,7 +40,7 @@
     },
     {
       "label": "미 10년물",
-      "value": "+0.06%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow futures fall, S&P 500 and Nasdaq",
+      "title": "TSX futures muted ahead of Bank of",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "A critical day for markets arrives, with a Fed decision and earnings results from Microsoft and Alphabet.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html?.tsrc=rss"
+      "summary": "Investing.com - Futures linked to Canada’s main stock index pointed slightly lower on Wednesday, as investors eyed a fresh climb in oil prices and prepared for a key Bank of Canada",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-muted-ahead-bank-131211082.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Fall, Techs Rise",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
-    },
-    {
-      "title": "Is Amaero (ASX",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Amaero (ASX:3DA) has just been added to the NASDAQ Composite Index, putting the metal powders specialist on the radar of index-tracking funds and more U.S. focused investors. Amaer",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amaero-asx-3da-still-undervalued-081155592.html?.tsrc=rss"
-    },
-    {
-      "title": "Investors rush to buy gold ahead of",
+      "title": "Dynasty Gold Discovers New",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Gold and silver purchases have skyrocketed by 210pc over the past fortnight amid uncertainty over tax raids in the autumn Budget.",
-      "link": "https://uk.finance.yahoo.com/news/investors-rush-buy-gold-ahead-080000067.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 28, 2026) - Dynasty Gold Corp. (TSXV: DYG) (FSE: D5G1) (OTC Oink: DGDCF) (\"Dynasty\" or the \"Company\") is pleased to report th",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dynasty-gold-discovers-mineralization-323m-130000796.html?.tsrc=rss"
+    },
+    {
+      "title": "Update",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks Without AI Are Beating the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Something unusual happened in October: the parts of the market farthest from AI surged while megacap tech stalled, and now a record-breaking gap is sitting right in the path of the",
+      "link": "https://247wallst.com/investing/2026/10/28/stocks-without-ai-are-beating-the-sp-500-by-6-points-this-month/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow futures fall, S&P 500 and Nasdaq",
-      "summary": "A critical day for markets arrives, with a Fed decision and earnings results from Microsoft and Alphabet.",
+      "title": "TSX futures muted ahead of Bank of",
+      "summary": "Investing.com - Futures linked to Canada’s main stock index pointed slightly lower on Wednesday, as investors eyed a fresh climb in oil prices and prepared for a key Bank of Canada",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 08:06:42 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-muted-ahead-bank-131211082.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 13:12:11 +0000"
     },
     {
-      "title": "Dow Jones Futures Fall, Techs Rise",
-      "summary": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 08:56:18 +0000"
-    },
-    {
-      "title": "Is Amaero (ASX",
-      "summary": "Amaero (ASX:3DA) has just been added to the NASDAQ Composite Index, putting the metal powders specialist on the radar of index-tracking funds and more U.S. focused investors. Amaer",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amaero-asx-3da-still-undervalued-081155592.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 08:11:55 +0000"
-    },
-    {
-      "title": "Investors rush to buy gold ahead of",
-      "summary": "Gold and silver purchases have skyrocketed by 210pc over the past fortnight amid uncertainty over tax raids in the autumn Budget.",
+      "title": "Dynasty Gold Discovers New",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 28, 2026) - Dynasty Gold Corp. (TSXV: DYG) (FSE: D5G1) (OTC Oink: DGDCF) (\"Dynasty\" or the \"Company\") is pleased to report th",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://uk.finance.yahoo.com/news/investors-rush-buy-gold-ahead-080000067.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 08:00:00 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dynasty-gold-discovers-mineralization-323m-130000796.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Update",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 12:51:30 +0000"
+    },
+    {
+      "title": "Stocks Without AI Are Beating the",
+      "summary": "Something unusual happened in October: the parts of the market farthest from AI surged while megacap tech stalled, and now a record-breaking gap is sitting right in the path of the",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://247wallst.com/investing/2026/10/28/stocks-without-ai-are-beating-the-sp-500-by-6-points-this-month/?.tsrc=rss",
+      "published": "Wed, 28 Oct 2026 12:37:29 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.59",
+          "value": "101.87",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "111.47",
           "change": "+0.04%",
           "direction": "up"
         },
         {
-          "name": "Brent",
-          "value": "110.94",
-          "change": "-0.05%",
+          "name": "Gold",
+          "value": "4065.50",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
-          "name": "Gold",
-          "value": "4070.20",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
           "name": "Copper",
-          "value": "6.64",
-          "change": "-0.04%",
+          "value": "6.66",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.69999694824219,
-        101.63999938964844,
+        101.5,
+        101.54000091552734,
+        101.5999984741211,
+        101.5999984741211,
         101.61000061035156,
         101.62999725341797,
-        101.72000122070312,
-        101.58999633789062,
-        101.51000213623047,
-        101.5,
-        101.45999908447266,
-        101.55000305175781,
-        101.58999633789062
+        101.66000366210938,
+        101.73999786376953,
+        101.8499984741211,
+        101.9000015258789,
+        101.87000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-28 17:52 KST"
+      "status": "약세",
+      "freshness": "2026-10-28 22:18 KST"
     },
     {
       "id": "bonds",
@@ -208,39 +208,39 @@
         },
         {
           "name": "UST 5Y",
-          "value": "4.840%",
+          "value": "4.844%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
           "value": "4.993%",
-          "change": "+0.06%",
-          "direction": "up"
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.305%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.298%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
         4.993000030517578,
-        4.993000030517578,
         4.994999885559082,
-        4.993000030517578,
-        4.993000030517578,
-        4.990000247955322,
-        4.990000247955322,
-        4.990000247955322,
-        4.990000247955322,
-        4.990000247955322,
+        4.994999885559082,
+        4.994999885559082,
+        4.994999885559082,
+        4.994999885559082,
+        4.997000217437744,
+        4.994999885559082,
+        4.994999885559082,
+        4.994999885559082,
         4.993000030517578
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "압박",
-      "freshness": "2026-10-28 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-10-28 22:13 KST"
     },
     {
       "id": "indices",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6154.83",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "6174.70",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.41",
+          "value": "102.35",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1338.98",
+          "value": "1341.23",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.72",
-          "change": "+0.01%",
+          "value": "157.98",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6652",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6656",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1339.3399658203125,
-        1339.2900390625,
-        1339.3900146484375,
-        1338.969970703125,
-        1338.280029296875,
-        1337.9599609375,
-        1338.280029296875,
-        1338.0799560546875,
-        1338.97998046875,
-        1338.969970703125,
-        1338.97998046875
+        1340.530029296875,
+        1340.199951171875,
+        1340.1700439453125,
+        1340.0799560546875,
+        1340.530029296875,
+        1340.4599609375,
+        1340.780029296875,
+        1340.6800537109375,
+        1341.050048828125,
+        1341.1800537109375,
+        1341.22998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-28 18:02 KST"
+      "freshness": "2026-10-28 22:28 KST"
     }
   ],
   "currentAction": {
