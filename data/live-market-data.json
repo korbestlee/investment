@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "collectedAt": "2026-10-28T23:58:49Z",
+  "collectedAt": "2026-10-29T09:00:21Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.03%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "3 Reasons PGR has explosive upside",
+      "title": "1 S&P 500 stock to consider right",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-pgr-explosive-upside-234234706.html?.tsrc=rss"
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-consider-083525335.html?.tsrc=rss"
     },
     {
-      "title": "Perma-Fix (PESI)",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-buy-sell-232634777.html?.tsrc=rss"
+      "title": "Mosaic Begins a Drilling Campaign of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Montreal, Quebec--(Newsfile Corp. - October 29, 2026) - Mosaic Minerals Corporation (CSE: MOC) (\"Mosaic\" or the \"Company\") announces assay results for 343 samples collected during ",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mosaic-begins-drilling-campaign-least-081300994.html?.tsrc=rss"
     },
     {
-      "title": "Semiconductor stocks lose momentum",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Key TakeawaysSemiconductor-related stocks experienced substantial outflows last week, while software attracted fresh investment. Historical analysis suggests broader market returns",
-      "link": "https://investorshub.advfn.com/market-news/article/38851/semiconductor-stocks-sp500-market-rotation?.tsrc=rss"
+      "title": "Europe’s oil bill",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Euronews Business takes a closer look at how Europe’s petroleum oil import bill has risen amid tensions in the Middle East - and experts do not expect costs to fall in the near fut",
+      "link": "https://www.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025?.tsrc=rss"
     },
     {
-      "title": "Microsoft Rises Late, But Google,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
-      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss"
+      "title": "TotalEnergies profit hits record on",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "French oil and gas giant TotalEnergies said Thursday that its net profit hit a new record in the third quarter as the war in the Middle East pushed up hydrocarbon prices.The compan",
+      "link": "https://finance.yahoo.com/energy/articles/totalenergies-profit-hits-record-high-080216298.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "3 Reasons PGR has explosive upside",
-      "summary": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
+      "title": "1 S&P 500 stock to consider right",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are cr",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-pgr-explosive-upside-234234706.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 23:42:34 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-consider-083525335.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 08:35:25 +0000"
     },
     {
-      "title": "Perma-Fix (PESI)",
-      "summary": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-buy-sell-232634777.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 23:26:34 +0000"
+      "title": "Mosaic Begins a Drilling Campaign of",
+      "summary": "Montreal, Quebec--(Newsfile Corp. - October 29, 2026) - Mosaic Minerals Corporation (CSE: MOC) (\"Mosaic\" or the \"Company\") announces assay results for 343 samples collected during ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/mosaic-begins-drilling-campaign-least-081300994.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 08:13:00 +0000"
     },
     {
-      "title": "Semiconductor stocks lose momentum",
-      "summary": "Key TakeawaysSemiconductor-related stocks experienced substantial outflows last week, while software attracted fresh investment. Historical analysis suggests broader market returns",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://investorshub.advfn.com/market-news/article/38851/semiconductor-stocks-sp500-market-rotation?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 22:01:41 +0000"
+      "title": "Europe’s oil bill",
+      "summary": "Euronews Business takes a closer look at how Europe’s petroleum oil import bill has risen amid tensions in the Middle East - and experts do not expect costs to fall in the near fut",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.euronews.com/2026/10/29/europes-oil-bill-eu-pays-10bn-more-per-month-than-in-2025?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 08:11:02 +0000"
     },
     {
-      "title": "Microsoft Rises Late, But Google,",
-      "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 23:55:35 +0000"
+      "title": "TotalEnergies profit hits record on",
+      "summary": "French oil and gas giant TotalEnergies said Thursday that its net profit hit a new record in the third quarter as the war in the Middle East pushed up hydrocarbon prices.The compan",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/totalenergies-profit-hits-record-high-080216298.html?.tsrc=rss",
+      "published": "Thu, 29 Oct 2026 08:02:16 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "101.85",
+          "value": "101.72",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "110.53",
-          "change": "+0.11%",
-          "direction": "up"
+          "value": "110.74",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4066.60",
-          "change": "-0.04%",
+          "value": "4032.40",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.68",
-          "change": "-0.01%",
+          "value": "6.60",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        101.86000061035156,
-        101.87000274658203,
-        101.8499984741211,
-        101.81999969482422,
-        101.77999877929688,
-        101.7699966430664,
-        101.83999633789062,
-        101.87999725341797,
-        101.81999969482422,
-        101.83000183105469,
-        101.8499984741211
+        101.44999694824219,
+        101.5,
+        101.51000213623047,
+        101.55999755859375,
+        101.52999877929688,
+        101.68000030517578,
+        101.62000274658203,
+        101.5999984741211,
+        101.6500015258789,
+        101.69999694824219,
+        101.72000122070312
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-10-29 08:48 KST"
+      "freshness": "2026-10-29 17:50 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5998.37",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "5943.27",
+          "change": "-0.13%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6167.90",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6164.47",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.09",
+          "value": "102.27",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1340.58",
+          "value": "1336.48",
           "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.83",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "157.87",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6549",
-          "change": "-0.16%",
-          "direction": "down"
+          "value": "6.6606",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1341.27001953125,
-        1340.239990234375,
-        1340.010009765625,
-        1339.280029296875,
-        1340.489990234375,
-        1340.9100341796875,
-        1340.1400146484375,
-        1340.5999755859375,
-        1340.969970703125,
-        1340.4599609375,
-        1340.5799560546875
+        1337.0699462890625,
+        1337.0899658203125,
+        1337.5799560546875,
+        1337.8800048828125,
+        1338.1300048828125,
+        1337.280029296875,
+        1336.5799560546875,
+        1336.4200439453125,
+        1336.3699951171875,
+        1336.3800048828125,
+        1336.47998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-10-29 08:58 KST"
+      "freshness": "2026-10-29 18:00 KST"
     }
   ],
   "currentAction": {
