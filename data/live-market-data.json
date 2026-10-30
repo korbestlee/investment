@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "collectedAt": "2026-10-30T13:27:49Z",
+  "date": "2026-10-31",
+  "collectedAt": "2026-10-30T23:40:46Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.04%",
+      "value": "+0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.06%",
+      "value": "+0.11%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dune Oil Announces $8 Million",
+      "title": "3 Australian Penny Stocks With",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 30, 2026) - Dune Oil Corp. (CSE: DUNE) (FSE: Z621) (\"Dune\" or the \"Company\") is pleased to announce that it has entered into ",
-      "link": "https://finance.yahoo.com/energy/articles/dune-oil-announces-8-million-131000381.html?.tsrc=rss"
+      "summary": "Oil prices are riding a four month upswing as conflict threats around the Strait of Hormuz keep energy supply risks in focus, and that is feeding straight into inflation worries. W",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-australian-penny-stocks-revenue-231147762.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq Futures Dive As Amazon, Intel",
+      "title": "Okta Stock Can Find More Buyers as",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Tech futures dive Friday as Amazon stock and Intel both plunge on disappointing earnings reports.",
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+      "summary": "Okta can expect a new pool of buyers for its stock as a member of the S&P 500. Kenvue is being acquired and will therefore depart the index.",
+      "link": "https://finance.yahoo.com/m/9caa5bbe-db77-33ed-aec8-9298712adc25/okta-stock-can-find-more.html?.tsrc=rss"
     },
     {
-      "title": "The S&P 500 Rose 30-Fold Since 1988.",
+      "title": "Okta jumps after-hours following",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Why did most of the gap show up only after 2018?",
-      "link": "https://www.fool.com/investing/2026/10/30/the-s-and-p-500-rose-30-fold-since-1988-reinvested-dividends-made-it-67-fold/?.tsrc=rss"
+      "summary": "Investing.com -- Okta Inc (NASDAQ:OKTA) shares climbed 2.1% in extended trading Friday after S&P Dow Jones Indices selected the identity and access management provider to join the ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/okta-jumps-hours-following-tapped-215908289.html?.tsrc=rss"
     },
     {
-      "title": "Iran Claimed Four Vessels Were Hit",
+      "title": "Nasdaq suffers worst month in over a",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices climbed after Iran said four vessels were hit in the Strait of Hormuz. Traders are assessing uneven export recovery, shipping risks and the potential of renewed hostilit",
-      "link": "https://www.ibtimes.com/oil-prices-rise-iran-strait-hormuz-vessel-strikes-3809180?.tsrc=rss"
+      "summary": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
+      "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dune Oil Announces $8 Million",
-      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 30, 2026) - Dune Oil Corp. (CSE: DUNE) (FSE: Z621) (\"Dune\" or the \"Company\") is pleased to announce that it has entered into ",
+      "title": "3 Australian Penny Stocks With",
+      "summary": "Oil prices are riding a four month upswing as conflict threats around the Strait of Hormuz keep energy supply risks in focus, and that is feeding straight into inflation worries. W",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/dune-oil-announces-8-million-131000381.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 13:10:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-australian-penny-stocks-revenue-231147762.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 23:11:47 +0000"
     },
     {
-      "title": "Nasdaq Futures Dive As Amazon, Intel",
-      "summary": "Tech futures dive Friday as Amazon stock and Intel both plunge on disappointing earnings reports.",
+      "title": "Okta Stock Can Find More Buyers as",
+      "summary": "Okta can expect a new pool of buyers for its stock as a member of the S&P 500. Kenvue is being acquired and will therefore depart the index.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 12:50:45 +0000"
+      "link": "https://finance.yahoo.com/m/9caa5bbe-db77-33ed-aec8-9298712adc25/okta-stock-can-find-more.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 22:20:00 +0000"
     },
     {
-      "title": "The S&P 500 Rose 30-Fold Since 1988.",
-      "summary": "Why did most of the gap show up only after 2018?",
+      "title": "Okta jumps after-hours following",
+      "summary": "Investing.com -- Okta Inc (NASDAQ:OKTA) shares climbed 2.1% in extended trading Friday after S&P Dow Jones Indices selected the identity and access management provider to join the ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/10/30/the-s-and-p-500-rose-30-fold-since-1988-reinvested-dividends-made-it-67-fold/?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 12:48:01 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/okta-jumps-hours-following-tapped-215908289.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:59:08 +0000"
     },
     {
-      "title": "Iran Claimed Four Vessels Were Hit",
-      "summary": "Oil prices climbed after Iran said four vessels were hit in the Strait of Hormuz. Traders are assessing uneven export recovery, shipping risks and the potential of renewed hostilit",
+      "title": "Nasdaq suffers worst month in over a",
+      "summary": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.ibtimes.com/oil-prices-rise-iran-strait-hormuz-vessel-strikes-3809180?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 12:20:52 +0000"
+      "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 21:35:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "103.76",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "102.95",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "112.87",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "112.33",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3952.30",
-          "change": "+0.02%",
+          "value": "3884.90",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "6.51",
-          "change": "+0.06%",
+          "change": "+0.11%",
           "direction": "up"
         }
       ],
       "trend": [
-        103.75,
-        103.79000091552734,
-        103.91999816894531,
-        103.94000244140625,
-        103.91000366210938,
-        103.7699966430664,
-        103.76000213623047,
-        103.75,
-        103.80999755859375,
-        103.80999755859375,
-        103.76000213623047
+        102.87000274658203,
+        102.9000015258789,
+        102.83000183105469,
+        102.87000274658203,
+        102.81999969482422,
+        102.87999725341797,
+        102.93000030517578,
+        102.91000366210938,
+        102.93000030517578,
+        102.91999816894531,
+        102.94999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-10-30 22:17 KST"
+      "status": "강세",
+      "freshness": "2026-10-31 05:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.982%",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "3.973%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.729%",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "4.721%",
+          "change": "+0.11%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.925%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "4.929%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.290%",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "5.309%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.934999942779541,
-        4.931000232696533,
-        4.933000087738037,
-        4.936999797821045,
-        4.936999797821045,
-        4.934999942779541,
-        4.931000232696533,
-        4.931000232696533,
+        4.922999858856201,
+        4.922999858856201,
+        4.922999858856201,
+        4.921000003814697,
+        4.921000003814697,
+        4.922999858856201,
+        4.928999900817871,
         4.931000232696533,
         4.928999900817871,
-        4.925000190734863
+        4.927000045776367,
+        4.928999900817871
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-10-30 22:12 KST"
+      "status": "압박",
+      "freshness": "2026-10-31 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7721.02",
-          "change": "+0.04%",
+          "value": "7580.95",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "26188.00",
-          "change": "+0.06%",
+          "value": "25440.68",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6149.72",
-          "change": "+0.03%",
+          "value": "6130.73",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        7709.18017578125,
-        7714.6298828125,
-        7711.02001953125,
-        7713.72021484375,
-        7715.60986328125,
-        7715.7998046875,
-        7717.06005859375,
-        7717.919921875,
-        7718.990234375,
-        7717.64013671875,
-        7721.02001953125
+        7566.3798828125,
+        7580.3701171875,
+        7581.47998046875,
+        7581.1201171875,
+        7586.43017578125,
+        7584.2998046875,
+        7580.2099609375,
+        7570.580078125,
+        7580.41015625,
+        7578.5,
+        7580.9501953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-10-30 04:59 KST"
+      "freshness": "2026-10-31 04:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.89",
+          "value": "101.96",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1334.69",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1333.44",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
-          "value": "157.30",
+          "value": "157.52",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6422",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6533",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1334.6800537109375,
-        1334.97998046875,
-        1335.0400390625,
-        1335.0999755859375,
-        1335.0,
-        1334.97998046875,
-        1334.989990234375,
-        1334.9200439453125,
-        1334.9200439453125,
-        1334.780029296875,
-        1334.68994140625
+        1332.780029296875,
+        1332.8299560546875,
+        1332.7099609375,
+        1332.93994140625,
+        1333.3299560546875,
+        1333.3499755859375,
+        1332.9300537109375,
+        1332.6800537109375,
+        1333.43994140625,
+        1333.43994140625,
+        1333.43994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-30 22:27 KST"
+      "status": "중립",
+      "freshness": "2026-10-31 07:08 KST"
     }
   ],
   "currentAction": {
