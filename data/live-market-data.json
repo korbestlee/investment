@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "collectedAt": "2026-10-29T23:54:29Z",
+  "collectedAt": "2026-10-30T09:08:13Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.03%",
+      "value": "-0.02%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Amazon, Intel Lead Earnings Losers",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
-      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss"
-    },
-    {
-      "title": "20 Years of S&P 500 History Show",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Instead of waiting for stocks to go down, just buying the S&P 500 as soon as possible can give you nearly perfect returns.",
-      "link": "https://www.fool.com/investing/2026/10/29/20-years-of-sp-500-history-show-this-simple-strate/?.tsrc=rss"
-    },
-    {
-      "title": "Oil Climbs on Signs US May Resume",
+      "title": "Energy rally lifts FTSE 100 to lone",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html?.tsrc=rss"
+      "summary": "Investing.com - London’s FTSE 100 stood as an outlier among European peers on Friday, emerging as the sole major benchmark in positive territory as surging crude oil prices propell",
+      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss"
     },
     {
-      "title": "MongoDB (MDB) Dipped More Than",
-      "impact": "시장 전반",
+      "title": "Bleak Friday Looms for Stocks",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "In the closing of the recent trading day, MongoDB (MDB) stood at $384.95, denoting a -2.16% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-mdb-dipped-more-211503469.html?.tsrc=rss"
+      "summary": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
+      "link": "https://finance.yahoo.com/video/bleak-friday-looms-stocks-market-083128408.html?.tsrc=rss"
+    },
+    {
+      "title": "BP net profit quadruples on higher",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "British energy giant BP said Friday that its net profit quadrupled in the third quarter as the Middle East war disrupted oil and gas supplies and sent prices surging. Production an",
+      "link": "https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-higher-075213750.html?.tsrc=rss"
+    },
+    {
+      "title": "As the Nasdaq wobbles on capex, this",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wobbles-capex-buffett-strategy-070916451.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Amazon, Intel Lead Earnings Losers",
-      "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-amazon%2C.html?.tsrc=rss",
-      "published": "Thu, 29 Oct 2026 23:37:10 +0000"
-    },
-    {
-      "title": "20 Years of S&P 500 History Show",
-      "summary": "Instead of waiting for stocks to go down, just buying the S&P 500 as soon as possible can give you nearly perfect returns.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/10/29/20-years-of-sp-500-history-show-this-simple-strate/?.tsrc=rss",
-      "published": "Thu, 29 Oct 2026 23:20:00 +0000"
-    },
-    {
-      "title": "Oil Climbs on Signs US May Resume",
-      "summary": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
+      "title": "Energy rally lifts FTSE 100 to lone",
+      "summary": "Investing.com - London’s FTSE 100 stood as an outlier among European peers on Friday, emerging as the sole major benchmark in positive territory as surging crude oil prices propell",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-climbs-signs-us-may-220217351.html?.tsrc=rss",
-      "published": "Thu, 29 Oct 2026 22:02:17 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 09:03:47 +0000"
     },
     {
-      "title": "MongoDB (MDB) Dipped More Than",
-      "summary": "In the closing of the recent trading day, MongoDB (MDB) stood at $384.95, denoting a -2.16% move from the preceding trading day.",
-      "impact": "시장 전반",
+      "title": "Bleak Friday Looms for Stocks",
+      "summary": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-mdb-dipped-more-211503469.html?.tsrc=rss",
-      "published": "Thu, 29 Oct 2026 21:15:03 +0000"
+      "link": "https://finance.yahoo.com/video/bleak-friday-looms-stocks-market-083128408.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 08:31:28 +0000"
+    },
+    {
+      "title": "BP net profit quadruples on higher",
+      "summary": "British energy giant BP said Friday that its net profit quadrupled in the third quarter as the Middle East war disrupted oil and gas supplies and sent prices surging. Production an",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-higher-075213750.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 07:52:13 +0000"
+    },
+    {
+      "title": "As the Nasdaq wobbles on capex, this",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wobbles-capex-buffett-strategy-070916451.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 07:09:16 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "102.68",
+          "value": "103.66",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "Brent",
+          "value": "112.78",
           "change": "+0.03%",
           "direction": "up"
         },
         {
-          "name": "Brent",
-          "value": "111.39",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
           "name": "Gold",
-          "value": "4023.50",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "4008.50",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.57",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.53",
+          "change": "+0.04%",
+          "direction": "up"
         }
       ],
       "trend": [
-        102.7300033569336,
-        102.7300033569336,
-        102.75,
-        102.7699966430664,
-        102.76000213623047,
-        102.76000213623047,
-        102.72000122070312,
-        102.68000030517578,
-        102.62999725341797,
-        102.6500015258789,
-        102.68000030517578
+        103.58000183105469,
+        103.52999877929688,
+        103.54000091552734,
+        103.55000305175781,
+        103.5999984741211,
+        103.55999755859375,
+        103.51000213623047,
+        103.5199966430664,
+        103.5999984741211,
+        103.68000030517578,
+        103.66000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-10-30 08:44 KST"
+      "status": "약세",
+      "freshness": "2026-10-30 17:58 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5943.27",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "5665.97",
+          "change": "+0.15%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6207.33",
-          "change": "-0.04%",
+          "value": "6172.86",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.85",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "101.69",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1338.56",
-          "change": "+0.00%",
+          "value": "1334.80",
+          "change": "+0.07%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "157.82",
-          "change": "+0.00%",
+          "value": "157.37",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6513",
-          "change": "-0.14%",
-          "direction": "down"
+          "value": "6.6531",
+          "change": "+0.16%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1338.8800048828125,
-        1338.6199951171875,
-        1338.9599609375,
-        1337.780029296875,
-        1338.760009765625,
-        1338.7900390625,
-        1338.5,
-        1338.489990234375,
-        1338.56005859375,
-        1338.5400390625,
-        1338.56005859375
+        1336.199951171875,
+        1337.0,
+        1336.800048828125,
+        1335.5999755859375,
+        1335.0,
+        1334.199951171875,
+        1333.9000244140625,
+        1332.9000244140625,
+        1333.9000244140625,
+        1333.800048828125,
+        1334.800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-10-30 08:54 KST"
+      "status": "완화",
+      "freshness": "2026-10-30 18:03 KST"
     }
   ],
   "currentAction": {
