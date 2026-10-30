@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "collectedAt": "2026-10-30T09:08:13Z",
+  "collectedAt": "2026-10-30T13:27:49Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -40,91 +40,91 @@
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.08%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "-0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "+0.06%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Energy rally lifts FTSE 100 to lone",
+      "title": "Dune Oil Announces $8 Million",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com - London’s FTSE 100 stood as an outlier among European peers on Friday, emerging as the sole major benchmark in positive territory as surging crude oil prices propell",
-      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss"
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 30, 2026) - Dune Oil Corp. (CSE: DUNE) (FSE: Z621) (\"Dune\" or the \"Company\") is pleased to announce that it has entered into ",
+      "link": "https://finance.yahoo.com/energy/articles/dune-oil-announces-8-million-131000381.html?.tsrc=rss"
     },
     {
-      "title": "Bleak Friday Looms for Stocks",
+      "title": "Nasdaq Futures Dive As Amazon, Intel",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
-      "link": "https://finance.yahoo.com/video/bleak-friday-looms-stocks-market-083128408.html?.tsrc=rss"
+      "summary": "Tech futures dive Friday as Amazon stock and Intel both plunge on disappointing earnings reports.",
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss"
     },
     {
-      "title": "BP net profit quadruples on higher",
+      "title": "The S&P 500 Rose 30-Fold Since 1988.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Why did most of the gap show up only after 2018?",
+      "link": "https://www.fool.com/investing/2026/10/30/the-s-and-p-500-rose-30-fold-since-1988-reinvested-dividends-made-it-67-fold/?.tsrc=rss"
+    },
+    {
+      "title": "Iran Claimed Four Vessels Were Hit",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "British energy giant BP said Friday that its net profit quadrupled in the third quarter as the Middle East war disrupted oil and gas supplies and sent prices surging. Production an",
-      "link": "https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-higher-075213750.html?.tsrc=rss"
-    },
-    {
-      "title": "As the Nasdaq wobbles on capex, this",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wobbles-capex-buffett-strategy-070916451.html?.tsrc=rss"
+      "summary": "Oil prices climbed after Iran said four vessels were hit in the Strait of Hormuz. Traders are assessing uneven export recovery, shipping risks and the potential of renewed hostilit",
+      "link": "https://www.ibtimes.com/oil-prices-rise-iran-strait-hormuz-vessel-strikes-3809180?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Energy rally lifts FTSE 100 to lone",
-      "summary": "Investing.com - London’s FTSE 100 stood as an outlier among European peers on Friday, emerging as the sole major benchmark in positive territory as surging crude oil prices propell",
+      "title": "Dune Oil Announces $8 Million",
+      "summary": "Vancouver, British Columbia--(Newsfile Corp. - October 30, 2026) - Dune Oil Corp. (CSE: DUNE) (FSE: Z621) (\"Dune\" or the \"Company\") is pleased to announce that it has entered into ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/energy-rally-lifts-ftse-100-090347154.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 09:03:47 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/dune-oil-announces-8-million-131000381.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 13:10:00 +0000"
     },
     {
-      "title": "Bleak Friday Looms for Stocks",
-      "summary": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
+      "title": "Nasdaq Futures Dive As Amazon, Intel",
+      "summary": "Tech futures dive Friday as Amazon stock and Intel both plunge on disappointing earnings reports.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/video/bleak-friday-looms-stocks-market-083128408.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 08:31:28 +0000"
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 12:50:45 +0000"
     },
     {
-      "title": "BP net profit quadruples on higher",
-      "summary": "British energy giant BP said Friday that its net profit quadrupled in the third quarter as the Middle East war disrupted oil and gas supplies and sent prices surging. Production an",
+      "title": "The S&P 500 Rose 30-Fold Since 1988.",
+      "summary": "Why did most of the gap show up only after 2018?",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/10/30/the-s-and-p-500-rose-30-fold-since-1988-reinvested-dividends-made-it-67-fold/?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 12:48:01 +0000"
+    },
+    {
+      "title": "Iran Claimed Four Vessels Were Hit",
+      "summary": "Oil prices climbed after Iran said four vessels were hit in the Strait of Hormuz. Traders are assessing uneven export recovery, shipping risks and the potential of renewed hostilit",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/bp-net-profit-quadruples-higher-075213750.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 07:52:13 +0000"
-    },
-    {
-      "title": "As the Nasdaq wobbles on capex, this",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-wobbles-capex-buffett-strategy-070916451.html?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 07:09:16 +0000"
+      "link": "https://www.ibtimes.com/oil-prices-rise-iran-strait-hormuz-vessel-strikes-3809180?.tsrc=rss",
+      "published": "Fri, 30 Oct 2026 12:20:52 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "103.66",
-          "change": "-0.02%",
+          "value": "103.76",
+          "change": "-0.05%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "112.78",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "112.87",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4008.50",
+          "value": "3952.30",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.53",
-          "change": "+0.04%",
+          "value": "6.51",
+          "change": "+0.06%",
           "direction": "up"
         }
       ],
       "trend": [
-        103.58000183105469,
-        103.52999877929688,
-        103.54000091552734,
-        103.55000305175781,
-        103.5999984741211,
-        103.55999755859375,
-        103.51000213623047,
-        103.5199966430664,
-        103.5999984741211,
-        103.68000030517578,
-        103.66000366210938
+        103.75,
+        103.79000091552734,
+        103.91999816894531,
+        103.94000244140625,
+        103.91000366210938,
+        103.7699966430664,
+        103.76000213623047,
+        103.75,
+        103.80999755859375,
+        103.80999755859375,
+        103.76000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-10-30 17:58 KST"
+      "freshness": "2026-10-30 22:17 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.998%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "3.982%",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "UST 5Y",
-          "value": "4.801%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.729%",
+          "change": "-0.06%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.989%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.925%",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.329%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "5.290%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.991000175476074,
-        4.991000175476074,
-        4.993000030517578,
-        4.993000030517578,
-        4.991000175476074,
-        4.991000175476074,
-        4.988999843597412,
-        4.988999843597412,
-        4.991000175476074,
-        4.988999843597412,
-        4.988999843597412
+        4.934999942779541,
+        4.931000232696533,
+        4.933000087738037,
+        4.936999797821045,
+        4.936999797821045,
+        4.934999942779541,
+        4.931000232696533,
+        4.931000232696533,
+        4.931000232696533,
+        4.928999900817871,
+        4.925000190734863
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-10-30 03:59 KST"
+      "status": "완화",
+      "freshness": "2026-10-30 22:12 KST"
     },
     {
       "id": "indices",
@@ -268,9 +268,9 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6172.86",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6149.72",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.69",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "101.89",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1334.80",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "1334.69",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "157.37",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "157.30",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6531",
-          "change": "+0.16%",
-          "direction": "up"
+          "value": "6.6422",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1336.199951171875,
-        1337.0,
-        1336.800048828125,
-        1335.5999755859375,
+        1334.6800537109375,
+        1334.97998046875,
+        1335.0400390625,
+        1335.0999755859375,
         1335.0,
-        1334.199951171875,
-        1333.9000244140625,
-        1332.9000244140625,
-        1333.9000244140625,
-        1333.800048828125,
-        1334.800048828125
+        1334.97998046875,
+        1334.989990234375,
+        1334.9200439453125,
+        1334.9200439453125,
+        1334.780029296875,
+        1334.68994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-10-30 18:03 KST"
+      "status": "강세",
+      "freshness": "2026-10-30 22:27 KST"
     }
   ],
   "currentAction": {
