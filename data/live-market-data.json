@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T10:11:19Z",
+  "collectedAt": "2026-11-03T14:36:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.08%",
+      "value": "+0.19%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures waver",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Will the AI-fueled tech sell-off continue?",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html?.tsrc=rss"
+      "title": "Rollins (ROL) Misses Quarterly",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russe",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rollins-rol-misses-quarterly-estimates-141928105.html?.tsrc=rss"
     },
     {
-      "title": "3 S&P 500 stocks we find risky",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-risky-085336392.html?.tsrc=rss"
+      "title": "Fair Isaac Corporation (FICO) Faces",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russe",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-corporation-fico-faces-141339377.html?.tsrc=rss"
     },
     {
-      "title": "Stocks mostly down on AI concerns as",
+      "title": "3 Founder Led Growth Stocks With Up",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Asian stock markets struggled Tuesday following another AI-fuelled tech selloff on Wall Street that overshadowed a possible breakthrough in talks to end the Middle East war.After a",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss"
+      "summary": "Oil prices have jumped after reports of a US strike on Iran’s Qeshm Island, reminding investors how quickly energy costs and inflation fears can flare up. In periods like this, gro",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-growth-stocks-141308810.html?.tsrc=rss"
     },
     {
-      "title": "Kavango completes commissioning of",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "The Ministry of Mines & Mining Development approved commissioning of the Hillside pilot processing plant and TSF.",
-      "link": "https://www.mining-technology.com/news/kavango-completes-commissioning-hillside-plant/?.tsrc=rss"
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-135435608.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures waver",
-      "summary": "Will the AI-fueled tech sell-off continue?",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 09:08:46 +0000"
+      "title": "Rollins (ROL) Misses Quarterly",
+      "summary": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russe",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rollins-rol-misses-quarterly-estimates-141928105.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 14:19:28 +0000"
     },
     {
-      "title": "3 S&P 500 stocks we find risky",
-      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-risky-085336392.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 08:53:36 +0000"
+      "title": "Fair Isaac Corporation (FICO) Faces",
+      "summary": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russe",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-corporation-fico-faces-141339377.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 14:13:39 +0000"
     },
     {
-      "title": "Stocks mostly down on AI concerns as",
-      "summary": "Asian stock markets struggled Tuesday following another AI-fuelled tech selloff on Wall Street that overshadowed a possible breakthrough in talks to end the Middle East war.After a",
+      "title": "3 Founder Led Growth Stocks With Up",
+      "summary": "Oil prices have jumped after reports of a US strike on Iran’s Qeshm Island, reminding investors how quickly energy costs and inflation fears can flare up. In periods like this, gro",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 08:22:26 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-growth-stocks-141308810.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 14:13:08 +0000"
     },
     {
-      "title": "Kavango completes commissioning of",
-      "summary": "The Ministry of Mines & Mining Development approved commissioning of the Hillside pilot processing plant and TSF.",
-      "impact": "원자재, 인플레 기대",
+      "title": "Update",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://www.mining-technology.com/news/kavango-completes-commissioning-hillside-plant/?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 08:17:16 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-135435608.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 13:54:35 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.23",
-          "change": "+0.08%",
+          "value": "96.90",
+          "change": "+0.19%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "105.47",
-          "change": "+0.16%",
+          "value": "104.32",
+          "change": "+0.14%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3917.40",
-          "change": "-0.03%",
+          "value": "3950.50",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.37",
-          "change": "-0.02%",
+          "value": "6.42",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        97.4000015258789,
-        97.4000015258789,
-        97.33999633789062,
-        97.41999816894531,
-        97.5199966430664,
-        97.5199966430664,
-        97.4800033569336,
-        97.41000366210938,
-        97.37000274658203,
-        97.1500015258789,
-        97.2300033569336
+        95.41000366210938,
+        95.4800033569336,
+        95.52999877929688,
+        95.5199966430664,
+        95.58999633789062,
+        95.4800033569336,
+        95.56999969482422,
+        95.41000366210938,
+        96.18000030517578,
+        96.72000122070312,
+        96.9000015258789
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-03 19:01 KST"
+      "freshness": "2026-11-03 23:26 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.982%",
+          "value": "4.025%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.693%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.713%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.894%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.919%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.269%",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "5.292%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.895999908447266,
-        4.895999908447266,
-        4.895999908447266,
-        4.895999908447266,
-        4.895999908447266,
-        4.895999908447266,
-        4.894000053405762,
-        4.8919997215271,
-        4.894000053405762,
-        4.894000053405762,
-        4.894000053405762
+        4.918999671936035,
+        4.921000003814697,
+        4.921000003814697,
+        4.918999671936035,
+        4.921000003814697,
+        4.921000003814697,
+        4.921000003814697,
+        4.916999816894531,
+        4.918999671936035,
+        4.916999816894531,
+        4.918999671936035
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-11-03 04:59 KST"
+      "status": "압박",
+      "freshness": "2026-11-03 23:21 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7542.33",
-          "change": "+0.02%",
+          "value": "7559.23",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25170.95",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "25299.11",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6142.15",
-          "change": "-0.00%",
+          "value": "6173.52",
+          "change": "-0.03%",
           "direction": "down"
         }
       ],
       "trend": [
-        7558.7001953125,
-        7546.93994140625,
-        7547.08984375,
-        7550.31005859375,
-        7552.14013671875,
-        7553.02001953125,
-        7545.330078125,
         7544.14013671875,
         7539.990234375,
         7540.990234375,
-        7542.330078125
+        7542.330078125,
+        7552.35009765625,
+        7555.06005859375,
+        7555.91015625,
+        7554.0,
+        7558.52001953125,
+        7558.759765625,
+        7559.22998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-03 05:59 KST"
+      "freshness": "2026-11-03 23:36 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.79",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1343.87",
-          "change": "-0.02%",
+          "value": "101.83",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1343.20",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "158.18",
+          "value": "158.26",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6717",
-          "change": "-0.00%",
+          "value": "6.6590",
+          "change": "-0.16%",
           "direction": "down"
         }
       ],
       "trend": [
-        1343.8599853515625,
-        1344.0999755859375,
-        1343.97998046875,
-        1343.8800048828125,
-        1343.8900146484375,
-        1343.8800048828125,
-        1343.949951171875,
-        1343.7900390625,
-        1343.8399658203125,
-        1344.0799560546875,
-        1343.8699951171875
+        1342.5799560546875,
+        1342.780029296875,
+        1342.47998046875,
+        1342.6800537109375,
+        1343.030029296875,
+        1343.0899658203125,
+        1342.8800048828125,
+        1343.1800537109375,
+        1343.25,
+        1343.0799560546875,
+        1343.199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-11-03 19:11 KST"
+      "status": "완화",
+      "freshness": "2026-11-03 23:36 KST"
     }
   ],
   "currentAction": {
