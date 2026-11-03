@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "collectedAt": "2026-11-02T16:29:18Z",
+  "collectedAt": "2026-11-03T02:52:57Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.13%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Monteoro Minerals Ltd. (MTAU) Opens",
+      "title": "Goldman Sachs resets oil price",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The latest oil market shift has Wall Street watching a familiar pressure point.",
+      "link": "https://www.thestreet.com/investing/goldman-sachs-raises-oil-price-target-for-2027?.tsrc=rss"
+    },
+    {
+      "title": "3 Oil And Gas Stocks For Investors",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Toronto, Ontario--(Newsfile Corp. - November 2, 2026) - Robert Neill, Chief Executive Officer and Director, and Robert Shaw, Director and Technical Advisor, of Monteoro Minerals Lt",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/monteoro-minerals-ltd-mtau-opens-161300715.html?.tsrc=rss"
+      "summary": "Geopolitics just crashed the party again. Reported US strikes on Iran and fresh worries around the Strait of Hormuz have stirred oil prices, inflation fears, and broader market ner",
+      "link": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-investors-021147959.html?.tsrc=rss"
     },
     {
-      "title": "3 Energy Stocks To Watch As Oil",
+      "title": "Gold holds near $3,950 as Iran peace",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil has just swung lower, with crude prices down over 4%, even as Wall Street banks like Goldman Sachs keep talking about high disruption risk and S&P Global’s Dan Yergin frames Ir",
-      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-watch-oil-161050147.html?.tsrc=rss"
+      "summary": "Investing.com -- Gold held above $3,950 an ounce on Tuesday after posting their biggest daily gain in two months, as hopes of progress in U.S.-Iran peace negotiations eased energy-",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-950-013615439.html?.tsrc=rss"
     },
     {
-      "title": "Kenvue Is Leaving the S&P 500",
-      "impact": "지수, 위험선호",
+      "title": "Review & Preview",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Kimberly-Clark is absorbing one of the most recognizable brand portfolios in consumer health, and the deal reshapes what investors own across three different indexes at once. What ",
-      "link": "https://247wallst.com/investing/2026/11/02/kenvue-is-leaving-the-sp-500-heres-what-it-means-for-investors/?.tsrc=rss"
-    },
-    {
-      "title": "Dow Rallies As Amazon Pops; Oil",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Stock Market Today: The Dow Jones index rallies Monday as oil prices dive. Apple stock falls ahead of earnings but Amazon jumps.",
-      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss"
+      "summary": "High hopes of an AI rally were dashed on Monday.",
+      "link": "https://finance.yahoo.com/m/e381f6ca-67d7-350c-915c-c9e1b1779ca6/review-%26-preview%3A-whiplash.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Monteoro Minerals Ltd. (MTAU) Opens",
-      "summary": "Toronto, Ontario--(Newsfile Corp. - November 2, 2026) - Robert Neill, Chief Executive Officer and Director, and Robert Shaw, Director and Technical Advisor, of Monteoro Minerals Lt",
+      "title": "Goldman Sachs resets oil price",
+      "summary": "The latest oil market shift has Wall Street watching a familiar pressure point.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.thestreet.com/investing/goldman-sachs-raises-oil-price-target-for-2027?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:17:00 +0000"
+    },
+    {
+      "title": "3 Oil And Gas Stocks For Investors",
+      "summary": "Geopolitics just crashed the party again. Reported US strikes on Iran and fresh worries around the Strait of Hormuz have stirred oil prices, inflation fears, and broader market ner",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/monteoro-minerals-ltd-mtau-opens-161300715.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 16:13:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-investors-021147959.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 02:11:47 +0000"
     },
     {
-      "title": "3 Energy Stocks To Watch As Oil",
-      "summary": "Oil has just swung lower, with crude prices down over 4%, even as Wall Street banks like Goldman Sachs keep talking about high disruption risk and S&P Global’s Dan Yergin frames Ir",
+      "title": "Gold holds near $3,950 as Iran peace",
+      "summary": "Investing.com -- Gold held above $3,950 an ounce on Tuesday after posting their biggest daily gain in two months, as hopes of progress in U.S.-Iran peace negotiations eased energy-",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/3-energy-stocks-watch-oil-161050147.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 16:10:50 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-950-013615439.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 01:36:15 +0000"
     },
     {
-      "title": "Kenvue Is Leaving the S&P 500",
-      "summary": "Kimberly-Clark is absorbing one of the most recognizable brand portfolios in consumer health, and the deal reshapes what investors own across three different indexes at once. What ",
-      "impact": "지수, 위험선호",
+      "title": "Review & Preview",
+      "summary": "High hopes of an AI rally were dashed on Monday.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/11/02/kenvue-is-leaving-the-sp-500-heres-what-it-means-for-investors/?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 15:47:19 +0000"
-    },
-    {
-      "title": "Dow Rallies As Amazon Pops; Oil",
-      "summary": "Stock Market Today: The Dow Jones index rallies Monday as oil prices dive. Apple stock falls ahead of earnings but Amazon jumps.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 15:25:34 +0000"
+      "link": "https://finance.yahoo.com/m/e381f6ca-67d7-350c-915c-c9e1b1779ca6/review-%26-preview%3A-whiplash.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 00:55:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "97.21",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "96.82",
+          "change": "+0.13%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "105.49",
+          "value": "104.99",
+          "change": "+0.12%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "3955.20",
           "change": "-0.02%",
           "direction": "down"
         },
         {
-          "name": "Gold",
-          "value": "3972.80",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
           "name": "Copper",
-          "value": "6.57",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "6.48",
+          "change": "-0.01%",
+          "direction": "down"
         }
       ],
       "trend": [
-        97.16999816894531,
-        97.16999816894531,
-        97.0999984741211,
-        97.08999633789062,
-        97.18000030517578,
-        97.2300033569336,
-        97.12999725341797,
-        97.1500015258789,
-        97.01000213623047,
-        97.20999908447266,
-        97.20999908447266
+        96.66000366210938,
+        96.6500015258789,
+        96.75,
+        96.69000244140625,
+        96.75,
+        96.7699966430664,
+        96.77999877929688,
+        96.79000091552734,
+        96.72000122070312,
+        96.69000244140625,
+        96.81999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-11-03 01:19 KST"
+      "status": "강세",
+      "freshness": "2026-11-03 11:42 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.998%",
+          "value": "3.982%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.705%",
+          "value": "4.693%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.896%",
+          "value": "4.894%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.264%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.269%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.904000282287598,
-        4.9019999504089355,
-        4.900000095367432,
-        4.900000095367432,
-        4.8979997634887695,
         4.895999908447266,
-        4.895999908447266
+        4.895999908447266,
+        4.895999908447266,
+        4.895999908447266,
+        4.895999908447266,
+        4.895999908447266,
+        4.894000053405762,
+        4.8919997215271,
+        4.894000053405762,
+        4.894000053405762,
+        4.894000053405762
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-11-03 01:14 KST"
+      "freshness": "2026-11-03 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7624.34",
-          "change": "+0.01%",
+          "value": "7542.33",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "25613.27",
-          "change": "+0.01%",
+          "value": "25170.95",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "KOSPI",
-          "value": "5891.54",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "5701.36",
+          "change": "+0.12%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6182.64",
-          "change": "-0.00%",
+          "value": "6177.14",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        7629.259765625,
-        7628.14013671875,
-        7625.72021484375,
-        7626.56982421875,
-        7623.4599609375,
-        7623.22998046875,
-        7625.6298828125,
-        7622.56982421875,
-        7622.02001953125,
-        7623.2900390625,
-        7624.33984375
+        7558.7001953125,
+        7546.93994140625,
+        7547.08984375,
+        7550.31005859375,
+        7552.14013671875,
+        7553.02001953125,
+        7545.330078125,
+        7544.14013671875,
+        7539.990234375,
+        7540.990234375,
+        7542.330078125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-03 01:29 KST"
+      "freshness": "2026-11-03 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.72",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1344.77",
+          "value": "101.86",
           "change": "-0.00%",
           "direction": "down"
         },
         {
-          "name": "USDJPY",
-          "value": "157.81",
-          "change": "+0.00%",
+          "name": "USDKRW",
+          "value": "1339.36",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "157.90",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6367",
+          "value": "6.6692",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1344.22998046875,
-        1344.280029296875,
-        1344.18994140625,
-        1343.97998046875,
-        1343.97998046875,
-        1344.0,
-        1344.0799560546875,
-        1343.8800048828125,
-        1343.6800537109375,
-        1344.800048828125,
-        1344.77001953125
+        1340.9000244140625,
+        1340.780029296875,
+        1340.739990234375,
+        1340.47998046875,
+        1340.31005859375,
+        1340.3800048828125,
+        1339.780029296875,
+        1339.489990234375,
+        1339.280029296875,
+        1339.280029296875,
+        1339.3599853515625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-11-03 01:29 KST"
+      "status": "완화",
+      "freshness": "2026-11-03 11:52 KST"
     }
   ],
   "currentAction": {
