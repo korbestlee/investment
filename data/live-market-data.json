@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "collectedAt": "2026-11-03T02:52:57Z",
+  "collectedAt": "2026-11-03T10:11:19Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.13%",
+      "value": "+0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Goldman Sachs resets oil price",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The latest oil market shift has Wall Street watching a familiar pressure point.",
-      "link": "https://www.thestreet.com/investing/goldman-sachs-raises-oil-price-target-for-2027?.tsrc=rss"
-    },
-    {
-      "title": "3 Oil And Gas Stocks For Investors",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Geopolitics just crashed the party again. Reported US strikes on Iran and fresh worries around the Strait of Hormuz have stirred oil prices, inflation fears, and broader market ner",
-      "link": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-investors-021147959.html?.tsrc=rss"
-    },
-    {
-      "title": "Gold holds near $3,950 as Iran peace",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com -- Gold held above $3,950 an ounce on Tuesday after posting their biggest daily gain in two months, as hopes of progress in U.S.-Iran peace negotiations eased energy-",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-950-013615439.html?.tsrc=rss"
-    },
-    {
-      "title": "Review & Preview",
-      "impact": "시장 전반",
+      "title": "Dow, S&P 500, Nasdaq futures waver",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "High hopes of an AI rally were dashed on Monday.",
-      "link": "https://finance.yahoo.com/m/e381f6ca-67d7-350c-915c-c9e1b1779ca6/review-%26-preview%3A-whiplash.html?.tsrc=rss"
+      "summary": "Will the AI-fueled tech sell-off continue?",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html?.tsrc=rss"
+    },
+    {
+      "title": "3 S&P 500 stocks we find risky",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-risky-085336392.html?.tsrc=rss"
+    },
+    {
+      "title": "Stocks mostly down on AI concerns as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Asian stock markets struggled Tuesday following another AI-fuelled tech selloff on Wall Street that overshadowed a possible breakthrough in talks to end the Middle East war.After a",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss"
+    },
+    {
+      "title": "Kavango completes commissioning of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "The Ministry of Mines & Mining Development approved commissioning of the Hillside pilot processing plant and TSF.",
+      "link": "https://www.mining-technology.com/news/kavango-completes-commissioning-hillside-plant/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Goldman Sachs resets oil price",
-      "summary": "The latest oil market shift has Wall Street watching a familiar pressure point.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.thestreet.com/investing/goldman-sachs-raises-oil-price-target-for-2027?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 02:17:00 +0000"
-    },
-    {
-      "title": "3 Oil And Gas Stocks For Investors",
-      "summary": "Geopolitics just crashed the party again. Reported US strikes on Iran and fresh worries around the Strait of Hormuz have stirred oil prices, inflation fears, and broader market ner",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-investors-021147959.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 02:11:47 +0000"
-    },
-    {
-      "title": "Gold holds near $3,950 as Iran peace",
-      "summary": "Investing.com -- Gold held above $3,950 an ounce on Tuesday after posting their biggest daily gain in two months, as hopes of progress in U.S.-Iran peace negotiations eased energy-",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-3-950-013615439.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 01:36:15 +0000"
-    },
-    {
-      "title": "Review & Preview",
-      "summary": "High hopes of an AI rally were dashed on Monday.",
-      "impact": "시장 전반",
+      "title": "Dow, S&P 500, Nasdaq futures waver",
+      "summary": "Will the AI-fueled tech sell-off continue?",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/e381f6ca-67d7-350c-915c-c9e1b1779ca6/review-%26-preview%3A-whiplash.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 00:55:00 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 09:08:46 +0000"
+    },
+    {
+      "title": "3 S&P 500 stocks we find risky",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-risky-085336392.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 08:53:36 +0000"
+    },
+    {
+      "title": "Stocks mostly down on AI concerns as",
+      "summary": "Asian stock markets struggled Tuesday following another AI-fuelled tech selloff on Wall Street that overshadowed a possible breakthrough in talks to end the Middle East war.After a",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 08:22:26 +0000"
+    },
+    {
+      "title": "Kavango completes commissioning of",
+      "summary": "The Ministry of Mines & Mining Development approved commissioning of the Hillside pilot processing plant and TSF.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.mining-technology.com/news/kavango-completes-commissioning-hillside-plant/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 08:17:16 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "96.82",
-          "change": "+0.13%",
+          "value": "97.23",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "104.99",
-          "change": "+0.12%",
+          "value": "105.47",
+          "change": "+0.16%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3955.20",
-          "change": "-0.02%",
+          "value": "3917.40",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.48",
-          "change": "-0.01%",
+          "value": "6.37",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        96.66000366210938,
-        96.6500015258789,
-        96.75,
-        96.69000244140625,
-        96.75,
-        96.7699966430664,
-        96.77999877929688,
-        96.79000091552734,
-        96.72000122070312,
-        96.69000244140625,
-        96.81999969482422
+        97.4000015258789,
+        97.4000015258789,
+        97.33999633789062,
+        97.41999816894531,
+        97.5199966430664,
+        97.5199966430664,
+        97.4800033569336,
+        97.41000366210938,
+        97.37000274658203,
+        97.1500015258789,
+        97.2300033569336
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-03 11:42 KST"
+      "freshness": "2026-11-03 19:01 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5701.36",
-          "change": "+0.12%",
+          "value": "5649.43",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6177.14",
-          "change": "-0.01%",
+          "value": "6142.15",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.86",
-          "change": "-0.00%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1339.36",
-          "change": "+0.01%",
+          "value": "101.79",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1343.87",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
           "name": "USDJPY",
-          "value": "157.90",
+          "value": "158.18",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6692",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6717",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1340.9000244140625,
-        1340.780029296875,
-        1340.739990234375,
-        1340.47998046875,
-        1340.31005859375,
-        1340.3800048828125,
-        1339.780029296875,
-        1339.489990234375,
-        1339.280029296875,
-        1339.280029296875,
-        1339.3599853515625
+        1343.8599853515625,
+        1344.0999755859375,
+        1343.97998046875,
+        1343.8800048828125,
+        1343.8900146484375,
+        1343.8800048828125,
+        1343.949951171875,
+        1343.7900390625,
+        1343.8399658203125,
+        1344.0799560546875,
+        1343.8699951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-03 11:52 KST"
+      "status": "강세",
+      "freshness": "2026-11-03 19:11 KST"
     }
   ],
   "currentAction": {
