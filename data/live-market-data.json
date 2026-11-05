@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T01:26:26Z",
+  "collectedAt": "2026-11-05T09:57:45Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.02%",
+      "value": "-0.08%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "At 68, He Will Sell the S&P 500 Fund",
+      "title": "Dow, S&P 500, Nasdaq trade mixed as",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "US stock futures split as the crosscurrents of a power shift in Washington, the war in Iran, earnings, and labor market data overlapped.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html?.tsrc=rss"
+    },
+    {
+      "title": "Democrats, Often Cautious About AI,",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "AI stocks have led S&P 500 gains in recent years.",
+      "link": "https://www.fool.com/investing/2026/11/05/democrats-often-cautious-about-ai-won-the-midterms-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss"
+    },
+    {
+      "title": "German yields slide to Aug lows as",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Selling a decades-old index fund to shift into bonds sounds like a straightforward retirement move, but a capital gains windfall can quietly trigger a Medicare surcharge that arriv",
-      "link": "https://247wallst.com/personal-finance/2026/11/04/at-68-he-will-sell-the-sp-500-fund-he-bought-in-1996-to-move-into-bonds-the-310000-gain-will-push-him-into-a-higher-medicare-premium-bracket-in-2028/?.tsrc=rss"
+      "summary": "Investing.com - Eurozone government bond yields tumbled across the curve on Thursday, with Germany’s benchmark 10-year yield sinking to its lowest level since August, as a staggeri",
+      "link": "https://finance.yahoo.com/economy/policy/articles/german-yields-slide-aug-lows-093809881.html?.tsrc=rss"
     },
     {
-      "title": "Dow Jones Futures Rise After Apple,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-after.html?.tsrc=rss"
-    },
-    {
-      "title": "Horizon Gold",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF, FRA:HO0) is approaching development of its Gum Creek Gold Project with an advantage many emerging gold producers do not have: much of the phys",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101258/horizon-gold-gum-creek-infrastructure-gives-2-3moz-redevelopment-a-head-start-1101258.html?.tsrc=rss"
-    },
-    {
-      "title": "Lundin Gold Reports Third Quarter",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") today announced its financial and operational results for the third quarter ende",
-      "link": "https://finance.yahoo.com/news/lundin-gold-reports-third-quarter-000000632.html?.tsrc=rss"
+      "title": "Prediction",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "A growing chorus of risks could send the S&P 500 stock market index tumbling.",
+      "link": "https://www.fool.com/investing/2026/11/05/prediction-stock-market-crash-investors-70-years/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "At 68, He Will Sell the S&P 500 Fund",
-      "summary": "Selling a decades-old index fund to shift into bonds sounds like a straightforward retirement move, but a capital gains windfall can quietly trigger a Medicare surcharge that arriv",
+      "title": "Dow, S&P 500, Nasdaq trade mixed as",
+      "summary": "US stock futures split as the crosscurrents of a power shift in Washington, the war in Iran, earnings, and labor market data overlapped.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:05:19 +0000"
+    },
+    {
+      "title": "Democrats, Often Cautious About AI,",
+      "summary": "AI stocks have led S&P 500 gains in recent years.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/11/05/democrats-often-cautious-about-ai-won-the-midterms-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:40:02 +0000"
+    },
+    {
+      "title": "German yields slide to Aug lows as",
+      "summary": "Investing.com - Eurozone government bond yields tumbled across the curve on Thursday, with Germany’s benchmark 10-year yield sinking to its lowest level since August, as a staggeri",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://247wallst.com/personal-finance/2026/11/04/at-68-he-will-sell-the-sp-500-fund-he-bought-in-1996-to-move-into-bonds-the-310000-gain-will-push-him-into-a-higher-medicare-premium-bracket-in-2028/?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 01:05:04 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/german-yields-slide-aug-lows-093809881.html?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:38:09 +0000"
     },
     {
-      "title": "Dow Jones Futures Rise After Apple,",
-      "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 01:04:33 +0000"
-    },
-    {
-      "title": "Horizon Gold",
-      "summary": "Horizon Gold Ltd (ASX:HRN, OTC:HZGLF, FRA:HO0) is approaching development of its Gum Creek Gold Project with an advantage many emerging gold producers do not have: much of the phys",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.proactiveinvestors.com/companies/news/1101258/horizon-gold-gum-creek-infrastructure-gives-2-3moz-redevelopment-a-head-start-1101258.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 00:09:00 +0000"
-    },
-    {
-      "title": "Lundin Gold Reports Third Quarter",
-      "summary": "Lundin Gold Inc. (TSX: LUG) (Nasdaq Stockholm: LUG) (OTCQX: LUGDF) (\"Lundin Gold\" or the \"Company\") today announced its financial and operational results for the third quarter ende",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/news/lundin-gold-reports-third-quarter-000000632.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 00:00:00 +0000"
+      "title": "Prediction",
+      "summary": "A growing chorus of risks could send the S&P 500 stock market index tumbling.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/11/05/prediction-stock-market-crash-investors-70-years/?.tsrc=rss",
+      "published": "Thu, 05 Nov 2026 09:29:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "87.79",
-          "change": "-0.02%",
+          "value": "88.44",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "94.59",
+          "value": "95.90",
+          "change": "-0.05%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "4134.70",
           "change": "+0.02%",
           "direction": "up"
         },
         {
-          "name": "Gold",
-          "value": "4116.70",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
           "name": "Copper",
-          "value": "6.40",
-          "change": "+0.02%",
+          "value": "6.39",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        87.97000122070312,
-        87.91000366210938,
-        87.76000213623047,
-        87.66000366210938,
-        87.72000122070312,
-        87.69999694824219,
-        87.68000030517578,
-        87.77999877929688,
-        87.8499984741211,
-        87.80999755859375,
-        87.79000091552734
+        88.33999633789062,
+        88.41999816894531,
+        88.36000061035156,
+        88.27999877929688,
+        88.33000183105469,
+        88.4000015258789,
+        88.47000122070312,
+        88.44999694824219,
+        88.44000244140625,
+        88.51000213623047,
+        88.44000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-11-05 10:16 KST"
+      "freshness": "2026-11-05 18:47 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5486.65",
-          "change": "+0.10%",
+          "value": "5341.09",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6272.85",
-          "change": "+0.06%",
+          "value": "6301.54",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.32",
+          "value": "101.50",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1339.79",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "157.99",
+          "value": "1340.88",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "USDCNY",
-          "value": "6.6726",
+          "name": "USDJPY",
+          "value": "158.33",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
+        },
+        {
+          "name": "USDCNY",
+          "value": "6.6685",
+          "change": "+0.15%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1338.8499755859375,
-        1338.780029296875,
-        1338.5899658203125,
-        1339.3800048828125,
-        1339.47998046875,
-        1339.4300537109375,
-        1339.5799560546875,
-        1340.1500244140625,
-        1340.1800537109375,
-        1339.780029296875,
-        1339.7900390625
+        1340.47998046875,
+        1340.780029296875,
+        1340.780029296875,
+        1341.030029296875,
+        1340.52001953125,
+        1340.52001953125,
+        1340.6600341796875,
+        1340.77001953125,
+        1340.6700439453125,
+        1340.780029296875,
+        1340.8800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-11-05 10:26 KST"
+      "freshness": "2026-11-05 18:57 KST"
     }
   ],
   "currentAction": {
