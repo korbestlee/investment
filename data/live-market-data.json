@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "collectedAt": "2026-11-06T14:33:08Z",
+  "date": "2026-11-07",
+  "collectedAt": "2026-11-07T00:51:57Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.09%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.10%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "-0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.02%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Election Results Continue to Ease",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Tech stocks are bouncing ahead of the opening bell while blue chips lag. Before the bell, the fund that tracks the Nasdaq-100 was up 1.4%, the S&P 500 tracker was up 0.1%, and the ",
-      "link": "https://247wallst.com/investing/2026/11/06/stock-market-today-election-results-continue-to-ease-market-fears/?.tsrc=rss"
-    },
-    {
-      "title": "Big Jobs Report Keeps Fed Rate-Hike",
-      "impact": "채권, 금리",
+      "title": "Kumocast.io Launches Free Live",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "U.S. added 165,000 jobs last month, more than double expectations. The unemployment rate unexpectedly fell.",
-      "link": "https://finance.yahoo.com/m/8ddf7d69-e608-3186-9af9-a97a8e5946b1/big-jobs-report-keeps-fed.html?.tsrc=rss"
+      "summary": "The new market analysis site turns technical analysis into a clear \"market weather\" view, with a pivot, two targets and an alternative scenario for every market, plus interactive c",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/kumocast-io-launches-free-live-234945016.html?.tsrc=rss"
     },
     {
-      "title": "Dow Slides 500 Points Amid Surprise",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Dow Jones index sells off 500 points after a strong October jobs report. Nvidia stock leads the tech rebound.",
-      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss"
+      "title": "Gold allocation shifts as you age.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold can play different roles in your portfolio depending on your age and goals. Here's how allocations shift from your 30s to your 60s and beyond.",
+      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/11/06/how-much-gold-should-you-own-by-age/92631778007/?.tsrc=rss"
     },
     {
-      "title": "Wedbush Revises Best Ideas List",
+      "title": "RLX Technology (RLX)",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html?.tsrc=rss"
+      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and RLX Technology Inc. (NYSE:RLX) ranked 6th on the list. The slide in AI stocks is prompting in",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-overseas-expansion-234031510.html?.tsrc=rss"
+    },
+    {
+      "title": "Coursera (COUR)",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and Coursera, Inc. (NYSE:COUR) ranked 6th on the list. The slide in AI stocks is prompting invest",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coursera-cour-low-earnings-multiple-234009652.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Election Results Continue to Ease",
-      "summary": "Tech stocks are bouncing ahead of the opening bell while blue chips lag. Before the bell, the fund that tracks the Nasdaq-100 was up 1.4%, the S&P 500 tracker was up 0.1%, and the ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://247wallst.com/investing/2026/11/06/stock-market-today-election-results-continue-to-ease-market-fears/?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 14:28:16 +0000"
-    },
-    {
-      "title": "Big Jobs Report Keeps Fed Rate-Hike",
-      "summary": "U.S. added 165,000 jobs last month, more than double expectations. The unemployment rate unexpectedly fell.",
-      "impact": "채권, 금리",
+      "title": "Kumocast.io Launches Free Live",
+      "summary": "The new market analysis site turns technical analysis into a clear \"market weather\" view, with a pivot, two targets and an alternative scenario for every market, plus interactive c",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/8ddf7d69-e608-3186-9af9-a97a8e5946b1/big-jobs-report-keeps-fed.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 14:17:57 +0000"
+      "link": "https://finance.yahoo.com/markets/currencies/articles/kumocast-io-launches-free-live-234945016.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:49:45 +0000"
     },
     {
-      "title": "Dow Slides 500 Points Amid Surprise",
-      "summary": "The Dow Jones index sells off 500 points after a strong October jobs report. Nvidia stock leads the tech rebound.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 14:15:58 +0000"
+      "title": "Gold allocation shifts as you age.",
+      "summary": "Gold can play different roles in your portfolio depending on your age and goals. Here's how allocations shift from your 30s to your 60s and beyond.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/11/06/how-much-gold-should-you-own-by-age/92631778007/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:46:56 +0000"
     },
     {
-      "title": "Wedbush Revises Best Ideas List",
-      "summary": "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.",
+      "title": "RLX Technology (RLX)",
+      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and RLX Technology Inc. (NYSE:RLX) ranked 6th on the list. The slide in AI stocks is prompting in",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 14:13:58 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-overseas-expansion-234031510.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:40:31 +0000"
+    },
+    {
+      "title": "Coursera (COUR)",
+      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and Coursera, Inc. (NYSE:COUR) ranked 6th on the list. The slide in AI stocks is prompting invest",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coursera-cour-low-earnings-multiple-234009652.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 23:40:09 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.54",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "90.34",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "98.08",
-          "change": "-0.02%",
+          "value": "97.76",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4045.90",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4079.50",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Copper",
-          "value": "6.25",
-          "change": "-0.02%",
+          "value": "6.26",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.7300033569336,
-        90.75,
-        90.7699966430664,
-        90.81999969482422,
-        90.7300033569336,
-        90.68000030517578,
-        90.66000366210938,
-        90.62000274658203,
-        90.56999969482422,
-        90.54000091552734,
-        90.54000091552734
+        90.44999694824219,
+        90.4000015258789,
+        90.44000244140625,
+        90.41999816894531,
+        90.41999816894531,
+        90.37000274658203,
+        90.33000183105469,
+        90.36000061035156,
+        90.36000061035156,
+        90.3499984741211,
+        90.33999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-11-06 23:23 KST"
+      "status": "약세",
+      "freshness": "2026-11-07 06:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "3.998%",
-          "change": "-0.05%",
+          "value": "4.000%",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "UST 5Y",
-          "value": "4.643%",
-          "change": "-0.15%",
+          "value": "4.648%",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
           "value": "4.859%",
-          "change": "-0.10%",
-          "direction": "down"
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.263%",
-          "change": "-0.09%",
+          "value": "5.260%",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.863999843597412,
-        4.866000175476074,
-        4.866000175476074,
-        4.868000030517578,
-        4.863999843597412,
-        4.863999843597412,
+        4.855000019073486,
         4.859000205993652,
-        4.861999988555908,
-        4.863999843597412,
-        4.863999843597412,
+        4.85699987411499,
+        4.859000205993652,
+        4.859000205993652,
+        4.859000205993652,
+        4.859000205993652,
+        4.859000205993652,
+        4.859000205993652,
+        4.859000205993652,
         4.859000205993652
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-11-06 23:17 KST"
+      "status": "중립",
+      "freshness": "2026-11-07 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7378.54",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "7374.85",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "24616.94",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "24573.21",
+          "change": "-0.07%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6129.81",
-          "change": "+0.01%",
+          "value": "6167.12",
+          "change": "+0.07%",
           "direction": "up"
         }
       ],
       "trend": [
-        7384.77001953125,
-        7381.830078125,
-        7369.91015625,
-        7363.60009765625,
-        7356.35009765625,
-        7357.5,
-        7356.72998046875,
-        7378.56005859375,
-        7376.89990234375,
-        7376.85009765625,
-        7378.5400390625
+        7391.740234375,
+        7385.2099609375,
+        7384.0400390625,
+        7381.1201171875,
+        7377.5400390625,
+        7375.3701171875,
+        7374.259765625,
+        7375.89990234375,
+        7379.4599609375,
+        7381.2099609375,
+        7374.85009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-11-06 23:33 KST"
+      "status": "약세",
+      "freshness": "2026-11-07 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.33",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "102.28",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1363.68",
+          "value": "1363.65",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDJPY",
           "value": "158.43",
-          "change": "+0.01%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDCNY",
-          "value": "6.6633",
-          "change": "-0.13%",
+          "value": "6.6648",
+          "change": "-0.16%",
           "direction": "down"
         }
       ],
       "trend": [
+        1363.719970703125,
+        1364.0799560546875,
+        1363.68994140625,
+        1363.6700439453125,
         1363.8399658203125,
-        1363.8800048828125,
-        1363.8800048828125,
-        1363.8800048828125,
-        1363.2900390625,
-        1363.47998046875,
-        1363.8800048828125,
-        1364.2900390625,
-        1364.1800537109375,
-        1363.6800537109375,
-        1363.6800537109375
+        1364.3599853515625,
+        1364.1099853515625,
+        1364.2099609375,
+        1363.8199462890625,
+        1363.6400146484375,
+        1363.6500244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-11-06 23:33 KST"
+      "status": "완화",
+      "freshness": "2026-11-07 06:59 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
