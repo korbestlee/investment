@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "collectedAt": "2026-11-07T00:51:57Z",
+  "date": "2026-11-09",
+  "collectedAt": "2026-11-09T10:29:07Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.02%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Kumocast.io Launches Free Live",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "The new market analysis site turns technical analysis into a clear \"market weather\" view, with a pivot, two targets and an alternative scenario for every market, plus interactive c",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/kumocast-io-launches-free-live-234945016.html?.tsrc=rss"
-    },
-    {
-      "title": "Gold allocation shifts as you age.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Gold can play different roles in your portfolio depending on your age and goals. Here's how allocations shift from your 30s to your 60s and beyond.",
-      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/11/06/how-much-gold-should-you-own-by-age/92631778007/?.tsrc=rss"
-    },
-    {
-      "title": "RLX Technology (RLX)",
+      "title": "Dow, S&P 500, Nasdaq futures rise",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and RLX Technology Inc. (NYSE:RLX) ranked 6th on the list. The slide in AI stocks is prompting in",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-overseas-expansion-234031510.html?.tsrc=rss"
+      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an i",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss"
     },
     {
-      "title": "Coursera (COUR)",
+      "title": "3 REIT Stocks Offering Steadier",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Politics, bond markets and oil prices have all shifted at once, and that cocktail is reshaping where income investors may find steadier ground. With a Democratic sweep cooling expe",
+      "link": "https://finance.yahoo.com/real-estate/articles/3-reit-stocks-offering-steadier-091512245.html?.tsrc=rss"
+    },
+    {
+      "title": "Zacks Investment Ideas feature",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and Coursera, Inc. (NYSE:COUR) ranked 6th on the list. The slide in AI stocks is prompting invest",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coursera-cour-low-earnings-multiple-234009652.html?.tsrc=rss"
+      "summary": "AI stocks face a major selloff, but Bloom Energy, Skyworks Solutions and Quanta Services offer compelling opportunities as earnings estimates rise and infrastructure demand grows.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss"
+    },
+    {
+      "title": "Iraq Strikes U.S. Deal to Boost Oil",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Iraq has reached an understanding with the United States to facilitate crude oil exports through the Strait of Hormuz after months of war-related disruptions.",
+      "link": "https://finance.yahoo.com/energy/articles/iraq-strikes-u-deal-boost-091000561.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Kumocast.io Launches Free Live",
-      "summary": "The new market analysis site turns technical analysis into a clear \"market weather\" view, with a pivot, two targets and an alternative scenario for every market, plus interactive c",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/kumocast-io-launches-free-live-234945016.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 23:49:45 +0000"
-    },
-    {
-      "title": "Gold allocation shifts as you age.",
-      "summary": "Gold can play different roles in your portfolio depending on your age and goals. Here's how allocations shift from your 30s to your 60s and beyond.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.usatoday.com/story/money/money-management/investing/2026/11/06/how-much-gold-should-you-own-by-age/92631778007/?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 23:46:56 +0000"
-    },
-    {
-      "title": "RLX Technology (RLX)",
-      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and RLX Technology Inc. (NYSE:RLX) ranked 6th on the list. The slide in AI stocks is prompting in",
+      "title": "Dow, S&P 500, Nasdaq futures rise",
+      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an i",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rlx-technology-rlx-overseas-expansion-234031510.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 23:40:31 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 09:05:35 +0000"
     },
     {
-      "title": "Coursera (COUR)",
-      "summary": "We just published our list of the 10 Best Small-Cap Value Stocks to Invest In Now, and Coursera, Inc. (NYSE:COUR) ranked 6th on the list. The slide in AI stocks is prompting invest",
+      "title": "3 REIT Stocks Offering Steadier",
+      "summary": "Politics, bond markets and oil prices have all shifted at once, and that cocktail is reshaping where income investors may find steadier ground. With a Democratic sweep cooling expe",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/real-estate/articles/3-reit-stocks-offering-steadier-091512245.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 09:15:12 +0000"
+    },
+    {
+      "title": "Zacks Investment Ideas feature",
+      "summary": "AI stocks face a major selloff, but Bloom Energy, Skyworks Solutions and Quanta Services offer compelling opportunities as earnings estimates rise and infrastructure demand grows.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coursera-cour-low-earnings-multiple-234009652.html?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 23:40:09 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 09:14:00 +0000"
+    },
+    {
+      "title": "Iraq Strikes U.S. Deal to Boost Oil",
+      "summary": "Iraq has reached an understanding with the United States to facilitate crude oil exports through the Strait of Hormuz after months of war-related disruptions.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/iraq-strikes-u-deal-boost-091000561.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 09:10:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.34",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "90.24",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "97.76",
+          "value": "97.32",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4079.50",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4106.50",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.26",
-          "change": "-0.01%",
+          "value": "6.32",
+          "change": "-0.05%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.44999694824219,
+        90.29000091552734,
+        90.45999908447266,
         90.4000015258789,
+        90.37999725341797,
         90.44000244140625,
-        90.41999816894531,
-        90.41999816894531,
-        90.37000274658203,
-        90.33000183105469,
-        90.36000061035156,
-        90.36000061035156,
-        90.3499984741211,
-        90.33999633789062
+        90.52999877929688,
+        90.37999725341797,
+        90.29000091552734,
+        90.26000213623047,
+        90.23999786376953,
+        90.23999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-07 06:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-09 19:19 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5101.44",
+          "value": "5028.48",
           "change": "+0.06%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6167.12",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "6217.18",
+          "change": "-0.05%",
+          "direction": "down"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.28",
-          "change": "-0.02%",
+          "value": "101.83",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1363.65",
+          "value": "1347.98",
+          "change": "-0.02%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.01",
           "change": "+0.00%",
           "direction": "up"
         },
         {
-          "name": "USDJPY",
-          "value": "158.43",
+          "name": "USDCNY",
+          "value": "6.6616",
           "change": "+0.00%",
           "direction": "neutral"
-        },
-        {
-          "name": "USDCNY",
-          "value": "6.6648",
-          "change": "-0.16%",
-          "direction": "down"
         }
       ],
       "trend": [
-        1363.719970703125,
-        1364.0799560546875,
-        1363.68994140625,
-        1363.6700439453125,
-        1363.8399658203125,
-        1364.3599853515625,
-        1364.1099853515625,
-        1364.2099609375,
-        1363.8199462890625,
-        1363.6400146484375,
-        1363.6500244140625
+        1347.5999755859375,
+        1347.6400146484375,
+        1347.75,
+        1347.550048828125,
+        1348.06005859375,
+        1347.8199462890625,
+        1348.0,
+        1348.030029296875,
+        1348.300048828125,
+        1348.239990234375,
+        1347.97998046875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-11-07 06:59 KST"
+      "freshness": "2026-11-09 19:28 KST"
     }
   ],
   "currentAction": {
