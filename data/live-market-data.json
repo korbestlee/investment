@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "collectedAt": "2026-11-09T10:29:07Z",
+  "date": "2026-11-10",
+  "collectedAt": "2026-11-09T16:47:58Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.09%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.00%",
+      "value": "+0.10%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures rise",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an i",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss"
-    },
-    {
-      "title": "3 REIT Stocks Offering Steadier",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Politics, bond markets and oil prices have all shifted at once, and that cocktail is reshaping where income investors may find steadier ground. With a Democratic sweep cooling expe",
-      "link": "https://finance.yahoo.com/real-estate/articles/3-reit-stocks-offering-steadier-091512245.html?.tsrc=rss"
-    },
-    {
-      "title": "Zacks Investment Ideas feature",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "AI stocks face a major selloff, but Bloom Energy, Skyworks Solutions and Quanta Services offer compelling opportunities as earnings estimates rise and infrastructure demand grows.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss"
-    },
-    {
-      "title": "Iraq Strikes U.S. Deal to Boost Oil",
+      "title": "Fitch affirms Iraq at ’B-’ with",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Iraq has reached an understanding with the United States to facilitate crude oil exports through the Strait of Hormuz after months of war-related disruptions.",
-      "link": "https://finance.yahoo.com/energy/articles/iraq-strikes-u-deal-boost-091000561.html?.tsrc=rss"
+      "summary": "Investing.com -- Fitch Ratings affirmed Iraq’s Long-Term Foreign-Currency Issuer Default Rating at 'B-' with a stable outlook on Monday, balancing severe regional security headwind",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fitch-affirms-iraq-b-stable-163800921.html?.tsrc=rss"
+    },
+    {
+      "title": "Raised Outlooks and a Cancer",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Market Updates News Commentary - Health care stocks moved higher with the broader market on Monday morning. As of 9:58 a.m. ET, the State Street Health Care Select Sector SPDR ETF ",
+      "link": "https://finance.yahoo.com/news/raised-outlooks-cancer-approval-arrive-163600358.html?.tsrc=rss"
+    },
+    {
+      "title": "Seven OPEC+ Producers Keep December",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Crude oil futures were lower on Monday morning. As of 9:47 a.m. ET, the December NYMEX West Texas Intermediate contract was at $87.43 a barrel, down $3.40 or 3.74% from Friday's se",
+      "link": "https://finance.yahoo.com/energy/articles/seven-opec-producers-keep-december-161500934.html?.tsrc=rss"
+    },
+    {
+      "title": "Indices Hunt for Support After Steep",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Stock Preachers News Commentary - Wall Street opens a new week nursing bruises from a rough stretch that sent every major index lower, with the Nasdaq Composite off 3.37% and the S",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indices-hunt-support-steep-weekly-160800955.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq futures rise",
-      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an i",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 09:05:35 +0000"
-    },
-    {
-      "title": "3 REIT Stocks Offering Steadier",
-      "summary": "Politics, bond markets and oil prices have all shifted at once, and that cocktail is reshaping where income investors may find steadier ground. With a Democratic sweep cooling expe",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/real-estate/articles/3-reit-stocks-offering-steadier-091512245.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 09:15:12 +0000"
-    },
-    {
-      "title": "Zacks Investment Ideas feature",
-      "summary": "AI stocks face a major selloff, but Bloom Energy, Skyworks Solutions and Quanta Services offer compelling opportunities as earnings estimates rise and infrastructure demand grows.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 09:14:00 +0000"
-    },
-    {
-      "title": "Iraq Strikes U.S. Deal to Boost Oil",
-      "summary": "Iraq has reached an understanding with the United States to facilitate crude oil exports through the Strait of Hormuz after months of war-related disruptions.",
+      "title": "Fitch affirms Iraq at ’B-’ with",
+      "summary": "Investing.com -- Fitch Ratings affirmed Iraq’s Long-Term Foreign-Currency Issuer Default Rating at 'B-' with a stable outlook on Monday, balancing severe regional security headwind",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/iraq-strikes-u-deal-boost-091000561.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 09:10:00 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/fitch-affirms-iraq-b-stable-163800921.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 16:38:00 +0000"
+    },
+    {
+      "title": "Raised Outlooks and a Cancer",
+      "summary": "Market Updates News Commentary - Health care stocks moved higher with the broader market on Monday morning. As of 9:58 a.m. ET, the State Street Health Care Select Sector SPDR ETF ",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/news/raised-outlooks-cancer-approval-arrive-163600358.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 16:36:00 +0000"
+    },
+    {
+      "title": "Seven OPEC+ Producers Keep December",
+      "summary": "Crude oil futures were lower on Monday morning. As of 9:47 a.m. ET, the December NYMEX West Texas Intermediate contract was at $87.43 a barrel, down $3.40 or 3.74% from Friday's se",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/seven-opec-producers-keep-december-161500934.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 16:15:00 +0000"
+    },
+    {
+      "title": "Indices Hunt for Support After Steep",
+      "summary": "Stock Preachers News Commentary - Wall Street opens a new week nursing bruises from a rough stretch that sent every major index lower, with the Nasdaq Composite off 3.37% and the S",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indices-hunt-support-steep-weekly-160800955.html?.tsrc=rss",
+      "published": "Mon, 09 Nov 2026 16:08:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "90.24",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "87.62",
+          "change": "+0.10%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "97.32",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "93.70",
+          "change": "+0.10%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4106.50",
+          "value": "4126.10",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "6.32",
-          "change": "-0.05%",
+          "value": "6.35",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        90.29000091552734,
-        90.45999908447266,
-        90.4000015258789,
-        90.37999725341797,
-        90.44000244140625,
-        90.52999877929688,
-        90.37999725341797,
-        90.29000091552734,
-        90.26000213623047,
-        90.23999786376953,
-        90.23999786376953
+        87.81999969482422,
+        87.79000091552734,
+        87.79000091552734,
+        87.81999969482422,
+        87.58999633789062,
+        87.41000366210938,
+        87.30000305175781,
+        87.37999725341797,
+        87.43000030517578,
+        87.52999877929688,
+        87.62000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "중립",
-      "freshness": "2026-11-09 19:19 KST"
+      "status": "강세",
+      "freshness": "2026-11-10 01:35 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.000%",
-          "change": "-0.07%",
-          "direction": "down"
+          "value": "4.032%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.648%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "4.671%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.859%",
+          "value": "4.872%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.260%",
-          "change": "-0.02%",
+          "value": "5.264%",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.855000019073486,
-        4.859000205993652,
-        4.85699987411499,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652,
-        4.859000205993652
+        4.872000217437744,
+        4.872000217437744,
+        4.872000217437744,
+        4.872000217437744,
+        4.872000217437744,
+        4.872000217437744,
+        4.875999927520752,
+        4.875999927520752,
+        4.874000072479248,
+        4.872000217437744,
+        4.872000217437744
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-11-07 04:59 KST"
+      "freshness": "2026-11-10 01:30 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7374.85",
-          "change": "-0.09%",
+          "value": "7528.30",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "24573.21",
-          "change": "-0.07%",
+          "value": "25154.92",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6217.18",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "6290.69",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7391.740234375,
-        7385.2099609375,
-        7384.0400390625,
-        7381.1201171875,
-        7377.5400390625,
-        7375.3701171875,
-        7374.259765625,
-        7375.89990234375,
-        7379.4599609375,
-        7381.2099609375,
-        7374.85009765625
+        7517.669921875,
+        7516.33984375,
+        7520.85009765625,
+        7522.6201171875,
+        7521.06005859375,
+        7523.14990234375,
+        7523.39990234375,
+        7525.740234375,
+        7526.27978515625,
+        7528.85009765625,
+        7528.2998046875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-11-07 05:59 KST"
+      "freshness": "2026-11-10 01:45 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.83",
+          "value": "101.84",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1347.98",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "158.01",
+          "value": "1344.65",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDJPY",
+          "value": "158.01",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6616",
+          "value": "6.6612",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1347.5999755859375,
-        1347.6400146484375,
-        1347.75,
-        1347.550048828125,
-        1348.06005859375,
-        1347.8199462890625,
-        1348.0,
-        1348.030029296875,
-        1348.300048828125,
-        1348.239990234375,
-        1347.97998046875
+        1344.8499755859375,
+        1344.9300537109375,
+        1344.8900146484375,
+        1344.969970703125,
+        1345.02001953125,
+        1344.8399658203125,
+        1344.81005859375,
+        1344.780029296875,
+        1345.0899658203125,
+        1344.6099853515625,
+        1344.6500244140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-11-09 19:28 KST"
+      "freshness": "2026-11-10 01:45 KST"
     }
   ],
   "currentAction": {
