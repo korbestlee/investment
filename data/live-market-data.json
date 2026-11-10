@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "collectedAt": "2026-11-10T10:32:10Z",
+  "date": "2026-11-11",
+  "collectedAt": "2026-11-10T15:10:58Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.04%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.09%",
+      "value": "-0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Finlay Drill Hole Ends in Higher",
+      "title": "Gas prices fall below $4 for the",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Finlay Minerals Ltd. (TSXV: FYL) (OTCQB: FYMNF) (\"Finlay\" or the \"Company\") is pleased to announce that PIL26-002 intersected 13.3 grams/tonne (\"g/t\") gold (\"Au\") and 0.33 percent ",
-      "link": "https://finance.yahoo.com/news/finlay-drill-hole-ends-higher-100000406.html?.tsrc=rss"
+      "summary": "U.S. retail gasoline prices have fallen back below $4 per gallon and Brent crude has dipped under $90 as easing Middle East tensions reduce energy's war premium, though structural ",
+      "link": "https://finance.yahoo.com/video/gas-prices-fall-below-4-for-the-first-time-since-july-145333135.html?.tsrc=rss"
     },
     {
-      "title": "Scorpio Gold Drills 9.4 g/t Gold",
+      "title": "Aris Mining Increases Segovia Gold",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "HighlightsDrill Hole 26MN-133 returned:9.4 g/t gold over 13.05 metres (\"m\") from 78.63 mIncluding 16.03 g/t gold over 2.44 m from 80.01 mAnd 19.83 g/t gold over 4.11 m from 84.34 m",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/scorpio-gold-drills-9-4-100000664.html?.tsrc=rss"
+      "summary": "Aris Mining Corporation (NYSE:ARIS) reported a 28% increase in proven and probable gold reserves at its Segovia operation, bringing the total to 1. 9 million ounces as of November ",
+      "link": "https://investorshub.advfn.com/market-news/article/39671/aris-mining-increases-segovia-gold-reserves-by-28-to-1-9-million-ounces?.tsrc=rss"
     },
     {
-      "title": "Euro yields linger at 1-month lows",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com - Eurozone government bond yields traded flat on Tuesday, with benchmark German borrowing costs hovering near their lowest levels in over a month and a half, as a sus",
-      "link": "https://finance.yahoo.com/economy/policy/articles/euro-yields-linger-1-month-094913347.html?.tsrc=rss"
-    },
-    {
-      "title": "U.S. inflation data ahead; Huang",
+      "title": "BC-Gold Futures",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com - Futures linked to the main U.S. stock indices hover around both sides of the flatline, as investors await key inflation figures and assess fragile sentiment around ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-inflation-data-ahead-huang-093822541.html?.tsrc=rss"
+      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 10.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 4122.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-150032168.html?.tsrc=rss"
+    },
+    {
+      "title": "BC-Crude Oil Futures",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 10.Light Sweet Crude (NYMX)1,000 bbl.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-crude-oil-futures-150026468.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Finlay Drill Hole Ends in Higher",
-      "summary": "Finlay Minerals Ltd. (TSXV: FYL) (OTCQB: FYMNF) (\"Finlay\" or the \"Company\") is pleased to announce that PIL26-002 intersected 13.3 grams/tonne (\"g/t\") gold (\"Au\") and 0.33 percent ",
+      "title": "Gas prices fall below $4 for the",
+      "summary": "U.S. retail gasoline prices have fallen back below $4 per gallon and Brent crude has dipped under $90 as easing Middle East tensions reduce energy's war premium, though structural ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/news/finlay-drill-hole-ends-higher-100000406.html?.tsrc=rss",
-      "published": "Tue, 10 Nov 2026 10:00:00 +0000"
+      "link": "https://finance.yahoo.com/video/gas-prices-fall-below-4-for-the-first-time-since-july-145333135.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 14:53:25 +0000"
     },
     {
-      "title": "Scorpio Gold Drills 9.4 g/t Gold",
-      "summary": "HighlightsDrill Hole 26MN-133 returned:9.4 g/t gold over 13.05 metres (\"m\") from 78.63 mIncluding 16.03 g/t gold over 2.44 m from 80.01 mAnd 19.83 g/t gold over 4.11 m from 84.34 m",
+      "title": "Aris Mining Increases Segovia Gold",
+      "summary": "Aris Mining Corporation (NYSE:ARIS) reported a 28% increase in proven and probable gold reserves at its Segovia operation, bringing the total to 1. 9 million ounces as of November ",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/scorpio-gold-drills-9-4-100000664.html?.tsrc=rss",
-      "published": "Tue, 10 Nov 2026 10:00:00 +0000"
+      "link": "https://investorshub.advfn.com/market-news/article/39671/aris-mining-increases-segovia-gold-reserves-by-28-to-1-9-million-ounces?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 15:00:38 +0000"
     },
     {
-      "title": "Euro yields linger at 1-month lows",
-      "summary": "Investing.com - Eurozone government bond yields traded flat on Tuesday, with benchmark German borrowing costs hovering near their lowest levels in over a month and a half, as a sus",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/economy/policy/articles/euro-yields-linger-1-month-094913347.html?.tsrc=rss",
-      "published": "Tue, 10 Nov 2026 09:49:13 +0000"
-    },
-    {
-      "title": "U.S. inflation data ahead; Huang",
-      "summary": "Investing.com - Futures linked to the main U.S. stock indices hover around both sides of the flatline, as investors await key inflation figures and assess fragile sentiment around ",
+      "title": "BC-Gold Futures",
+      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 10.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 4122.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-inflation-data-ahead-huang-093822541.html?.tsrc=rss",
-      "published": "Tue, 10 Nov 2026 09:38:22 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-150032168.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 15:00:32 +0000"
+    },
+    {
+      "title": "BC-Crude Oil Futures",
+      "summary": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 10.Light Sweet Crude (NYMX)1,000 bbl.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bc-crude-oil-futures-150026468.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 15:00:26 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.94",
-          "change": "-0.09%",
+          "value": "85.43",
+          "change": "-0.07%",
           "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "90.29",
-          "change": "-0.04%",
+          "value": "90.52",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "4086.80",
-          "change": "+0.00%",
+          "value": "4054.60",
+          "change": "+0.18%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.31",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6.27",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        84.52999877929688,
-        84.55999755859375,
-        84.5199966430664,
-        84.6500015258789,
-        84.58000183105469,
-        84.58999633789062,
-        84.44000244140625,
-        84.62999725341797,
-        84.93000030517578,
-        85.0199966430664,
-        84.94000244140625
+        85.33000183105469,
+        85.37000274658203,
+        85.51000213623047,
+        85.62000274658203,
+        85.52999877929688,
+        85.69000244140625,
+        85.70999908447266,
+        85.63999938964844,
+        85.5999984741211,
+        85.48999786376953,
+        85.43000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "약세",
-      "freshness": "2026-11-10 19:22 KST"
+      "freshness": "2026-11-11 00:00 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.035%",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "4.118%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.659%",
-          "change": "-0.15%",
-          "direction": "down"
+          "value": "4.816%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.864%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "4.987%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.256%",
-          "change": "-0.08%",
+          "value": "5.346%",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        4.866000175476074,
-        4.863999843597412,
-        4.861999988555908,
-        4.863999843597412,
-        4.861999988555908,
-        4.866000175476074,
-        4.863999843597412,
-        4.866000175476074,
-        4.866000175476074,
-        4.868000030517578,
-        4.863999843597412
+        4.990000247955322,
+        4.986999988555908,
+        4.986999988555908,
+        4.984999656677246,
+        4.986999988555908,
+        4.990000247955322,
+        4.991999626159668,
+        4.991999626159668,
+        4.986999988555908,
+        4.986999988555908,
+        4.986999988555908
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-11-10 04:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-10 23:55 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7549.01",
-          "change": "-0.04%",
+          "value": "7537.40",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "25251.39",
-          "change": "-0.08%",
+          "value": "25249.40",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6361.69",
-          "change": "+0.00%",
+          "value": "6349.84",
+          "change": "+0.08%",
           "direction": "up"
         }
       ],
       "trend": [
-        7566.14990234375,
-        7562.419921875,
-        7560.93994140625,
-        7560.43017578125,
-        7557.31982421875,
-        7555.27978515625,
-        7555.830078125,
-        7554.89013671875,
-        7554.58984375,
-        7552.08984375,
-        7549.009765625
+        7539.72998046875,
+        7543.330078125,
+        7536.5498046875,
+        7534.580078125,
+        7539.22998046875,
+        7539.9501953125,
+        7536.35986328125,
+        7542.9599609375,
+        7541.02001953125,
+        7539.22021484375,
+        7537.39990234375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-11-10 05:59 KST"
+      "freshness": "2026-11-11 00:10 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "101.73",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "102.09",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1339.14",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "1342.10",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "158.13",
+          "value": "158.63",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6585",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6645",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1338.4599609375,
-        1338.47998046875,
-        1339.3299560546875,
-        1338.8299560546875,
-        1338.81005859375,
-        1339.25,
-        1338.4300537109375,
-        1338.8399658203125,
-        1338.97998046875,
-        1338.97998046875,
-        1339.1400146484375
+        1342.6800537109375,
+        1343.47998046875,
+        1343.0799560546875,
+        1342.2900390625,
+        1342.3299560546875,
+        1342.780029296875,
+        1342.3299560546875,
+        1342.239990234375,
+        1342.2900390625,
+        1342.280029296875,
+        1342.0999755859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-10 19:32 KST"
+      "status": "완화",
+      "freshness": "2026-11-11 00:10 KST"
     }
   ],
   "currentAction": {
