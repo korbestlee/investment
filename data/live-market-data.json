@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "collectedAt": "2026-11-11T14:40:35Z",
+  "date": "2026-11-12",
+  "collectedAt": "2026-11-12T02:14:00Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "-0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.19%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.03%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Sector Update",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Energy stocks were edging higher pre-bell Wednesday, with the State Street Energy Select Sector SPDR",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-142600570.html?.tsrc=rss"
+      "title": "Gold clings below $4,000 as",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Investing.com -- Gold prices remained below $4,000 an ounce on Thursday as persistent inflation pressures and increasingly hawkish Federal Reserve commentary strengthened expectati",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-clings-below-4-000-014114232.html?.tsrc=rss"
     },
     {
-      "title": "Value per Security",
+      "title": "Meren Energy Inc (MRNFF) Q3 2026",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "LONDON, November 11, 2026-- DB ETC PLC",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-142600302.html?.tsrc=rss"
+      "summary": "Meren Energy Inc (MRNFF) narrowed production guidance, lifted full-year EBITDAX and cash flow outlook, cut net debt to 0.5x EBITDAX and declared its fourth $25 million dividend of ",
+      "link": "https://finance.yahoo.com/energy/articles/meren-energy-inc-mrnff-q3-010541483.html?.tsrc=rss"
     },
     {
-      "title": "Buy-Back of Securities",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "LONDON, November 11, 2026-- DB ETC plc",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-142000755.html?.tsrc=rss"
+      "title": "Who Will Buy Sable’s Oil if",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Sable Offshore’s Trump-backed Santa Ynez restart now faces a going-concern warning, a crowded refinery market and a Democratic Congress.",
+      "link": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html?.tsrc=rss"
     },
     {
-      "title": "Hedge Funds Shift Positioning in",
+      "title": "Nasdaq 100 Futures Drop As Reports",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "NEW YORK & LONDON, November 11, 2026--Markets saw a sharp rotation, particularly in the largest technology stocks, with the Nasdaq Composite down about 5% and the S&P 500 down abou",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-shift-positioning-october-140000517.html?.tsrc=rss"
+      "summary": "Nvidia’s board is preparing to meet as soon as today to determine Jensen Huang’s future as the chipmaker’s chief executive, WSJ reported.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Sector Update",
-      "summary": "Energy stocks were edging higher pre-bell Wednesday, with the State Street Energy Select Sector SPDR",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-142600570.html?.tsrc=rss",
-      "published": "Wed, 11 Nov 2026 14:26:00 +0000"
+      "title": "Gold clings below $4,000 as",
+      "summary": "Investing.com -- Gold prices remained below $4,000 an ounce on Thursday as persistent inflation pressures and increasingly hawkish Federal Reserve commentary strengthened expectati",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-clings-below-4-000-014114232.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 01:41:14 +0000"
     },
     {
-      "title": "Value per Security",
-      "summary": "LONDON, November 11, 2026-- DB ETC PLC",
+      "title": "Meren Energy Inc (MRNFF) Q3 2026",
+      "summary": "Meren Energy Inc (MRNFF) narrowed production guidance, lifted full-year EBITDAX and cash flow outlook, cut net debt to 0.5x EBITDAX and declared its fourth $25 million dividend of ",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-142600302.html?.tsrc=rss",
-      "published": "Wed, 11 Nov 2026 14:26:00 +0000"
+      "link": "https://finance.yahoo.com/energy/articles/meren-energy-inc-mrnff-q3-010541483.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 01:05:41 +0000"
     },
     {
-      "title": "Buy-Back of Securities",
-      "summary": "LONDON, November 11, 2026-- DB ETC plc",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-142000755.html?.tsrc=rss",
-      "published": "Wed, 11 Nov 2026 14:20:00 +0000"
+      "title": "Who Will Buy Sable’s Oil if",
+      "summary": "Sable Offshore’s Trump-backed Santa Ynez restart now faces a going-concern warning, a crowded refinery market and a Democratic Congress.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 01:00:00 +0000"
     },
     {
-      "title": "Hedge Funds Shift Positioning in",
-      "summary": "NEW YORK & LONDON, November 11, 2026--Markets saw a sharp rotation, particularly in the largest technology stocks, with the Nasdaq Composite down about 5% and the S&P 500 down abou",
+      "title": "Nasdaq 100 Futures Drop As Reports",
+      "summary": "Nvidia’s board is preparing to meet as soon as today to determine Jensen Huang’s future as the chipmaker’s chief executive, WSJ reported.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-shift-positioning-october-140000517.html?.tsrc=rss",
-      "published": "Wed, 11 Nov 2026 14:00:00 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-futures-drop-as-reports-relating-to-jensen-huang-s-ousting/cNGzQslR997?.tsrc=rss",
+      "published": "Thu, 12 Nov 2026 00:22:06 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "87.40",
-          "change": "+0.19%",
+          "value": "85.81",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "92.95",
-          "change": "+0.17%",
+          "value": "91.95",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "4036.40",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "3988.60",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.28",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6.27",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        87.08999633789062,
-        87.16999816894531,
-        87.05000305175781,
-        87.02999877929688,
-        87.05000305175781,
-        87.08999633789062,
-        87.02999877929688,
-        87.0999984741211,
-        87.12999725341797,
-        87.2300033569336,
-        87.4000015258789
+        85.63999938964844,
+        85.61000061035156,
+        85.56999969482422,
+        85.55999755859375,
+        85.5999984741211,
+        85.62000274658203,
+        85.69000244140625,
+        85.7699966430664,
+        85.7699966430664,
+        85.80000305175781,
+        85.80999755859375
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-11 23:30 KST"
+      "freshness": "2026-11-12 11:03 KST"
     },
     {
       "id": "bonds",
@@ -240,7 +240,7 @@
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-11-11 23:25 KST"
+      "freshness": "2026-11-12 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7589.68",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "Nasdaq",
-          "value": "25451.44",
+          "value": "7617.84",
           "change": "-0.02%",
           "direction": "down"
         },
         {
+          "name": "Nasdaq",
+          "value": "25464.57",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
           "name": "KOSPI",
-          "value": "5372.43",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "5407.33",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6367.14",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "6392.53",
+          "change": "+0.03%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7593.2998046875,
-        7599.330078125,
-        7601.81982421875,
-        7599.66015625,
-        7588.97021484375,
-        7584.64990234375,
-        7581.490234375,
-        7585.419921875,
-        7592.9599609375,
-        7590.3701171875,
-        7589.68017578125
+        7626.35009765625,
+        7622.52978515625,
+        7622.8798828125,
+        7621.0498046875,
+        7618.47021484375,
+        7616.77001953125,
+        7616.47998046875,
+        7618.509765625,
+        7619.6298828125,
+        7619.31005859375,
+        7617.83984375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "약세",
-      "freshness": "2026-11-11 23:40 KST"
+      "freshness": "2026-11-12 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "102.91",
-          "change": "+0.01%",
+          "value": "102.86",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1336.68",
-          "change": "-0.12%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.66",
+          "value": "1333.58",
           "change": "-0.01%",
           "direction": "down"
         },
         {
+          "name": "USDJPY",
+          "value": "159.78",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6603",
+          "value": "6.6667",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1336.47998046875,
-        1336.6800537109375,
-        1336.6800537109375,
-        1337.0699462890625,
-        1338.2099609375,
-        1336.780029296875,
-        1337.0799560546875,
-        1337.239990234375,
-        1336.9599609375,
-        1338.3299560546875,
-        1336.6800537109375
+        1334.030029296875,
+        1334.0899658203125,
+        1333.989990234375,
+        1333.97998046875,
+        1333.0899658203125,
+        1333.47998046875,
+        1333.6800537109375,
+        1333.5,
+        1333.3800048828125,
+        1333.6800537109375,
+        1333.5799560546875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-11-11 23:40 KST"
+      "freshness": "2026-11-12 11:13 KST"
     }
   ],
   "currentAction": {
