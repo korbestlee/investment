@@ -2,12 +2,12 @@
   "workflow": "refresh-live-snapshot",
   "status": "success",
   "message": "Snapshot refresh succeeded.",
-  "updatedAt": "2026-11-13T10:09:55Z",
-  "runId": "43406978158",
-  "runNumber": "336",
+  "updatedAt": "2026-11-13T14:51:58Z",
+  "runId": "43446755978",
+  "runNumber": "337",
   "runAttempt": "1",
   "branch": "main",
-  "commitSha": "64bc1ae25e55154eb5f204efe743f7b21bb5d004",
+  "commitSha": "6c62223a99b22dfde177ea31ce6edf9a743c8530",
   "snapshotCollectedAt": "2026-06-13T08:30:00+09:00",
   "schedule": [
     {
