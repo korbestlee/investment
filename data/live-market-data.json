@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "collectedAt": "2026-11-12T15:32:55Z",
+  "collectedAt": "2026-11-13T01:46:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.02%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.04%",
+      "value": "+0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Stock Market Crash",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "History indicates this is a great time to invest in stocks.",
-      "link": "https://www.fool.com/investing/2026/11/12/stock-market-crash-what-history-says-comes-next-after-market-s-big-single-day-dip/?.tsrc=rss"
-    },
-    {
-      "title": "Dow Slips As Nvidia's Huang Steps",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Dow wavers Thursday on Trump's Iran comments as Nvidia stock plunges 10% on the resignation of Jensen Huang.",
-      "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-dow-slips.html?.tsrc=rss"
-    },
-    {
-      "title": "Full-Year Revenue Guidance and",
+      "title": "Gold languishes near 13-month low as",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Artisan Partners, an investment management company, released its third-quarter 2026 investor letter for the “Artisan U.S. Small-Cap Growth Strategy”. The letter can be downloaded h",
-      "link": "https://finance.yahoo.com/healthcare/articles/full-revenue-guidance-strong-quarter-150737117.html?.tsrc=rss"
+      "summary": "Investing.com -- Gold prices remained below $3,900 an ounce on Thursday after a nearly 3% plunge in the previous session briefly sent bullion to a 13-month low, as rising oil price",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-languishes-near-13-month-013344008.html?.tsrc=rss"
     },
     {
-      "title": "Value per Security",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "LONDON, November 12, 2026-- DB ETC PLC",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-150600307.html?.tsrc=rss"
+      "title": "New Found Gold Corp (NFGC) (Q3 2026)",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "New Found Gold Corp (NFGC) swung to positive EBITDA of $13.1 million and posted a $1.73 billion after-tax NPV for Queensway, though elevated strip ratios pushed Q3 AISC to $3,279 p",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/found-gold-corp-nfgc-q3-010424911.html?.tsrc=rss"
+    },
+    {
+      "title": "Oil prices hold gains as Trump",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Investing.com -- Oil prices held onto gains on Friday after U.S. President Donald Trump said Washington no longer needed a deal with Iran, weakening hopes for a diplomatic breakthr",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-hold-gains-trump-004137464.html?.tsrc=rss"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Recover",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Nvidia’s CEO Jensen Huang ousted; CFO Colette Kress named interim chief executive officer.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Stock Market Crash",
-      "summary": "History indicates this is a great time to invest in stocks.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/12/stock-market-crash-what-history-says-comes-next-after-market-s-big-single-day-dip/?.tsrc=rss",
-      "published": "Thu, 12 Nov 2026 15:23:02 +0000"
-    },
-    {
-      "title": "Dow Slips As Nvidia's Huang Steps",
-      "summary": "The Dow wavers Thursday on Trump's Iran comments as Nvidia stock plunges 10% on the resignation of Jensen Huang.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-dow-slips.html?.tsrc=rss",
-      "published": "Thu, 12 Nov 2026 15:15:03 +0000"
-    },
-    {
-      "title": "Full-Year Revenue Guidance and",
-      "summary": "Artisan Partners, an investment management company, released its third-quarter 2026 investor letter for the “Artisan U.S. Small-Cap Growth Strategy”. The letter can be downloaded h",
+      "title": "Gold languishes near 13-month low as",
+      "summary": "Investing.com -- Gold prices remained below $3,900 an ounce on Thursday after a nearly 3% plunge in the previous session briefly sent bullion to a 13-month low, as rising oil price",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/healthcare/articles/full-revenue-guidance-strong-quarter-150737117.html?.tsrc=rss",
-      "published": "Thu, 12 Nov 2026 15:07:37 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-languishes-near-13-month-013344008.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 01:33:44 +0000"
     },
     {
-      "title": "Value per Security",
-      "summary": "LONDON, November 12, 2026-- DB ETC PLC",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/value-per-security-150600307.html?.tsrc=rss",
-      "published": "Thu, 12 Nov 2026 15:06:00 +0000"
+      "title": "New Found Gold Corp (NFGC) (Q3 2026)",
+      "summary": "New Found Gold Corp (NFGC) swung to positive EBITDA of $13.1 million and posted a $1.73 billion after-tax NPV for Queensway, though elevated strip ratios pushed Q3 AISC to $3,279 p",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/found-gold-corp-nfgc-q3-010424911.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 01:04:24 +0000"
+    },
+    {
+      "title": "Oil prices hold gains as Trump",
+      "summary": "Investing.com -- Oil prices held onto gains on Friday after U.S. President Donald Trump said Washington no longer needed a deal with Iran, weakening hopes for a diplomatic breakthr",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-hold-gains-trump-004137464.html?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 00:41:37 +0000"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Recover",
+      "summary": "Nvidia’s CEO Jensen Huang ousted; CFO Colette Kress named interim chief executive officer.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI?.tsrc=rss",
+      "published": "Fri, 13 Nov 2026 00:19:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "87.18",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "88.21",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "94.28",
-          "change": "+0.07%",
-          "direction": "up"
+          "value": "95.21",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3861.10",
-          "change": "+0.02%",
+          "value": "3917.00",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "6.15",
-          "change": "+0.04%",
+          "value": "6.23",
+          "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        87.0,
-        86.95999908447266,
-        86.9800033569336,
-        86.9800033569336,
-        87.0199966430664,
-        87.0199966430664,
-        87.18000030517578,
-        87.19000244140625,
-        87.27999877929688,
-        87.2300033569336,
-        87.18000030517578
+        88.31999969482422,
+        88.31999969482422,
+        88.41000366210938,
+        88.37999725341797,
+        88.33000183105469,
+        88.33000183105469,
+        88.30999755859375,
+        88.30999755859375,
+        88.27999877929688,
+        88.20999908447266,
+        88.20999908447266
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-13 00:22 KST"
+      "status": "중립",
+      "freshness": "2026-11-13 10:36 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.112%",
+          "value": "4.128%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.922%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.945%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.070%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.103%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.401%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.433%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.067999839782715,
-        5.067999839782715,
-        5.072000026702881,
-        5.070000171661377,
-        5.072000026702881,
-        5.067999839782715,
-        5.067999839782715,
-        5.070000171661377,
-        5.070000171661377,
-        5.070000171661377,
-        5.070000171661377
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.105000019073486,
+        5.102999687194824
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-11-13 00:17 KST"
+      "status": "완화",
+      "freshness": "2026-11-13 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7590.79",
+          "value": "7591.86",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "Nasdaq",
+          "value": "25363.75",
           "change": "+0.02%",
           "direction": "up"
         },
         {
-          "name": "Nasdaq",
-          "value": "25293.78",
-          "change": "-0.03%",
-          "direction": "down"
-        },
-        {
           "name": "KOSPI",
-          "value": "5321.25",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "5476.95",
+          "change": "-0.05%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6381.35",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "6409.74",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        7590.669921875,
-        7587.97998046875,
-        7588.89013671875,
-        7592.85009765625,
-        7590.6298828125,
-        7589.85009765625,
-        7593.06982421875,
-        7596.52978515625,
-        7595.06005859375,
-        7589.16015625,
-        7590.7900390625
+        7592.330078125,
+        7588.27001953125,
+        7589.77978515625,
+        7588.240234375,
+        7587.06982421875,
+        7589.83984375,
+        7585.509765625,
+        7588.33984375,
+        7590.759765625,
+        7592.330078125,
+        7591.85986328125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-11-13 00:32 KST"
+      "status": "약세",
+      "freshness": "2026-11-13 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.19",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "103.14",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1334.98",
-          "change": "+0.02%",
+          "value": "1331.22",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.92",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "159.85",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6609",
-          "change": "+0.00%",
-          "direction": "up"
+          "value": "6.6675",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1334.699951171875,
-        1335.1400146484375,
-        1334.699951171875,
-        1334.780029296875,
-        1334.780029296875,
-        1334.699951171875,
-        1334.550048828125,
-        1334.1199951171875,
-        1334.8800048828125,
-        1334.68994140625,
-        1334.97998046875
+        1330.550048828125,
+        1330.6800537109375,
+        1330.8800048828125,
+        1330.6800537109375,
+        1330.8299560546875,
+        1331.280029296875,
+        1331.47998046875,
+        1331.280029296875,
+        1331.0899658203125,
+        1331.0400390625,
+        1331.219970703125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-13 00:32 KST"
+      "status": "강세",
+      "freshness": "2026-11-13 10:46 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
