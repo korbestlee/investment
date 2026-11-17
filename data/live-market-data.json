@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "collectedAt": "2026-11-17T03:45:00Z",
+  "collectedAt": "2026-11-17T11:16:05Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "-0.05%",
+      "value": "+0.03%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.02%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Warren Buffett’s 10-Year Rule for a",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Warren Buffett's 1996 test for owning a stock, applied to a 68-year-old with $650,000 in an IRA and $3,000 a month in Social Security: $300,000 goes into a Treasury ladder paying a",
-      "link": "https://247wallst.com/investing/2026/11/16/warren-buffetts-10-year-rule-for-a-68-year-old-with-650000-in-an-ira-and-3000-a-month-in-social-security-heres-the-monthly-income-and-the-tax-bill/?.tsrc=rss"
+      "title": "Dow, S&P 500 futures slip, and",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "The focus is on Nvidia's earnings report after the bell following a sharp sell-off on Monday.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html?.tsrc=rss"
     },
     {
-      "title": "Paz Retail And Energy (TASE",
+      "title": "Goliath Drills 13.45 g/t AuEq Over",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Paz Retail And Energy has delivered a powerful long term share price run, and the current level leaves a clear question for you as an investor. Are the company’s earnings doing eno",
-      "link": "https://finance.yahoo.com/energy/articles/paz-retail-energy-tase-paz-021235902.html?.tsrc=rss"
+      "summary": "Figure 1. GD-26-478 Highlights Figure 2. High-grade Golden Gate lode highlighting drill hole GD-26-478 reported in this news release. Figure 3. Golden Gate Zone – plan view expansi",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/goliath-drills-13-45-g-110800467.html?.tsrc=rss"
     },
     {
-      "title": "Gold hovers near 14-month low as Fed",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com -- Gold prices remained near a 14-month low on Tuesday as persistent U.S. inflation concerns, expectations of further Federal Reserve tightening and losses in technol",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-14-month-020906633.html?.tsrc=rss"
-    },
-    {
-      "title": "Singapore non-oil exports jump 79.8%",
+      "title": "Oil prices fall as supply surplus",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Investing.com-- Singapore’s non-oil exports climbed 79.8% year-on-year in October, according to data released by Enterprise Singapore on Tuesday.",
-      "link": "https://finance.yahoo.com/economy/articles/singapore-non-oil-exports-jump-012228559.html?.tsrc=rss"
+      "summary": "At 07:20 GMT, Brent crude dropped $0.82 to $91.62, while WTI fell $0.83 to $84.89 per barrel.",
+      "link": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/?.tsrc=rss"
+    },
+    {
+      "title": "ExxonMobil begins oil production at",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Errea Wittu FPSO’s startup raises Guyana’s total installed oil production capacity to 1.1 million barrels per day.",
+      "link": "https://www.offshore-technology.com/news/exxonmobil-oil-production-uaru-stabroek-block/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Warren Buffett’s 10-Year Rule for a",
-      "summary": "Warren Buffett's 1996 test for owning a stock, applied to a 68-year-old with $650,000 in an IRA and $3,000 a month in Social Security: $300,000 goes into a Treasury ladder paying a",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://247wallst.com/investing/2026/11/16/warren-buffetts-10-year-rule-for-a-68-year-old-with-650000-in-an-ira-and-3000-a-month-in-social-security-heres-the-monthly-income-and-the-tax-bill/?.tsrc=rss",
-      "published": "Tue, 17 Nov 2026 02:47:00 +0000"
+      "title": "Dow, S&P 500 futures slip, and",
+      "summary": "The focus is on Nvidia's earnings report after the bell following a sharp sell-off on Monday.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html?.tsrc=rss",
+      "published": "Tue, 17 Nov 2026 09:15:46 +0000"
     },
     {
-      "title": "Paz Retail And Energy (TASE",
-      "summary": "Paz Retail And Energy has delivered a powerful long term share price run, and the current level leaves a clear question for you as an investor. Are the company’s earnings doing eno",
+      "title": "Goliath Drills 13.45 g/t AuEq Over",
+      "summary": "Figure 1. GD-26-478 Highlights Figure 2. High-grade Golden Gate lode highlighting drill hole GD-26-478 reported in this news release. Figure 3. Golden Gate Zone – plan view expansi",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/paz-retail-energy-tase-paz-021235902.html?.tsrc=rss",
-      "published": "Tue, 17 Nov 2026 02:12:35 +0000"
+      "link": "https://finance.yahoo.com/markets/commodities/articles/goliath-drills-13-45-g-110800467.html?.tsrc=rss",
+      "published": "Tue, 17 Nov 2026 11:08:00 +0000"
     },
     {
-      "title": "Gold hovers near 14-month low as Fed",
-      "summary": "Investing.com -- Gold prices remained near a 14-month low on Tuesday as persistent U.S. inflation concerns, expectations of further Federal Reserve tightening and losses in technol",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-hovers-near-14-month-020906633.html?.tsrc=rss",
-      "published": "Tue, 17 Nov 2026 02:09:06 +0000"
-    },
-    {
-      "title": "Singapore non-oil exports jump 79.8%",
-      "summary": "Investing.com-- Singapore’s non-oil exports climbed 79.8% year-on-year in October, according to data released by Enterprise Singapore on Tuesday.",
+      "title": "Oil prices fall as supply surplus",
+      "summary": "At 07:20 GMT, Brent crude dropped $0.82 to $91.62, while WTI fell $0.83 to $84.89 per barrel.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/economy/articles/singapore-non-oil-exports-jump-012228559.html?.tsrc=rss",
-      "published": "Tue, 17 Nov 2026 01:22:28 +0000"
+      "link": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/?.tsrc=rss",
+      "published": "Tue, 17 Nov 2026 10:48:29 +0000"
+    },
+    {
+      "title": "ExxonMobil begins oil production at",
+      "summary": "Errea Wittu FPSO’s startup raises Guyana’s total installed oil production capacity to 1.1 million barrels per day.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.offshore-technology.com/news/exxonmobil-oil-production-uaru-stabroek-block/?.tsrc=rss",
+      "published": "Tue, 17 Nov 2026 10:46:36 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "85.05",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "85.99",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "91.72",
-          "change": "+0.02%",
+          "value": "92.62",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3876.50",
-          "change": "-0.01%",
+          "value": "3859.30",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "Copper",
           "value": "5.99",
-          "change": "+0.02%",
-          "direction": "up"
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        84.9800033569336,
-        84.98999786376953,
-        84.9800033569336,
-        84.95999908447266,
-        85.01000213623047,
-        85.0,
-        85.06999969482422,
-        85.11000061035156,
-        85.06999969482422,
-        85.08999633789062,
-        85.05000305175781
+        86.01000213623047,
+        85.95999908447266,
+        86.0,
+        86.0199966430664,
+        86.11000061035156,
+        86.05999755859375,
+        86.01000213623047,
+        85.93000030517578,
+        85.94000244140625,
+        85.95999908447266,
+        85.98999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-17 12:34 KST"
+      "status": "강세",
+      "freshness": "2026-11-17 20:06 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "5063.27",
-          "change": "-0.00%",
+          "value": "4965.31",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6354.79",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "6289.30",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.51",
+          "value": "103.61",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1338.18",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "1335.62",
+          "change": "-0.03%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.35",
+          "value": "159.15",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6537",
-          "change": "-0.16%",
+          "value": "6.6545",
+          "change": "-0.17%",
           "direction": "down"
         }
       ],
       "trend": [
-        1337.7900390625,
-        1337.8800048828125,
-        1337.6300048828125,
-        1338.0799560546875,
-        1338.1800537109375,
-        1338.1800537109375,
-        1338.3900146484375,
-        1338.489990234375,
-        1338.47998046875,
-        1338.1800537109375,
-        1338.1800537109375
+        1336.02001953125,
+        1335.75,
+        1336.0,
+        1336.0699462890625,
+        1335.9100341796875,
+        1336.050048828125,
+        1335.56005859375,
+        1336.1800537109375,
+        1336.1199951171875,
+        1336.0400390625,
+        1335.6199951171875
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-11-17 12:44 KST"
+      "freshness": "2026-11-17 20:15 KST"
     }
   ],
   "currentAction": {
