@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "collectedAt": "2026-11-18T10:48:24Z",
+  "date": "2026-11-19",
+  "collectedAt": "2026-11-18T15:56:02Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.15%",
+      "value": "+0.09%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.02%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "-0.19%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Gold Falls Below $3,800 as Federal",
+      "title": "S&P 500 Could Hit 8,200 By End Of",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold prices extended their losses on Wednesday, falling below $3,800 per ounce and approaching their lowest levels in 14 months as expectations of further interest rate increases b",
-      "link": "https://investorshub.advfn.com/market-news/article/40254/gold-falls-below-3800-as-federal-reserve-rate-hike-expectations-pressure-precious-metals?.tsrc=rss"
+      "summary": "UBS downgraded global equities to ‘Neutral’, citing AI investment risks and market concentration, while maintaining a constructive outlook for corporate earnings.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-could-hit-8-200-by-end-of-2027-says-ubs-warns-of-5-500-in-ai-bust-scenario/cNbgEIMR9LM?.tsrc=rss"
     },
     {
-      "title": "Oil Prices Decline as Rising US",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Oil prices fell on Wednesday as higher US crude and fuel inventories increased concerns about excess supply, although continuing military tensions involving the United States and I",
-      "link": "https://investorshub.advfn.com/market-news/article/40252/oil-prices-decline-as-rising-us-inventories-offset-supply-risks-from-iran-conflict?.tsrc=rss"
-    },
-    {
-      "title": "3 Unstoppable AI Stocks to Buy Hand",
-      "impact": "지수, 위험선호",
+      "title": "Buying SPY At The 2007 Top Still",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "These companies are building AI businesses designed to last.",
-      "link": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?.tsrc=rss"
+      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+      "link": "https://www.trefis.com/stock/spy/articles/626103/buying-spy-at-the-2007-top-still-paid-off/2026-11-18?.tsrc=rss"
     },
     {
-      "title": "Futures Climb As Nvidia Earnings",
+      "title": "Thistle Resources secures option on",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss"
+      "summary": "Thistle Resources (TSX-V:TRCG, OTC:TRCGF) has secured an option to earn a 100% interest in eight mineral claims in northern New Brunswick that sit alongside its Middle River Gold P",
+      "link": "https://www.proactiveinvestors.com/companies/news/1102027/thistle-resources-secures-option-on-gold-claims-next-to-middle-river-project-1102027.html?.tsrc=rss"
+    },
+    {
+      "title": "Buy-Back of Securities",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "LONDON, November 18, 2026-- DB ETC plc",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-150400958.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Gold Falls Below $3,800 as Federal",
-      "summary": "Gold prices extended their losses on Wednesday, falling below $3,800 per ounce and approaching their lowest levels in 14 months as expectations of further interest rate increases b",
+      "title": "S&P 500 Could Hit 8,200 By End Of",
+      "summary": "UBS downgraded global equities to ‘Neutral’, citing AI investment risks and market concentration, while maintaining a constructive outlook for corporate earnings.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/40254/gold-falls-below-3800-as-federal-reserve-rate-hike-expectations-pressure-precious-metals?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 10:26:01 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-could-hit-8-200-by-end-of-2027-says-ubs-warns-of-5-500-in-ai-bust-scenario/cNbgEIMR9LM?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 15:42:34 +0000"
     },
     {
-      "title": "Oil Prices Decline as Rising US",
-      "summary": "Oil prices fell on Wednesday as higher US crude and fuel inventories increased concerns about excess supply, although continuing military tensions involving the United States and I",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://investorshub.advfn.com/market-news/article/40252/oil-prices-decline-as-rising-us-inventories-offset-supply-risks-from-iran-conflict?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 10:23:55 +0000"
-    },
-    {
-      "title": "3 Unstoppable AI Stocks to Buy Hand",
-      "summary": "These companies are building AI businesses designed to last.",
-      "impact": "지수, 위험선호",
+      "title": "Buying SPY At The 2007 Top Still",
+      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 10:22:00 +0000"
+      "link": "https://www.trefis.com/stock/spy/articles/626103/buying-spy-at-the-2007-top-still-paid-off/2026-11-18?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 15:21:08 +0000"
     },
     {
-      "title": "Futures Climb As Nvidia Earnings",
-      "summary": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
+      "title": "Thistle Resources secures option on",
+      "summary": "Thistle Resources (TSX-V:TRCG, OTC:TRCGF) has secured an option to earn a 100% interest in eight mineral claims in northern New Brunswick that sit alongside its Middle River Gold P",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 10:19:49 +0000"
+      "link": "https://www.proactiveinvestors.com/companies/news/1102027/thistle-resources-secures-option-on-gold-claims-next-to-middle-river-project-1102027.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 15:04:00 +0000"
+    },
+    {
+      "title": "Buy-Back of Securities",
+      "summary": "LONDON, November 18, 2026-- DB ETC plc",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/buy-back-securities-150400958.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 15:04:00 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "83.32",
-          "change": "+0.02%",
+          "value": "83.18",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "89.42",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "Gold",
-          "value": "3773.30",
-          "change": "+0.03%",
+          "value": "89.24",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
+          "name": "Gold",
+          "value": "3756.10",
+          "change": "-0.09%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "5.75",
-          "change": "-0.01%",
+          "value": "5.65",
+          "change": "-0.19%",
           "direction": "down"
         }
       ],
       "trend": [
-        83.22000122070312,
-        83.33999633789062,
-        83.33999633789062,
-        83.36000061035156,
-        83.37999725341797,
-        83.4000015258789,
-        83.41000366210938,
-        83.37999725341797,
-        83.33999633789062,
-        83.30000305175781,
-        83.31999969482422
+        82.97000122070312,
+        82.94000244140625,
+        82.97000122070312,
+        83.0,
+        82.91999816894531,
+        83.04000091552734,
+        83.05000305175781,
+        82.93000030517578,
+        83.06999969482422,
+        83.08999633789062,
+        83.18000030517578
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-18 19:38 KST"
+      "freshness": "2026-11-19 00:45 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.138%",
+          "value": "4.147%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.900%",
-          "change": "-0.04%",
+          "value": "4.880%",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.103%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.072%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.458%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.423%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        5.0970001220703125,
-        5.10099983215332,
-        5.10099983215332,
-        5.102999687194824,
-        5.10099983215332,
-        5.10099983215332,
-        5.10099983215332,
-        5.10099983215332,
-        5.102999687194824,
-        5.105000019073486,
-        5.102999687194824
+        5.079999923706055,
+        5.075999736785889,
+        5.075999736785889,
+        5.072000026702881,
+        5.072000026702881,
+        5.072000026702881,
+        5.072000026702881,
+        5.070000171661377,
+        5.072000026702881,
+        5.072000026702881,
+        5.072000026702881
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-11-18 04:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-19 00:40 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7340.63",
-          "change": "+0.15%",
+          "value": "7317.46",
+          "change": "+0.09%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24323.14",
-          "change": "+0.16%",
+          "value": "24373.49",
+          "change": "+0.15%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6229.18",
-          "change": "-0.01%",
+          "value": "6169.99",
+          "change": "-0.06%",
           "direction": "down"
         }
       ],
       "trend": [
-        7325.259765625,
-        7315.0400390625,
-        7317.02978515625,
-        7317.4501953125,
-        7315.35009765625,
-        7320.169921875,
-        7324.31982421875,
-        7325.56005859375,
-        7327.85009765625,
-        7329.4599609375,
-        7340.6298828125
+        7305.5400390625,
+        7309.18994140625,
+        7303.7998046875,
+        7302.43994140625,
+        7304.2998046875,
+        7313.3701171875,
+        7309.22998046875,
+        7302.06005859375,
+        7307.1298828125,
+        7311.18017578125,
+        7317.4599609375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-18 05:59 KST"
+      "freshness": "2026-11-19 00:55 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.74",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "103.85",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1332.01",
-          "change": "+0.02%",
+          "value": "1331.96",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
           "value": "159.27",
-          "change": "-0.00%",
-          "direction": "down"
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6652",
-          "change": "+0.17%",
-          "direction": "up"
+          "value": "6.6562",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1332.0699462890625,
-        1331.7900390625,
-        1331.9100341796875,
-        1331.780029296875,
-        1331.6300048828125,
-        1331.7900390625,
-        1332.0899658203125,
-        1331.6600341796875,
-        1331.4200439453125,
-        1331.780029296875,
-        1332.010009765625
+        1332.1800537109375,
+        1332.280029296875,
+        1332.0799560546875,
+        1332.010009765625,
+        1332.2099609375,
+        1331.949951171875,
+        1332.2900390625,
+        1331.68994140625,
+        1332.280029296875,
+        1331.8599853515625,
+        1331.9599609375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-18 19:48 KST"
+      "status": "강세",
+      "freshness": "2026-11-19 00:55 KST"
     }
   ],
   "currentAction": {
