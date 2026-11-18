@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "collectedAt": "2026-11-18T02:51:35Z",
+  "collectedAt": "2026-11-18T10:48:24Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,7 +46,7 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
@@ -58,73 +58,73 @@
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "-0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Oil prices edge lower as markets",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com-- Oil prices fell slightly in Asian trade on Wednesday as fears of a looming supply glut persisted, although persistent tensions in the Middle East limited overall de",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-024104976.html?.tsrc=rss"
-    },
-    {
-      "title": "Gold falls toward $3,800 as Fed",
+      "title": "Gold Falls Below $3,800 as Federal",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com -- Gold prices extended losses on Wednesday, approaching $3,800 an ounce and remaining near a 14-month low as Federal Reserve officials signalled further interest-rat",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss"
+      "summary": "Gold prices extended their losses on Wednesday, falling below $3,800 per ounce and approaching their lowest levels in 14 months as expectations of further interest rate increases b",
+      "link": "https://investorshub.advfn.com/market-news/article/40254/gold-falls-below-3800-as-federal-reserve-rate-hike-expectations-pressure-precious-metals?.tsrc=rss"
     },
     {
-      "title": "Island Passage Announces an US $8",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "VANCOUVER, British Columbia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- Island Passage Exploration Limited (IPX or the “Company”) is pleased to announce that it has arranged an US$8 million",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/island-passage-announces-us-8-012500966.html?.tsrc=rss"
-    },
-    {
-      "title": "5 Oil and Gas Stocks That Crushed",
+      "title": "Oil Prices Decline as Rising US",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Energy earnings jumped 151% in Q3 as ONEOK, Occidental, APA, Phillips 66 and Valero beat Wall Street estimates, with refiners posting the biggest gains.",
-      "link": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html?.tsrc=rss"
+      "summary": "Oil prices fell on Wednesday as higher US crude and fuel inventories increased concerns about excess supply, although continuing military tensions involving the United States and I",
+      "link": "https://investorshub.advfn.com/market-news/article/40252/oil-prices-decline-as-rising-us-inventories-offset-supply-risks-from-iran-conflict?.tsrc=rss"
+    },
+    {
+      "title": "3 Unstoppable AI Stocks to Buy Hand",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "These companies are building AI businesses designed to last.",
+      "link": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?.tsrc=rss"
+    },
+    {
+      "title": "Futures Climb As Nvidia Earnings",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil prices edge lower as markets",
-      "summary": "Investing.com-- Oil prices fell slightly in Asian trade on Wednesday as fears of a looming supply glut persisted, although persistent tensions in the Middle East limited overall de",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-edge-lower-markets-024104976.html?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 02:41:04 +0000"
-    },
-    {
-      "title": "Gold falls toward $3,800 as Fed",
-      "summary": "Investing.com -- Gold prices extended losses on Wednesday, approaching $3,800 an ounce and remaining near a 14-month low as Federal Reserve officials signalled further interest-rat",
+      "title": "Gold Falls Below $3,800 as Federal",
+      "summary": "Gold prices extended their losses on Wednesday, falling below $3,800 per ounce and approaching their lowest levels in 14 months as expectations of further interest rate increases b",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-3-800-014150756.html?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 01:41:50 +0000"
+      "link": "https://investorshub.advfn.com/market-news/article/40254/gold-falls-below-3800-as-federal-reserve-rate-hike-expectations-pressure-precious-metals?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:26:01 +0000"
     },
     {
-      "title": "Island Passage Announces an US $8",
-      "summary": "VANCOUVER, British Columbia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- Island Passage Exploration Limited (IPX or the “Company”) is pleased to announce that it has arranged an US$8 million",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/island-passage-announces-us-8-012500966.html?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 01:25:00 +0000"
-    },
-    {
-      "title": "5 Oil and Gas Stocks That Crushed",
-      "summary": "Energy earnings jumped 151% in Q3 as ONEOK, Occidental, APA, Phillips 66 and Valero beat Wall Street estimates, with refiners posting the biggest gains.",
+      "title": "Oil Prices Decline as Rising US",
+      "summary": "Oil prices fell on Wednesday as higher US crude and fuel inventories increased concerns about excess supply, although continuing military tensions involving the United States and I",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html?.tsrc=rss",
-      "published": "Wed, 18 Nov 2026 01:00:00 +0000"
+      "link": "https://investorshub.advfn.com/market-news/article/40252/oil-prices-decline-as-rising-us-inventories-offset-supply-risks-from-iran-conflict?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:23:55 +0000"
+    },
+    {
+      "title": "3 Unstoppable AI Stocks to Buy Hand",
+      "summary": "These companies are building AI businesses designed to last.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:22:00 +0000"
+    },
+    {
+      "title": "Futures Climb As Nvidia Earnings",
+      "summary": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:19:49 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "85.12",
+          "value": "83.32",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "92.74",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "89.42",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "3801.90",
-          "change": "+0.01%",
+          "value": "3773.30",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.93",
-          "change": "-0.05%",
+          "value": "5.75",
+          "change": "-0.01%",
           "direction": "down"
         }
       ],
       "trend": [
-        85.06999969482422,
-        85.08000183105469,
-        85.06999969482422,
-        85.0999984741211,
-        85.1500015258789,
-        85.19999694824219,
-        85.19999694824219,
-        85.1500015258789,
-        85.13999938964844,
-        85.0999984741211,
-        85.12000274658203
+        83.22000122070312,
+        83.33999633789062,
+        83.33999633789062,
+        83.36000061035156,
+        83.37999725341797,
+        83.4000015258789,
+        83.41000366210938,
+        83.37999725341797,
+        83.33999633789062,
+        83.30000305175781,
+        83.31999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-18 11:41 KST"
+      "freshness": "2026-11-18 19:38 KST"
     },
     {
       "id": "bonds",
@@ -262,13 +262,13 @@
         },
         {
           "name": "KOSPI",
-          "value": "4987.31",
-          "change": "-0.18%",
-          "direction": "down"
+          "value": "5064.47",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6220.99",
+          "value": "6229.18",
           "change": "-0.01%",
           "direction": "down"
         }
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.61",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1328.77",
-          "change": "-0.03%",
+          "value": "103.74",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
+          "name": "USDKRW",
+          "value": "1332.01",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
           "name": "USDJPY",
-          "value": "159.33",
+          "value": "159.27",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6669",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6652",
+          "change": "+0.17%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1328.5799560546875,
-        1329.1600341796875,
-        1329.3800048828125,
-        1328.8800048828125,
-        1329.280029296875,
-        1329.47998046875,
-        1329.260009765625,
-        1328.8800048828125,
-        1328.9599609375,
-        1329.1800537109375,
-        1328.77001953125
+        1332.0699462890625,
+        1331.7900390625,
+        1331.9100341796875,
+        1331.780029296875,
+        1331.6300048828125,
+        1331.7900390625,
+        1332.0899658203125,
+        1331.6600341796875,
+        1331.4200439453125,
+        1331.780029296875,
+        1332.010009765625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-11-18 11:51 KST"
+      "status": "완화",
+      "freshness": "2026-11-18 19:48 KST"
     }
   ],
   "currentAction": {
