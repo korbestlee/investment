@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "collectedAt": "2026-11-19T10:49:06Z",
+  "date": "2026-11-20",
+  "collectedAt": "2026-11-19T16:00:00Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.01%",
+      "value": "+0.10%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.01%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.03%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Is Investing in an S&P 500 ETF",
+      "title": "Bireme Capital Sold Moderna (MRNA)",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The S&P 500 has delivered a win for investors over time.",
-      "link": "https://www.fool.com/investing/2026/11/19/is-investing-in-an-sp-500-etf-really-enough-heres-my-honest-take/?.tsrc=rss"
+      "summary": "Investment management company Bireme Capital recently released its third-quarter 2026 investor letter. The letter can be downloaded here. Fundamental Value returned 9.7% net of fee",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bireme-capital-sold-moderna-mrna-155653550.html?.tsrc=rss"
     },
     {
-      "title": "Russian pawnbroker MGKL cut to D as",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Russian pawnshop group MGKL (MOEX: MGKL) is the latest victim of Russia's sky high interest rates after all nine of its bonds were cut to default and moved into distressed trading,",
-      "link": "http://www.intellinews.com/russian-pawnbroker-mgkl-cut-to-d-as-corporate-bond-defaults-mount-486590/?.tsrc=rss"
-    },
-    {
-      "title": "2 High-Yield Dividend Stocks Near",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "These two stocks offer dividend yields well above the S&P 500.",
-      "link": "https://www.fool.com/investing/2026/11/19/2-high-yield-dividend-stocks-near-their-52-week-lo/?.tsrc=rss"
-    },
-    {
-      "title": "Stock Market Sell-Off",
+      "title": "Inside Hinde Group’s Investment Case",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "It’s getting difficult to ignore the market’s warnings. Just don’t fall into the trap of overreacting.",
-      "link": "https://www.fool.com/investing/2026/11/19/stock-market-sell-off-investing-steps-taking-right-now-costly-mistake-avoid/?.tsrc=rss"
+      "summary": "Hinde Group, an investment management company, has released its third-quarter 2026 investor letter. The portfolio returned -0.42% (net) in the third quarter, compared to 2.30% for ",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-hinde-group-investment-case-155129281.html?.tsrc=rss"
+    },
+    {
+      "title": "Druckenmiller Bought 3 Gold Miners.",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Stanley Druckenmiller's Duquesne piled into Newmont, Barrick, and Agnico Eagle just before all three sank. Two past gold cycles show why miners can magnify the pain or the payoff, ",
+      "link": "https://247wallst.com/investing/2026/11/19/druckenmiller-bought-3-gold-miners-history-shows-how-these-moves-usually-play-out/?.tsrc=rss"
+    },
+    {
+      "title": "5 Stocks Analysts Upgraded On",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Hotter inflation has pushed the Federal Reserve back toward rate increases, and the bond market is repricing around it. The Labor Department said consumer prices rose 0.4% in Octob",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-upgraded-wednesday-153956464.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Is Investing in an S&P 500 ETF",
-      "summary": "The S&P 500 has delivered a win for investors over time.",
+      "title": "Bireme Capital Sold Moderna (MRNA)",
+      "summary": "Investment management company Bireme Capital recently released its third-quarter 2026 investor letter. The letter can be downloaded here. Fundamental Value returned 9.7% net of fee",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/19/is-investing-in-an-sp-500-etf-really-enough-heres-my-honest-take/?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 10:22:01 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bireme-capital-sold-moderna-mrna-155653550.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 15:56:53 +0000"
     },
     {
-      "title": "Russian pawnbroker MGKL cut to D as",
-      "summary": "Russian pawnshop group MGKL (MOEX: MGKL) is the latest victim of Russia's sky high interest rates after all nine of its bonds were cut to default and moved into distressed trading,",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "http://www.intellinews.com/russian-pawnbroker-mgkl-cut-to-d-as-corporate-bond-defaults-mount-486590/?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 10:21:23 +0000"
-    },
-    {
-      "title": "2 High-Yield Dividend Stocks Near",
-      "summary": "These two stocks offer dividend yields well above the S&P 500.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/11/19/2-high-yield-dividend-stocks-near-their-52-week-lo/?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 09:55:00 +0000"
-    },
-    {
-      "title": "Stock Market Sell-Off",
-      "summary": "It’s getting difficult to ignore the market’s warnings. Just don’t fall into the trap of overreacting.",
+      "title": "Inside Hinde Group’s Investment Case",
+      "summary": "Hinde Group, an investment management company, has released its third-quarter 2026 investor letter. The portfolio returned -0.42% (net) in the third quarter, compared to 2.30% for ",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/19/stock-market-sell-off-investing-steps-taking-right-now-costly-mistake-avoid/?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 09:50:02 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-hinde-group-investment-case-155129281.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 15:51:29 +0000"
+    },
+    {
+      "title": "Druckenmiller Bought 3 Gold Miners.",
+      "summary": "Stanley Druckenmiller's Duquesne piled into Newmont, Barrick, and Agnico Eagle just before all three sank. Two past gold cycles show why miners can magnify the pain or the payoff, ",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://247wallst.com/investing/2026/11/19/druckenmiller-bought-3-gold-miners-history-shows-how-these-moves-usually-play-out/?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 15:49:22 +0000"
+    },
+    {
+      "title": "5 Stocks Analysts Upgraded On",
+      "summary": "Hotter inflation has pushed the Federal Reserve back toward rate increases, and the bond market is repricing around it. The Labor Department said consumer prices rose 0.4% in Octob",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-upgraded-wednesday-153956464.html?.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 15:39:56 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.79",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "89.78",
-          "change": "+0.04%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "3735.10",
+          "value": "82.91",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "Brent",
+          "value": "89.70",
+          "change": "+0.02%",
+          "direction": "up"
+        },
+        {
+          "name": "Gold",
+          "value": "3686.20",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
           "name": "Copper",
-          "value": "5.67",
-          "change": "+0.03%",
+          "value": "5.63",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
       "trend": [
-        82.76000213623047,
-        82.7699966430664,
-        82.7300033569336,
-        82.70999908447266,
-        82.75,
-        82.80000305175781,
-        82.7699966430664,
-        82.80000305175781,
-        82.73999786376953,
-        82.7699966430664,
-        82.79000091552734
+        82.77999877929688,
+        82.9000015258789,
+        83.05999755859375,
+        83.0999984741211,
+        83.16000366210938,
+        83.05000305175781,
+        82.97000122070312,
+        82.80999755859375,
+        82.87000274658203,
+        82.9000015258789,
+        82.91000366210938
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-19 19:39 KST"
+      "freshness": "2026-11-20 00:49 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.145%",
+          "value": "4.147%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.884%",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "4.891%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.066%",
+          "value": "5.070%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.412%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.415%",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        5.065999984741211,
-        5.065999984741211,
-        5.065999984741211,
-        5.065999984741211,
-        5.067999839782715,
-        5.067999839782715,
         5.064000129699707,
         5.064000129699707,
-        5.065999984741211,
-        5.065999984741211,
-        5.065999984741211
+        5.059999942779541,
+        5.059999942779541,
+        5.059999942779541,
+        5.056000232696533,
+        5.059999942779541,
+        5.064000129699707,
+        5.067999839782715,
+        5.070000171661377,
+        5.070000171661377
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-11-19 04:59 KST"
+      "freshness": "2026-11-20 00:44 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7322.28",
-          "change": "+0.01%",
+          "value": "7307.38",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24426.67",
-          "change": "+0.02%",
+          "value": "24501.78",
+          "change": "+0.10%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6192.36",
-          "change": "+0.02%",
+          "value": "6133.35",
+          "change": "+0.04%",
           "direction": "up"
         }
       ],
       "trend": [
-        7324.60009765625,
-        7318.6298828125,
-        7321.0498046875,
-        7326.009765625,
-        7325.41015625,
-        7329.97021484375,
-        7328.1201171875,
-        7331.52978515625,
-        7328.89013671875,
-        7321.740234375,
-        7322.27978515625
+        7285.0400390625,
+        7291.9501953125,
+        7289.93994140625,
+        7291.7998046875,
+        7290.31982421875,
+        7288.330078125,
+        7290.0,
+        7293.06982421875,
+        7301.5400390625,
+        7300.18994140625,
+        7307.3798828125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-19 05:59 KST"
+      "freshness": "2026-11-20 00:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.62",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1328.00",
-          "change": "-0.05%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.91",
+          "value": "103.80",
           "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1334.94",
+          "change": "-0.04%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "159.82",
+          "change": "+0.01%",
+          "direction": "up"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6563",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6660",
+          "change": "-0.21%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1328.56005859375,
-        1328.9599609375,
-        1328.219970703125,
-        1328.4200439453125,
-        1329.06005859375,
-        1328.9100341796875,
-        1328.6099853515625,
-        1327.8800048828125,
-        1328.469970703125,
-        1328.6099853515625,
-        1328.0
+        1334.3499755859375,
+        1333.780029296875,
+        1333.5799560546875,
+        1334.1800537109375,
+        1334.6800537109375,
+        1334.0400390625,
+        1334.3299560546875,
+        1335.0899658203125,
+        1335.3599853515625,
+        1335.489990234375,
+        1334.93994140625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-19 19:49 KST"
+      "status": "강세",
+      "freshness": "2026-11-20 00:59 KST"
     }
   ],
   "currentAction": {
