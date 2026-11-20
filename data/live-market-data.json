@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "collectedAt": "2026-11-20T02:15:33Z",
+  "collectedAt": "2026-11-20T10:38:36Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.06%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "He’s 66 and Bought $250,000 of Gold",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "A retiree's gold bet to bridge the gap to age 70 just hit a yearly low, and the shortfall is tempting him to claim early. One question about the math decides whether that panic mov",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/11/19/hes-66-and-bought-250000-of-gold-to-live-on-until-social-security-at-70-with-gold-at-a-new-low-for-the-year-claiming-at-67-instead-costs-him-600-a-month-for-life/?.tsrc=rss"
-    },
-    {
-      "title": "Techs Slide, Anthropic Retreats",
+      "title": "Dow, S&P 500, Nasdaq futures",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Tech futures fell after the market suffered an ugly reversal, with the S&P 500 and Nasdaq hitting new lows. Anthropic retreated late after rising its IPO debut.",
-      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss"
+      "summary": "Stocks are on track to post weekly losses after Nvidia earnings and Anthropic's IPO weren't enough for investors to shake off AI angst.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html?.tsrc=rss"
     },
     {
-      "title": "If you invested $1,000 in Bitcoin or",
+      "title": "Bitcoin Is 35% Below Its 52-Week",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "A $1,000 Bitcoin buy on Grand Theft Auto V’s launch day would be worth about $475,000 as GTA VI arrives. The same amount in gold would be worth $2,800.",
-      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-bitcoin-or-gold-instead-of-gta-v-heres-what-youd-have-today-?.tsrc=rss"
+      "summary": "The cryptocurrency’s volatility will always force investors to question their conviction.",
+      "link": "https://www.fool.com/investing/2026/11/20/bitcoin-is-33-below-its-52-week-high-s-and-p-500-is-uphere-s-what-that-says-digital-gold-thesis/?.tsrc=rss"
     },
     {
-      "title": "The S&P 500 Just Fell 4 Straight",
-      "impact": "지수, 위험선호",
+      "title": "Bangladesh, Pakistan face 70% jump",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "There's a big difference between a healthy pullback and the start of a bear market.",
-      "link": "https://www.fool.com/investing/2026/11/19/the-s-and-p-500-just-fell-4-straight-weeks-from-a-record-high-here-s-why-i-m-buying-the-dip/?.tsrc=rss"
+      "summary": "Bangladesh and Pakistan will need about 70% more imported gas by 2035 as their ageing gas fields decline, the International Energy Agency (IEA) forecast on November 19, Daily Sun r",
+      "link": "http://www.intellinews.com/bangladesh-pakistan-face-70-jump-in-gas-imports-by-2035-intellinews-lambda-486975/?.tsrc=rss"
+    },
+    {
+      "title": "Gold Falls to 14-Month Low as Fed",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Gold prices extended their decline on Friday, reaching their lowest level in 14 months as a stronger US dollar and expectations of another Federal Reserve interest rate increase we",
+      "link": "https://investorshub.advfn.com/market-news/article/40435/gold-falls-to-14-month-low-as-fed-rate-hike-expectations-trigger-sharp-weekly-losses?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "He’s 66 and Bought $250,000 of Gold",
-      "summary": "A retiree's gold bet to bridge the gap to age 70 just hit a yearly low, and the shortfall is tempting him to claim early. One question about the math decides whether that panic mov",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://247wallst.com/personal-finance/social-security/2026/11/19/hes-66-and-bought-250000-of-gold-to-live-on-until-social-security-at-70-with-gold-at-a-new-low-for-the-year-claiming-at-67-instead-costs-him-600-a-month-for-life/?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 02:02:43 +0000"
-    },
-    {
-      "title": "Techs Slide, Anthropic Retreats",
-      "summary": "Tech futures fell after the market suffered an ugly reversal, with the S&P 500 and Nasdaq hitting new lows. Anthropic retreated late after rising its IPO debut.",
+      "title": "Dow, S&P 500, Nasdaq futures",
+      "summary": "Stocks are on track to post weekly losses after Nvidia earnings and Anthropic's IPO weren't enough for investors to shake off AI angst.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 01:55:32 +0000"
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 09:28:27 +0000"
     },
     {
-      "title": "If you invested $1,000 in Bitcoin or",
-      "summary": "A $1,000 Bitcoin buy on Grand Theft Auto V’s launch day would be worth about $475,000 as GTA VI arrives. The same amount in gold would be worth $2,800.",
+      "title": "Bitcoin Is 35% Below Its 52-Week",
+      "summary": "The cryptocurrency’s volatility will always force investors to question their conviction.",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-bitcoin-or-gold-instead-of-gta-v-heres-what-youd-have-today-?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 01:30:00 +0000"
+      "link": "https://www.fool.com/investing/2026/11/20/bitcoin-is-33-below-its-52-week-high-s-and-p-500-is-uphere-s-what-that-says-digital-gold-thesis/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 10:05:02 +0000"
     },
     {
-      "title": "The S&P 500 Just Fell 4 Straight",
-      "summary": "There's a big difference between a healthy pullback and the start of a bear market.",
-      "impact": "지수, 위험선호",
+      "title": "Bangladesh, Pakistan face 70% jump",
+      "summary": "Bangladesh and Pakistan will need about 70% more imported gas by 2035 as their ageing gas fields decline, the International Energy Agency (IEA) forecast on November 19, Daily Sun r",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/19/the-s-and-p-500-just-fell-4-straight-weeks-from-a-record-high-here-s-why-i-m-buying-the-dip/?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 01:10:37 +0000"
+      "link": "http://www.intellinews.com/bangladesh-pakistan-face-70-jump-in-gas-imports-by-2035-intellinews-lambda-486975/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 09:51:22 +0000"
+    },
+    {
+      "title": "Gold Falls to 14-Month Low as Fed",
+      "summary": "Gold prices extended their decline on Friday, reaching their lowest level in 14 months as a stronger US dollar and expectations of another Federal Reserve interest rate increase we",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://investorshub.advfn.com/market-news/article/40435/gold-falls-to-14-month-low-as-fed-rate-hike-expectations-trigger-sharp-weekly-losses?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 09:51:19 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.95",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "81.11",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "90.03",
-          "change": "-0.03%",
+          "value": "87.88",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3557.10",
-          "change": "+0.03%",
+          "value": "3582.60",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.49",
-          "change": "+0.06%",
-          "direction": "up"
+          "value": "5.57",
+          "change": "-0.02%",
+          "direction": "down"
         }
       ],
       "trend": [
-        82.80000305175781,
-        82.80999755859375,
-        82.76000213623047,
-        82.77999877929688,
-        82.77999877929688,
-        82.86000061035156,
-        82.9000015258789,
-        82.9000015258789,
-        82.91999816894531,
-        82.9800033569336,
-        82.94999694824219
+        81.05000305175781,
+        81.04000091552734,
+        81.05000305175781,
+        81.12999725341797,
+        81.23999786376953,
+        81.12999725341797,
+        81.13999938964844,
+        81.18000030517578,
+        81.08000183105469,
+        81.08000183105469,
+        81.11000061035156
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-20 11:05 KST"
+      "status": "강세",
+      "freshness": "2026-11-20 19:28 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "4903.61",
-          "change": "+0.02%",
+          "value": "4853.85",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6120.02",
-          "change": "+0.00%",
+          "value": "6003.71",
+          "change": "+0.05%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.94",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "103.90",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1337.59",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "1337.82",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.30",
-          "change": "-0.00%",
+          "value": "158.93",
+          "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6709",
-          "change": "+0.00%",
+          "value": "6.6765",
+          "change": "+0.15%",
           "direction": "up"
         }
       ],
       "trend": [
         1337.9000244140625,
-        1338.3800048828125,
-        1338.6800537109375,
-        1338.1300048828125,
-        1338.280029296875,
-        1338.2900390625,
-        1338.300048828125,
-        1338.280029296875,
-        1337.8800048828125,
-        1337.8800048828125,
-        1337.5899658203125
+        1337.93994140625,
+        1337.780029296875,
+        1337.8499755859375,
+        1337.5999755859375,
+        1337.4599609375,
+        1337.97998046875,
+        1338.0799560546875,
+        1337.4200439453125,
+        1337.43994140625,
+        1337.8199462890625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-20 11:15 KST"
+      "status": "강세",
+      "freshness": "2026-11-20 19:38 KST"
     }
   ],
   "currentAction": {
