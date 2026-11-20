@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "collectedAt": "2026-11-19T16:00:00Z",
+  "collectedAt": "2026-11-20T02:15:33Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.10%",
+      "value": "+0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "+0.06%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Bireme Capital Sold Moderna (MRNA)",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Investment management company Bireme Capital recently released its third-quarter 2026 investor letter. The letter can be downloaded here. Fundamental Value returned 9.7% net of fee",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bireme-capital-sold-moderna-mrna-155653550.html?.tsrc=rss"
-    },
-    {
-      "title": "Inside Hinde Group’s Investment Case",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Hinde Group, an investment management company, has released its third-quarter 2026 investor letter. The portfolio returned -0.42% (net) in the third quarter, compared to 2.30% for ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-hinde-group-investment-case-155129281.html?.tsrc=rss"
-    },
-    {
-      "title": "Druckenmiller Bought 3 Gold Miners.",
+      "title": "He’s 66 and Bought $250,000 of Gold",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Stanley Druckenmiller's Duquesne piled into Newmont, Barrick, and Agnico Eagle just before all three sank. Two past gold cycles show why miners can magnify the pain or the payoff, ",
-      "link": "https://247wallst.com/investing/2026/11/19/druckenmiller-bought-3-gold-miners-history-shows-how-these-moves-usually-play-out/?.tsrc=rss"
+      "summary": "A retiree's gold bet to bridge the gap to age 70 just hit a yearly low, and the shortfall is tempting him to claim early. One question about the math decides whether that panic mov",
+      "link": "https://247wallst.com/personal-finance/social-security/2026/11/19/hes-66-and-bought-250000-of-gold-to-live-on-until-social-security-at-70-with-gold-at-a-new-low-for-the-year-claiming-at-67-instead-costs-him-600-a-month-for-life/?.tsrc=rss"
     },
     {
-      "title": "5 Stocks Analysts Upgraded On",
-      "impact": "채권, 금리",
+      "title": "Techs Slide, Anthropic Retreats",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Tech futures fell after the market suffered an ugly reversal, with the S&P 500 and Nasdaq hitting new lows. Anthropic retreated late after rising its IPO debut.",
+      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss"
+    },
+    {
+      "title": "If you invested $1,000 in Bitcoin or",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "Hotter inflation has pushed the Federal Reserve back toward rate increases, and the bond market is repricing around it. The Labor Department said consumer prices rose 0.4% in Octob",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-upgraded-wednesday-153956464.html?.tsrc=rss"
+      "summary": "A $1,000 Bitcoin buy on Grand Theft Auto V’s launch day would be worth about $475,000 as GTA VI arrives. The same amount in gold would be worth $2,800.",
+      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-bitcoin-or-gold-instead-of-gta-v-heres-what-youd-have-today-?.tsrc=rss"
+    },
+    {
+      "title": "The S&P 500 Just Fell 4 Straight",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "There's a big difference between a healthy pullback and the start of a bear market.",
+      "link": "https://www.fool.com/investing/2026/11/19/the-s-and-p-500-just-fell-4-straight-weeks-from-a-record-high-here-s-why-i-m-buying-the-dip/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Bireme Capital Sold Moderna (MRNA)",
-      "summary": "Investment management company Bireme Capital recently released its third-quarter 2026 investor letter. The letter can be downloaded here. Fundamental Value returned 9.7% net of fee",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bireme-capital-sold-moderna-mrna-155653550.html?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 15:56:53 +0000"
-    },
-    {
-      "title": "Inside Hinde Group’s Investment Case",
-      "summary": "Hinde Group, an investment management company, has released its third-quarter 2026 investor letter. The portfolio returned -0.42% (net) in the third quarter, compared to 2.30% for ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-hinde-group-investment-case-155129281.html?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 15:51:29 +0000"
-    },
-    {
-      "title": "Druckenmiller Bought 3 Gold Miners.",
-      "summary": "Stanley Druckenmiller's Duquesne piled into Newmont, Barrick, and Agnico Eagle just before all three sank. Two past gold cycles show why miners can magnify the pain or the payoff, ",
+      "title": "He’s 66 and Bought $250,000 of Gold",
+      "summary": "A retiree's gold bet to bridge the gap to age 70 just hit a yearly low, and the shortfall is tempting him to claim early. One question about the math decides whether that panic mov",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://247wallst.com/investing/2026/11/19/druckenmiller-bought-3-gold-miners-history-shows-how-these-moves-usually-play-out/?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 15:49:22 +0000"
+      "link": "https://247wallst.com/personal-finance/social-security/2026/11/19/hes-66-and-bought-250000-of-gold-to-live-on-until-social-security-at-70-with-gold-at-a-new-low-for-the-year-claiming-at-67-instead-costs-him-600-a-month-for-life/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 02:02:43 +0000"
     },
     {
-      "title": "5 Stocks Analysts Upgraded On",
-      "summary": "Hotter inflation has pushed the Federal Reserve back toward rate increases, and the bond market is repricing around it. The Labor Department said consumer prices rose 0.4% in Octob",
-      "impact": "채권, 금리",
+      "title": "Techs Slide, Anthropic Retreats",
+      "summary": "Tech futures fell after the market suffered an ugly reversal, with the S&P 500 and Nasdaq hitting new lows. Anthropic retreated late after rising its IPO debut.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:55:32 +0000"
+    },
+    {
+      "title": "If you invested $1,000 in Bitcoin or",
+      "summary": "A $1,000 Bitcoin buy on Grand Theft Auto V’s launch day would be worth about $475,000 as GTA VI arrives. The same amount in gold would be worth $2,800.",
+      "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-upgraded-wednesday-153956464.html?.tsrc=rss",
-      "published": "Thu, 19 Nov 2026 15:39:56 +0000"
+      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-bitcoin-or-gold-instead-of-gta-v-heres-what-youd-have-today-?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:30:00 +0000"
+    },
+    {
+      "title": "The S&P 500 Just Fell 4 Straight",
+      "summary": "There's a big difference between a healthy pullback and the start of a bear market.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/11/19/the-s-and-p-500-just-fell-4-straight-weeks-from-a-record-high-here-s-why-i-m-buying-the-dip/?.tsrc=rss",
+      "published": "Fri, 20 Nov 2026 01:10:37 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.91",
-          "change": "+0.01%",
-          "direction": "up"
-        },
-        {
-          "name": "Brent",
-          "value": "89.70",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "Gold",
-          "value": "3686.20",
+          "value": "82.95",
           "change": "-0.04%",
           "direction": "down"
         },
         {
+          "name": "Brent",
+          "value": "90.03",
+          "change": "-0.03%",
+          "direction": "down"
+        },
+        {
+          "name": "Gold",
+          "value": "3557.10",
+          "change": "+0.03%",
+          "direction": "up"
+        },
+        {
           "name": "Copper",
-          "value": "5.63",
-          "change": "+0.01%",
+          "value": "5.49",
+          "change": "+0.06%",
           "direction": "up"
         }
       ],
       "trend": [
-        82.77999877929688,
-        82.9000015258789,
-        83.05999755859375,
-        83.0999984741211,
-        83.16000366210938,
-        83.05000305175781,
-        82.97000122070312,
+        82.80000305175781,
         82.80999755859375,
-        82.87000274658203,
+        82.76000213623047,
+        82.77999877929688,
+        82.77999877929688,
+        82.86000061035156,
         82.9000015258789,
-        82.91000366210938
+        82.9000015258789,
+        82.91999816894531,
+        82.9800033569336,
+        82.94999694824219
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-11-20 00:49 KST"
+      "status": "약세",
+      "freshness": "2026-11-20 11:05 KST"
     },
     {
       "id": "bonds",
@@ -208,39 +208,39 @@
         },
         {
           "name": "UST 5Y",
-          "value": "4.891%",
-          "change": "-0.04%",
+          "value": "4.866%",
+          "change": "-0.08%",
           "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "5.070%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.052%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.415%",
+          "value": "5.401%",
           "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        5.064000129699707,
-        5.064000129699707,
         5.059999942779541,
         5.059999942779541,
         5.059999942779541,
+        5.059999942779541,
+        5.058000087738037,
         5.056000232696533,
         5.059999942779541,
-        5.064000129699707,
-        5.067999839782715,
-        5.070000171661377,
-        5.070000171661377
+        5.059999942779541,
+        5.059999942779541,
+        5.053999900817871,
+        5.052000045776367
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-11-20 00:44 KST"
+      "status": "완화",
+      "freshness": "2026-11-20 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,45 +250,45 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7307.38",
-          "change": "+0.10%",
+          "value": "7177.56",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24501.78",
-          "change": "+0.10%",
+          "value": "23882.10",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "KOSPI",
-          "value": "5084.99",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "4903.61",
+          "change": "+0.02%",
+          "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6133.35",
-          "change": "+0.04%",
+          "value": "6120.02",
+          "change": "+0.00%",
           "direction": "up"
         }
       ],
       "trend": [
-        7285.0400390625,
-        7291.9501953125,
-        7289.93994140625,
-        7291.7998046875,
-        7290.31982421875,
-        7288.330078125,
-        7290.0,
-        7293.06982421875,
-        7301.5400390625,
-        7300.18994140625,
-        7307.3798828125
+        7187.2099609375,
+        7194.580078125,
+        7187.4501953125,
+        7194.10009765625,
+        7195.3701171875,
+        7193.06982421875,
+        7188.35986328125,
+        7183.56005859375,
+        7178.990234375,
+        7175.7099609375,
+        7177.56005859375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-20 00:59 KST"
+      "freshness": "2026-11-20 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.80",
+          "value": "103.94",
           "change": "+0.00%",
-          "direction": "up"
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1334.94",
-          "change": "-0.04%",
+          "value": "1337.59",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.82",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "159.30",
+          "change": "-0.00%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6660",
-          "change": "-0.21%",
-          "direction": "down"
+          "value": "6.6709",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1334.3499755859375,
-        1333.780029296875,
-        1333.5799560546875,
-        1334.1800537109375,
-        1334.6800537109375,
-        1334.0400390625,
-        1334.3299560546875,
-        1335.0899658203125,
-        1335.3599853515625,
-        1335.489990234375,
-        1334.93994140625
+        1337.9000244140625,
+        1338.3800048828125,
+        1338.6800537109375,
+        1338.1300048828125,
+        1338.280029296875,
+        1338.2900390625,
+        1338.300048828125,
+        1338.280029296875,
+        1337.8800048828125,
+        1337.8800048828125,
+        1337.5899658203125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "강세",
-      "freshness": "2026-11-20 00:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-20 11:15 KST"
     }
   ],
   "currentAction": {
