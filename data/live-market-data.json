@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "collectedAt": "2026-11-20T15:42:58Z",
+  "collectedAt": "2026-11-21T02:08:16Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.13%",
+      "value": "+0.30%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "-0.16%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.04%",
+      "value": "+0.05%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "-0.02%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nasdaq Slides As AI Trade, IPO",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+      "title": "UBS flags resilient commodity",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Investing.com -- UBS sees continued investment opportunities in critical minerals and power infrastructure as rising electricity demand, artificial intelligence spending, and elect",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-resilient-commodity-investment-015801247.html?.tsrc=rss"
     },
     {
-      "title": "Redburn Downgraded Broadcom (AVGO)",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "We just published a list of the 10 Potential Multibagger Stocks to Research for Long-Term Growth and Broadcom (NASDAQ:AVGO) ranked 6th on this list. Reuters reported on November 5 ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-152421728.html?.tsrc=rss"
+      "title": "North Dakota oil numbers up again,",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Nov. 20—BISMARCK — The latest numbers for North Dakota oil production show positive signs and a few hitches that experts said will merit watching in the coming months. The North Da",
+      "link": "https://www.grandforksherald.com/news/north-dakota/north-dakota-oil-numbers-up-again-but-prices-expected-to-level-off-into-2027?.tsrc=rss"
     },
     {
-      "title": "Can Tesla (TSLA) Robotaxis Catch",
+      "title": "Nasdaq 100 Ends Worst Week Since",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "We just published a list of the 10 Potential Multibagger Stocks to Research for Long-Term Growth and Tesla (NASDAQ:TSLA) ranked 8th on this list. Reuters reported on November 5 tha",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-robotaxis-catch-waymo-152348510.html?.tsrc=rss"
+      "summary": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss"
     },
     {
-      "title": "Stocks plunge as investors take",
+      "title": "Nasdaq approaches concerning",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
-      "link": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/?.tsrc=rss"
+      "summary": "The Nasdaq finished out the week by setting the wrong kind of record, while inching closer to a concerning milestone.",
+      "link": "https://www.thestreet.com/latest-news/nasdaq-approaches-concerning-milestone-ahead-of-thanksgiving-holiday?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nasdaq Slides As AI Trade, IPO",
-      "summary": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 15:31:04 +0000"
+      "title": "UBS flags resilient commodity",
+      "summary": "Investing.com -- UBS sees continued investment opportunities in critical minerals and power infrastructure as rising electricity demand, artificial intelligence spending, and elect",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-resilient-commodity-investment-015801247.html?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 01:58:01 +0000"
     },
     {
-      "title": "Redburn Downgraded Broadcom (AVGO)",
-      "summary": "We just published a list of the 10 Potential Multibagger Stocks to Research for Long-Term Growth and Broadcom (NASDAQ:AVGO) ranked 6th on this list. Reuters reported on November 5 ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-redburn-downgraded-broadcom-avgo-152421728.html?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 15:24:21 +0000"
+      "title": "North Dakota oil numbers up again,",
+      "summary": "Nov. 20—BISMARCK — The latest numbers for North Dakota oil production show positive signs and a few hitches that experts said will merit watching in the coming months. The North Da",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.grandforksherald.com/news/north-dakota/north-dakota-oil-numbers-up-again-but-prices-expected-to-level-off-into-2027?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 01:36:00 +0000"
     },
     {
-      "title": "Can Tesla (TSLA) Robotaxis Catch",
-      "summary": "We just published a list of the 10 Potential Multibagger Stocks to Research for Long-Term Growth and Tesla (NASDAQ:TSLA) ranked 8th on this list. Reuters reported on November 5 tha",
+      "title": "Nasdaq 100 Ends Worst Week Since",
+      "summary": "Anthropic closed 8.5% lower on Friday, a day after gaining 17% in its debut.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-robotaxis-catch-waymo-152348510.html?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 15:23:48 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 01:30:25 +0000"
     },
     {
-      "title": "Stocks plunge as investors take",
-      "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
+      "title": "Nasdaq approaches concerning",
+      "summary": "The Nasdaq finished out the week by setting the wrong kind of record, while inching closer to a concerning milestone.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/?.tsrc=rss",
-      "published": "Fri, 20 Nov 2026 15:23:30 +0000"
+      "link": "https://www.thestreet.com/latest-news/nasdaq-approaches-concerning-milestone-ahead-of-thanksgiving-holiday?.tsrc=rss",
+      "published": "Sat, 21 Nov 2026 01:26:05 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.61",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "83.62",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "88.20",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "89.87",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Gold",
-          "value": "3544.30",
-          "change": "+0.14%",
+          "value": "3539.00",
+          "change": "+0.01%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.51",
-          "change": "-0.04%",
+          "value": "5.47",
+          "change": "-0.02%",
           "direction": "down"
         }
       ],
       "trend": [
-        81.41000366210938,
-        81.41999816894531,
-        81.37999725341797,
-        81.37999725341797,
-        81.37000274658203,
-        81.37000274658203,
-        81.5199966430664,
-        81.63999938964844,
-        81.6500015258789,
-        81.63999938964844,
-        81.61000061035156
+        83.58000183105469,
+        83.54000091552734,
+        83.61000061035156,
+        83.56999969482422,
+        83.55999755859375,
+        83.58999633789062,
+        83.55000305175781,
+        83.56999969482422,
+        83.56999969482422,
+        83.58000183105469,
+        83.62000274658203
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-21 00:32 KST"
+      "status": "강세",
+      "freshness": "2026-11-21 06:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.147%",
+          "value": "4.122%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.749%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.701%",
+          "change": "-0.19%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.954%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.912%",
+          "change": "-0.16%",
+          "direction": "down"
         },
         {
           "name": "UST 30Y",
-          "value": "5.341%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.303%",
+          "change": "-0.06%",
+          "direction": "down"
         }
       ],
       "trend": [
-        4.9679999351501465,
-        4.9679999351501465,
-        4.9639997482299805,
-        4.9679999351501465,
-        4.9639997482299805,
-        4.960000038146973,
-        4.960000038146973,
-        4.958000183105469,
-        4.953999996185303,
-        4.953999996185303,
-        4.953999996185303
+        4.914000034332275,
+        4.915999889373779,
+        4.911999702453613,
+        4.914000034332275,
+        4.915999889373779,
+        4.918000221252441,
+        4.921999931335449,
+        4.921999931335449,
+        4.920000076293945,
+        4.920000076293945,
+        4.911999702453613
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-11-21 00:27 KST"
+      "status": "완화",
+      "freshness": "2026-11-21 04:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7100.78",
-          "change": "-0.13%",
-          "direction": "down"
+          "value": "6918.45",
+          "change": "+0.30%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "23361.93",
-          "change": "-0.19%",
-          "direction": "down"
+          "value": "22651.52",
+          "change": "+0.34%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "5957.16",
-          "change": "-0.01%",
+          "value": "5951.97",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
       "trend": [
-        7106.3798828125,
-        7110.52978515625,
-        7108.7998046875,
-        7108.31982421875,
-        7111.0400390625,
-        7101.990234375,
-        7106.02978515625,
-        7114.35986328125,
-        7108.7099609375,
-        7109.7998046875,
-        7100.77978515625
+        6955.10986328125,
+        6937.759765625,
+        6924.81982421875,
+        6923.6201171875,
+        6918.83984375,
+        6914.759765625,
+        6888.8701171875,
+        6890.43017578125,
+        6891.27978515625,
+        6897.419921875,
+        6918.4501953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-11-21 00:42 KST"
+      "status": "강세",
+      "freshness": "2026-11-21 05:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.69",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1339.76",
-          "change": "+0.02%",
+          "value": "103.84",
+          "change": "+0.00%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1346.13",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
           "name": "USDJPY",
-          "value": "158.67",
+          "value": "158.51",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6612",
+          "value": "6.6765",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1339.47998046875,
-        1338.9300537109375,
-        1339.199951171875,
-        1339.3800048828125,
-        1339.280029296875,
-        1339.3800048828125,
-        1339.5799560546875,
-        1339.3800048828125,
-        1339.300048828125,
-        1339.47998046875,
-        1339.760009765625
+        1346.0,
+        1345.9300537109375,
+        1346.1099853515625,
+        1345.760009765625,
+        1345.8599853515625,
+        1346.1099853515625,
+        1345.6700439453125,
+        1345.7099609375,
+        1346.1300048828125,
+        1346.1300048828125,
+        1346.1300048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-21 00:42 KST"
+      "status": "강세",
+      "freshness": "2026-11-21 07:36 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
