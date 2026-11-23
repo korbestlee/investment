@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "collectedAt": "2026-11-23T11:24:37Z",
+  "date": "2026-11-24",
+  "collectedAt": "2026-11-23T18:41:10Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.30%",
+      "value": "+0.02%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.16%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.01%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.05%",
+      "value": "-0.04%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "The Fed isn't riding to the rescue",
+      "title": "Wall Street isn't pricing in a data",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Every correction that hit with inflation speeding up this fast became a bear market, and the Fed still wants to hike.",
-      "link": "https://finance.yahoo.com/markets/article/the-fed-isnt-riding-to-the-rescue--wall-street-still-sees-a-december-rate-hike-after-techs-worst-week-since-2020-chart-of-the-day-110000273.html?.tsrc=rss"
+      "summary": "Turney Duff, Wall Street Veteran and \"The Buy Side\" author, and his group of experts weigh in on whether the market sell-off is over. Today's panel includes SHAKTI Partner Liz Harr",
+      "link": "https://finance.yahoo.com/video/wall-street-isnt-pricing-in-a-data-center-slowdown-strategist-warns-182752266.html?.tsrc=rss"
     },
     {
-      "title": "Big Tech Rebound on Wall Street",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Wall Street futures pointed sharply higher pre-bell Monday, as traders looked for relative bargains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-rebound-wall-street-111142735.html?.tsrc=rss"
-    },
-    {
-      "title": "Gold Price Today on November 23,",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "See daily price updates, percentage changes and more about precious metals and personal finance at USA TODAY Money.",
-      "link": "https://www.usatoday.com/story/money/investing/2026/11/23/gold-price-on-november-23-2026/92922402007/?.tsrc=rss"
-    },
-    {
-      "title": "Is the stock market open on",
+      "title": "Is GlobalFoundries (GFS) Stock Up",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
-      "link": "https://www.usatoday.com/story/money/markets/2026/11/23/stock-market-thanksgiving-black-friday-2026/92761427007/?.tsrc=rss"
+      "summary": "On Monday, Nov. 23, the stock rose 11.7% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-globalfoundries-gfs-stock-today-183102007.html?.tsrc=rss"
+    },
+    {
+      "title": "Is nVent (NVT) Stock Up Today? Peers",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "On Monday, Nov. 23, nVent rose 10.8% alongside AI hardware peers after Nvidia reinstated Jensen Huang as CEO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvent-nvt-stock-today-183049742.html?.tsrc=rss"
+    },
+    {
+      "title": "TTM Technologies (TTMI) Stock Is",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "On Monday, Nov. 23, shares rose 17.5% as AI hardware stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-stock-183047529.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "The Fed isn't riding to the rescue",
-      "summary": "Every correction that hit with inflation speeding up this fast became a bear market, and the Fed still wants to hike.",
+      "title": "Wall Street isn't pricing in a data",
+      "summary": "Turney Duff, Wall Street Veteran and \"The Buy Side\" author, and his group of experts weigh in on whether the market sell-off is over. Today's panel includes SHAKTI Partner Liz Harr",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/article/the-fed-isnt-riding-to-the-rescue--wall-street-still-sees-a-december-rate-hike-after-techs-worst-week-since-2020-chart-of-the-day-110000273.html?.tsrc=rss",
-      "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+      "link": "https://finance.yahoo.com/video/wall-street-isnt-pricing-in-a-data-center-slowdown-strategist-warns-182752266.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 18:27:52 +0000"
     },
     {
-      "title": "Big Tech Rebound on Wall Street",
-      "summary": "Wall Street futures pointed sharply higher pre-bell Monday, as traders looked for relative bargains",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-rebound-wall-street-111142735.html?.tsrc=rss",
-      "published": "Mon, 23 Nov 2026 11:11:42 +0000"
-    },
-    {
-      "title": "Gold Price Today on November 23,",
-      "summary": "See daily price updates, percentage changes and more about precious metals and personal finance at USA TODAY Money.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://www.usatoday.com/story/money/investing/2026/11/23/gold-price-on-november-23-2026/92922402007/?.tsrc=rss",
-      "published": "Mon, 23 Nov 2026 11:09:54 +0000"
-    },
-    {
-      "title": "Is the stock market open on",
-      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "title": "Is GlobalFoundries (GFS) Stock Up",
+      "summary": "On Monday, Nov. 23, the stock rose 11.7% as chip stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.usatoday.com/story/money/markets/2026/11/23/stock-market-thanksgiving-black-friday-2026/92761427007/?.tsrc=rss",
-      "published": "Mon, 23 Nov 2026 11:04:15 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-globalfoundries-gfs-stock-today-183102007.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 18:31:02 +0000"
+    },
+    {
+      "title": "Is nVent (NVT) Stock Up Today? Peers",
+      "summary": "On Monday, Nov. 23, nVent rose 10.8% alongside AI hardware peers after Nvidia reinstated Jensen Huang as CEO",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nvent-nvt-stock-today-183049742.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 18:30:49 +0000"
+    },
+    {
+      "title": "TTM Technologies (TTMI) Stock Is",
+      "summary": "On Monday, Nov. 23, shares rose 17.5% as AI hardware stocks rallied after Nvidia reinstated Jensen Huang as CEO.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-stock-183047529.html?.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 18:30:47 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.19",
+          "value": "81.08",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "Brent",
+          "value": "87.43",
+          "change": "+0.00%",
+          "direction": "neutral"
+        },
+        {
+          "name": "Gold",
+          "value": "3652.20",
           "change": "+0.01%",
           "direction": "up"
         },
         {
-          "name": "Brent",
-          "value": "88.36",
-          "change": "-0.01%",
-          "direction": "down"
-        },
-        {
-          "name": "Gold",
-          "value": "3620.70",
-          "change": "-0.02%",
-          "direction": "down"
-        },
-        {
           "name": "Copper",
-          "value": "5.52",
-          "change": "-0.05%",
+          "value": "5.64",
+          "change": "-0.04%",
           "direction": "down"
         }
       ],
       "trend": [
-        82.4000015258789,
-        82.4000015258789,
-        82.37000274658203,
-        82.30000305175781,
-        82.33999633789062,
-        82.31999969482422,
-        82.2699966430664,
-        82.26000213623047,
-        82.25,
-        82.18000030517578,
-        82.19000244140625
+        81.02999877929688,
+        81.02999877929688,
+        81.0,
+        81.0,
+        81.01000213623047,
+        81.0999984741211,
+        81.05999755859375,
+        81.08000183105469,
+        81.06999969482422,
+        81.08000183105469,
+        81.08000183105469
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-11-23 20:14 KST"
+      "status": "중립",
+      "freshness": "2026-11-24 03:31 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.122%",
+          "value": "4.150%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.701%",
-          "change": "-0.19%",
-          "direction": "down"
+          "value": "4.756%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.912%",
-          "change": "-0.16%",
-          "direction": "down"
+          "value": "4.940%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.303%",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "5.306%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.914000034332275,
-        4.915999889373779,
-        4.911999702453613,
-        4.914000034332275,
-        4.915999889373779,
-        4.918000221252441,
-        4.921999931335449,
-        4.921999931335449,
-        4.920000076293945,
-        4.920000076293945,
-        4.911999702453613
+        4.940000057220459,
+        4.943999767303467,
+        4.941999912261963,
+        4.941999912261963,
+        4.943999767303467,
+        4.940000057220459,
+        4.940000057220459,
+        4.940000057220459,
+        4.940000057220459,
+        4.940000057220459,
+        4.940000057220459
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-11-21 04:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-24 03:26 KST"
     },
     {
       "id": "indices",
@@ -250,14 +250,14 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "6918.45",
-          "change": "+0.30%",
+          "value": "7236.92",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "22651.52",
-          "change": "+0.34%",
+          "value": "24094.07",
+          "change": "+0.02%",
           "direction": "up"
         },
         {
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "5996.72",
+          "value": "6078.42",
           "change": "+0.02%",
           "direction": "up"
         }
       ],
       "trend": [
-        6955.10986328125,
-        6937.759765625,
-        6924.81982421875,
-        6923.6201171875,
-        6918.83984375,
-        6914.759765625,
-        6888.8701171875,
-        6890.43017578125,
-        6891.27978515625,
-        6897.419921875,
-        6918.4501953125
+        7258.06982421875,
+        7255.43994140625,
+        7256.47998046875,
+        7257.18994140625,
+        7254.6298828125,
+        7249.5400390625,
+        7244.77978515625,
+        7240.5498046875,
+        7235.81005859375,
+        7235.2998046875,
+        7236.919921875
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
       "status": "강세",
-      "freshness": "2026-11-21 05:59 KST"
+      "freshness": "2026-11-24 03:41 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.88",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "104.47",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1346.68",
+          "value": "1341.76",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.07",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "159.16",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6534",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6638",
+          "change": "+0.14%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1345.969970703125,
-        1346.6800537109375,
-        1346.219970703125,
-        1346.06005859375,
-        1346.280029296875,
-        1346.1700439453125,
-        1346.1400146484375,
-        1345.9599609375,
-        1345.97998046875,
-        1346.780029296875,
-        1346.6800537109375
+        1342.25,
+        1342.18994140625,
+        1341.780029296875,
+        1341.8499755859375,
+        1341.97998046875,
+        1341.7900390625,
+        1342.0,
+        1342.56005859375,
+        1342.02001953125,
+        1341.9200439453125,
+        1341.760009765625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-23 20:24 KST"
+      "status": "강세",
+      "freshness": "2026-11-24 03:41 KST"
     }
   ],
   "currentAction": {
