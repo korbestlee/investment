@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "collectedAt": "2026-11-24T12:59:43Z",
+  "date": "2026-11-25",
+  "collectedAt": "2026-11-24T18:12:54Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,13 +34,13 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.09%",
+      "value": "+0.03%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "+0.00%",
+      "value": "+0.04%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.11%",
+      "value": "-0.09%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.05%",
+      "value": "-0.13%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Jensen Huang's return revives an old",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "summary": "Investors have often cheered when big-name CEOs like Jensen Huang return.",
-      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-return-revives-an-old-wall-street-trade-bet-on-the-comeback-ceo-124308005.html?.tsrc=rss"
-    },
-    {
-      "title": "Evergold Intersects 75.9 Metres of",
-      "impact": "원자재, 인플레 기대",
+      "title": "Wall Street's 2027 earnings hopes",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Every hole on the northern fence hits a broad mineralized zone; GL1 extends northwest, gold continuous at depth to southeastHIGHLIGHTS * GL26-034, broadest interval of the program:",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/evergold-intersects-75-9-metres-124500003.html?.tsrc=rss"
+      "summary": "Stocks are replaying 2018, only this time inflation keeps the Fed from riding to the rescue.",
+      "link": "https://finance.yahoo.com/markets/article/wall-streets-2027-earnings-hopes-may-be-dead-on-arrival-unless-the-fed-blinks-in-december-174154719.html?.tsrc=rss"
     },
     {
-      "title": "Kiyosaki sounds alarm on US economic",
-      "impact": "시장 전반",
+      "title": "Jim Cramer’s Trust Bought More",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "“Gutless” bureaucrats are to blame, among others, according to Kiyosaki.",
-      "link": "https://finance.yahoo.com/economy/articles/kiyosaki-sounds-alarm-us-economic-123000586.html?.tsrc=rss"
+      "summary": "We just published Don’t Panic, Buy These Instead: Jim Cramer’s Emergency 10-Stock Portfolio, and The Boeing Company (NYSE:BA) ranked 6th on this list. By November 18, the S&P 500 h",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-trust-bought-180241430.html?.tsrc=rss"
     },
     {
-      "title": "Gold price today, Tuesday, November",
-      "impact": "원자재, 인플레 기대",
+      "title": "Jim Cramer Thought FedEx Could Gain",
+      "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Gold futures opened at $3,636.40 per troy ounce on Tuesday, November 24, 2026, up 1.8% from Monday's opening price. Gold is edging down in early trading to $3,628.90 as of 7:14 a.m",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-24-2026-gold-prices-improve-lift-from-14-month-lows-121821092.html?.tsrc=rss"
+      "summary": "We just published Don’t Panic, Buy These Instead: Jim Cramer’s Emergency 10-Stock Portfolio, and FedEx Corporation (NYSE:FDX) ranked 8th on this list. By November 18, the S&P 500 h",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-thought-fedex-180223217.html?.tsrc=rss"
+    },
+    {
+      "title": "Is Arrow Electronics (ARW) Stock",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "On Tuesday, Nov. 24, the stock fell 5.6% as a semiconductor selloff hit electronics distributors",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-arrow-electronics-arw-stock-180053814.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Jensen Huang's return revives an old",
-      "summary": "Investors have often cheered when big-name CEOs like Jensen Huang return.",
-      "impact": "시장 전반",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-return-revives-an-old-wall-street-trade-bet-on-the-comeback-ceo-124308005.html?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 12:43:08 +0000"
-    },
-    {
-      "title": "Evergold Intersects 75.9 Metres of",
-      "summary": "Every hole on the northern fence hits a broad mineralized zone; GL1 extends northwest, gold continuous at depth to southeastHIGHLIGHTS * GL26-034, broadest interval of the program:",
-      "impact": "원자재, 인플레 기대",
+      "title": "Wall Street's 2027 earnings hopes",
+      "summary": "Stocks are replaying 2018, only this time inflation keeps the Fed from riding to the rescue.",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/evergold-intersects-75-9-metres-124500003.html?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 12:45:00 +0000"
+      "link": "https://finance.yahoo.com/markets/article/wall-streets-2027-earnings-hopes-may-be-dead-on-arrival-unless-the-fed-blinks-in-december-174154719.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 17:41:54 +0000"
     },
     {
-      "title": "Kiyosaki sounds alarm on US economic",
-      "summary": "“Gutless” bureaucrats are to blame, among others, according to Kiyosaki.",
-      "impact": "시장 전반",
+      "title": "Jim Cramer’s Trust Bought More",
+      "summary": "We just published Don’t Panic, Buy These Instead: Jim Cramer’s Emergency 10-Stock Portfolio, and The Boeing Company (NYSE:BA) ranked 6th on this list. By November 18, the S&P 500 h",
+      "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/economy/articles/kiyosaki-sounds-alarm-us-economic-123000586.html?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 12:30:00 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-trust-bought-180241430.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 18:02:41 +0000"
     },
     {
-      "title": "Gold price today, Tuesday, November",
-      "summary": "Gold futures opened at $3,636.40 per troy ounce on Tuesday, November 24, 2026, up 1.8% from Monday's opening price. Gold is edging down in early trading to $3,628.90 as of 7:14 a.m",
-      "impact": "원자재, 인플레 기대",
+      "title": "Jim Cramer Thought FedEx Could Gain",
+      "summary": "We just published Don’t Panic, Buy These Instead: Jim Cramer’s Emergency 10-Stock Portfolio, and FedEx Corporation (NYSE:FDX) ranked 8th on this list. By November 18, the S&P 500 h",
+      "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-24-2026-gold-prices-improve-lift-from-14-month-lows-121821092.html?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 12:18:21 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-thought-fedex-180223217.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 18:02:23 +0000"
+    },
+    {
+      "title": "Is Arrow Electronics (ARW) Stock",
+      "summary": "On Tuesday, Nov. 24, the stock fell 5.6% as a semiconductor selloff hit electronics distributors",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-arrow-electronics-arw-stock-180053814.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 18:00:53 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.44",
-          "change": "+0.11%",
-          "direction": "up"
+          "value": "81.34",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "87.11",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "87.86",
+          "change": "-0.14%",
+          "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3642.50",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "3563.90",
+          "change": "-0.09%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "5.54",
-          "change": "+0.05%",
-          "direction": "up"
+          "value": "5.45",
+          "change": "-0.13%",
+          "direction": "down"
         }
       ],
       "trend": [
-        80.20999908447266,
-        80.18000030517578,
-        80.13999938964844,
-        80.19999694824219,
-        80.2699966430664,
-        80.27999877929688,
-        80.2699966430664,
-        80.26000213623047,
-        80.23999786376953,
-        80.3499984741211,
-        80.44000244140625
+        81.3499984741211,
+        81.33999633789062,
+        81.3499984741211,
+        81.36000061035156,
+        81.3499984741211,
+        81.4000015258789,
+        81.37999725341797,
+        81.3499984741211,
+        81.4000015258789,
+        81.41000366210938,
+        81.33999633789062
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-11-24 21:49 KST"
+      "status": "약세",
+      "freshness": "2026-11-25 03:02 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.147%",
+          "value": "4.168%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.728%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "4.721%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 10Y",
-          "value": "4.918%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.906%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 30Y",
-          "value": "5.294%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "5.291%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.921999931335449,
-        4.920000076293945,
-        4.920000076293945,
-        4.920000076293945,
-        4.921999931335449,
-        4.921999931335449,
-        4.920000076293945,
-        4.921999931335449,
-        4.920000076293945,
-        4.918000221252441,
-        4.918000221252441
+        4.904000282287598,
+        4.904000282287598,
+        4.906000137329102,
+        4.906000137329102,
+        4.904000282287598,
+        4.904000282287598,
+        4.904000282287598,
+        4.904000282287598,
+        4.906000137329102,
+        4.904000282287598,
+        4.906000137329102
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "중립",
-      "freshness": "2026-11-24 04:59 KST"
+      "status": "압박",
+      "freshness": "2026-11-25 02:57 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7236.85",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "7199.72",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24092.36",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "23730.62",
+          "change": "+0.05%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "6038.28",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "6003.93",
+          "change": "-0.03%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7258.7998046875,
-        7242.35009765625,
-        7242.22021484375,
-        7239.10986328125,
-        7239.6201171875,
-        7237.56005859375,
-        7235.5400390625,
-        7240.7001953125,
-        7244.7099609375,
-        7243.56982421875,
-        7236.85009765625
+        7206.14990234375,
+        7206.93017578125,
+        7204.10009765625,
+        7206.1298828125,
+        7208.6298828125,
+        7201.18017578125,
+        7200.7001953125,
+        7199.740234375,
+        7199.35986328125,
+        7197.41015625,
+        7199.72021484375
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-11-24 05:59 KST"
+      "status": "강세",
+      "freshness": "2026-11-25 03:12 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.90",
+          "value": "103.77",
           "change": "+0.00%",
-          "direction": "neutral"
+          "direction": "up"
         },
         {
           "name": "USDKRW",
-          "value": "1343.31",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1342.81",
+          "change": "+0.00%",
+          "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.15",
+          "value": "159.23",
           "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6503",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6532",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1343.1400146484375,
-        1343.0799560546875,
-        1343.0899658203125,
-        1343.3199462890625,
-        1343.1700439453125,
-        1342.93994140625,
-        1343.22998046875,
-        1343.1600341796875,
-        1343.3800048828125,
-        1343.4200439453125,
-        1343.31005859375
+        1342.6400146484375,
+        1342.8699951171875,
+        1342.6500244140625,
+        1342.8499755859375,
+        1342.81005859375,
+        1342.8299560546875,
+        1342.6500244140625,
+        1342.56005859375,
+        1342.8199462890625,
+        1342.760009765625,
+        1342.81005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-24 21:59 KST"
+      "status": "강세",
+      "freshness": "2026-11-25 03:12 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
