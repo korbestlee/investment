@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "collectedAt": "2026-11-24T05:17:27Z",
+  "collectedAt": "2026-11-24T12:59:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.06%",
+      "value": "+0.11%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.05%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Nvidia shares soar more than 30%",
+      "title": "Jensen Huang's return revives an old",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Nvidia shares soared more than 30% Monday and had their third-best day on record after the company announced it reinstated Jensen Huang as CEO and president, effective immediately.",
-      "link": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl?.tsrc=rss"
+      "summary": "Investors have often cheered when big-name CEOs like Jensen Huang return.",
+      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-return-revives-an-old-wall-street-trade-bet-on-the-comeback-ceo-124308005.html?.tsrc=rss"
     },
     {
-      "title": "Asian stocks rally as Taiwan leads",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Investing.com -- Most Asian stocks rallied on Tuesday, with Taiwan leading regional gains as Nvidia’s reinstatement of founder Jensen Huang revived enthusiasm for the artificial-in",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-taiwan-leads-040100960.html?.tsrc=rss"
+      "title": "Evergold Intersects 75.9 Metres of",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Every hole on the northern fence hits a broad mineralized zone; GL1 extends northwest, gold continuous at depth to southeastHIGHLIGHTS * GL26-034, broadest interval of the program:",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/evergold-intersects-75-9-metres-124500003.html?.tsrc=rss"
     },
     {
-      "title": "He correctly said the S&P 500 would",
-      "impact": "지수, 위험선호",
+      "title": "Kiyosaki sounds alarm on US economic",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "The long-time analyst reset his S&P 500 outlook after stocks entered correction territory.",
-      "link": "https://www.thestreet.com/investing/he-correctly-said-the-s-now-morgan-stanleys-mike-wilson-has-another-gutsy-forecast?.tsrc=rss"
+      "summary": "“Gutless” bureaucrats are to blame, among others, according to Kiyosaki.",
+      "link": "https://finance.yahoo.com/economy/articles/kiyosaki-sounds-alarm-us-economic-123000586.html?.tsrc=rss"
     },
     {
-      "title": "Nasdaq, Dow, S&P 500 Futures Gain As",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Optimism on Wall Street soared after Nvidia announced that Huang would return as President, CEO, and board member of the company.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-nasdaq-dow-futures-rise-jensen-huang-returns-nvidia/cNbrsSNR9jM?.tsrc=rss"
+      "title": "Gold price today, Tuesday, November",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Gold futures opened at $3,636.40 per troy ounce on Tuesday, November 24, 2026, up 1.8% from Monday's opening price. Gold is edging down in early trading to $3,628.90 as of 7:14 a.m",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-24-2026-gold-prices-improve-lift-from-14-month-lows-121821092.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Nvidia shares soar more than 30%",
-      "summary": "Nvidia shares soared more than 30% Monday and had their third-best day on record after the company announced it reinstated Jensen Huang as CEO and president, effective immediately.",
+      "title": "Jensen Huang's return revives an old",
+      "summary": "Investors have often cheered when big-name CEOs like Jensen Huang return.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 04:23:57 +0000"
+      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-return-revives-an-old-wall-street-trade-bet-on-the-comeback-ceo-124308005.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 12:43:08 +0000"
     },
     {
-      "title": "Asian stocks rally as Taiwan leads",
-      "summary": "Investing.com -- Most Asian stocks rallied on Tuesday, with Taiwan leading regional gains as Nvidia’s reinstatement of founder Jensen Huang revived enthusiasm for the artificial-in",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-rally-taiwan-leads-040100960.html?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 04:01:00 +0000"
+      "title": "Evergold Intersects 75.9 Metres of",
+      "summary": "Every hole on the northern fence hits a broad mineralized zone; GL1 extends northwest, gold continuous at depth to southeastHIGHLIGHTS * GL26-034, broadest interval of the program:",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/evergold-intersects-75-9-metres-124500003.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 12:45:00 +0000"
     },
     {
-      "title": "He correctly said the S&P 500 would",
-      "summary": "The long-time analyst reset his S&P 500 outlook after stocks entered correction territory.",
-      "impact": "지수, 위험선호",
+      "title": "Kiyosaki sounds alarm on US economic",
+      "summary": "“Gutless” bureaucrats are to blame, among others, according to Kiyosaki.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://www.thestreet.com/investing/he-correctly-said-the-s-now-morgan-stanleys-mike-wilson-has-another-gutsy-forecast?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 03:03:00 +0000"
+      "link": "https://finance.yahoo.com/economy/articles/kiyosaki-sounds-alarm-us-economic-123000586.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 12:30:00 +0000"
     },
     {
-      "title": "Nasdaq, Dow, S&P 500 Futures Gain As",
-      "summary": "Optimism on Wall Street soared after Nvidia announced that Huang would return as President, CEO, and board member of the company.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-nasdaq-dow-futures-rise-jensen-huang-returns-nvidia/cNbrsSNR9jM?.tsrc=rss",
-      "published": "Tue, 24 Nov 2026 02:13:43 +0000"
+      "title": "Gold price today, Tuesday, November",
+      "summary": "Gold futures opened at $3,636.40 per troy ounce on Tuesday, November 24, 2026, up 1.8% from Monday's opening price. Gold is edging down in early trading to $3,628.90 as of 7:14 a.m",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-24-2026-gold-prices-improve-lift-from-14-month-lows-121821092.html?.tsrc=rss",
+      "published": "Tue, 24 Nov 2026 12:18:21 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "79.55",
-          "change": "+0.06%",
+          "value": "80.44",
+          "change": "+0.11%",
           "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "86.07",
-          "change": "+0.01%",
+          "value": "87.11",
+          "change": "+0.08%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3638.90",
-          "change": "+0.01%",
+          "value": "3642.50",
+          "change": "+0.05%",
           "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.51",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "5.54",
+          "change": "+0.05%",
+          "direction": "up"
         }
       ],
       "trend": [
-        79.5999984741211,
-        79.5999984741211,
-        79.58999633789062,
-        79.58000183105469,
-        79.55000305175781,
-        79.55999755859375,
-        79.56999969482422,
-        79.55000305175781,
-        79.5,
-        79.5,
-        79.55000305175781
+        80.20999908447266,
+        80.18000030517578,
+        80.13999938964844,
+        80.19999694824219,
+        80.2699966430664,
+        80.27999877929688,
+        80.2699966430664,
+        80.26000213623047,
+        80.23999786376953,
+        80.3499984741211,
+        80.44000244140625
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
       "status": "강세",
-      "freshness": "2026-11-24 14:07 KST"
+      "freshness": "2026-11-24 21:49 KST"
     },
     {
       "id": "bonds",
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "5038.76",
-          "change": "-0.02%",
+          "value": "5038.81",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6078.42",
-          "change": "+0.02%",
+          "value": "6038.28",
+          "change": "+0.01%",
           "direction": "up"
         }
       ],
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "104.28",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "103.90",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1342.76",
+          "value": "1343.31",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.05",
-          "change": "-0.01%",
+          "value": "159.15",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6603",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6503",
+          "change": "-0.00%",
+          "direction": "down"
         }
       ],
       "trend": [
-        1341.8900146484375,
-        1341.47998046875,
-        1342.219970703125,
-        1342.1800537109375,
-        1342.1500244140625,
-        1342.5799560546875,
-        1342.1199951171875,
-        1342.8800048828125,
-        1343.1800537109375,
-        1342.9200439453125,
-        1342.760009765625
+        1343.1400146484375,
+        1343.0799560546875,
+        1343.0899658203125,
+        1343.3199462890625,
+        1343.1700439453125,
+        1342.93994140625,
+        1343.22998046875,
+        1343.1600341796875,
+        1343.3800048828125,
+        1343.4200439453125,
+        1343.31005859375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-24 14:17 KST"
+      "status": "중립",
+      "freshness": "2026-11-24 21:59 KST"
     }
   ],
   "currentAction": {
