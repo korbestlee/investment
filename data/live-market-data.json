@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "collectedAt": "2026-11-25T04:06:30Z",
+  "collectedAt": "2026-11-25T11:49:10Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.00%",
+      "value": "+0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.01%",
+      "value": "+0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.01%",
+      "value": "+0.01%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall; Trump Says",
+      "title": "Dow Jones Futures Fall, Techs",
       "impact": "채권, 금리",
       "importance": "high",
       "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
-      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss"
+      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
     },
     {
-      "title": "Another Wall Street analyst revamps",
+      "title": "The S&P 500 Entered Correction",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Here’s what the longtime analyst thinks could happen to stocks next.",
-      "link": "https://www.thestreet.com/investing/another-wall-street-analyst-revamps-stock-market-outlook-as-volatility-surges?.tsrc=rss"
+      "summary": "History offers us interesting insight.",
+      "link": "https://www.fool.com/investing/2026/11/25/the-s-and-p-500-entered-correction-territory-here-s-what-history-says-happens-next/?.tsrc=rss"
     },
     {
-      "title": "Gold holds near 15-mth lows on Fed",
+      "title": "AI Anxiety Rules Wall Street",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Wall Street futures pointed lower pre-bell Wednesday, as traders balked again at rich valuations chi",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-anxiety-rules-wall-street-112810095.html?.tsrc=rss"
+    },
+    {
+      "title": "History Says This Simple Investing",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Investing.com-- Gold prices were little changed in Asian trading on Wednesday, remaining near a 15-month low, as expectations of a Federal Reserve interest rate hike next month con",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-15-mth-032814171.html?.tsrc=rss"
-    },
-    {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "U.S. stock markets closed another volatile session on Tuesday as technology stocks sold off amid declines in NVDA and ANT shares after a massive rally the day before.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ?.tsrc=rss"
+      "summary": "There is such a thing as “set it and forget it” in the investing world. You just need to choose the right investment vehicle.",
+      "link": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall; Trump Says",
+      "title": "Dow Jones Futures Fall, Techs",
       "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 04:04:33 +0000"
+      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 11:39:39 +0000"
     },
     {
-      "title": "Another Wall Street analyst revamps",
-      "summary": "Here’s what the longtime analyst thinks could happen to stocks next.",
+      "title": "The S&P 500 Entered Correction",
+      "summary": "History offers us interesting insight.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.thestreet.com/investing/another-wall-street-analyst-revamps-stock-market-outlook-as-volatility-surges?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 03:53:00 +0000"
+      "link": "https://www.fool.com/investing/2026/11/25/the-s-and-p-500-entered-correction-territory-here-s-what-history-says-happens-next/?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 11:30:02 +0000"
     },
     {
-      "title": "Gold holds near 15-mth lows on Fed",
-      "summary": "Investing.com-- Gold prices were little changed in Asian trading on Wednesday, remaining near a 15-month low, as expectations of a Federal Reserve interest rate hike next month con",
+      "title": "AI Anxiety Rules Wall Street",
+      "summary": "Wall Street futures pointed lower pre-bell Wednesday, as traders balked again at rich valuations chi",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-anxiety-rules-wall-street-112810095.html?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 11:28:10 +0000"
+    },
+    {
+      "title": "History Says This Simple Investing",
+      "summary": "There is such a thing as “set it and forget it” in the investing world. You just need to choose the right investment vehicle.",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-15-mth-032814171.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 03:28:14 +0000"
-    },
-    {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge",
-      "summary": "U.S. stock markets closed another volatile session on Tuesday as technology stocks sold off amid declines in NVDA and ANT shares after a massive rally the day before.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 03:20:10 +0000"
+      "link": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 11:13:02 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "80.72",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "81.49",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "87.49",
-          "change": "-0.01%",
+          "value": "88.16",
+          "change": "-0.11%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3546.60",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "3542.20",
+          "change": "+0.03%",
+          "direction": "up"
         },
         {
           "name": "Copper",
-          "value": "5.46",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "5.40",
+          "change": "+0.01%",
+          "direction": "up"
         }
       ],
       "trend": [
-        80.83999633789062,
-        80.7699966430664,
-        80.73999786376953,
-        80.73999786376953,
-        80.73999786376953,
-        80.75,
-        80.77999877929688,
-        80.76000213623047,
-        80.7699966430664,
-        80.7300033569336,
-        80.72000122070312
+        81.41000366210938,
+        81.52999877929688,
+        81.51000213623047,
+        81.69999694824219,
+        81.61000061035156,
+        81.61000061035156,
+        81.66000366210938,
+        81.61000061035156,
+        81.62000274658203,
+        81.45999908447266,
+        81.48999786376953
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-25 12:56 KST"
+      "status": "강세",
+      "freshness": "2026-11-25 20:39 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "4742.68",
-          "change": "-0.03%",
+          "value": "4701.90",
+          "change": "-0.04%",
           "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6003.93",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "5987.97",
+          "change": "+0.08%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.98",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "104.04",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDKRW",
-          "value": "1343.51",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "1343.00",
+          "change": "-0.12%",
+          "direction": "down"
         },
         {
           "name": "USDJPY",
-          "value": "159.27",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "159.36",
+          "change": "+0.01%",
+          "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6700",
-          "change": "-0.00%",
-          "direction": "down"
+          "value": "6.6638",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        1343.0999755859375,
-        1343.010009765625,
-        1342.989990234375,
-        1343.5799560546875,
-        1343.8599853515625,
-        1343.81005859375,
-        1344.0400390625,
-        1343.1800537109375,
-        1343.1800537109375,
-        1343.280029296875,
-        1343.510009765625
+        1341.800048828125,
+        1342.5,
+        1342.300048828125,
+        1343.0,
+        1342.0,
+        1342.4000244140625,
+        1343.199951171875,
+        1343.5999755859375,
+        1343.300048828125,
+        1344.5999755859375,
+        1343.0
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "완화",
-      "freshness": "2026-11-25 13:06 KST"
+      "status": "중립",
+      "freshness": "2026-11-25 19:06 KST"
     }
   ],
   "currentAction": {
