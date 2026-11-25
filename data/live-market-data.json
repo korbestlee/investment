@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "collectedAt": "2026-11-25T11:49:10Z",
+  "date": "2026-11-26",
+  "collectedAt": "2026-11-25T17:33:51Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,97 +34,97 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "+0.04%",
+      "value": "-0.01%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
     {
       "label": "미 10년물",
-      "value": "-0.08%",
+      "value": "+0.00%",
       "signal": "rates",
       "note": "장기금리 변화가 밸류에이션 부담을 결정합니다."
     },
     {
       "label": "DXY",
-      "value": "+0.00%",
+      "value": "+0.01%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "+0.04%",
+      "value": "-0.04%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "+0.01%",
+      "value": "-0.17%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow Jones Futures Fall, Techs",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
-      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
-    },
-    {
-      "title": "The S&P 500 Entered Correction",
+      "title": "Cytek Biosciences (CTKB) Stock Is",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "History offers us interesting insight.",
-      "link": "https://www.fool.com/investing/2026/11/25/the-s-and-p-500-entered-correction-territory-here-s-what-history-says-happens-next/?.tsrc=rss"
+      "summary": "On Wednesday, Nov. 25, the shares fell 8.1% without company-specific news during a broad market selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cytek-biosciences-ctkb-stock-down-171517157.html?.tsrc=rss"
     },
     {
-      "title": "AI Anxiety Rules Wall Street",
+      "title": "The Nasdaq Is Approaching Bear",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Investors continued to sell stocks leading into the Thanksgiving holiday.",
+      "link": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/?.tsrc=rss"
+    },
+    {
+      "title": "The Tariff Year in Review",
       "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Wall Street futures pointed lower pre-bell Wednesday, as traders balked again at rich valuations chi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-anxiety-rules-wall-street-112810095.html?.tsrc=rss"
+      "summary": "Current tariffs may have cost Americans over $1,700 between 2025 and 2026. See what that estimate means and which prices changed.",
+      "link": "https://moneylion.com/trending/money/tariff-year-review-how-much-americans-pay?.tsrc=rss"
     },
     {
-      "title": "History Says This Simple Investing",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "There is such a thing as “set it and forget it” in the investing world. You just need to choose the right investment vehicle.",
-      "link": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/?.tsrc=rss"
+      "title": "Critical Metals (CRML) Stock Is Down",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "summary": "Critical Metals shares fell 16.7% on Wednesday, Nov. 25, as an AI-led market selloff hit stocks, with no company-specific news.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-stock-down-170022558.html?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow Jones Futures Fall, Techs",
-      "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 11:39:39 +0000"
-    },
-    {
-      "title": "The S&P 500 Entered Correction",
-      "summary": "History offers us interesting insight.",
+      "title": "Cytek Biosciences (CTKB) Stock Is",
+      "summary": "On Wednesday, Nov. 25, the shares fell 8.1% without company-specific news during a broad market selloff",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/25/the-s-and-p-500-entered-correction-territory-here-s-what-history-says-happens-next/?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 11:30:02 +0000"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cytek-biosciences-ctkb-stock-down-171517157.html?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 17:15:17 +0000"
     },
     {
-      "title": "AI Anxiety Rules Wall Street",
-      "summary": "Wall Street futures pointed lower pre-bell Wednesday, as traders balked again at rich valuations chi",
+      "title": "The Nasdaq Is Approaching Bear",
+      "summary": "Investors continued to sell stocks leading into the Thanksgiving holiday.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 17:02:48 +0000"
+    },
+    {
+      "title": "The Tariff Year in Review",
+      "summary": "Current tariffs may have cost Americans over $1,700 between 2025 and 2026. See what that estimate means and which prices changed.",
       "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-anxiety-rules-wall-street-112810095.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 11:28:10 +0000"
+      "link": "https://moneylion.com/trending/money/tariff-year-review-how-much-americans-pay?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 17:00:42 +0000"
     },
     {
-      "title": "History Says This Simple Investing",
-      "summary": "There is such a thing as “set it and forget it” in the investing world. You just need to choose the right investment vehicle.",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://www.fool.com/investing/2026/11/25/history-says-this-simple-investing-strategy-could-turn-usd500-a-month-into-a-usd1-million-portfolio-with-almost-no-effort/?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 11:13:02 +0000"
+      "title": "Critical Metals (CRML) Stock Is Down",
+      "summary": "Critical Metals shares fell 16.7% on Wednesday, Nov. 25, as an AI-led market selloff hit stocks, with no company-specific news.",
+      "impact": "지수, 위험선호",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-crml-stock-down-170022558.html?.tsrc=rss",
+      "published": "Wed, 25 Nov 2026 17:00:22 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "81.49",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "83.51",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "Brent",
-          "value": "88.16",
-          "change": "-0.11%",
+          "value": "90.09",
+          "change": "-0.03%",
           "direction": "down"
         },
         {
           "name": "Gold",
-          "value": "3542.20",
-          "change": "+0.03%",
-          "direction": "up"
+          "value": "3526.70",
+          "change": "-0.08%",
+          "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "5.40",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "5.42",
+          "change": "-0.17%",
+          "direction": "down"
         }
       ],
       "trend": [
-        81.41000366210938,
-        81.52999877929688,
-        81.51000213623047,
-        81.69999694824219,
-        81.61000061035156,
-        81.61000061035156,
-        81.66000366210938,
-        81.61000061035156,
-        81.62000274658203,
-        81.45999908447266,
-        81.48999786376953
+        83.5199966430664,
+        83.5,
+        83.55000305175781,
+        83.5199966430664,
+        83.5,
+        83.47000122070312,
+        83.48999786376953,
+        83.5,
+        83.54000091552734,
+        83.54000091552734,
+        83.51000213623047
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-11-25 20:39 KST"
+      "status": "약세",
+      "freshness": "2026-11-26 02:23 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.168%",
+          "value": "4.153%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.712%",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "4.646%",
+          "change": "+0.04%",
+          "direction": "up"
         },
         {
           "name": "UST 10Y",
-          "value": "4.904%",
-          "change": "-0.08%",
-          "direction": "down"
+          "value": "4.840%",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.292%",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.240%",
+          "change": "+0.02%",
+          "direction": "up"
         }
       ],
       "trend": [
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.9079999923706055,
-        4.904000282287598
+        4.829999923706055,
+        4.834000110626221,
+        4.831999778747559,
+        4.831999778747559,
+        4.831999778747559,
+        4.835999965667725,
+        4.835999965667725,
+        4.838000297546387,
+        4.840000152587891,
+        4.840000152587891,
+        4.840000152587891
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
-      "status": "완화",
-      "freshness": "2026-11-25 04:59 KST"
+      "status": "중립",
+      "freshness": "2026-11-26 02:18 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7202.45",
-          "change": "+0.04%",
-          "direction": "up"
+          "value": "7092.45",
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "Nasdaq",
-          "value": "23735.68",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "23135.54",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "KOSPI",
@@ -268,27 +268,27 @@
         },
         {
           "name": "Euro Stoxx",
-          "value": "5987.97",
-          "change": "+0.08%",
-          "direction": "up"
+          "value": "5904.97",
+          "change": "-0.05%",
+          "direction": "down"
         }
       ],
       "trend": [
-        7195.3798828125,
-        7199.56005859375,
-        7204.22998046875,
-        7205.9501953125,
-        7208.39013671875,
-        7198.330078125,
-        7194.2998046875,
-        7198.1201171875,
-        7199.919921875,
-        7199.89013671875,
-        7202.4501953125
+        7086.89990234375,
+        7086.8798828125,
+        7092.2998046875,
+        7087.6298828125,
+        7079.91015625,
+        7087.43017578125,
+        7083.68994140625,
+        7094.240234375,
+        7096.97998046875,
+        7092.83984375,
+        7092.4501953125
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "강세",
-      "freshness": "2026-11-25 05:59 KST"
+      "status": "약세",
+      "freshness": "2026-11-26 02:33 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "104.04",
-          "change": "+0.00%",
-          "direction": "neutral"
-        },
-        {
-          "name": "USDKRW",
-          "value": "1343.00",
-          "change": "-0.12%",
-          "direction": "down"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.36",
+          "value": "103.59",
           "change": "+0.01%",
           "direction": "up"
         },
         {
+          "name": "USDKRW",
+          "value": "1345.79",
+          "change": "+0.05%",
+          "direction": "up"
+        },
+        {
+          "name": "USDJPY",
+          "value": "158.89",
+          "change": "-0.00%",
+          "direction": "down"
+        },
+        {
           "name": "USDCNY",
-          "value": "6.6638",
+          "value": "6.6583",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1341.800048828125,
-        1342.5,
-        1342.300048828125,
-        1343.0,
-        1342.0,
-        1342.4000244140625,
-        1343.199951171875,
-        1343.5999755859375,
-        1343.300048828125,
-        1344.5999755859375,
-        1343.0
+        1345.0799560546875,
+        1345.8800048828125,
+        1345.760009765625,
+        1345.0999755859375,
+        1345.0799560546875,
+        1345.1400146484375,
+        1345.1400146484375,
+        1345.1700439453125,
+        1345.6600341796875,
+        1345.1300048828125,
+        1345.7900390625
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-25 19:06 KST"
+      "status": "강세",
+      "freshness": "2026-11-26 02:33 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
+      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
       "isCurrent": false
     },
     {
