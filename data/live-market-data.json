@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "collectedAt": "2026-11-26T03:30:14Z",
+  "collectedAt": "2026-11-26T11:35:43Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -52,79 +52,79 @@
     },
     {
       "label": "WTI",
-      "value": "+0.02%",
+      "value": "+0.00%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.04%",
+      "value": "+0.00%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "U.S. stock markets closed another volatile session on Wednesday as technology stocks sold off amid declines in Nvidia and Anthropic shares, though both recovered overnight.",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-tech-rebounds-after-selloff-dis-vrtx-de-chtr-in-focus/cNbxeL0R9ZE?.tsrc=rss"
-    },
-    {
-      "title": "Horizon Gold marks 10 years on ASX",
+      "title": "Fed official issues new warning for",
       "impact": "채권, 금리",
       "importance": "high",
-      "summary": "Horizon Gold managing director and CEO Scott Williamson talked with Proactive about the latest high-grade drilling results from the Gum Creek Gold Project, the company's 10-year an",
-      "link": "https://finance.yahoo.com/video/horizon-gold-marks-10-years-015021434.html?.tsrc=rss"
+      "summary": "“It’s going the wrong way.”",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-official-issues-warning-us-113000686.html?.tsrc=rss"
     },
     {
-      "title": "Tech Stocks Stall Into Thanksgiving",
-      "impact": "지수, 위험선호",
+      "title": "Commerzbank Says Treasury Futures",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "Treasury futures remained under pressure in early Thursday trading, while US equity futures moved hi",
+      "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-treasury-futures-softer-112100801.html?.tsrc=rss"
+    },
+    {
+      "title": "The government can reduce your",
+      "impact": "시장 전반",
       "importance": "mid",
-      "summary": "Tech stocks stall into Thanksgiving as Nvidia slips 4% and inflation fears return, leaving AI-linked shares under pressure.",
-      "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss"
+      "summary": "Clawback cruelty is impacting many Social Security beneficiaries. Prepare to safeguard your money now.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-reduce-social-security-without-111500254.html?.tsrc=rss"
     },
     {
-      "title": "If you invested $1,000 in gold,",
+      "title": "Holding GLD For Stock Falls? Gold",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "summary": "The last 12 months delivered an unexpected result for investors.",
-      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-or-silver-last-thanksgiving-heres-what-youd-have-today?.tsrc=rss"
+      "summary": "SPDR Gold Shares (GLD) rose in 6 of the 9 S&P 500 falls of 10% or more since the fund began in November 2004. This fall, gold did not help. GLD lost 14.3% from the S&P 500's Octobe",
+      "link": "https://www.trefis.com/stock/gld/articles/629222/holding-gld-for-stock-falls-gold-missed-this-one/2026-11-26?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Edge",
-      "summary": "U.S. stock markets closed another volatile session on Wednesday as technology stocks sold off amid declines in Nvidia and Anthropic shares, though both recovered overnight.",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-tech-rebounds-after-selloff-dis-vrtx-de-chtr-in-focus/cNbxeL0R9ZE?.tsrc=rss",
-      "published": "Thu, 26 Nov 2026 03:14:36 +0000"
-    },
-    {
-      "title": "Horizon Gold marks 10 years on ASX",
-      "summary": "Horizon Gold managing director and CEO Scott Williamson talked with Proactive about the latest high-grade drilling results from the Gum Creek Gold Project, the company's 10-year an",
+      "title": "Fed official issues new warning for",
+      "summary": "“It’s going the wrong way.”",
       "impact": "채권, 금리",
       "importance": "high",
-      "link": "https://finance.yahoo.com/video/horizon-gold-marks-10-years-015021434.html?.tsrc=rss",
-      "published": "Thu, 26 Nov 2026 01:50:21 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-official-issues-warning-us-113000686.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Tech Stocks Stall Into Thanksgiving",
-      "summary": "Tech stocks stall into Thanksgiving as Nvidia slips 4% and inflation fears return, leaving AI-linked shares under pressure.",
-      "impact": "지수, 위험선호",
+      "title": "Commerzbank Says Treasury Futures",
+      "summary": "Treasury futures remained under pressure in early Thursday trading, while US equity futures moved hi",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-treasury-futures-softer-112100801.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 11:21:00 +0000"
+    },
+    {
+      "title": "The government can reduce your",
+      "summary": "Clawback cruelty is impacting many Social Security beneficiaries. Prepare to safeguard your money now.",
+      "impact": "시장 전반",
       "importance": "mid",
-      "link": "https://beincrypto.com/tech-stocks-stall-thanksgiving-nvidia-rebound/?.tsrc=rss",
-      "published": "Thu, 26 Nov 2026 01:19:53 +0000"
+      "link": "https://finance.yahoo.com/economy/policy/articles/government-reduce-social-security-without-111500254.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 11:15:00 +0000"
     },
     {
-      "title": "If you invested $1,000 in gold,",
-      "summary": "The last 12 months delivered an unexpected result for investors.",
+      "title": "Holding GLD For Stock Falls? Gold",
+      "summary": "SPDR Gold Shares (GLD) rose in 6 of the 9 S&P 500 falls of 10% or more since the fund began in November 2004. This fall, gold did not help. GLD lost 14.3% from the S&P 500's Octobe",
       "impact": "원자재, 인플레 기대",
       "importance": "high",
-      "link": "https://www.thestreet.com/crypto/markets/if-you-invested-1000-in-gold-bitcoin-or-silver-last-thanksgiving-heres-what-youd-have-today?.tsrc=rss",
-      "published": "Thu, 26 Nov 2026 00:15:00 +0000"
+      "link": "https://www.trefis.com/stock/gld/articles/629222/holding-gld-for-stock-falls-gold-missed-this-one/2026-11-26?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 11:02:39 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "84.15",
-          "change": "+0.02%",
-          "direction": "up"
+          "value": "84.42",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "Brent",
-          "value": "90.85",
+          "value": "91.17",
           "change": "+0.02%",
           "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3603.90",
+          "value": "3620.40",
           "change": "-0.01%",
           "direction": "down"
         },
         {
           "name": "Copper",
-          "value": "5.48",
-          "change": "-0.04%",
-          "direction": "down"
+          "value": "5.49",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        84.0999984741211,
-        84.08999633789062,
-        84.0999984741211,
-        84.11000061035156,
-        84.0999984741211,
-        84.06999969482422,
-        84.0999984741211,
-        84.0999984741211,
-        84.12000274658203,
-        84.12999725341797,
-        84.1500015258789
+        84.43000030517578,
+        84.41000366210938,
+        84.44999694824219,
+        84.43000030517578,
+        84.43000030517578,
+        84.37999725341797,
+        84.37999725341797,
+        84.38999938964844,
+        84.43000030517578,
+        84.41999816894531,
+        84.41999816894531
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "강세",
-      "freshness": "2026-11-26 12:20 KST"
+      "status": "중립",
+      "freshness": "2026-11-26 13:58 KST"
     },
     {
       "id": "bonds",
@@ -262,15 +262,15 @@
         },
         {
           "name": "KOSPI",
-          "value": "4730.89",
-          "change": "+0.01%",
-          "direction": "up"
+          "value": "4740.20",
+          "change": "-0.02%",
+          "direction": "down"
         },
         {
           "name": "Euro Stoxx",
-          "value": "5904.97",
-          "change": "-0.05%",
-          "direction": "down"
+          "value": "6011.68",
+          "change": "+0.00%",
+          "direction": "up"
         }
       ],
       "trend": [
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.80",
+          "value": "103.81",
+          "change": "+0.00%",
+          "direction": "up"
+        },
+        {
+          "name": "USDKRW",
+          "value": "1344.39",
+          "change": "-0.01%",
+          "direction": "down"
+        },
+        {
+          "name": "USDJPY",
+          "value": "159.32",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
-          "name": "USDKRW",
-          "value": "1343.98",
-          "change": "+0.02%",
-          "direction": "up"
-        },
-        {
-          "name": "USDJPY",
-          "value": "159.20",
-          "change": "+0.00%",
-          "direction": "up"
-        },
-        {
           "name": "USDCNY",
-          "value": "6.6632",
+          "value": "6.6503",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
+        1343.77001953125,
+        1343.719970703125,
+        1343.72998046875,
+        1344.219970703125,
         1343.5799560546875,
-        1343.800048828125,
-        1343.4200439453125,
-        1343.7900390625,
-        1343.739990234375,
         1343.780029296875,
-        1343.8599853515625,
-        1343.56005859375,
-        1343.800048828125,
-        1343.6800537109375,
-        1343.97998046875
+        1344.1500244140625,
+        1344.47998046875,
+        1343.97998046875,
+        1344.47998046875,
+        1344.3900146484375
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
-      "status": "중립",
-      "freshness": "2026-11-26 12:30 KST"
+      "status": "강세",
+      "freshness": "2026-11-26 20:35 KST"
     }
   ],
   "currentAction": {
