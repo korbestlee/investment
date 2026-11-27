@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "collectedAt": "2026-11-27T03:36:24Z",
+  "collectedAt": "2026-11-27T11:30:09Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -65,66 +65,66 @@
   ],
   "issues": [
     {
-      "title": "Oil set for first weekly gain in",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Investing.com -- Oil prices were mixed on Friday but remained on track for their first weekly gain this month, as renewed attacks on Saudi energy infrastructure and commercial vess",
-      "link": "https://finance.yahoo.com/energy/articles/oil-set-first-weekly-gain-024015834.html?.tsrc=rss"
+      "title": "Renewed Tech Optimism Lifts Wall",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "summary": "Wall Street futures pointed solidly higher pre-bell Friday, as traders returned from a one-day hiatu",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-tech-optimism-lifts-wall-111258453.html?.tsrc=rss"
     },
     {
-      "title": "Stocks Are Plunging Right Now.",
+      "title": "Birchcliff Energy And 2 More",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "Oil prices are back in focus as supply risks in the Middle East keep crude markets tight, even while some analysts still talk about possible gluts. For Canadian oil and gas produce",
+      "link": "https://finance.yahoo.com/energy/articles/birchcliff-energy-2-more-canadian-111032749.html?.tsrc=rss"
+    },
+    {
+      "title": "Gold Price Today",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "As of November 27, 2026, the price of gold is $3,679.24 per ounce. See updated daily gold price, historical gold price charts, percentage changes and gold trends at USA TODAY Money",
+      "link": "https://www.usatoday.com/story/money/investing/2026/11/27/gold-price-on-november-27-2026/92976957007/?.tsrc=rss"
+    },
+    {
+      "title": "The Stock Market Is Flashing a",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Stocks briefly swung into correction territory in November; here's why staying invested may be a smart choice.",
-      "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss"
-    },
-    {
-      "title": "Gold steadies near 15-month low as",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "summary": "Investing.com -- Gold prices rebounded on Thursday after falling more than 3% in the previous session to their lowest close since September 2025, as bargain hunters stepped in desp",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-15-month-015752388.html?.tsrc=rss"
-    },
-    {
-      "title": "Standard Chartered",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "summary": "Brent rebounded to nearly $96 per barrel, as renewed Houthi attacks on Saudi energy infrastructure revived supply concerns despite forecasts of a global oil surplus.",
-      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-needs-shock-010000737.html?.tsrc=rss"
+      "summary": "The stock market is teetering. And these stocks could have the most to lose.",
+      "link": "https://www.fool.com/investing/2026/11/27/the-stock-market-is-flashing-a-signal-seen-only-6-times-in-156-years-history-suggests-these-stocks-could-take-the-biggest-hit/?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Oil set for first weekly gain in",
-      "summary": "Investing.com -- Oil prices were mixed on Friday but remained on track for their first weekly gain this month, as renewed attacks on Saudi energy infrastructure and commercial vess",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/oil-set-first-weekly-gain-024015834.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 02:40:15 +0000"
+      "title": "Renewed Tech Optimism Lifts Wall",
+      "summary": "Wall Street futures pointed solidly higher pre-bell Friday, as traders returned from a one-day hiatu",
+      "impact": "시장 전반",
+      "importance": "mid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-tech-optimism-lifts-wall-111258453.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 11:12:58 +0000"
     },
     {
-      "title": "Stocks Are Plunging Right Now.",
-      "summary": "Stocks briefly swung into correction territory in November; here's why staying invested may be a smart choice.",
+      "title": "Birchcliff Energy And 2 More",
+      "summary": "Oil prices are back in focus as supply risks in the Middle East keep crude markets tight, even while some analysts still talk about possible gluts. For Canadian oil and gas produce",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/energy/articles/birchcliff-energy-2-more-canadian-111032749.html?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 11:10:32 +0000"
+    },
+    {
+      "title": "Gold Price Today",
+      "summary": "As of November 27, 2026, the price of gold is $3,679.24 per ounce. See updated daily gold price, historical gold price charts, percentage changes and gold trends at USA TODAY Money",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.usatoday.com/story/money/investing/2026/11/27/gold-price-on-november-27-2026/92976957007/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 11:09:26 +0000"
+    },
+    {
+      "title": "The Stock Market Is Flashing a",
+      "summary": "The stock market is teetering. And these stocks could have the most to lose.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 02:20:00 +0000"
-    },
-    {
-      "title": "Gold steadies near 15-month low as",
-      "summary": "Investing.com -- Gold prices rebounded on Thursday after falling more than 3% in the previous session to their lowest close since September 2025, as bargain hunters stepped in desp",
-      "impact": "채권, 금리",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-15-month-015752388.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 01:57:52 +0000"
-    },
-    {
-      "title": "Standard Chartered",
-      "summary": "Brent rebounded to nearly $96 per barrel, as renewed Houthi attacks on Saudi energy infrastructure revived supply concerns despite forecasts of a global oil surplus.",
-      "impact": "원자재, 인플레 기대",
-      "importance": "high",
-      "link": "https://finance.yahoo.com/energy/articles/standard-chartered-oil-needs-shock-010000737.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 01:00:00 +0000"
+      "link": "https://www.fool.com/investing/2026/11/27/the-stock-market-is-flashing-a-signal-seen-only-6-times-in-156-years-history-suggests-these-stocks-could-take-the-biggest-hit/?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 11:05:02 +0000"
     }
   ],
   "criteria": [
@@ -167,7 +167,7 @@
         {
           "name": "Gold",
           "value": "3620.40",
-          "change": "-0.01%",
+          "change": "-0.02%",
           "direction": "down"
         },
         {
@@ -262,14 +262,14 @@
         },
         {
           "name": "KOSPI",
-          "value": "4855.10",
-          "change": "+0.01%",
+          "value": "4910.15",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Euro Stoxx",
-          "value": "6020.47",
-          "change": "-0.01%",
+          "value": "6093.95",
+          "change": "-0.00%",
           "direction": "down"
         }
       ],
@@ -304,39 +304,39 @@
         },
         {
           "name": "USDKRW",
-          "value": "1339.66",
-          "change": "+0.00%",
+          "value": "1333.80",
+          "change": "+0.03%",
           "direction": "up"
         },
         {
           "name": "USDJPY",
-          "value": "159.21",
+          "value": "159.47",
           "change": "+0.00%",
           "direction": "up"
         },
         {
           "name": "USDCNY",
-          "value": "6.6639",
+          "value": "6.6435",
           "change": "+0.00%",
           "direction": "neutral"
         }
       ],
       "trend": [
-        1341.1800537109375,
-        1340.47998046875,
-        1340.6600341796875,
-        1340.7099609375,
-        1340.31005859375,
-        1340.5799560546875,
-        1340.47998046875,
-        1340.5799560546875,
-        1340.280029296875,
-        1339.5999755859375,
-        1339.6600341796875
+        1333.3299560546875,
+        1333.4100341796875,
+        1333.6800537109375,
+        1333.8699951171875,
+        1333.8800048828125,
+        1333.3900146484375,
+        1333.050048828125,
+        1333.050048828125,
+        1333.5899658203125,
+        1333.3499755859375,
+        1333.800048828125
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "강세",
-      "freshness": "2026-11-27 12:36 KST"
+      "freshness": "2026-11-27 20:30 KST"
     }
   ],
   "currentAction": {
