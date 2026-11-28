@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "collectedAt": "2026-11-27T16:56:44Z",
+  "collectedAt": "2026-11-28T03:15:02Z",
   "source": {
     "provider": "pykrx + yfinance",
     "mode": "live snapshot",
@@ -34,7 +34,7 @@
   "regimeFactors": [
     {
       "label": "S&P 500",
-      "value": "-0.01%",
+      "value": "+0.25%",
       "signal": "risk",
       "note": "주식 방향으로 위험선호 강도를 확인합니다."
     },
@@ -46,85 +46,85 @@
     },
     {
       "label": "DXY",
-      "value": "-0.01%",
+      "value": "-0.00%",
       "signal": "dollar",
       "note": "달러 강세는 신흥국과 위험자산에 역풍이 됩니다."
     },
     {
       "label": "WTI",
-      "value": "-0.06%",
+      "value": "+0.07%",
       "signal": "inflation",
       "note": "유가 상승은 인플레 재가열 경계로 이어집니다."
     },
     {
       "label": "Copper",
-      "value": "-0.11%",
+      "value": "+0.07%",
       "signal": "growth",
       "note": "산업금속 약세는 성장 둔화 우려를 반영합니다."
     }
   ],
   "issues": [
     {
-      "title": "Dual AI Growth Catalysts Position",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dual-ai-growth-catalysts-position-164930131.html?.tsrc=rss"
+      "title": "The Federal Reserve sends a",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "summary": "The Fed is sending a message to stock investors, and Wall Street is starting to listen.",
+      "link": "https://www.thestreet.com/investing/stocks/the-federal-reserve-sends-a-troubling-signal-to-sp-500-investors?.tsrc=rss"
     },
     {
-      "title": "10 Cheap Stocks With Explosive",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "US stocks fell back on November 25 after a sharp rally earlier in the week. The Dow Jones Industrial Average rose 0.3%, while the S&P 500 fell 0.2% and the Nasdaq Composite fell ab",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-cheap-stocks-explosive-growth-164412420.html?.tsrc=rss"
+      "title": "i-80 Gold (TSX",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "i-80 Gold (TSX:IAU) has reached a key operational milestone by mining its first gold and beginning production mining at the Archimedes underground project on the Ruby Hill property",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/80-gold-tsx-iau-moved-001252144.html?.tsrc=rss"
     },
     {
-      "title": "Baron Fund Reestablishes Position in",
+      "title": "S&P 500, Nasdaq End Best Week In",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baron-fund-reestablishes-position-servicenow-164101736.html?.tsrc=rss"
+      "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss"
     },
     {
-      "title": "Bloom Energy Corporation (BE) is",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-positioned-margin-163255806.html?.tsrc=rss"
+      "title": "Crude Prices Retreat on Possible",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early a",
+      "link": "https://www.barchart.com/story/news/9036917/crude-prices-retreat-on-possible-increase-in-opec-crude-output?.tsrc=rss"
     }
   ],
   "newsItems": [
     {
-      "title": "Dual AI Growth Catalysts Position",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dual-ai-growth-catalysts-position-164930131.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 16:49:30 +0000"
+      "title": "The Federal Reserve sends a",
+      "summary": "The Fed is sending a message to stock investors, and Wall Street is starting to listen.",
+      "impact": "채권, 금리",
+      "importance": "high",
+      "link": "https://www.thestreet.com/investing/stocks/the-federal-reserve-sends-a-troubling-signal-to-sp-500-investors?.tsrc=rss",
+      "published": "Sat, 28 Nov 2026 02:37:00 +0000"
     },
     {
-      "title": "10 Cheap Stocks With Explosive",
-      "summary": "US stocks fell back on November 25 after a sharp rally earlier in the week. The Dow Jones Industrial Average rose 0.3%, while the S&P 500 fell 0.2% and the Nasdaq Composite fell ab",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-cheap-stocks-explosive-growth-164412420.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 16:44:12 +0000"
+      "title": "i-80 Gold (TSX",
+      "summary": "i-80 Gold (TSX:IAU) has reached a key operational milestone by mining its first gold and beginning production mining at the Archimedes underground project on the Ruby Hill property",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/80-gold-tsx-iau-moved-001252144.html?.tsrc=rss",
+      "published": "Sat, 28 Nov 2026 00:12:52 +0000"
     },
     {
-      "title": "Baron Fund Reestablishes Position in",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
+      "title": "S&P 500, Nasdaq End Best Week In",
+      "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
       "impact": "지수, 위험선호",
       "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/baron-fund-reestablishes-position-servicenow-164101736.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 16:41:01 +0000"
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 21:29:46 +0000"
     },
     {
-      "title": "Bloom Energy Corporation (BE) is",
-      "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its “Baron Opportunity Fund”. The letter can be downloaded here. The fund rose ",
-      "impact": "지수, 위험선호",
-      "importance": "mid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-positioned-margin-163255806.html?.tsrc=rss",
-      "published": "Fri, 27 Nov 2026 16:32:55 +0000"
+      "title": "Crude Prices Retreat on Possible",
+      "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early a",
+      "impact": "원자재, 인플레 기대",
+      "importance": "high",
+      "link": "https://www.barchart.com/story/news/9036917/crude-prices-retreat-on-possible-increase-in-opec-crude-output?.tsrc=rss",
+      "published": "Fri, 27 Nov 2026 20:11:14 +0000"
     }
   ],
   "criteria": [
@@ -154,45 +154,45 @@
       "items": [
         {
           "name": "WTI",
-          "value": "82.89",
-          "change": "-0.06%",
-          "direction": "down"
+          "value": "82.82",
+          "change": "+0.07%",
+          "direction": "up"
         },
         {
           "name": "Brent",
-          "value": "89.95",
-          "change": "-0.09%",
-          "direction": "down"
+          "value": "90.10",
+          "change": "+0.08%",
+          "direction": "up"
         },
         {
           "name": "Gold",
-          "value": "3658.80",
-          "change": "+0.00%",
+          "value": "3674.60",
+          "change": "+0.04%",
           "direction": "up"
         },
         {
           "name": "Copper",
           "value": "5.60",
-          "change": "-0.11%",
-          "direction": "down"
+          "change": "+0.07%",
+          "direction": "up"
         }
       ],
       "trend": [
-        83.0199966430664,
-        82.81999969482422,
-        82.94999694824219,
-        82.93000030517578,
-        83.0,
-        82.94999694824219,
-        82.88999938964844,
-        82.8499984741211,
-        82.88999938964844,
-        82.94000244140625,
-        82.88999938964844
+        82.5999984741211,
+        82.6500015258789,
+        82.68000030517578,
+        82.75,
+        82.76000213623047,
+        82.77999877929688,
+        82.73999786376953,
+        82.73999786376953,
+        82.68000030517578,
+        82.76000213623047,
+        82.81999969482422
       ],
       "conclusion": "에너지와 산업금속의 방향이 인플레이션과 성장 신호를 보여줍니다.",
-      "status": "약세",
-      "freshness": "2026-11-28 01:46 KST"
+      "status": "강세",
+      "freshness": "2026-11-28 02:59 KST"
     },
     {
       "id": "bonds",
@@ -202,45 +202,45 @@
       "items": [
         {
           "name": "UST 13W",
-          "value": "4.155%",
+          "value": "4.150%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 5Y",
-          "value": "4.737%",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "4.744%",
+          "change": "-0.04%",
+          "direction": "down"
         },
         {
           "name": "UST 10Y",
-          "value": "4.932%",
+          "value": "4.936%",
           "change": "+0.00%",
           "direction": "neutral"
         },
         {
           "name": "UST 30Y",
-          "value": "5.331%",
-          "change": "-0.02%",
-          "direction": "down"
+          "value": "5.325%",
+          "change": "+0.00%",
+          "direction": "neutral"
         }
       ],
       "trend": [
-        4.927999973297119,
-        4.927999973297119,
-        4.928999900817871,
-        4.932000160217285,
+        4.935999870300293,
+        4.935999870300293,
+        4.935999870300293,
         4.935999870300293,
         4.934000015258789,
-        4.932000160217285,
-        4.932000160217285,
-        4.932000160217285,
-        4.932000160217285,
-        4.932000160217285
+        4.934000015258789,
+        4.934000015258789,
+        4.934000015258789,
+        4.935999870300293,
+        4.935999870300293,
+        4.935999870300293
       ],
       "conclusion": "금리 상승과 커브 변화는 성장주와 달러를 동시에 흔듭니다.",
       "status": "중립",
-      "freshness": "2026-11-28 01:41 KST"
+      "freshness": "2026-11-28 03:59 KST"
     },
     {
       "id": "indices",
@@ -250,15 +250,15 @@
       "items": [
         {
           "name": "S&P 500",
-          "value": "7287.41",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "7304.10",
+          "change": "+0.25%",
+          "direction": "up"
         },
         {
           "name": "Nasdaq",
-          "value": "24041.98",
-          "change": "-0.03%",
-          "direction": "down"
+          "value": "24149.09",
+          "change": "+0.33%",
+          "direction": "up"
         },
         {
           "name": "KOSPI",
@@ -274,21 +274,21 @@
         }
       ],
       "trend": [
-        7280.97021484375,
-        7280.66015625,
-        7285.990234375,
-        7285.72021484375,
-        7288.89013671875,
-        7291.81982421875,
-        7289.330078125,
-        7293.85009765625,
-        7292.009765625,
-        7288.4501953125,
-        7287.41015625
+        7271.75,
+        7271.5,
+        7270.5498046875,
+        7274.60009765625,
+        7276.93994140625,
+        7281.64990234375,
+        7281.22021484375,
+        7284.330078125,
+        7286.43994140625,
+        7285.60986328125,
+        7304.10009765625
       ],
       "conclusion": "위험선호와 방어 회전의 강도를 확인합니다.",
-      "status": "약세",
-      "freshness": "2026-11-28 01:56 KST"
+      "status": "강세",
+      "freshness": "2026-11-28 02:59 KST"
     },
     {
       "id": "fx",
@@ -298,45 +298,45 @@
       "items": [
         {
           "name": "DXY",
-          "value": "103.99",
-          "change": "-0.01%",
+          "value": "104.01",
+          "change": "-0.00%",
           "direction": "down"
         },
         {
           "name": "USDKRW",
-          "value": "1332.71",
-          "change": "-0.01%",
-          "direction": "down"
+          "value": "1333.00",
+          "change": "+0.00%",
+          "direction": "neutral"
         },
         {
           "name": "USDJPY",
           "value": "159.51",
-          "change": "+0.01%",
-          "direction": "up"
+          "change": "-0.01%",
+          "direction": "down"
         },
         {
           "name": "USDCNY",
-          "value": "6.6441",
-          "change": "+0.00%",
-          "direction": "neutral"
+          "value": "6.6537",
+          "change": "+0.13%",
+          "direction": "up"
         }
       ],
       "trend": [
-        1333.989990234375,
-        1333.510009765625,
-        1333.780029296875,
-        1333.56005859375,
-        1333.8499755859375,
+        1333.489990234375,
+        1333.0400390625,
         1333.739990234375,
-        1333.8800048828125,
-        1332.719970703125,
-        1332.5799560546875,
-        1332.8800048828125,
-        1332.7099609375
+        1333.4300537109375,
+        1334.2099609375,
+        1333.56005859375,
+        1333.5,
+        1333.1700439453125,
+        1333.2900390625,
+        1333.0,
+        1333.0
       ],
       "conclusion": "달러 강세가 지속되면 원화와 엔화 약세 압력이 커집니다.",
       "status": "완화",
-      "freshness": "2026-11-28 01:56 KST"
+      "freshness": "2026-11-28 07:09 KST"
     }
   ],
   "currentAction": {
@@ -361,7 +361,7 @@
     {
       "state": "Risk-off",
       "rule": "주식 비중을 줄이고 단기채와 달러 자산을 우선 점검합니다.",
-      "detail": "주식 비중 축소와 함께 달러, 단기채, 손절 기준 재확인이 우선입니다.",
+      "detail": "신규 추격매수보다 현금 비중과 방어적 노출이 우선입니다.",
       "isCurrent": false
     },
     {
